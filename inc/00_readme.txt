@@ -1,3 +1,12 @@
+
+This catalogue contains the file suoma-saami-sanikirjeversio-12012015, in two versions:
+suoma-saami-sanikirjeversio-12012015.xlsx (the original)
+suoma-saami-sanikirjeversio-12012015.csv  (saved via libreoffice, TAB delimiter)
+
+
+
+This is the letter that followed the file:
+
 12.01.15.
 
 Tiervâ!

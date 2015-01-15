@@ -3,6 +3,20 @@ This catalogue contains the file suoma-saami-sanikirjeversio-12012015, in two ve
 suoma-saami-sanikirjeversio-12012015.xlsx (the original)
 suoma-saami-sanikirjeversio-12012015.csv  (saved via libreoffice, TAB delimiter)
 
+The fields are:
+
+     1	   SUOMEN_HAKSUOMEN_YHD SUOMEN_HA2 SUOMEN_J_L
+     2	   SAAMEN_HAKSAAMEN_YHD  SAAMEN_TAI  SAAMEN_RIN  ESIMERKIT JA MUITA HAKUSANAAN LIITTYVIÄ SANOJA  
+     3	   SAAMEN_HAK
+     4	   SUOMEN_HAK
+     5	   SAAMEN_RIN
+     6	   ESIMERKIT JA MUITA HAKUSANAAN LIITTYVIÄ SANOJA
+     7	   SAAMEN_YHD
+     8	   SUOMEN_YHD
+     9	   SAAMEN_TAI
+    10	   SUOMEN_HA2
+    11	   SUOMEN_J_L
+
 
 
 This is the letter that followed the file:

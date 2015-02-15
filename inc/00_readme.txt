@@ -5,19 +5,37 @@ suoma-saami-sanikirjeversio-12012015.csv  (saved via libreoffice, TAB delimiter)
 
 The fields are:
 
-     1	   SUOMEN_HAKSUOMEN_YHD SUOMEN_HA2 SUOMEN_J_L
-     2	   SAAMEN_HAKSAAMEN_YHD  SAAMEN_TAI  SAAMEN_RIN  ESIMERKIT JA MUITA HAKUSANAAN LIITTYVIÄ SANOJA  
-     3	   SAAMEN_HAK
-     4	   SUOMEN_HAK
-     5	   SAAMEN_RIN
-     6	   ESIMERKIT JA MUITA HAKUSANAAN LIITTYVIÄ SANOJA
-     7	   SAAMEN_YHD
-     8	   SUOMEN_YHD
-     9	   SAAMEN_TAI
-    10	   SUOMEN_HA2
-    11	   SUOMEN_J_L
+     1	SUOMEN_HAKSUOMEN_YHD SUOMEN_HA2 SUOMEN_J_L
+     2	SUOMEN_POS
+     3	SAAMEN_HAKSAAMEN_YHD  SAAMEN_TAI  SAAMEN_RIN  ESIMERKIT JA MUITA HAKUSANAAN LIITTYVIÄ SANOJA  
+     4	SAAMEN_HAK
+     5	SUOMEN_HAK
+     6	SAAMEN_RIN
+     7	ESIMERKIT JA MUITA HAKUSANAAN LIITTYVIÄ SANOJA
+     8	SAAMEN_YHD
+     9	SUOMEN_YHD
+    10	SAAMEN_TAI
+    11	SUOMEN_HA2
+    12	SUOMEN_J_L
+
+After added UOMEN_POS, the distribution of POS is:
+
+11418 N
+3620 V
+1252 A
+ 863 X
+ 299 Adv
+  71 Pcle
+  46 Num
+  43 Pron
+  17 Po
+  17 Interj
+  13 CC
+  10 CS
+   1 SUOMEN_POS
 
 
+Capital letter marks DOT BELOW (half-length), and should be marked as R = r7, V = v7, etc.
 
 This is the letter that followed the file:
 

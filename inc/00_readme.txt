@@ -6,7 +6,7 @@ suoma-saami-sanikirjeversio-12012015.csv  (saved via libreoffice, TAB delimiter)
 The fields are:
 
      1	SUOMEN_HAKSUOMEN_YHD SUOMEN_HA2 SUOMEN_J_L
-     2	SUOMEN_POS
+     2	SUOMEN_POS fin_pos
      3	SAAMEN_HAKSAAMEN_YHD  SAAMEN_TAI  SAAMEN_RIN  ESIMERKIT JA MUITA HAKUSANAAN LIITTYVIÄ SANOJA  
      4	SAAMEN_HAK
      5	SUOMEN_HAK

@@ -1,7 +1,9 @@
 
-This catalogue contains the file suoma-saami-sanikirjeversio-12012015, in two versions:
+
+This catalogue contains the file suoma-saami-sanikirjeversio-12012015, in three versions:
 suoma-saami-sanikirjeversio-12012015.xlsx (the original)
 suoma-saami-sanikirjeversio-12012015.csv  (saved via libreoffice, TAB delimiter)
+suoma-saami-sanikirjeversio-12012015.xml  (converted via the script csv2xml_awk.sh)
 
 The fields are:
 
@@ -68,6 +70,13 @@ After added SUOMEN_POS to the smn words, the distribution of POS is:
 
 
 Capital letter marks DOT BELOW (half-length), and should be marked as R = r7, V = v7, etc. in the lower side of lexc
+
+================================================
+Quick check of the lemma fields (quite a lot to do, especially on the smn lemma):
+grep '<p id="1">' suoma-saami-sanikirjeversio-12012015.xml |sort|uniq -c|sort -nr|l
+grep '<p id="3">' suoma-saami-sanikirjeversio-12012015.xml |sort|uniq -c|sort -nr|l
+================================================
+
 
 This is the letter that followed the file:
 

@@ -10,15 +10,15 @@ print STDOUT "<r>\n";
 while (<>) 
 {
 	chomp ;
-	my ($A, $B, $C, $D, $E, $F, $G, $H, $I, $J, $K) = split /\t/ ;
+	my ($POS, $A, $B, $C, $D, $E, $F, $G, $H, $I, $J, $K) = split /\t/ ;
 	print STDOUT "   <e src=\"MO\">\n";
 	print STDOUT "      <lg>\n";
-	print STDOUT "         <l pos=\"X\">$D$H</l>\n";
+	print STDOUT "         <l pos=\"$POS\">$D$H</l>\n";
 	print STDOUT "      </lg>\n";
 	print STDOUT "      <mg>\n";
 	print STDOUT "         <tg>\n";
-	print STDOUT "            <t pos=\"X\">$C$G</t>\n";
-	print STDOUT "            <t pos=\"X\">$E</t>\n";
+	print STDOUT "            <t pos=\"$POS\">$C$G</t>\n";
+	print STDOUT "            <t pos=\"$POS\">$E</t>\n";
 	print STDOUT "            <xg>\n";
 	print STDOUT "              <x>$F</x>\n";
 	print STDOUT "              <xt></xt>\n";

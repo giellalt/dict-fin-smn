@@ -1,3 +1,25 @@
+This folder contains the finsmn dictionary sent by
+Taarna Valtonen in early june 2015. See below for the
+accompanying letter. With it there also came a smnfin file
+(see smnfin/inc/2015).
+
+The columns are the following
+
+     1	    SUOMI
+     2	    SÄMIKIELÂ UUCÂMSÄÄNI
+     3	    SAAMEN_HAK
+     4	    SUOMEN_HAK
+     5	    SAAMEN_RIN
+     6	    ESIMERKKEJÄ JA LIITTYVIÄ ILMAUKSIA
+     7	    SAAMEN_YHD
+     8	    SUOMEN_YHD
+     9	    SAAMEN_TAI
+    10	    SUOMEN_HA2
+    11	    SUOMEN_J_L
+
+
+
+
 Delivered with this letter:
 
 Pyeri iiđeed/iijâ!
@@ -13,6 +35,9 @@ kevtteeh uážuh kommentistiđ tyeji já iävtuttiđ uđđâ saanijd jna.
 Tääl aaigum uáđđiđ muáddi tijme ko piäiváš-uv lii jo pajânâm.
 
 Tierv. Taarna
+
+
+
 
 Legend:
 A SUOMI	=> FIN lemma
@@ -40,4 +65,5 @@ B: =CONCATENATE(CG," ",I," ",E," ",F," "," ")
     </tg>
   </mg>
 </e>
+
 

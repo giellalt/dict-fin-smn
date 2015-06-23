@@ -67,10 +67,10 @@ B: =CONCATENATE(CG," ",I," ",E," ",F," "," ")
 </e>
 
 
-Issues:
+Issues with the target language:
 1. Which are (quasi-)synonyms and should land in the same mg and which not?
 2. Separators: , ;
-3. Other characters: ~ - ( ) #
+3. Other characters: . ~ - ( ) # =
 4. COMMA abmiguity:
 Ex.
    (ehyt, jtak pitävä) čavos čappoos # čapo; (esim. sauma) lävvid~läävviđ # läVidis; (tiivis aine) tooškâs toškâs # toškâ, čaavdes;

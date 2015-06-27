@@ -28,7 +28,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">orniđpuustavij mild</t>
+            <t pos="">orniđ puustavij mild</t>
          </tg>
       </mg>
    </e>
@@ -427,7 +427,7 @@
    </e>
    <e id="42">
       <lg>
-         <l pos="">aarto(arttukatos)</l>
+         <l pos="">aarto (arttukatos)</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -839,7 +839,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">áVáduđ</t>
-            <t pos="">(m. kauhtua) paštuđ paštuum páštoo; (halkeillen esim. huulet) turmuđ turmojeh</t>
+            <t pos=""> (m. kauhtua) paštuđ paštuum páštoo; (halkeillen esim. huulet) turmuđ turmojeh </t>
          </tg>
       </mg>
    </e>
@@ -850,7 +850,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">áVádum;</t>
-            <t pos="">(m. kauhtunut) paštum; (halkeillen esim. huulet) turmum</t>
+            <t pos=""> (m. kauhtunut) paštum; (halkeillen esim. huulet) turmum </t>
          </tg>
       </mg>
    </e>
@@ -1248,7 +1248,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">kääržiht,</t>
+            <t pos="">kääržiht, </t>
             <t pos="">naggâ, naggâs</t>
          </tg>
       </mg>
@@ -1512,7 +1512,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">uáž'žuđáigá,</t>
+            <t pos="">uáž'žuđ áigá,</t>
             <t pos="">á'štášiđ ááštáš, selgâniđ, se'lgâttiđ seelgât; (erit. jtk) nakkaniđ;</t>
          </tg>
       </mg>
@@ -1717,7 +1717,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">vie'hâlágán,</t>
+            <t pos="">vie'hâlágán, </t>
             <t pos="">uá'Lilágán, melgâdlágán</t>
          </tg>
       </mg>
@@ -2321,7 +2321,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">ka'šnettiđ</t>
-            <t pos="">ka'šnestuđ ka'šnestuum ka'šnestuVá</t>
+            <t pos=""> ka'šnestuđ ka'šnestuum ka'šnestuVá</t>
          </tg>
       </mg>
    </e>
@@ -3316,7 +3316,8 @@
    </e>
    <e id="318">
       <lg>
-         <l pos="">ala-, ali-</l>
+         <l pos="">ala-</l>
+         <l_syn pos="">ali-</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -3545,7 +3546,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">vuálás~vuálus ~ vuá'los</t>
+            <t pos="">vuálás~vuálus ~ vuá'los </t>
          </tg>
       </mg>
    </e>
@@ -3717,16 +3718,6 @@
          </tg>
       </mg>
    </e>
-   <e id="357">
-      <lg>
-         <l pos="">alempaa, alempana</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smn">
-            <t pos="">vyeliláá</t>
-         </tg>
-      </mg>
-   </e>
    <e id="358">
       <lg>
          <l pos="">alempi</l>
@@ -3771,7 +3762,8 @@
    </e>
    <e id="362">
       <lg>
-         <l pos="">alentua, aleta</l>
+         <l pos="">alentua</l>
+         <l_syn pos="">aleta</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -3791,7 +3783,17 @@
    </e>
    <e id="364">
       <lg>
-         <l pos="">alhaalla, alhaalta</l>
+         <l pos="">alhaalla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">vyellin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="364">
+      <lg>
+         <l pos="">alhaalta</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -3893,7 +3895,8 @@
    </e>
    <e id="374">
       <lg>
-         <l pos="">alimmainen, alin</l>
+         <l pos="">alimmainen</l>
+         <l_syn pos="">alin</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -3903,7 +3906,8 @@
    </e>
    <e id="375">
       <lg>
-         <l pos="">alimmaisena, alimpana</l>
+         <l pos="">alimmaisena</l>
+         <l_syn pos="">alimpana</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -4029,7 +4033,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">moonnâđvye'le,</t>
+            <t pos="">moonnâđ vye'le,</t>
             <t pos="">čaaŋŋâđ vye'le</t>
          </tg>
       </mg>
@@ -4479,7 +4483,17 @@
    </e>
    <e id="431">
       <lg>
-         <l pos="">alla, alta</l>
+         <l pos="">alla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">vyel'ni~vyel'n;</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="431">
+      <lg>
+         <l pos="">alta</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -4514,7 +4528,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(mus.)</re>
-            <t pos="">vie'hâjotelávt</t>
+            <t pos="">vie'hâ jotelávt</t>
          </tg>
       </mg>
    </e>
@@ -4691,7 +4705,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">alppâriijkâ,</t>
-            <t pos="">alppârijkkâ -riijhâ</t>
+            <t pos="">alppârijkkâ  -riijhâ</t>
          </tg>
       </mg>
    </e>
@@ -4832,7 +4846,7 @@
    </e>
    <e id="465">
       <lg>
-         <l pos="">alunperin</l>
+         <l pos="">alun perin</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -4885,7 +4899,7 @@
    </e>
    <e id="470">
       <lg>
-         <l pos="">aluslakki, -huppu</l>
+         <l pos="">aluslakki</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -4893,6 +4907,19 @@
          </tg>
       </mg>
    </e>
+
+   <e id="470">
+      <lg>
+         <l pos="">alushuppu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">vye'Likappeer</t>
+         </tg>
+      </mg>
+   </e>
+
+
    <e id="471">
       <lg>
          <l pos="">aluslautanen</l>
@@ -5870,7 +5897,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(konkr.) adeliđ~ addeliđ~ addliđ</t>
-            <t pos="">(abstr., sallia) tipteđ; (jklle niin paljon, että tämä joutuu hankaluuksiin ylitarjonnan vuoksi) iä'náduttiđ iä'nádutám iä'nádut;</t>
+            <t pos="">(abstr., sallia) tipteđ;  (jklle niin paljon, että tämä joutuu hankaluuksiin ylitarjonnan vuoksi) iä'náduttiđ iä'nádutám iä'nádut;</t>
          </tg>
       </mg>
    </e>
@@ -5900,7 +5927,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">addâgâsân~addâgâsaddeelhánnáá</t>
+            <t pos="">addâgâsân~addâgâs addeelhánnáá</t>
          </tg>
       </mg>
    </e>
@@ -5910,7 +5937,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">addâgâsân~addâgâsadelem</t>
+            <t pos="">addâgâsân~addâgâs adelem</t>
          </tg>
       </mg>
    </e>
@@ -6195,7 +6222,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">išedeijee;</t>
+            <t pos="">išedeijee; </t>
             <t pos="">išepargee; (piika) pijgá piijgá; (renki) reŋgâ reeŋgâ</t>
          </tg>
       </mg>
@@ -7132,7 +7159,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">anneeđáárvust</t>
+            <t pos="">anneeđ áárvust</t>
          </tg>
       </mg>
    </e>
@@ -7287,7 +7314,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">ovdâjuurdâ</t>
-            <t pos="">muNejuurdâ</t>
+            <t pos="">muNejuurdâ </t>
          </tg>
       </mg>
    </e>
@@ -7456,7 +7483,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">äššigâs,</t>
-            <t pos="">(asiantoimittaja) iä'Ránâššee; (asioija) ášásteijee; (ostaja) uás'tee</t>
+            <t pos="">(asiantoimittaja) iä'Ránâššee; (asioija) ášásteijee; (ostaja) uás'tee </t>
          </tg>
       </mg>
    </e>
@@ -7711,7 +7738,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">assimilaatio;</t>
-            <t pos="">(sulauttaminen) suddâluttem; (yhtenäistäminen) ohtim; (sopeutuminen, tottuminen) vuá'háduttem</t>
+            <t pos="">(sulauttaminen) suddâluttem;  (yhtenäistäminen) ohtim; (sopeutuminen, tottuminen) vuá'háduttem</t>
          </tg>
       </mg>
    </e>
@@ -8163,7 +8190,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">määlis</t>
-            <t pos="">piäm'mu</t>
+            <t pos="">piäm'mu </t>
          </tg>
       </mg>
    </e>
@@ -8314,7 +8341,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">veeskir</t>
-            <t pos="">aula</t>
+            <t pos=""> aula</t>
          </tg>
       </mg>
    </e>
@@ -8361,7 +8388,7 @@
    </e>
    <e id="803">
       <lg>
-         <l pos="">auringonsappi</l>
+         <l pos="">auringon sappi</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -9073,7 +9100,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">pä'ljisjuo'lgij</t>
+            <t pos="">pä'ljis juo'lgij</t>
          </tg>
       </mg>
    </e>
@@ -9431,7 +9458,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(bruttokansantuote)</re>
-            <t pos="">BAP(bruttoaalmugpye'vtittâs)</t>
+            <t pos="">BAP (bruttoaalmugpye'vtittâs)</t>
          </tg>
       </mg>
    </e>
@@ -9757,7 +9784,7 @@
    </e>
    <e id="938">
       <lg>
-         <l pos="">digisovitin,</l>
+         <l pos="">digisovitin</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -10002,7 +10029,7 @@
    </e>
    <e id="962">
       <lg>
-         <l pos="">edelle, eteen</l>
+         <l pos="">edelle</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -10011,6 +10038,19 @@
          </tg>
       </mg>
    </e>
+   <e id="962">
+      <lg>
+         <l pos="">eteen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">oovdân,</t>
+            <t pos="">ovdiibel</t>
+         </tg>
+      </mg>
+   </e>
+
+
    <e id="963">
       <lg>
          <l pos="">edelleen</l>
@@ -10057,7 +10097,17 @@
    </e>
    <e id="967">
       <lg>
-         <l pos="">edellä, edeltä</l>
+         <l pos="">edellä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">ovdiibeln</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="967">
+      <lg>
+         <l pos="">edeltä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -10102,7 +10152,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">tađeoovdeb</t>
+            <t pos="">tađe oovdeb</t>
          </tg>
       </mg>
    </e>
@@ -10112,7 +10162,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">leđeovdiibeln</t>
+            <t pos="">leđe ovdiibeln</t>
          </tg>
       </mg>
    </e>
@@ -10149,7 +10199,18 @@
    </e>
    <e id="976">
       <lg>
-         <l pos="">edessä, edestä</l>
+         <l pos="">edessä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">oovdâst,</t>
+            <t pos="">o'vdebist</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="976">
+      <lg>
+         <l pos="">edestä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -10421,7 +10482,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">tooHâđiä'vtulâžžân</t>
+            <t pos="">tooHâđ iä'vtulâžžân</t>
          </tg>
       </mg>
    </e>
@@ -10620,7 +10681,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">eNittiđ</t>
-            <t pos="">(keretä, ennättää) kier'gâniđ, happiittiđ happit, noddiđ noddiim noddee; (joutaa) ostâđ oostâm asta, juov'dâđ juovdâm; (löytää aikaa jhk) o'stâstuđ o'stâstuum o'stâstuVá; (jhk oikeaan aikaan) terttiđ tiär'ttá</t>
+            <t pos="">(keretä, ennättää) kier'gâniđ, happiittiđ happit, noddiđ noddiim noddee; (joutaa) ostâđ oostâm asta,  juov'dâđ juovdâm; (löytää aikaa jhk) o'stâstuđ o'stâstuum o'stâstuVá; (jhk oikeaan aikaan) terttiđ tiär'ttá</t>
          </tg>
       </mg>
    </e>
@@ -11079,7 +11140,8 @@
    </e>
    <e id="1066">
       <lg>
-         <l pos="">eli, elikkä</l>
+         <l pos="">eli</l>
+         <l_syn pos="">elikkä</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -11293,12 +11355,31 @@
    </e>
    <e id="1087">
       <lg>
-         <l pos="">ellen, -et, -ei (jne.)</l>
+         <l pos="">ellen</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">jis jie'm,</t>
-            <t pos="">jis jie'h, jis ij (jna.)</t>
+            <t pos="">jis jie'm</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1087">
+      <lg>
+         <l pos="">ellet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">jis jie'h</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1087">
+      <lg>
+         <l pos="">ellei </l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">jis ij</t>
          </tg>
       </mg>
    </e>
@@ -11724,7 +11805,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(= edellä mainittu)</re>
-            <t pos="">o. m.(= ovdiibeln ma'inâšum)</t>
+            <t pos="">o. m. (= ovdiibeln ma'inâšum)</t>
          </tg>
       </mg>
    </e>
@@ -11781,7 +11862,8 @@
    </e>
    <e id="1134">
       <lg>
-         <l pos="">emo, emä</l>
+         <l pos="">emo</l>
+         <l_syn pos="">emä</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -11905,7 +11987,7 @@
    </e>
    <e id="1146">
       <lg>
-         <l pos="">emäärakastava</l>
+         <l pos="">emää rakastava</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -12078,7 +12160,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">ovdâjuurdâ</t>
-            <t pos="">muNejuurdâ</t>
+            <t pos="">muNejuurdâ </t>
          </tg>
       </mg>
    </e>
@@ -12136,7 +12218,8 @@
    </e>
    <e id="1168">
       <lg>
-         <l pos="">ennakolta, ennalta</l>
+         <l pos="">ennakolta</l>
+         <l_syn pos="">ennalta</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -12183,7 +12266,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">liijkástooláás,</t>
+            <t pos="">liijkás tooláás,</t>
             <t pos="">meendu aarrâd</t>
          </tg>
       </mg>
@@ -12346,7 +12429,8 @@
    </e>
    <e id="1188">
       <lg>
-         <l pos="">ensin, ensinnä</l>
+         <l pos="">ensin</l>
+         <l_syn pos="">ensinnä</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -12623,7 +12707,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">vávjálâs;</t>
+            <t pos="">vávjálâs; </t>
          </tg>
       </mg>
    </e>
@@ -13114,7 +13198,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">puojâsto'rgâgem,</t>
+            <t pos="">puojâ sto'rgâgem,</t>
             <t pos="">erektio;</t>
          </tg>
       </mg>
@@ -13277,7 +13361,18 @@
    </e>
    <e id="1278">
       <lg>
-         <l pos="">erillään, -een</l>
+         <l pos="">erillään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">sieRâ,</t>
+            <t pos="">ohtuunis, erinis</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1278">
+      <lg>
+         <l pos="">erilleen</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -13832,7 +13927,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">šoddâđmäksimnáál</t>
+            <t pos="">šoddâđ mäksimnáál</t>
          </tg>
       </mg>
    </e>
@@ -13869,7 +13964,8 @@
    </e>
    <e id="1335">
       <lg>
-         <l pos="">esiin, esille</l>
+         <l pos="">esiin</l>
+         <l_syn pos="">esille</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -14220,7 +14316,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(asia, tehdä esitys) oovdân-~oovdâspyeh'tiđ</t>
-            <t pos="">iä'vtuttiđ iä'vtuttiđ; (kuvata, kuvailla jk asia) koVediđ kovveed; (asia toisen puolesta) válvuđ váálvum; (jtk, näytellä) čaittâliđ čaittâl; (esittää esim. elokuva) čäittiđ čááitám</t>
+            <t pos="">iä'vtuttiđ iä'vtuttiđ; (kuvata, kuvailla jk asia) koVediđ kovveed; (asia toisen puolesta) válvuđ váálvum; (jtk, näytellä)  čaittâliđ čaittâl; (esittää esim. elokuva) čäittiđ čááitám</t>
          </tg>
       </mg>
    </e>
@@ -14560,17 +14656,6 @@
          </tg>
       </mg>
    </e>
-   <e id="1401">
-      <lg>
-         <l pos="">eteläisempi, etelämpi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smn">
-            <t pos="">määddib,</t>
-            <t pos="">mäddeeb; (vähän eteläisempi) mädibâš</t>
-         </tg>
-      </mg>
-   </e>
    <e id="1402">
       <lg>
          <l pos="">eteläisin</l>
@@ -14664,7 +14749,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">keSipieg'gâ</t>
-            <t pos="">láhupieg'gâ -piegâ, maadâpieg'gâ -piegâ, madâppieggâ -piegâ</t>
+            <t pos=""> láhupieg'gâ -piegâ, maadâpieg'gâ -piegâ, madâppieggâ -piegâ</t>
          </tg>
       </mg>
    </e>
@@ -14838,7 +14923,29 @@
    </e>
    <e id="1427">
       <lg>
-         <l pos="">ettei, -en, -et</l>
+         <l pos="">ettei</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">amas~emas;</t>
+            <t pos="">(syytä ilmoittamassa) vâi;</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1427">
+      <lg>
+         <l pos="">etten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">amas~emas;</t>
+            <t pos="">(syytä ilmoittamassa) vâi;</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1427">
+      <lg>
+         <l pos="">ettet</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -14849,7 +14956,8 @@
    </e>
    <e id="1428">
       <lg>
-         <l pos="">etto, etso</l>
+         <l pos="">etto</l>
+         <l_syn pos="">etso</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -15073,13 +15181,23 @@
       <mg>
          <tg xml:lang="smn">
             <re>(ommel)</re>
-            <t pos="">čoođâ-čoođâčuog'giistâh</t>
+            <t pos="">čoođâ-čoođâ čuog'giistâh</t>
          </tg>
       </mg>
    </e>
    <e id="1450">
       <lg>
-         <l pos="">etupuolella, -puolelta</l>
+         <l pos="">etupuolella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">ovdiibeln</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1450">
+      <lg>
+         <l pos="">etupuolelta</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -15282,7 +15400,18 @@
    </e>
    <e id="1470">
       <lg>
-         <l pos="">etäällä, -tä</l>
+         <l pos="">etäällä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">kukken,</t>
+            <t pos="">kuuhijn; (toisistaan) kukkáluVâi;</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1470">
+      <lg>
+         <l pos="">etäältä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -15318,7 +15447,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">kaidâđolgoláhháá;</t>
+            <t pos="">kaidâđ olgoláhháá;</t>
             <t pos="">(rannasta) taVaniđ tavvaan</t>
          </tg>
       </mg>
@@ -15828,7 +15957,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(mus.)</re>
-            <t pos="">uá'Livuá'imálávt,</t>
+            <t pos="">uá'Li vuá'imálávt,</t>
             <t pos="">uá'Li korrâsávt</t>
          </tg>
       </mg>
@@ -16105,7 +16234,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">graafâlâš</t>
-            <t pos="">graafisâš graafisii</t>
+            <t pos="">graafisâš graafisii </t>
          </tg>
       </mg>
    </e>
@@ -16347,7 +16476,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(oksassa, joessa, korvamerkissä) syeRi</t>
-            <t pos="">syer'gi syergi; (jalkojen väli) häcci hääci ~ äcci ääci ~ ääci, kye'vtjyel'gkoskâ -kooskâ; (väli, esim. sormien) -hääRi -hääri; (tienhaara) luod'dâiäRu -iäru; (juurrakon haara) kuá'duipelji -peelji; (sarven) särgim</t>
+            <t pos="">syer'gi syergi; (jalkojen väli)  häcci hääci ~ äcci ääci ~ ääci, kye'vtjyel'gkoskâ -kooskâ; (väli, esim. sormien) -hääRi -hääri; (tienhaara) luod'dâiäRu -iäru; (juurrakon haara) kuá'duipelji -peelji; (sarven) särgim</t>
          </tg>
       </mg>
    </e>
@@ -16874,7 +17003,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(ikävä) ahheev</t>
-            <t pos="">(surumielinen) murâšmie'Lâsâš -mie'Lâsii; (surullinen) murâšlâš murâšlii, sorolâš sorolii</t>
+            <t pos=""> (surumielinen) murâšmie'Lâsâš -mie'Lâsii; (surullinen) murâšlâš murâšlii, sorolâš sorolii</t>
          </tg>
       </mg>
    </e>
@@ -17059,7 +17188,18 @@
    </e>
    <e id="1640">
       <lg>
-         <l pos="">hajallaan, -een</l>
+         <l pos="">hajallaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">piäđgui,</t>
+            <t pos="">piäđ'gud</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1640">
+      <lg>
+         <l pos="">hajalleen</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -17783,7 +17923,18 @@
    </e>
    <e id="1709">
       <lg>
-         <l pos="">halli, harmaahylje</l>
+         <l pos="">halli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>Halichoerus grypus</re>
+            <t pos="">ränisnuár'ju</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1709">
+      <lg>
+         <l pos="">harmaahylje</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -17938,7 +18089,17 @@
    </e>
    <e id="1724">
       <lg>
-         <l pos="">hallussa, -sta</l>
+         <l pos="">hallussa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">haaldust</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1724">
+      <lg>
+         <l pos="">hallusta</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -18023,7 +18184,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <re>(hallussapitäjä)</re>
+            <re>(hallussapitäjä) </re>
             <t pos="">ha'ldâšeijee</t>
          </tg>
       </mg>
@@ -18099,7 +18260,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(m. porosta)</re>
-            <t pos="">vuoč'čuđ</t>
+            <t pos="">vuoč'čuđ </t>
             <t pos="">halvaanduđ</t>
          </tg>
       </mg>
@@ -18148,7 +18309,8 @@
    </e>
    <e id="1744">
       <lg>
-         <l pos="">halventua, halveta</l>
+         <l pos="">halventua</l>
+         <l_syn pos="">halveta</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -18721,7 +18883,8 @@
    </e>
    <e id="1798">
       <lg>
-         <l pos="">hansikas, hanska</l>
+         <l pos="">hansikas</l>
+         <l_syn pos="">hanska</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -18795,12 +18958,13 @@
    </e>
    <e id="1805">
       <lg>
-         <l pos="">hapantua, hapata</l>
+         <l pos="">hapantua</l>
+         <l_syn pos="">hapata</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
             <t pos="">(pilaantua lihasta, kalasta, rasvasta) ha'vrâgiđ</t>
-            <t pos="">kálágiđ kááláág, kuás'tuđ kuástum; (pilaantua ruoasta) mu'igâgiđ muuigâg; (pilaantuen maitotuotteista) jie'sâluđ jie'sâluvá, jie'sâluvá, jie'sâgiđ jiessâg; (hapantua toivotusti, esim. viili) loppiđ loppiim luáp'pee; (piimittyä toivotusti) piMeluđ piMeluVá, pimmoođ piMo; (hapanleipätaikina) suvrođ suuvrom ~ su'vrom;</t>
+            <t pos="">kálágiđ kááláág,  kuás'tuđ kuástum; (pilaantua ruoasta) mu'igâgiđ muuigâg; (pilaantuen maitotuotteista) jie'sâluđ jie'sâluvá, jie'sâluvá, jie'sâgiđ jiessâg; (hapantua toivotusti, esim. viili) loppiđ loppiim luáp'pee; (piimittyä toivotusti) piMeluđ piMeluVá, pimmoođ piMo; (hapanleipätaikina) suvrođ suuvrom ~ su'vrom;</t>
          </tg>
       </mg>
    </e>
@@ -19077,7 +19241,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">(konkr., eksyttävä) čájádittee;</t>
+            <t pos="">(konkr., eksyttävä)  čájádittee;</t>
          </tg>
       </mg>
    </e>
@@ -19810,7 +19974,8 @@
    </e>
    <e id="1900">
       <lg>
-         <l pos="">harvaan, harvakseltaan</l>
+         <l pos="">harvaan</l>
+         <l_syn pos="">harvakseltaan</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -19874,7 +20039,8 @@
    </e>
    <e id="1906">
       <lg>
-         <l pos="">harventua, harveta</l>
+         <l pos="">harventua</l>
+         <l_syn pos="">harveta</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -20462,7 +20628,8 @@
    </e>
    <e id="1962">
       <lg>
-         <l pos="">havu, havunneulanen</l>
+         <l pos="">havu</l>
+         <l_syn pos="">havunneulanen</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -20741,7 +20908,8 @@
    </e>
    <e id="1989">
       <lg>
-         <l pos="">heikentyä, heiketä</l>
+         <l pos="">heikentyä</l>
+         <l_syn pos="">heiketä</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -20840,8 +21008,8 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">vaijeeđhiäjuht,</t>
-            <t pos="">illávaijeeđ -vajam</t>
+            <t pos="">vaijeeđ hiäjuht,</t>
+            <t pos="">illávaijeeđ -vajam </t>
          </tg>
       </mg>
    </e>
@@ -22008,7 +22176,7 @@
    </e>
    <e id="2109">
       <lg>
-         <l pos="">henkilökierto,</l>
+         <l pos="">henkilökierto</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -23315,7 +23483,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">fijnáhtlättejeijee</t>
+            <t pos="">fijnáht lättejeijee</t>
          </tg>
       </mg>
    </e>
@@ -24082,7 +24250,8 @@
    </e>
    <e id="2306">
       <lg>
-         <l pos="">hiljakseen, hiljalleen</l>
+         <l pos="">hiljakseen</l>
+         <l_syn pos="">hiljakseen, hiljalleen</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -24093,7 +24262,8 @@
    </e>
    <e id="2307">
       <lg>
-         <l pos="">hiljattain, hiljan</l>
+         <l pos="">hiljattain</l>
+         <l_syn pos="">hiljattain, hiljan</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -24104,12 +24274,13 @@
    </e>
    <e id="2308">
       <lg>
-         <l pos="">hiljentyä, hiljetä</l>
+        <l pos="">hiljentyä</l>
+	<l_syn pos="">hiljentyä, hiljetä</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
             <t pos="">(vaieta) ja'skodiđ</t>
-            <t pos="">jávuttuđ jávuttuum, potâliđ poottâl; (rauhoittua) josijduđ josijduVá</t>
+            <t pos="">jávuttuđ  jávuttuum, potâliđ poottâl; (rauhoittua) josijduđ josijduVá</t>
          </tg>
       </mg>
    </e>
@@ -24298,7 +24469,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">kessee,</t>
+            <t pos="">kessee, </t>
             <t pos="">vie'šideijee; (alus) keessimkäärbis -kárbá</t>
          </tg>
       </mg>
@@ -24472,7 +24643,8 @@
    </e>
    <e id="2343">
       <lg>
-         <l pos="">hiostua, hiota</l>
+        <l pos="">hiostua</l>
+	<l_syn pos="">hiostua, hiota</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -24726,7 +24898,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <re>(poro, jolla on hirvensarvia muistuttavat sarvet)</re>
+            <re>(poro, jolla on hirvensarvia muistuttavat sarvet) </re>
             <t pos="">soorvâčuár'vi</t>
          </tg>
       </mg>
@@ -25113,7 +25285,8 @@
    </e>
    <e id="2404">
       <lg>
-         <l pos="">hoikentua, hoiketa</l>
+         <l pos="">hoikentua</l>
+         <l_syn pos="">hoikentua, hoiketa</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -25168,7 +25341,8 @@
    </e>
    <e id="2409">
       <lg>
-         <l pos="">hoiperrella, hoippua</l>
+        <l pos="">hoiperrella</l>
+	<l_syn pos="">hoiperrella, hoippua</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -25848,18 +26022,7 @@
          <tg xml:lang="smn">
             <re>(mon.)</re>
             <t pos="">puuvsah</t>
-            <t pos="">(housu- ~ housun-) puksâ-;</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="2475">
-      <lg>
-         <l pos="">housuton, housutonna</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smn">
-            <re>(paljastakamuksinen)</re>
-            <t pos="">pä'ljispoođâi</t>
+            <t pos="">(housu- ~ housun-)  puksâ-;</t>
          </tg>
       </mg>
    </e>
@@ -26879,7 +27042,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">(ottaa huomioon) väldiđvuotân;</t>
+            <t pos="">(ottaa huomioon) väldiđ vuotân;</t>
             <t pos="">(tarkkailla, tehdä huomioita) tooHâđ huámmášumijd</t>
          </tg>
       </mg>
@@ -27225,7 +27388,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">tuápánmoonnâđ,</t>
+            <t pos="">tuápán moonnâđ,</t>
             <t pos="">tuo'pâluđ tuo'pâluVá, tuo'pânjâššâđ tuo'pânjâšâm ~ tuo'pânâššâđ tuo'pânâšâm</t>
          </tg>
       </mg>
@@ -27508,7 +27671,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">leđehuo'lâttem</t>
+            <t pos="">leđe huo'lâttem</t>
          </tg>
       </mg>
    </e>
@@ -27577,7 +27740,8 @@
    </e>
    <e id="2638">
       <lg>
-         <l pos="">huuhdella, huuhtoa</l>
+         <l pos="">huuhdella</l>
+         <l_syn pos="">huuhdella, huuhtoa</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -27930,7 +28094,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(laiva)</re>
-            <t pos="">vuáijumkäärbis</t>
+            <t pos="">vuáijum käärbis</t>
          </tg>
       </mg>
    </e>
@@ -28161,7 +28325,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(pituutta, korkeutta) njuškiđ</t>
-            <t pos="">(pystyyn istumasta t. makaamasta) skavadiđ skaavaad; (sivuun, ajoporosta) spie'kâstiđ spiekkâst; (kalasta) paŊâliđ paaŋŋâl</t>
+            <t pos="">(pystyyn istumasta t. makaamasta) skavadiđ skaavaad; (sivuun, ajoporosta) spie'kâstiđ spiekkâst; (kalasta) paŊâliđ paaŋŋâl </t>
          </tg>
       </mg>
    </e>
@@ -28941,7 +29105,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">ča'lmettuđkoskâpuddâsávt</t>
+            <t pos="">ča'lmettuđ koskâpuddâsávt</t>
          </tg>
       </mg>
    </e>
@@ -28951,7 +29115,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">(auringosta) päštiđčolmijd</t>
+            <t pos="">(auringosta) päštiđ čolmijd</t>
          </tg>
       </mg>
    </e>
@@ -29181,7 +29345,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(erit. illalla) viäi'guđ</t>
-            <t pos="">viä'igudiđ viäigud; (erit. talvea kohti) ciäh'háđ ciäh'háá, skáávvuđ skááVu;</t>
+            <t pos="">viä'igudiđ viäigud;  (erit. talvea kohti) ciäh'háđ ciäh'háá, skáávvuđ skááVu;</t>
          </tg>
       </mg>
    </e>
@@ -29364,7 +29528,8 @@
    </e>
    <e id="2808">
       <lg>
-         <l pos="">häpäistä, häväistä</l>
+         <l pos="">häpäistä</l>
+         <l_syn pos="">häpäistä, häväistä</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -29663,7 +29828,8 @@
    </e>
    <e id="2836">
       <lg>
-         <l pos="">hätätila, -tilanne</l>
+         <l pos="">hätätila</l>
+         <l_syn pos="">hätätilanne</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -29763,7 +29929,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(tuhoutua, kärsiä häviö) táppáđ</t>
-            <t pos="">tuššâđ tuušâm tuššá; (pelissä jllek) tappiittâttâđ tappiittâđâm; (jäädä tappiolle) táppáđ táppáám; (kadota) lappuđ lappuum láppoo; (kadota yhtäkkiä) jä'vkittiđ jäävkit; (rahallisesti, jäädä tappiolle) restâluđ restâluVá</t>
+            <t pos="">tuššâđ tuušâm tuššá; (pelissä jllek) tappiittâttâđ tappiittâđâm; (jäädä tappiolle) táppáđ táppáám;  (kadota) lappuđ lappuum láppoo; (kadota yhtäkkiä) jä'vkittiđ jäävkit; (rahallisesti, jäädä tappiolle) restâluđ restâluVá</t>
          </tg>
       </mg>
    </e>
@@ -30060,7 +30226,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">šávguđ</t>
-            <t pos="">~ šávduđ šáávdum, škurnođ šku'rnom, šloggâđ šloogâm šlagga</t>
+            <t pos="">~ šávduđ šáávdum, škurnođ  šku'rnom, šloggâđ šloogâm šlagga</t>
          </tg>
       </mg>
    </e>
@@ -30390,7 +30556,17 @@
    </e>
    <e id="2905">
       <lg>
-         <l pos="">idässä, -stä</l>
+         <l pos="">idässä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">nuor'ttân</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2905">
+      <lg>
+         <l pos="">idästä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -30727,7 +30903,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">sudâhánnáástuáLu</t>
+            <t pos="">sudâhánnáás tuáLu</t>
          </tg>
       </mg>
    </e>
@@ -30860,7 +31036,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">eLilâmolmooš</t>
+            <t pos="">eLilâm olmooš</t>
             <t pos="">aheolmooš -ulmuu</t>
          </tg>
       </mg>
@@ -30908,7 +31084,8 @@
    </e>
    <e id="2955">
       <lg>
-         <l pos="">ikänään, ikipäivänä</l>
+         <l pos="">ikänään</l>
+         <l_syn pos="">ikänään, ikipäivänä</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -31072,7 +31249,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <re>(erit. nähdä)</re>
+            <re>(erit. nähdä) </re>
             <t pos="">ilgâd</t>
          </tg>
       </mg>
@@ -31260,8 +31437,8 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">o'lgospyeh'tiđ</t>
-            <t pos="">(lausua) ettâđ eeđâm iä'tá; (antaa merkki, antaa ymmärtää) tu'bdâttiđ tuubdâd; (paljastaa salaisuus) čulliđ čulliim čollee; (antaa ilmi) kuod'dâliđ</t>
+            <t pos="">o'lgos pyeh'tiđ</t>
+            <t pos="">(lausua) ettâđ eeđâm iä'tá; (antaa merkki, antaa ymmärtää) tu'bdâttiđ tuubdâd; (paljastaa salaisuus) čulliđ čulliim čollee; (antaa ilmi) kuod'dâliđ </t>
          </tg>
       </mg>
    </e>
@@ -31684,7 +31861,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">a'lmostusâikirje</t>
+            <t pos="">a'lmostusâi kirje</t>
          </tg>
       </mg>
    </e>
@@ -31894,7 +32071,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">raketij ~ ragetijpääččim</t>
+            <t pos="">raketij ~ ragetij pääččim</t>
          </tg>
       </mg>
    </e>
@@ -32519,7 +32696,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">lammâšumolmooš,</t>
+            <t pos="">lammâšum olmooš,</t>
             <t pos="">invaliid</t>
          </tg>
       </mg>
@@ -32540,7 +32717,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">tävirijluuhâm,</t>
+            <t pos="">tävirij luuhâm,</t>
             <t pos="">inventaario</t>
          </tg>
       </mg>
@@ -32568,7 +32745,7 @@
    </e>
    <e id="3114">
       <lg>
-         <l pos="">irrallaanolo</l>
+         <l pos="">irrallaan olo</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -32613,7 +32790,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <re>(esim. köysi solmusta)</re>
+            <re>(esim. köysi solmusta) </re>
             <t pos="">čovdâliđ</t>
          </tg>
       </mg>
@@ -32699,7 +32876,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">celkkiđluo'vâsin</t>
+            <t pos="">celkkiđ luo'vâsin</t>
          </tg>
       </mg>
    </e>
@@ -32897,7 +33074,7 @@
          <tg xml:lang="smn">
             <re>(pyssyn)</re>
             <t pos="">časkee,</t>
-            <t pos="">ča'skaldâhryev'di -ryevdi</t>
+            <t pos="">ča'skaldâhryev'di -ryevdi </t>
          </tg>
       </mg>
    </e>
@@ -33402,7 +33579,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(mon.)</re>
-            <t pos="">ákkujá äijih</t>
+            <t pos="">ákku já äijih</t>
          </tg>
       </mg>
    </e>
@@ -33514,7 +33691,18 @@
    </e>
    <e id="3203">
       <lg>
-         <l pos="">istuallaan, -een</l>
+         <l pos="">istuallaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">ište,</t>
+            <t pos="">čokkod, čokoppođâi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3203">
+      <lg>
+         <l pos="">istualleen</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -33850,7 +34038,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">häänis ~ hänes</t>
-            <t pos="">säiđi sääiđi # sáiđáá, käcci kääci # käcis, tiivâs tiivvâs</t>
+            <t pos=""> säiđi sääiđi # sáiđáá, käcci kääci # käcis, tiivâs tiivvâs</t>
          </tg>
       </mg>
    </e>
@@ -34057,7 +34245,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">narsistlâš</t>
-            <t pos="">egosentrâlâš egosentrâlii</t>
+            <t pos="">egosentrâlâš  egosentrâlii</t>
          </tg>
       </mg>
    </e>
@@ -34142,7 +34330,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(omatoimisesti, ilman muiden vaikutusta) jie'čânas,</t>
-            <t pos="">jiešráđálávt; (yksin) ohtuu</t>
+            <t pos=""> jiešráđálávt; (yksin) ohtuu</t>
          </tg>
       </mg>
    </e>
@@ -34152,7 +34340,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">šoddâđjie'čânâssân,</t>
+            <t pos="">šoddâđ jie'čânâssân,</t>
             <t pos="">šoddâđ jiešmeRideijen</t>
          </tg>
       </mg>
@@ -34231,11 +34419,15 @@
    </e>
    <e id="3272">
       <lg>
-         <l pos="">itsestään, -sään</l>
+         <l pos="">itsestään</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">jiešalnees,</t>
+            <t pos="">jiešalnees</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
             <t pos="">jiešmeidlist</t>
          </tg>
       </mg>
@@ -34256,7 +34448,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">jiei'jâsšalligâššâm</t>
+            <t pos="">jiei'jâs šalligâššâm</t>
          </tg>
       </mg>
    </e>
@@ -34406,7 +34598,17 @@
    </e>
    <e id="3289">
       <lg>
-         <l pos="">itäpuolella, -lta</l>
+         <l pos="">itäpuolella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">nuor'ttiibeln</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3289">
+      <lg>
+         <l pos="">itäpuolelta</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -34564,7 +34766,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">jáánuuvt</t>
+            <t pos="">jáá nuuvt</t>
          </tg>
       </mg>
    </e>
@@ -34585,7 +34787,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">talssiđ</t>
-            <t pos="">~ talsiđ talsiim tälsee, hutârdiđ huuttârd</t>
+            <t pos=""> ~ talsiđ talsiim tälsee, hutârdiđ huuttârd</t>
          </tg>
       </mg>
    </e>
@@ -34772,7 +34974,8 @@
    </e>
    <e id="3324">
       <lg>
-         <l pos="">jakku, jakkutakki</l>
+         <l pos="">jakku</l>
+         <l_syn pos="">jakkutakki</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -34882,7 +35085,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">jyeHiđäigipoojijd,</t>
+            <t pos="">jyeHiđ  äigipoojijd,</t>
             <t pos="">áigáduvváid jyeHiđ</t>
          </tg>
       </mg>
@@ -35008,7 +35211,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">-juá'lgálâš</t>
-            <t pos="">juo'lgijn;</t>
+            <t pos=""> juo'lgijn;</t>
          </tg>
       </mg>
    </e>
@@ -35390,7 +35593,8 @@
    </e>
    <e id="3383">
       <lg>
-         <l pos="">jaos, jaosto</l>
+         <l pos="">jaos</l>
+         <l_syn pos="">jaos, jaosto</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -35492,7 +35696,8 @@
    </e>
    <e id="3393">
       <lg>
-         <l pos="">jarrutus, jarruttaminen</l>
+         <l pos="">jarrutus</l>
+         <l_syn pos="">jarrutus, jarruttaminen</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -35533,11 +35738,21 @@
    </e>
    <e id="3397">
       <lg>
-         <l pos="">jatke, jatko-</l>
+         <l pos="">jatke</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
             <t pos="">jotkâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3397">
+      <lg>
+         <l pos="">jatko-</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">jotkâ-</t>
             <t pos="">(pidennys) kuhádâs</t>
          </tg>
       </mg>
@@ -35673,7 +35888,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">millumpiär'gu</t>
+            <t pos="">millum piär'gu</t>
          </tg>
       </mg>
    </e>
@@ -35849,7 +36064,7 @@
    </e>
    <e id="3427">
       <lg>
-         <l pos="">joensuu,</l>
+         <l pos="">joensuu</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -36174,7 +36389,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">(jstak) puáttiđ</t>
+            <t pos="">(jstak) puáttiđ </t>
             <t pos="">čuávvuđ čuávum (+ lok.); (mieleen) juottâđ juotâm; (sähköä) jotteeđ jođám, (lämpöä) sirdeđ si'rdám</t>
          </tg>
       </mg>
@@ -36246,11 +36461,11 @@
    </e>
    <e id="3464">
       <lg>
-         <l pos="">jokamiehenoikeus</l>
+         <l pos="">jokamiehen oikeus</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">jye'hiulmuuvuoi'gâdvuotâ</t>
+            <t pos="">jye'hiulmuu vuoi'gâdvuotâ</t>
             <t pos="">juáh'háá vuoi'gâdvuotâ -vuoi'gâdvuođâ</t>
          </tg>
       </mg>
@@ -36439,11 +36654,11 @@
    </e>
    <e id="3482">
       <lg>
-         <l pos="">joko- ta(h)i</l>
+         <l pos="">joko - ta(h)i</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">juo-uv- teikkâ</t>
+            <t pos="">juo-uv - teikkâ</t>
          </tg>
       </mg>
    </e>
@@ -36590,7 +36805,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">čuáž'žuđrááiđust</t>
+            <t pos="">čuáž'žuđ rááiđust</t>
          </tg>
       </mg>
    </e>
@@ -36713,7 +36928,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">nuuvtete</t>
+            <t pos="">nuuvt ete</t>
          </tg>
       </mg>
    </e>
@@ -37077,7 +37292,8 @@
    </e>
    <e id="3543">
       <lg>
-         <l pos="">joutava, joutavanpäiväinen</l>
+         <l pos="">joutava</l>
+         <l_syn pos="">joutava, joutavanpäiväinen</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -37103,7 +37319,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">asto</t>
-            <t pos="">juáv'du juávdu</t>
+            <t pos=""> juáv'du juávdu</t>
          </tg>
       </mg>
    </e>
@@ -37416,7 +37632,7 @@
    </e>
    <e id="3575">
       <lg>
-         <l pos="">julkea</l>
+         <l pos="">julkea </l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -37464,7 +37680,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">uái'nimnáálpieijâm,</t>
+            <t pos="">uái'nimnáálpieijâm, </t>
             <t pos="">a'lmosinpieijâm</t>
          </tg>
       </mg>
@@ -38314,7 +38530,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(ihminen)</re>
-            <t pos="">skuŋkkâ</t>
+            <t pos="">skuŋkkâ </t>
             <t pos="">skuuŋkâs skuŋkkâs; (puhumaton) sárnuttem</t>
          </tg>
       </mg>
@@ -38462,8 +38678,8 @@
       <mg>
          <tg xml:lang="smn">
             <re>(part.)</re>
-            <t pos="">e'idu,</t>
-            <t pos="">-gân~-kân, tástán~tástân; (vast'ikään, jäljiltä) viđá;</t>
+            <t pos="">e'idu, </t>
+            <t pos=""> -gân~-kân, tástán~tástân; (vast'ikään, jäljiltä) viđá;</t>
          </tg>
       </mg>
    </e>
@@ -38668,7 +38884,8 @@
    </e>
    <e id="3694">
       <lg>
-         <l pos="">jylinä, jyly</l>
+        <l pos="">jylinä</l>
+	<l_syn pos="">jylinä, jyly</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -38908,7 +39125,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">jivvim,</t>
+            <t pos="">jivvim, </t>
             <t pos="">jiVedem</t>
          </tg>
       </mg>
@@ -39086,7 +39303,18 @@
    </e>
    <e id="3733">
       <lg>
-         <l pos="">jäljessä, -stä</l>
+         <l pos="">jäljessä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">maajeeld,</t>
+            <t pos="">maajaabeln~maaŋaabeln</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3733">
+      <lg>
+         <l pos="">jäljestä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -39122,7 +39350,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <re>(seurata jälkiä)</re>
+            <re>(seurata jälkiä) </re>
             <t pos="">kuorrâđ</t>
             <t pos="">kuo'râdiđ kuorâd; (seurata) vie'Vâttâllâđ vie'Vâttâlâm; (kytätä) vie'Vâttiđ vievvât</t>
          </tg>
@@ -39246,7 +39474,8 @@
    </e>
    <e id="3748">
       <lg>
-         <l pos="">jälkiosa, -joukko</l>
+         <l pos="">jälkiosa</l>
+         <l_syn pos="">jälkijoukko</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -39260,7 +39489,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <re>(jälkipuolisko)</re>
+            <re>(jälkipuolisko) </re>
             <t pos="">loppâkeeči</t>
          </tg>
       </mg>
@@ -39355,7 +39584,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">uđđâsistoi'nâlâttâm</t>
+            <t pos="">uđđâsist oi'nâlâttâm</t>
          </tg>
       </mg>
    </e>
@@ -39871,7 +40100,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">šoddâđjiä'rmálâžžân</t>
+            <t pos="">šoddâđ jiä'rmálâžžân</t>
          </tg>
       </mg>
    </e>
@@ -40544,7 +40773,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">pääcciđ</t>
-            <t pos="">(jhk joksikin aikaa) orostiđ ooroost; (jhk lyhyeksi hetkeksi) orostistiđ; (jälkeen muista) kuo'đâlduđ kuo'đálduum kuo'đâlduVá; (paikalleen) cuáp'cániđ; (kiinni, juuttua, tarttua) tarvaniđ, vovdâđ voovdâm vavda; (kiinni, esim. rikoksesta t. jstak teosta) ka'vnâttâttâđ ka'vnâttâđâm, čonâttâttâđ čonâttâđâm, pottuđ pottuum puát'too; (tappiolle, hävitä) táppáđ táppáám; (tappiolle rahallisesti) restâluđ restâluVá; (velkaa, rästejä jhk) restâluđ restâluVá; (ilman ruokaa t. juomaa) ko'psettâttâđ ko'psettâđâm; (ilman omaa osaansa jklta) kupsuđ kupsuum kopsoo; (ilman paitaa sen rikkoutuessa) pä'iđittuđ pä'iđittuum pä'iđittuVá; (lumen alle) muot'tuđ muot'tuum; muát'too; (kinoksen alle) vaskuđ váskojeh; (lumipyryn alle) purguđ porgoo porgojeh; (tuulen takia paikoilleen) pieg'giittuđ pieg'giittuum pieg'giittuVá; (tyveneen) kolkkiittuđ kolkkiittuum kolkkiittuVá; (talveksi jhk) tá'lváduđ tá'lváduum tá'lváduVá; (metsään yöksi lehmistä) meccuđ miäc'cojeh; (sanoitta) sänittuđ sänittuum sänittuVá; (sivumaku) päiniđ pááinám; (pieneksi) uccániđ; (laukeamatta aseesta) ča'skettiđ časkeet</t>
+            <t pos="">(jhk joksikin aikaa) orostiđ ooroost; (jhk lyhyeksi hetkeksi) orostistiđ; (jälkeen muista) kuo'đâlduđ kuo'đálduum kuo'đâlduVá; (paikalleen) cuáp'cániđ; (kiinni, juuttua, tarttua) tarvaniđ, vovdâđ voovdâm vavda; (kiinni, esim. rikoksesta t. jstak teosta) ka'vnâttâttâđ ka'vnâttâđâm, čonâttâttâđ čonâttâđâm, pottuđ pottuum puát'too; (tappiolle, hävitä) táppáđ táppáám; (tappiolle rahallisesti) restâluđ restâluVá; (velkaa, rästejä jhk) restâluđ restâluVá; (ilman ruokaa t. juomaa) ko'psettâttâđ ko'psettâđâm; (ilman omaa osaansa jklta) kupsuđ kupsuum kopsoo; (ilman paitaa sen rikkoutuessa) pä'iđittuđ pä'iđittuum pä'iđittuVá; (lumen alle) muot'tuđ muot'tuum; muát'too; (kinoksen alle) vaskuđ váskojeh; (lumipyryn alle) purguđ porgoo porgojeh; (tuulen takia paikoilleen) pieg'giittuđ  pieg'giittuum pieg'giittuVá; (tyveneen) kolkkiittuđ kolkkiittuum kolkkiittuVá; (talveksi jhk) tá'lváduđ tá'lváduum tá'lváduVá; (metsään yöksi lehmistä) meccuđ miäc'cojeh; (sanoitta) sänittuđ sänittuum sänittuVá; (sivumaku) päiniđ pááinám; (pieneksi) uccániđ; (laukeamatta aseesta) ča'skettiđ časkeet</t>
          </tg>
       </mg>
    </e>
@@ -40681,7 +40910,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">jie'Ŋânááváár,</t>
-            <t pos="">jie'Ŋâpoorá</t>
+            <t pos="">jie'Ŋâpoorá </t>
          </tg>
       </mg>
    </e>
@@ -40713,7 +40942,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">(ohut ensipakkasten jälkeen veden pinnalla) njoođâ</t>
+            <t pos="">(ohut ensipakkasten jälkeen veden pinnalla)  njoođâ</t>
             <t pos="">(ohut, esim. airoissa) pulžo pu'lžo;</t>
          </tg>
       </mg>
@@ -41114,7 +41343,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">kalmeđ</t>
-            <t pos="">kolmuuttiđ, njuáđđuđ njuáĐu; (rantakivet ja -pensaat syysmyrskyssä) turššâđ turššá ~ turšâđ turšá</t>
+            <t pos="">kolmuuttiđ, njuáđđuđ njuáĐu; (rantakivet ja -pensaat syysmyrskyssä) turššâđ turššá ~ turšâđ turšá </t>
          </tg>
       </mg>
    </e>
@@ -41207,7 +41436,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(ajaa kovaa)</re>
-            <t pos="">vyeijiđhurgeđ,</t>
+            <t pos="">vyeijiđ hurgeđ,</t>
             <t pos="">vyeijiđ šuvgâliđ, hurgáttâllâđ hurgáttâlâm; (erit. mutkitellen) skirviittâllâđ skirviittâlâm</t>
          </tg>
       </mg>
@@ -41841,13 +42070,13 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">(kahdenkeskinen asia) munnuukoskâvuođâ äšši</t>
+            <t pos="">(kahdenkeskinen asia) munnuu koskâvuođâ äšši</t>
          </tg>
       </mg>
    </e>
    <e id="3995">
       <lg>
-         <l pos="">kahdestaan,</l>
+         <l pos="">kahdestaan</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -41978,7 +42207,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(mon.)</re>
-            <t pos="">käällimpuuvsah</t>
+            <t pos="">käällimpuuvsah </t>
          </tg>
       </mg>
    </e>
@@ -42303,7 +42532,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">uináástâllâđ</t>
-            <t pos="">ujostâllâđ ujostâlâm</t>
+            <t pos=""> ujostâllâđ ujostâlâm</t>
          </tg>
       </mg>
    </e>
@@ -42319,7 +42548,8 @@
    </e>
    <e id="4040">
       <lg>
-         <l pos="">kaipaus, kaipuu</l>
+         <l pos="">kaipaus</l>
+         <l_syn pos="">kaipaus, kaipuu</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -42441,7 +42671,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">immeeljođáttâs</t>
+            <t pos="">immeel jođáttâs</t>
          </tg>
       </mg>
    </e>
@@ -43210,7 +43440,18 @@
    </e>
    <e id="4125">
       <lg>
-         <l pos="">kallellaan, -leen</l>
+         <l pos="">kallellaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">kárŋá,</t>
+            <t pos="">njihhood;</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4125">
+      <lg>
+         <l pos="">kallelleen</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -43759,7 +44000,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">merettespaLo</t>
+            <t pos="">merettes  paLo</t>
             <t pos="">fobia</t>
          </tg>
       </mg>
@@ -44409,7 +44650,7 @@
    </e>
    <e id="4237">
       <lg>
-         <l pos="">kannettavatietokone</l>
+         <l pos="">kannettava tietokone</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -47252,7 +47493,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">láppu</t>
-            <t pos="">lappum; (viljelysadon) šadottesvuotâ šadottesvuođâ; (tuho) hiäv'vu hiävu ~ hiäVu hiävu; (massakuolema) jááMu jáámu;</t>
+            <t pos="">lappum; (viljelysadon) šadottesvuotâ šadottesvuođâ; (tuho) hiäv'vu hiävu ~ hiäVu hiävu; (massakuolema) jááMu jáámu; </t>
          </tg>
       </mg>
    </e>
@@ -47336,7 +47577,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">(viljellyn sadon osalta) šadottesihe</t>
+            <t pos="">(viljellyn sadon osalta) šadottes ihe</t>
             <t pos="">(esim. kun poroja kuolee paljon) jáMuihe -iVe, hiäVuihe -iVe</t>
          </tg>
       </mg>
@@ -47957,7 +48198,8 @@
    </e>
    <e id="4576">
       <lg>
-         <l pos="">kaulahuivi, -liina</l>
+         <l pos="">kaulahuivi</l>
+         <l_syn pos="">kaulaliina</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -48320,19 +48562,10 @@
          </tg>
       </mg>
    </e>
-   <e id="4611">
-      <lg>
-         <l pos="">kaupanpäällinen, kaupantekijäinen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smn">
-            <t pos="">pajalâš</t>
-         </tg>
-      </mg>
-   </e>
    <e id="4612">
       <lg>
-         <l pos="">kaupata, kaupitella</l>
+         <l pos="">kaupata</l>
+         <l_syn pos="">kaupata, kaupitella</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -48675,7 +48908,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">kävildiđ</t>
-            <t pos="">(ottaa kavaluudella t. viekkaudella) käVilâššâđ käVilâšâm ~ käViluššâđ käVilušâm</t>
+            <t pos="">(ottaa kavaluudella t. viekkaudella)  käVilâššâđ käVilâšâm ~ käViluššâđ käVilušâm</t>
          </tg>
       </mg>
    </e>
@@ -48723,7 +48956,8 @@
    </e>
    <e id="4650">
       <lg>
-         <l pos="">kaventua, kaveta</l>
+         <l pos="">kaventua</l>
+         <l_syn pos="">kaventua, kaveta</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -48884,7 +49118,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">ovdáneijeerijkkâ</t>
-            <t pos="">o'vdedemrijkkâ -riijhâ ~ -riikâ -riihâ</t>
+            <t pos="">o'vdedemrijkkâ -riijhâ ~ -riikâ -riihâ </t>
          </tg>
       </mg>
    </e>
@@ -50661,7 +50895,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">kiitiätá</t>
+            <t pos="">kii tiätá</t>
          </tg>
       </mg>
    </e>
@@ -51317,12 +51551,21 @@
    </e>
    <e id="4896">
       <lg>
-         <l pos="">keräyspaikka, -piste</l>
+         <l pos="">keräyspaikka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">nuurrâmsaJe -saje</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4896">
+      <lg>
+         <l pos="">keräyspiste</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
             <t pos="">nurâttâh</t>
-            <t pos="">nuurrâmsaJe -saje</t>
          </tg>
       </mg>
    </e>
@@ -51343,7 +51586,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(kokoontua) čokkâniđ</t>
-            <t pos="">(jhk, saostua, nousta pintaan) čuol'duđ čuol'duum čuál'doo; (esim. tavarasta) nurrâluđ nurrâluum nurrâluVá ~ nuRâluđ nuRâluum nuRâluVá</t>
+            <t pos="">(jhk, saostua, nousta pintaan) čuol'duđ čuol'duum čuál'doo; (esim. tavarasta) nurrâluđ nurrâluum nurrâluVá ~ nuRâluđ nuRâluum nuRâluVá </t>
          </tg>
       </mg>
    </e>
@@ -51381,7 +51624,18 @@
    </e>
    <e id="4902">
       <lg>
-         <l pos="">keskellä, -ltä</l>
+         <l pos="">keskellä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">(jtak) kaskoo,</t>
+            <t pos="">kuáv'doo, kyev'dil</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4902">
+      <lg>
+         <l pos="">keskeltä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -51638,16 +51892,6 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">koskokko</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="4927">
-      <lg>
-         <l pos="">keskivälillä, -ltä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smn">
-            <t pos="">kaskoo</t>
          </tg>
       </mg>
    </e>
@@ -53628,7 +53872,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>Droseraceae</re>
-            <t pos="">kiär'ppáálostâšadoh,</t>
+            <t pos="">kiär'ppáálostâšadoh, </t>
             <t pos="">tivrelostâšadoh</t>
          </tg>
       </mg>
@@ -55051,7 +55295,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">šaVečuár'bbeeLi</t>
+            <t pos="">šaVe čuár'bbeeLi</t>
          </tg>
       </mg>
    </e>
@@ -55654,7 +55898,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(tietokoneelle, hotelliin tms.)</re>
-            <t pos="">čáládâttâđsiisâ</t>
+            <t pos="">čáládâttâđ siisâ</t>
          </tg>
       </mg>
    </e>
@@ -56868,7 +57112,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(puhdistaa rikkaruohoista tms.)</re>
-            <t pos="">renskiđ</t>
+            <t pos="">renskiđ </t>
          </tg>
       </mg>
    </e>
@@ -56879,7 +57123,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">häänis~hänes</t>
-            <t pos="">säiđi sääiđi # sáiđáá, käcci kääci # käcis, tiivâs tiivvâs;</t>
+            <t pos=""> säiđi sääiđi # sáiđáá, käcci kääci # käcis, tiivâs tiivvâs;</t>
          </tg>
       </mg>
    </e>
@@ -57080,7 +57324,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">kivsádâs~ki'vsádâs;</t>
-            <t pos="">(koettelemus) keččâlâs~keččâlus,</t>
+            <t pos="">(koettelemus) keččâlâs~keččâlus, </t>
          </tg>
       </mg>
    </e>
@@ -57922,7 +58166,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(ylemmäs) aLaniđ</t>
-            <t pos="">luŋâniđ luuŋŋân, paJaniđ paijaan; (ilmaan) luptâniđ (pystyyn) ceggâniđ ceggân;</t>
+            <t pos="">luŋâniđ luuŋŋân, paJaniđ paijaan; (ilmaan) luptâniđ  (pystyyn) ceggâniđ ceggân;</t>
          </tg>
       </mg>
    </e>
@@ -57988,7 +58232,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">vie'hâpyereest,</t>
+            <t pos="">vie'hâ pyereest,</t>
             <t pos="">šie'vnáál, tuđâttetteht, kuá'htulávt</t>
          </tg>
       </mg>
@@ -58590,7 +58834,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <re>(tottunut, harjaantunut)</re>
+            <re>(tottunut, harjaantunut) </re>
             <t pos="">hárjánâm,</t>
             <t pos="">oppâm</t>
          </tg>
@@ -59002,7 +59246,7 @@
          <tg xml:lang="smn">
             <re>Melanogrammus aeglefinus</re>
             <t pos="">tikso</t>
-            <t pos="">tivsá tiivsá</t>
+            <t pos=""> tivsá tiivsá</t>
          </tg>
       </mg>
    </e>
@@ -59178,7 +59422,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">tooHâđkuulmâkiä'rdásâžžân</t>
+            <t pos="">tooHâđ kuulmâkiä'rdásâžžân</t>
          </tg>
       </mg>
    </e>
@@ -59358,7 +59602,7 @@
          <tg xml:lang="smn">
             <re>(kieli)</re>
             <t pos="">nuor'ttâlâškieLâ</t>
-            <t pos="">nuor'ttâsämikieLâ -kielâ, nuor'ttâkieLâ -kielâ</t>
+            <t pos=""> nuor'ttâsämikieLâ -kielâ, nuor'ttâkieLâ -kielâ</t>
          </tg>
       </mg>
    </e>
@@ -59760,7 +60004,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">kuál'ŋánâmmuoRâ</t>
+            <t pos="">kuál'ŋánâm muoRâ</t>
          </tg>
       </mg>
    </e>
@@ -59998,12 +60242,23 @@
    </e>
    <e id="5723">
       <lg>
-         <l pos="">koossa, -lla</l>
+         <l pos="" re="non-animate">koossa</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
             <t pos="">čuákist~čuákkist,</t>
             <t pos="">čuáhist, nuRâsist;</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5723">
+      <lg>
+         <l pos="" re="animate">koolla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">čuákist~čuákkist,</t>
+            <t pos="">čuáhist</t>
          </tg>
       </mg>
    </e>
@@ -60489,7 +60744,18 @@
    </e>
    <e id="5770">
       <lg>
-         <l pos="">korkealla, -lta</l>
+         <l pos="">korkealla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">alleen,</t>
+            <t pos="">ollâgâsâst</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5770">
+      <lg>
+         <l pos="">korkealta</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -60806,7 +61072,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">čevli</t>
-            <t pos="">čiäv'láávuođâ, kuár'gu kuárgu</t>
+            <t pos=""> čiäv'láávuođâ, kuár'gu kuárgu</t>
          </tg>
       </mg>
    </e>
@@ -61786,7 +62052,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">vuo'lgâttiđpááikán</t>
+            <t pos="">vuo'lgâttiđ pááikán </t>
          </tg>
       </mg>
    </e>
@@ -61859,13 +62125,14 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">leđemeddâl kostnii</t>
+            <t pos="">leđe meddâl kostnii</t>
          </tg>
       </mg>
    </e>
    <e id="5900">
       <lg>
-         <l pos="">kotona, kotosalla</l>
+        <l pos="">kotona</l>
+	<l_syn pos="">kotona, kotosalla</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -62410,7 +62677,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">salttiđkye'le</t>
+            <t pos="">salttiđ kye'le</t>
          </tg>
       </mg>
    </e>
@@ -62420,7 +62687,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">aččinj~aččin~haččin,</t>
+            <t pos="">aččinj~aččin~haččin, </t>
             <t pos="">aaččân~aččân, čarviittoh čarviittuv, aččinriččâ -riičâ, suonâkiäsáttâh -kiä'sáttuv</t>
          </tg>
       </mg>
@@ -63066,11 +63333,18 @@
    </e>
    <e id="6014">
       <lg>
-         <l pos="">kuivatus, kuivaus</l>
+         <l pos="">kuivatus</l>
+         <l_syn pos="">kuivaus</l_syn>
       </lg>
       <mg>
+        <tg xml:lang="smn">
+	  <re>cloths</re>
+            <t pos="">kuškim</t>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="smn">
-            <t pos="">kuškim,</t>
+	  <re>food</re>
             <t pos="">kuškâdem</t>
          </tg>
       </mg>
@@ -63901,7 +64175,8 @@
    </e>
    <e id="6093">
       <lg>
-         <l pos="">kulttuurillinen, kulttuurinen</l>
+         <l pos="">kulttuurillinen</l>
+         <l_syn pos="">kulttuurillinen, kulttuurinen</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -64029,7 +64304,8 @@
    </e>
    <e id="6105">
       <lg>
-         <l pos="">kumarainen, kumara</l>
+         <l pos="">kumarainen</l>
+         <l_syn pos="">kumarainen, kumara</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -64309,7 +64585,8 @@
    </e>
    <e id="6132">
       <lg>
-         <l pos="">kumollaan, kumossa</l>
+         <l pos="">kumollaan</l>
+         <l_syn pos="">kumollaan, kumossa</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -65240,7 +65517,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">jäämmiđ</t>
-            <t pos="">rokkeluđ rokkeluum rokkeluVá; (sukupuuttoon) suvâttuđ suvâttuum suvâttuVá, kudduđ; (tapaturmaisesti) surmâniđ; (saada surmansa) ruáp'pániđ, surmâšuđ surmâšuum surmâšuVá; (esim. sodassa, kaatua) viirrâđ viirâm viRá;</t>
+            <t pos="">rokkeluđ rokkeluum rokkeluVá; (sukupuuttoon) suvâttuđ suvâttuum suvâttuVá,  kudduđ; (tapaturmaisesti) surmâniđ; (saada surmansa) ruáp'pániđ, surmâšuđ surmâšuum surmâšuVá; (esim. sodassa, kaatua) viirrâđ viirâm viRá;</t>
          </tg>
       </mg>
    </e>
@@ -66210,7 +66487,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(olla vieraskorea) kuá'sástâllâđ</t>
-            <t pos="">(ujostella, kainostella) uináástâllâđ uináástâlâm, ujostâllâđ ujostâlâm</t>
+            <t pos="">(ujostella, kainostella) uináástâllâđ uináástâlâm,  ujostâllâđ ujostâlâm</t>
          </tg>
       </mg>
    </e>
@@ -66242,7 +66519,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">kursivistiđ</t>
+            <t pos="">kursivistiđ </t>
          </tg>
       </mg>
    </e>
@@ -67329,7 +67606,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">pe'ljitteskie'lâttem</t>
+            <t pos="">pe'ljittes kie'lâttem</t>
          </tg>
       </mg>
    </e>
@@ -67848,8 +68125,9 @@
       </mg>
    </e>
    <e id="6468">
-      <lg>
-         <l pos="">kylliksi, kyllin</l>
+      <lg ex="'kylliksi' on 'kyllin'">
+         <l pos="">kylliksi</l>
+         <l_syn pos="">kylliksi, kyllin</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -68450,7 +68728,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">pennâčohhee,</t>
+            <t pos="">pennâčohhee, </t>
             <t pos="">pennâčuuhâm</t>
          </tg>
       </mg>
@@ -68511,7 +68789,17 @@
    </e>
    <e id="6531">
       <lg>
-         <l pos="">kypärälakki, -huppu</l>
+         <l pos="">kypärälakki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">vye'Likappeer</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6531">
+      <lg>
+         <l pos="">kypärähuppu</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -68752,7 +69040,8 @@
    </e>
    <e id="6554">
       <lg>
-         <l pos="">kyykkiä, olla kyykyssä</l>
+         <l pos="">kyykkiä</l>
+         <l_syn pos="">kyykkiä, olla kyykyssä</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -69060,7 +69349,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(veljen vaimo, aviomiehen sisar t. kahden veljen vaimot toinen toisilleen) káluenni</t>
-            <t pos="">(veljen t. erit. vanhemman veljen vaimo t. muun vanhemman miessukulaisen vaimo) iMe ime; (nuoremman veljen vaimo) maNjepeeLi -pele; (aviomiehen nuorempi sisko t. veli) immeev imeevah; (aviopuolison vanhempi sisko) vye'neppeeLi -pele</t>
+            <t pos="">(veljen t. erit. vanhemman veljen vaimo  t. muun vanhemman miessukulaisen vaimo) iMe ime; (nuoremman veljen vaimo) maNjepeeLi -pele; (aviomiehen nuorempi sisko t. veli) immeev imeevah; (aviopuolison vanhempi sisko) vye'neppeeLi -pele</t>
          </tg>
       </mg>
    </e>
@@ -69072,7 +69361,7 @@
          <tg xml:lang="smn">
             <re>(mon.)</re>
             <t pos="">(veljesten vaimot toinen toisensa suhteen) kálueenniš ~ káálueNiš;</t>
-            <t pos="">(aviomiehen veli t. sisar ja tämän vaimon toinen toisensa suhteen) iimiš</t>
+            <t pos="">(aviomiehen veli t. sisar ja tämän vaimon toinen toisensa suhteen) iimiš </t>
          </tg>
       </mg>
    </e>
@@ -69146,7 +69435,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">mätkipuhelin,</t>
-            <t pos="">kännyk</t>
+            <t pos=""> kännyk</t>
          </tg>
       </mg>
    </e>
@@ -69440,7 +69729,8 @@
    </e>
    <e id="6619">
       <lg>
-         <l pos="">kärsiminen, kärsimys</l>
+         <l pos="">kärsiminen</l>
+         <l_syn pos="">kärsiminen, kärsimys</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -69732,7 +70022,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">edirvâššâđ</t>
-            <t pos="">iberdiđ ibbeerd; (jotenkuten) kuomâldiđ</t>
+            <t pos="">iberdiđ ibbeerd; (jotenkuten) kuomâldiđ </t>
          </tg>
       </mg>
    </e>
@@ -69851,7 +70141,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">adeliđkieđâ</t>
+            <t pos="">adeliđ kieđâ</t>
          </tg>
       </mg>
    </e>
@@ -69911,7 +70201,18 @@
    </e>
    <e id="6663">
       <lg>
-         <l pos="">kätkössä, -stä</l>
+         <l pos="">kätkössä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">piäit'tusist,</t>
+            <t pos="">čiähusist</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6663">
+      <lg>
+         <l pos="">kätköstä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -70103,11 +70404,11 @@
    </e>
    <e id="6681">
       <lg>
-         <l pos="">käynnistyä</l>
+         <l pos="">käynnistyä </l>
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">vyel'giđjoton</t>
+            <t pos="">vyel'giđ joton</t>
          </tg>
       </mg>
    </e>
@@ -70322,7 +70623,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">anolâs</t>
-            <t pos="">keevâtlâš keevâtlii</t>
+            <t pos="">keevâtlâš keevâtlii </t>
          </tg>
       </mg>
    </e>
@@ -70554,7 +70855,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">snoRâtäsni</t>
+            <t pos="">snoRâtäsni </t>
          </tg>
       </mg>
    </e>
@@ -71378,7 +71679,7 @@
          <tg xml:lang="smn">
             <re>(olla laihdutuskuurilla)</re>
             <t pos="">ruá'inudiđ</t>
-            <t pos="">ruái'nudâttâđ ruái'nudâđâm</t>
+            <t pos=""> ruái'nudâttâđ ruái'nudâđâm</t>
          </tg>
       </mg>
    </e>
@@ -71410,7 +71711,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">ruoi'nâm,</t>
-            <t pos="">kuoi'râm; (vatsastaan, erit. eläimistä) čuá'littem # čuá'littemes ~ čuá'littes</t>
+            <t pos="">kuoi'râm; (vatsastaan, erit. eläimistä) čuá'littem # čuá'littemes ~  čuá'littes</t>
          </tg>
       </mg>
    </e>
@@ -72108,7 +72409,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <re>(johdattaa tokkaa porolla)</re>
+            <re>(johdattaa tokkaa porolla) </re>
             <t pos="">laiđiistiđ</t>
          </tg>
       </mg>
@@ -72164,7 +72465,7 @@
          <tg xml:lang="smn">
             <re>kauniiksi</re>
             <t pos="">tiäl'láđ</t>
-            <t pos="">tiäl'láádâttâđ tiäl'láádâđâm tiäl'láádât</t>
+            <t pos=""> tiäl'láádâttâđ tiäl'láádâđâm tiäl'láádât</t>
          </tg>
       </mg>
    </e>
@@ -72425,7 +72726,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">laaVâstmeRidum,</t>
+            <t pos="">laaVâst meRidum,</t>
             <t pos="">lahâaasâtlâš -aasâtlii</t>
          </tg>
       </mg>
@@ -72547,7 +72848,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">laaVâstmeRidum,</t>
+            <t pos="">laaVâst meRidum,</t>
             <t pos="">lahâaasâtlâš -aasâtlii</t>
          </tg>
       </mg>
@@ -72946,7 +73247,7 @@
          <tg xml:lang="smn">
             <re>(esim. verkkoyhteys)</re>
             <t pos="">kaabelttes,</t>
-            <t pos="">sra'ŋgâttes</t>
+            <t pos=""> sra'ŋgâttes</t>
          </tg>
       </mg>
    </e>
@@ -73785,7 +74086,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(mus.)</re>
-            <t pos="">vie'hâhitásávt (muus.)</t>
+            <t pos="">vie'hâ hitásávt (muus.)</t>
          </tg>
       </mg>
    </e>
@@ -74535,7 +74836,8 @@
    </e>
    <e id="7101">
       <lg>
-         <l pos="">laupea, laupias</l>
+         <l pos="">laupea</l>
+         <l_syn pos="">laupea, laupias</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -74755,7 +75057,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(höpistä) šlobârdiđ</t>
-            <t pos="">(juoruta) šladârdiđ šlaaddârd; (kieliä, paljastaa salaisuus) čulliđ čulliim čollee; (kannella, ilmiantaa) kuod'dâliđ</t>
+            <t pos="">(juoruta) šladârdiđ šlaaddârd; (kieliä, paljastaa salaisuus) čulliđ čulliim čollee; (kannella, ilmiantaa) kuod'dâliđ </t>
          </tg>
       </mg>
    </e>
@@ -74766,7 +75068,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(höpisijä) šloobâr</t>
-            <t pos="">(kielijä, ilmiantaja) čollee, kuod'dâleijee; (juoruaja) šladârdeijee</t>
+            <t pos="">(kielijä, ilmiantaja) čollee,  kuod'dâleijee; (juoruaja) šladârdeijee</t>
          </tg>
       </mg>
    </e>
@@ -74907,7 +75209,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">luptâildee,</t>
-            <t pos="">lu'ptâstâh lu'ptâstuv</t>
+            <t pos=""> lu'ptâstâh lu'ptâstuv</t>
          </tg>
       </mg>
    </e>
@@ -76015,7 +76317,8 @@
    </e>
    <e id="7242">
       <lg>
-         <l pos="">lenkkari, lenkkikenkä</l>
+         <l pos="">lenkkari</l>
+         <l_syn pos="">lenkkari, lenkkikenkä</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -76620,7 +76923,8 @@
    </e>
    <e id="7300">
       <lg>
-         <l pos="">leventyä, levetä</l>
+         <l pos="">leventyä</l>
+         <l_syn pos="">leventyä, levetä</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -76859,7 +77163,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">skiäRurähtiđ,</t>
+            <t pos="">skiäRu rähtiđ,</t>
             <t pos="">skiär'rudiđ</t>
          </tg>
       </mg>
@@ -76886,7 +77190,18 @@
    </e>
    <e id="7325">
       <lg>
-         <l pos="">levälleen, -lään</l>
+         <l pos="">levälleen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">liäb'bud,</t>
+            <t pos="">liäd'dud, liäp'čud</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7325">
+      <lg>
+         <l pos="">levällään</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -77310,7 +77625,7 @@
    </e>
    <e id="7365">
       <lg>
-         <l pos="">lihapuikko, -keppi</l>
+         <l pos="">lihakeppi</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -78220,7 +78535,8 @@
    </e>
    <e id="7452">
       <lg>
-         <l pos="">linnunpelätin, -pelätti</l>
+         <l pos="">linnunpelätin</l>
+         <l_syn pos="">linnunpelätti</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -79298,7 +79614,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(m. maanmittauksessa)</re>
-            <t pos="">laigom,</t>
+            <t pos="">laigom, </t>
             <t pos="">luák'kum</t>
          </tg>
       </mg>
@@ -79825,7 +80141,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">pivdojyel'gi</t>
+            <t pos="">pivdojyel'gi </t>
          </tg>
       </mg>
    </e>
@@ -80012,7 +80328,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">šaarrân~šarrân,</t>
+            <t pos="">šaarrân~šarrân, </t>
             <t pos="">šnjoorrân~njoorrân</t>
          </tg>
       </mg>
@@ -80508,7 +80824,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">njuoidiđpeeljijd</t>
+            <t pos="">njuoidiđ peeljijd</t>
          </tg>
       </mg>
    </e>
@@ -81424,7 +81740,18 @@
    </e>
    <e id="7755">
       <lg>
-         <l pos="">luona, -ta</l>
+         <l pos="">luona</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">keččin,</t>
+            <t pos="">kulen, kuvlân, lunne;</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7755">
+      <lg>
+         <l pos="">luota</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -81879,7 +82206,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">muorâiheriegis</t>
+            <t pos="">muorâ iheriegis</t>
          </tg>
       </mg>
    </e>
@@ -82651,7 +82978,17 @@
    </e>
    <e id="7873">
       <lg>
-         <l pos="">lähellä, -tä</l>
+         <l pos="">lähellä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">a'lda;</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7873">
+      <lg>
+         <l pos="">läheltä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -82661,12 +82998,23 @@
    </e>
    <e id="7874">
       <lg>
-         <l pos="">lähemmäs, lähempänä</l>
+         <l pos="">lähemmäs</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
             <t pos="">aldeláá;</t>
-            <t pos="">(vähän) aldeláhháá; (järveä) jävriláá; (pöytää) pevdiláá;</t>
+            <t pos="">(vähän) aldeláhháá</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7874">
+      <lg>
+         <l pos="">lähempänä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">aldeláá;</t>
+            <t pos="">(vähän) aldeláhháá</t>
          </tg>
       </mg>
    </e>
@@ -82815,7 +83163,17 @@
    </e>
    <e id="7889">
       <lg>
-         <l pos="">lähimmäinen, lähin</l>
+         <l pos="">lähimmäinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">a'ldemuš</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7889">
+      <lg>
+         <l pos="">lähin</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -82847,7 +83205,17 @@
    </e>
    <e id="7892">
       <lg>
-         <l pos="">lähistöllä, -tä</l>
+         <l pos="">lähistöllä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">aldasijn</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7892">
+      <lg>
+         <l pos="">lähistöltä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -83295,7 +83663,18 @@
    </e>
    <e id="7934">
       <lg>
-         <l pos="">länsipuolella, -lta</l>
+         <l pos="">länsipuolella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">vie'stârpeln,</t>
+            <t pos="">uárjibeln</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7934">
+      <lg>
+         <l pos="">länsipuolelta</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -84789,7 +85168,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">tooHâđmá'hđulâžžân</t>
+            <t pos="">tooHâđ má'hđulâžžân</t>
          </tg>
       </mg>
    </e>
@@ -85503,7 +85882,17 @@
    </e>
    <e id="8146">
       <lg>
-         <l pos="">makuulla, makuulle</l>
+         <l pos="">makuulla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">viällud;</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8146">
+      <lg>
+         <l pos="">makuulle</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -85539,7 +85928,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">cerkki</t>
-            <t pos="">~ cerkkâ ceerhâ, kalkkâ kaalhâ</t>
+            <t pos=""> ~ cerkkâ ceerhâ, kalkkâ kaalhâ</t>
          </tg>
       </mg>
    </e>
@@ -86344,7 +86733,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">mätkipuhelin,</t>
-            <t pos="">kännyk</t>
+            <t pos=""> kännyk</t>
          </tg>
       </mg>
    </e>
@@ -86755,7 +87144,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">stuime</t>
-            <t pos="">liä'vuttemesvuotâ liä'vuttemesvuođâ, tuá'ruttem</t>
+            <t pos=""> liä'vuttemesvuotâ liä'vuttemesvuođâ, tuá'ruttem</t>
          </tg>
       </mg>
    </e>
@@ -88400,7 +88789,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">nie'vrismieLâ</t>
+            <t pos="">nie'vris mieLâ</t>
          </tg>
       </mg>
    </e>
@@ -88835,7 +89224,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">uái'nualnestis</t>
+            <t pos="">uái'nu alnestis</t>
          </tg>
       </mg>
    </e>
@@ -88851,7 +89240,17 @@
    </e>
    <e id="8463">
       <lg>
-         <l pos="">missä, -stä</l>
+         <l pos="">missä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">kost;</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8463">
+      <lg>
+         <l pos="">mistä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -89482,7 +89881,8 @@
    </e>
    <e id="8524">
       <lg>
-         <l pos="">mopedi, mopo</l>
+         <l pos="">mopedi</l>
+         <l_syn pos="">mopedi, mopo</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -89623,7 +90023,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(koettaa muistaa) mu'štâččiđ</t>
-            <t pos="">mu'štástâllâđ mu'štástâlâm; (kertoa muistoja, tarinoita tms.) muštâliđ muštâl</t>
+            <t pos="">mu'štástâllâđ mu'štástâlâm;  (kertoa muistoja, tarinoita tms.) muštâliđ muštâl</t>
          </tg>
       </mg>
    </e>
@@ -89712,7 +90112,8 @@
    </e>
    <e id="8546">
       <lg>
-         <l pos="">muka, mukamas</l>
+         <l pos="">muka</l>
+         <l_syn pos="">muka, mukamas</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -89770,7 +90171,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(hauskuus) hävskivuotâ</t>
-            <t pos="">(sopivuus) vuoVâsvuotâ -vuođâ; (viihtyisyys) makkuuvuotâ -vuođâ</t>
+            <t pos="">(sopivuus)  vuoVâsvuotâ -vuođâ; (viihtyisyys) makkuuvuotâ -vuođâ</t>
          </tg>
       </mg>
    </e>
@@ -90615,7 +91016,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">muál'lu</t>
-            <t pos="">muáLu muálu; (erit. heinän, jäkälän tms.) moivârâh moivâruv, moive mooive ~ mo'ive</t>
+            <t pos="">muáLu muálu; (erit. heinän, jäkälän tms.) moivârâh moivâruv,  moive mooive ~ mo'ive</t>
          </tg>
       </mg>
    </e>
@@ -91281,7 +91682,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">maacij~macij,</t>
+            <t pos="">maacij~macij, </t>
             <t pos="">maacâi~macâi</t>
          </tg>
       </mg>
@@ -91580,7 +91981,8 @@
    </e>
    <e id="8723">
       <lg>
-         <l pos="">muuten, muutoin</l>
+         <l pos="">muuten</l>
+         <l_syn pos="">muuten, muutoin</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -92073,7 +92475,8 @@
    </e>
    <e id="8770">
       <lg>
-         <l pos="">myöhä, myöhäinen</l>
+         <l pos="">myöhä</l>
+         <l_syn pos="">myöhä, myöhäinen</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -92920,7 +93323,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <re>(lampaasta tms.)</re>
+            <re>(lampaasta tms.) </re>
             <t pos="">mehistiđ</t>
             <t pos="">~ mähistiđ määhist; (vähän ja/t. useita kertoja) miä'hástâllâđ miä'hástâlâm; (kovalla ja matalalla äänellä) mulijdiđ muulijd ~ mulidiđ muuliid; (kutsuhuutoon vastaten) tävistiđ täävist;</t>
          </tg>
@@ -93105,7 +93508,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">moollâđ~muollâđ</t>
+            <t pos="">moollâđ~muollâđ </t>
             <t pos="">myelliđ muáLá</t>
          </tg>
       </mg>
@@ -93964,7 +94367,7 @@
    </e>
    <e id="8948">
       <lg>
-         <l pos="">narskuttaa</l>
+         <l pos="">narskuttaa </l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -95568,7 +95971,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">ranttu</t>
-            <t pos="">tolcce to'lce # to'lces; (raskaana olevasta naisesta, jolla ei ole ruokahalua esim. pahoinvoinnin takia) vyesvis vuás'vá</t>
+            <t pos="">tolcce to'lce # to'lces; (raskaana olevasta naisesta, jolla ei ole ruokahalua esim. pahoinvoinnin takia) vyesvis vuás'vá </t>
          </tg>
       </mg>
    </e>
@@ -95781,7 +96184,7 @@
    </e>
    <e id="9121">
       <lg>
-         <l pos="">niukinnaukin</l>
+         <l pos="">niukin naukin</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -95972,7 +96375,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(tehdä noitakonsteja) nuái'duđ</t>
-            <t pos="">nuá'idástâllâđ nuá'idástâlâm; (jklle jtak pahaa t. ikävää) uskiđ uskiim uskee; (kiroilla) korottiđ kooroot, kaRodiđ karrood, kiä'čádâllâđ kiä'čádâlâm, ciä'hudiđ; (kerran) kečidiđ keeččid; (kiroilla vähän) ciä'hustiđ</t>
+            <t pos="">nuá'idástâllâđ nuá'idástâlâm; (jklle jtak pahaa t. ikävää) uskiđ uskiim uskee; (kiroilla) korottiđ kooroot, kaRodiđ karrood, kiä'čádâllâđ kiä'čádâlâm, ciä'hudiđ; (kerran) kečidiđ keeččid;  (kiroilla vähän) ciä'hustiđ</t>
          </tg>
       </mg>
    </e>
@@ -96549,7 +96952,8 @@
    </e>
    <e id="9194">
       <lg>
-         <l pos="">notkelma, notko</l>
+         <l pos="">notkelma</l>
+         <l_syn pos="">notkelma, notko</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -96581,7 +96985,17 @@
    </e>
    <e id="9197">
       <lg>
-         <l pos="">notkollaan, -leen</l>
+         <l pos="">notkollaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">soijood</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9197">
+      <lg>
+         <l pos="">notkolleen</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -97687,7 +98101,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">häänis~hänes</t>
-            <t pos="">säiđi sääiđi # sáiđáá, käcci kääci # käcis, tiivâs tiivvâs;</t>
+            <t pos=""> säiđi sääiđi # sáiđáá, käcci kääci # käcis, tiivâs tiivvâs;</t>
          </tg>
       </mg>
    </e>
@@ -98384,7 +98798,8 @@
    </e>
    <e id="9368">
       <lg>
-         <l pos="">näppy, näppylä</l>
+         <l pos="">näppy</l>
+         <l_syn pos="">näppy, näppylä</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -98505,7 +98920,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">sijvuht;</t>
-            <t pos="">(hiljaa) siijvost</t>
+            <t pos="">(hiljaa) siijvost </t>
          </tg>
       </mg>
    </e>
@@ -98685,9 +99100,10 @@
       </mg>
    </e>
    <e id="9396">
-      <lg>
-         <l pos="">näyttävä, hyvännäköinen</l>
-      </lg>
+     <lg>
+       <l pos="">näyttävä</l>
+       <l_syn pos="">näyttävä, hyvännäköinen</l_syn>
+     </lg>
       <mg>
          <tg xml:lang="smn">
             <t pos="">neehuš</t>
@@ -99006,7 +99422,8 @@
    </e>
    <e id="9427">
       <lg>
-         <l pos="">ohi, ohitse</l>
+         <l pos="">ohi</l>
+         <l_syn pos="">ohi, ohitse</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -99040,7 +99457,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">lappâdmoonnâđ,</t>
+            <t pos="">lappâd moonnâđ, </t>
             <t pos="">lappâdistiđ lappâdistám</t>
          </tg>
       </mg>
@@ -103800,12 +104217,13 @@
    </e>
    <e id="9884">
       <lg>
-         <l pos="">paksuta, paksuuntua</l>
+         <l pos="">paksuta</l>
+         <l_syn pos="">paksuta, paksuuntua</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">(litteistä esineistä) assoođ</t>
-            <t pos="">(pyöreistä esineistä, ihmisistä, lumesta) kassoođ kasom</t>
+            <t pos="" re="flat">(litteistä esineistä) assoođ</t>
+            <t pos="" re="round">(pyöreistä esineistä, ihmisistä, lumesta) kassoođ kasom</t>
          </tg>
       </mg>
    </e>
@@ -103815,7 +104233,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">(litteistä esineistä) asodâh~asodoh~asoduh</t>
+            <t pos="">(litteistä esineistä) asodâh~asodoh~asoduh </t>
             <t pos="">assaavuotâ assaavuođâ; (pyöreistä esineistä, ihmisistä, lumesta) kaSodâh kaSoduv, kossuvvuotâ kossuvvuođâ</t>
          </tg>
       </mg>
@@ -103833,7 +104251,8 @@
    </e>
    <e id="9887">
       <lg>
-         <l pos="">pala, palanen</l>
+         <l pos="">pala</l>
+         <l_syn pos="">pala, palanen</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -104716,7 +105135,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">palvâlus~palvâlâs;</t>
+            <t pos="">palvâlus~palvâlâs; </t>
             <t pos="">(saatavilla oleva) falâldâh falâlduv; (palvelu-) palvâlem-</t>
          </tg>
       </mg>
@@ -104882,7 +105301,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(asiaan)</re>
-            <t pos="">vuáijuđáášán</t>
+            <t pos="">vuáijuđ áášán</t>
          </tg>
       </mg>
    </e>
@@ -106819,7 +107238,8 @@
    </e>
    <e id="10171">
       <lg>
-         <l pos="">pelätin, pelätti</l>
+         <l pos="">pelätin</l>
+         <l_syn pos="">pelätin, pelätti</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -107471,7 +107891,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(kodassa)</re>
-            <t pos="">pervid;</t>
+            <t pos="">pervid; </t>
             <t pos="">(ovelta peräseinään) luái'dupeegâr -peggâr; (tulisijasta ovelle päin) uskepeervid; (tulisijasta peräseinään) puáš'šupeervid</t>
          </tg>
       </mg>
@@ -107509,7 +107929,8 @@
    </e>
    <e id="10237">
       <lg>
-         <l pos="">persaus, persamus</l>
+         <l pos="">persaus</l>
+         <l_syn pos="">persaus, persamus</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -107565,7 +107986,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">(esim. lupaus, vetäytyä lupauksesta) keessiđmaasâd,</t>
+            <t pos="">(esim. lupaus, vetäytyä lupauksesta) keessiđ maasâd,</t>
             <t pos="">kiä'sáđâttâđ kiäsáđâđâm (+lok.); (esim. tilaisuus) maasâdkeessiđ, mu'rdettiđ murdeet, joskâđ orniimist</t>
          </tg>
       </mg>
@@ -108827,7 +109248,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(mus.)</re>
-            <t pos="">uá'Lisiijvost,</t>
+            <t pos="">uá'Li siijvost,</t>
             <t pos="">uá'Li joskâdávt</t>
          </tg>
       </mg>
@@ -109078,7 +109499,8 @@
    </e>
    <e id="10387">
       <lg>
-         <l pos="">pienentyä, pienetä</l>
+         <l pos="">pienentyä</l>
+         <l_syn pos="">pienentyä, pienetä</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -109437,7 +109859,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">häänis~hänes</t>
-            <t pos="">säiđi sääiđi # sáiđáá, käcci kääci # käcis, tiivâs tiivvâs;</t>
+            <t pos=""> säiđi sääiđi # sáiđáá, käcci kääci # käcis, tiivâs tiivvâs;</t>
          </tg>
       </mg>
    </e>
@@ -109690,11 +110112,22 @@
    </e>
    <e id="10444">
       <lg>
-         <l pos="">piilossa, -sta</l>
+         <l pos="">piilossa</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">čiähusist,</t>
+            <t pos="">čiä'husist,</t>
+            <t pos="">piäit'tusist</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10444">
+      <lg>
+         <l pos="">piilosta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">čiä'husist,</t>
             <t pos="">piäit'tusist</t>
          </tg>
       </mg>
@@ -110792,7 +111225,18 @@
    </e>
    <e id="10547">
       <lg>
-         <l pos="">pilalle, -lla</l>
+         <l pos="">pilalle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">piLán,</t>
+            <t pos="">piLás;</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10547">
+      <lg>
+         <l pos="">pilalla</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -110917,7 +111361,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <re>(täplä esim. turkissa)</re>
+            <re>(täplä esim. turkissa) </re>
             <t pos="">tiäl'kku</t>
             <t pos="">čyegis čuág'gá</t>
          </tg>
@@ -111997,24 +112441,13 @@
          </tg>
       </mg>
    </e>
-   <e id="10661">
-      <lg>
-         <l pos="">pitkällään, pitkälleen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smn">
-            <t pos="">kommood,</t>
-            <t pos="">koMo-;</t>
-         </tg>
-      </mg>
-   </e>
    <e id="10662">
       <lg>
          <l pos="">pitkälti</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">pyeRimuudon</t>
+            <t pos="">pyeRi muudon</t>
          </tg>
       </mg>
    </e>
@@ -112212,7 +112645,7 @@
    </e>
    <e id="10681">
       <lg>
-         <l pos="">pitää</l>
+         <l pos="">pitää </l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -112230,7 +112663,7 @@
          <tg xml:lang="smn">
             <re>(jtak)</re>
             <t pos="">(käyttää esim. kenkiä) anneeđ</t>
-            <t pos="">(konkr. esim. kädessä) toollâđ toolâm tuáLá; (jnak, jnkinlaisena) anneeđ (+ ess.); (itseään jnak) anadâttâđ anadâđâm (+ ess.); (tietynlaisia säitä) anneeđ (+ akk.)</t>
+            <t pos="">(konkr. esim. kädessä) toollâđ toolâm tuáLá; (jnak, jnkinlaisena) anneeđ (+ ess.); (itseään jnak) anadâttâđ anadâđâm (+ ess.); (tietynlaisia säitä) anneeđ (+ akk.) </t>
          </tg>
       </mg>
    </e>
@@ -112682,7 +113115,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <re>Lycopodium annotium ssp. alpestre</re>
+            <re>Lycopodium annotium  ssp. alpestre</re>
             <t pos="">tavesoterääSi~-rääsi</t>
          </tg>
       </mg>
@@ -114202,7 +114635,7 @@
    </e>
    <e id="10867">
       <lg>
-         <l pos="">poronnenäsaivartaja</l>
+         <l pos="">poron nenäsaivartaja</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -114641,7 +115074,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">pieijâđpoostân,</t>
+            <t pos="">pieijâđ poostân,</t>
             <t pos="">vuo'lgâttiđ poostâ fáárust, postiđ postiim</t>
          </tg>
       </mg>
@@ -114883,7 +115316,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(mus.)</re>
-            <t pos="">uá'Lijotelávt,</t>
+            <t pos="">uá'Li jotelávt,</t>
             <t pos="">uá'Li hoppuuht</t>
          </tg>
       </mg>
@@ -115046,7 +115479,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">prosessâ,</t>
+            <t pos="">prosessâ, </t>
             <t pos="">proosees</t>
          </tg>
       </mg>
@@ -115835,7 +116268,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(miesten)</re>
-            <t pos="">a'lmaimááccuh</t>
+            <t pos="">a'lmai mááccuh</t>
          </tg>
       </mg>
    </e>
@@ -116754,7 +117187,17 @@
    </e>
    <e id="11109">
       <lg>
-         <l pos="">puolella, -lta</l>
+         <l pos="">puolella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">peln</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11109">
+      <lg>
+         <l pos="">puolelta</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -117067,7 +117510,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">pelettemesvuotâ</t>
+            <t pos="">pelettemesvuotâ </t>
          </tg>
       </mg>
    </e>
@@ -117527,7 +117970,7 @@
    </e>
    <e id="11183">
       <lg>
-         <l pos="">purskahtaaitkuun</l>
+         <l pos="">purskahtaa itkuun</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -117538,7 +117981,7 @@
    </e>
    <e id="11184">
       <lg>
-         <l pos="">purskahtaanauruun</l>
+         <l pos="">purskahtaa nauruun</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -117752,7 +118195,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">poccee,</t>
-            <t pos="">puđkkâ puuđhâ; (keihään teräosan onsi) putkâ puuđhâ</t>
+            <t pos="">puđkkâ puuđhâ; (keihään teräosan onsi) putkâ puuđhâ </t>
          </tg>
       </mg>
    </e>
@@ -118272,7 +118715,7 @@
          <tg xml:lang="smn">
             <re>(olla liian vähän)</re>
             <t pos="">(olla ilman) váiluđ</t>
-            <t pos="">(olla puutetta jstak) váánnuđ vááNu; (huveta, tyhjetä esim. ruokavarastoista) vaJâgâššâđ vaJâgâšâm vaJâgâš ~ váJugâššâđ váJugâšâm váJugâš ~ váJágâššâđ váJágâšâm váJágâš</t>
+            <t pos="">(olla puutetta jstak) váánnuđ vááNu; (huveta, tyhjetä esim. ruokavarastoista) vaJâgâššâđ vaJâgâšâm vaJâgâš ~ váJugâššâđ  váJugâšâm váJugâš ~ váJágâššâđ  váJágâšâm váJágâš</t>
          </tg>
       </mg>
    </e>
@@ -119365,7 +119808,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">pyerástâllâm,</t>
-            <t pos="">pyeráinvyeijim</t>
+            <t pos=""> pyeráinvyeijim</t>
          </tg>
       </mg>
    </e>
@@ -120259,7 +120702,18 @@
    </e>
    <e id="11443">
       <lg>
-         <l pos="">päällä, -ltä</l>
+         <l pos="">päällä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">alne,</t>
+            <t pos="">paJalist, paajeeld; (korvamerkissä) oovdeld</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11443">
+      <lg>
+         <l pos="">päältä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -121446,7 +121900,7 @@
          <tg xml:lang="smn">
             <re>(kaapia)</re>
             <t pos="">faskođ</t>
-            <t pos="">foskâđ fooskâm ~ voskâđ vooskâm, rappiđ rappiim räppee ~ srappiđ srappiim sräppee; (jatkuvasti) fo'skâdiđ fooskâd ~ vo'skâdiđ vooskâd</t>
+            <t pos=""> foskâđ fooskâm ~ voskâđ vooskâm, rappiđ rappiim räppee ~ srappiđ srappiim sräppee; (jatkuvasti) fo'skâdiđ fooskâd ~ vo'skâdiđ vooskâd</t>
          </tg>
       </mg>
    </e>
@@ -121540,7 +121994,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(kuolleen eläimen ruho) ráátu</t>
-            <t pos="">(romu, rikkinäinen, kulunut, loppuunkäytetty esine) ráátu rááđu, ruŋgo ru'ŋgo, ruám'čči ruámči, ruáš'ku ruášku, ryem'čči ryemči; (erit. vaate, resu) sote sođe; (-raato) -kápuluh, -ruot'tâ -ruotâ; (erit. lyhyeksi kulunut) -luág'gi -luági; (hihnoista t. pauloista) -tiep'si -tiepsi;</t>
+            <t pos="">(romu, rikkinäinen, kulunut, loppuunkäytetty esine) ráátu rááđu, ruŋgo ru'ŋgo,  ruám'čči ruámči, ruáš'ku ruášku, ryem'čči ryemči; (erit. vaate, resu) sote sođe; (-raato) -kápuluh, -ruot'tâ -ruotâ; (erit. lyhyeksi kulunut) -luág'gi -luági; (hihnoista t. pauloista) -tiep'si -tiepsi;</t>
          </tg>
       </mg>
    </e>
@@ -122938,7 +123392,17 @@
    </e>
    <e id="11700">
       <lg>
-         <l pos="">rannemmas, rannempana</l>
+         <l pos="">rannemmas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">riddoláá</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11700">
+      <lg>
+         <l pos="">rannempana</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -123622,7 +124086,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">párnáidvuástá;</t>
+            <t pos="">párnáid vuástá;</t>
          </tg>
       </mg>
    </e>
@@ -125117,7 +125581,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(kulunut vaate) sote</t>
-            <t pos="">rappe rape, lippâr; (yleisesti kuluneestä esineestä) ruátu ruáđu ~ ruá'đo, ryem'čči ryemči, haškâ haaškâ; (-resu) -ryem'čči -ryemči; (-resu, hihnoista t. pauloista) -tiep'si -tiepsi</t>
+            <t pos="">rappe rape, lippâr; (yleisesti kuluneestä esineestä) ruátu ruáđu ~ ruá'đo, ryem'čči ryemči, haškâ haaškâ; (-resu) -ryem'čči -ryemči; (-resu, hihnoista t. pauloista) -tiep'si -tiepsi </t>
          </tg>
       </mg>
    </e>
@@ -125760,7 +126224,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(viedä konkr.) nisteđ</t>
-            <t pos="">(hyväksikäyttää) á'vhâstâllâđ á'vhâstâlam</t>
+            <t pos="">(hyväksikäyttää) á'vhâstâllâđ  á'vhâstâlam</t>
          </tg>
       </mg>
    </e>
@@ -126971,7 +127435,18 @@
    </e>
    <e id="12083">
       <lg>
-         <l pos="">ristikkäin, ristikkäinen</l>
+         <l pos="">ristikkäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">ruos'sâlâs;</t>
+            <t pos="">(lomittain) sálvulâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12083">
+      <lg>
+         <l pos="">ristikkäinen</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -127187,7 +127662,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">ravgođ</t>
-            <t pos="">rundođ ru'ndom</t>
+            <t pos=""> rundođ ru'ndom</t>
          </tg>
       </mg>
    </e>
@@ -128936,7 +129411,9 @@
    </e>
    <e id="12270">
       <lg>
-         <l pos="">ruokintapöytä, -kouru, -kaukalo</l>
+         <l pos="">ruokintapöytä</l>
+         <l_syn pos="">ruokintakouru</l_syn>
+         <l_syn pos="">ruokintakaukalo</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -130153,7 +130630,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">juávhoidjyeHiđ</t>
+            <t pos="">juávhoid jyeHiđ</t>
          </tg>
       </mg>
    </e>
@@ -130397,7 +130874,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">jormeeld</t>
+            <t pos="">jormeeld </t>
          </tg>
       </mg>
    </e>
@@ -131042,7 +131519,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">čođâvaaibâs</t>
+            <t pos="">čođâvaaibâs </t>
             <t pos="">(voimattoman uupunut) šliedâs šlied'dâs # šlied'dâ ~ šlieđâs šlieđ'đâs # šlieđ'đâ;</t>
          </tg>
       </mg>
@@ -132072,7 +132549,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">čuođijmild</t>
+            <t pos="">čuođij mild</t>
          </tg>
       </mg>
    </e>
@@ -132430,7 +132907,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">häänis ~ hänes</t>
-            <t pos="">säiđi sääiđi # sáiđáá, käcci kääci # käcis, tiivâs tiivvâs;</t>
+            <t pos=""> säiđi sääiđi # sáiđáá, käcci kääci # käcis, tiivâs tiivvâs;</t>
          </tg>
       </mg>
    </e>
@@ -133063,7 +133540,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">(kuivassa paikassa mattomaisesti kasvava) seevtil</t>
+            <t pos="">(kuivassa paikassa mattomaisesti kasvava) seevtil </t>
             <t pos="">(märässä paikassa kasvava, rahkasammal) siävŋál siäv'ŋál ~ siävŋul siäv'ŋul ~ seevŋâl sevŋâl ~ seevŋil siäv'ŋál</t>
          </tg>
       </mg>
@@ -135209,7 +135686,7 @@
    </e>
    <e id="12866">
       <lg>
-         <l pos="">sekä -että</l>
+         <l pos="">sekä - että</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -135395,7 +135872,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(ulkopuolelta päin) selgi</t>
-            <t pos="">(sisäpuolelta t. lihana) čielgi ~ čiel'gi čielgi; (vaaranselkä) čielgi ~ čiel'gi čielgi</t>
+            <t pos="">(sisäpuolelta t. lihana) čielgi ~ čiel'gi čielgi; (vaaranselkä)  čielgi ~ čiel'gi čielgi</t>
          </tg>
       </mg>
    </e>
@@ -135761,7 +136238,18 @@
    </e>
    <e id="12918">
       <lg>
-         <l pos="">selällään, -leen</l>
+         <l pos="">selällään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">(ihminen t. tavara ylösalaisin) kávukkoozâi~-kozâi,</t>
+            <t pos="">káávvud; (esim. ovi) siä'lgálâs;</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12918">
+      <lg>
+         <l pos="">selälleen</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -135848,7 +136336,7 @@
    </e>
    <e id="12926">
       <lg>
-         <l pos="">senkun (vain)</l>
+         <l pos="">sen kun (vain)</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -136496,7 +136984,17 @@
    </e>
    <e id="12988">
       <lg>
-         <l pos="">sidoksissa, -sta</l>
+         <l pos="">sidoksissa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">čoNâsist</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12988">
+      <lg>
+         <l pos="">sidoksista</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -136539,7 +137037,18 @@
    </e>
    <e id="12992">
       <lg>
-         <l pos="">siellä, -ltä</l>
+         <l pos="">siellä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">tobbeen;</t>
+            <t pos="">(puhuteltavaa lähellä) tiebbin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12992">
+      <lg>
+         <l pos="">sieltä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -136626,7 +137135,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">kuob'bârijčuág'gim,</t>
+            <t pos="">kuob'bârij čuág'gim,</t>
             <t pos="">kuo'bârdem</t>
          </tg>
       </mg>
@@ -136637,7 +137146,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">čuág'giđkuob'bârijd,</t>
+            <t pos="">čuág'giđ kuob'bârijd,</t>
             <t pos="">kuo'bârdiđ kuobbârd</t>
          </tg>
       </mg>
@@ -136947,7 +137456,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">sijmá</t>
-            <t pos="">tuár'gu tuárgu, uuštâorrâ -oorâ; (selkäsiimassa) vuog'gâčielgi</t>
+            <t pos=""> tuár'gu tuárgu, uuštâorrâ -oorâ; (selkäsiimassa) vuog'gâčielgi</t>
          </tg>
       </mg>
    </e>
@@ -136973,7 +137482,18 @@
    </e>
    <e id="13033">
       <lg>
-         <l pos="">siinä, -tä</l>
+         <l pos="">siinä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">tast ~ ta'ste;</t>
+            <t pos="">(osoitettaessa lähellä puhuteltavaa) tie'đe ~ tieđee, tissáá; (kauempana) togo;</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13033">
+      <lg>
+         <l pos="">siitä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -137380,7 +137900,19 @@
    </e>
    <e id="13072">
       <lg>
-         <l pos="">siitä, -nä</l>
+         <l pos="">siitä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>(pron.)</re>
+            <t pos="">tast ~ ta'ste,</t>
+            <t pos="">tie'đe ~ tieđee, tissáá, togo;</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13072">
+      <lg>
+         <l pos="">siinä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -137692,7 +138224,7 @@
    </e>
    <e id="13102">
       <lg>
-         <l pos="">sikinsokin</l>
+         <l pos="">sikin sokin</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -138155,7 +138687,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">uái'nustovnpel</t>
+            <t pos="">uái'nus tovnpel</t>
          </tg>
       </mg>
    </e>
@@ -138299,7 +138831,8 @@
    </e>
    <e id="13159">
       <lg>
-         <l pos="">silmätyksin, silmätysten</l>
+         <l pos="">silmätyksin</l>
+         <l_syn pos="">silmätyksin, silmätysten</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -139210,7 +139743,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(kauniiksi)</re>
-            <t pos="">čiŋâttiđtáálu ~ tálo</t>
+            <t pos="">čiŋâttiđ táálu ~ tálo</t>
          </tg>
       </mg>
    </e>
@@ -139369,7 +139902,37 @@
    </e>
    <e id="13260">
       <lg>
-         <l pos="">sisällä, -ltä, -ssä, -stä</l>
+         <l pos="">sisällä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">siste;</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13260">
+      <lg>
+         <l pos="">sisältä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">siste;</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13260">
+      <lg>
+         <l pos="">sisässä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">siste;</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13260">
+      <lg>
+         <l pos="">sisästä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -139424,16 +139987,6 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">siiskišpeeLi</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="13266">
-      <lg>
-         <l pos="">sisässä, -llä, -stä, -ltä</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smn">
-            <t pos="">siste</t>
          </tg>
       </mg>
    </e>
@@ -140506,7 +141059,7 @@
    </e>
    <e id="13369">
       <lg>
-         <l pos="">sokeapiste</l>
+         <l pos="">sokea piste</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -142152,7 +142705,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">anneeđ koskâvuođâ</t>
+            <t pos="">anneeđ koskâvuođâ </t>
          </tg>
       </mg>
    </e>
@@ -143187,7 +143740,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">miär'kkáčuoVâ</t>
+            <t pos="">miär'kkáčuoVâ </t>
          </tg>
       </mg>
    </e>
@@ -144205,7 +144758,8 @@
    </e>
    <e id="13720">
       <lg>
-         <l pos="">suorana, suorassa</l>
+         <l pos="">suorana</l>
+         <l_syn pos="">suorana, suorassa</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -146074,7 +146628,19 @@
    </e>
    <e id="13899">
       <lg>
-         <l pos="">syrjässä, -stä</l>
+         <l pos="">syrjässä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>(asutuksesta)</re>
+            <t pos="">tuá'rispeln,</t>
+            <t pos="">čooroost</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13899">
+      <lg>
+         <l pos="">syrjästä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -146317,7 +146883,18 @@
    </e>
    <e id="13922">
       <lg>
-         <l pos="">syvällä, -ltä</l>
+         <l pos="">syvällä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>(maassa t. vedessä)</re>
+            <t pos="">jie'Ŋâlâsâst~kie'ŋâlâsâst</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13922">
+      <lg>
+         <l pos="">syvältä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -146709,7 +147286,8 @@
    </e>
    <e id="13959">
       <lg>
-         <l pos="">syömäri, syöppö</l>
+         <l pos="">syömäri</l>
+         <l_syn pos="">syömäri, syöppö</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -149181,11 +149759,11 @@
    </e>
    <e id="14194">
       <lg>
-         <l pos="">taivaanvaltakunta</l>
+         <l pos="">taivaan valtakunta</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">a'lmeväldikodde</t>
+            <t pos="">a'lme väldikodde</t>
          </tg>
       </mg>
    </e>
@@ -150056,7 +150634,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">pä'lhittespargo</t>
+            <t pos="">pä'lhittes pargo</t>
             <t pos="">talgoopargo -pa'rgo</t>
          </tg>
       </mg>
@@ -152575,7 +153153,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">pehtiliskevttim</t>
+            <t pos="">pehtilis kevttim</t>
          </tg>
       </mg>
    </e>
@@ -153104,7 +153682,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(nykäistä) rimččáđ</t>
-            <t pos="">rimččâliđ; (riuhtaista, m. urheilussa) rovgiđ rovgiim ravgee; (napata, siepata) riäi'váđ riäi'váám, ká'ivádiđ kááivád; (vetäistä) ruttiđ ruttiim rottee; (huitaista) ka'ivâstiđ kaaivâst</t>
+            <t pos="">rimččâliđ; (riuhtaista, m. urheilussa) rovgiđ rovgiim ravgee; (napata, siepata) riäi'váđ riäi'váám,  ká'ivádiđ kááivád; (vetäistä) ruttiđ ruttiim rottee; (huitaista) ka'ivâstiđ kaaivâst</t>
          </tg>
       </mg>
    </e>
@@ -153757,7 +154335,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">tie'rvâsvuođâtä'rhisteijee</t>
+            <t pos="">tie'rvâsvuođâtä'rhisteijee </t>
          </tg>
       </mg>
    </e>
@@ -154748,7 +155326,17 @@
    </e>
    <e id="14727">
       <lg>
-         <l pos="">tiimoilla, -lta</l>
+         <l pos="">tiimoilla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">kuát'tá</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14727">
+      <lg>
+         <l pos="">tiimoilta</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -154944,7 +155532,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(kangasta) kuárruđ</t>
-            <t pos="">(haavaa) kuárruđ häävi, tikkiđ tikkiim</t>
+            <t pos="">(haavaa)  kuárruđ häävi, tikkiđ tikkiim</t>
          </tg>
       </mg>
    </e>
@@ -155000,7 +155588,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(kankaaseen) čuog'giistâh</t>
-            <t pos="">kuá'rustâh kuá'rustuv; (haavaan) tikki tiki, hävvinjoođâlm</t>
+            <t pos=""> kuá'rustâh kuá'rustuv; (haavaan) tikki tiki, hävvinjoođâlm</t>
          </tg>
       </mg>
    </e>
@@ -157100,7 +157688,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">nuhâstiđ</t>
-            <t pos="">nohádistiđ nohádistám</t>
+            <t pos=""> nohádistiđ nohádistám</t>
          </tg>
       </mg>
    </e>
@@ -158048,11 +158636,11 @@
    </e>
    <e id="15043">
       <lg>
-         <l pos="">tuki-ja liikuntavammainen</l>
+         <l pos="">tuki- ja liikuntavammainen</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">tuuvdâ-já lihâdemvádulâš</t>
+            <t pos="">tuuvdâ- já lihâdemvádulâš</t>
          </tg>
       </mg>
    </e>
@@ -159931,7 +160519,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">njaalgâhaaJâ</t>
+            <t pos="">njaalgâ haaJâ</t>
             <t pos="">haaJâ haajâ</t>
          </tg>
       </mg>
@@ -160660,7 +161248,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(kieli)</re>
-            <t pos="">tarjesämikieLâ</t>
+            <t pos="">tarjesämikieLâ </t>
          </tg>
       </mg>
    </e>
@@ -161469,7 +162057,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">aččinjčuol'mâ</t>
-            <t pos="">piegâpoorâ -porruu, rissečuol'mâ -čuolmâ</t>
+            <t pos="">piegâpoorâ -porruu,  rissečuol'mâ -čuolmâ</t>
          </tg>
       </mg>
    </e>
@@ -161974,7 +162562,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">tuššekeevvâm</t>
+            <t pos="">tuššekeevvâm </t>
          </tg>
       </mg>
    </e>
@@ -162739,7 +163327,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">uážžuđpa'rgo</t>
+            <t pos="">uážžuđ pa'rgo</t>
          </tg>
       </mg>
    </e>
@@ -162769,7 +163357,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">adeliđpa'rgo</t>
+            <t pos="">adeliđ pa'rgo</t>
          </tg>
       </mg>
    </e>
@@ -163983,7 +164571,17 @@
    </e>
    <e id="15607">
       <lg>
-         <l pos="">tässä, tästä</l>
+         <l pos="">tässä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">taa~táá;</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15607">
+      <lg>
+         <l pos="">tästä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -164221,7 +164819,18 @@
    </e>
    <e id="15630">
       <lg>
-         <l pos="">täällä, täältä</l>
+         <l pos="">täällä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">tääbbin;</t>
+            <t pos="">(kautta, kohdilla tms.) táágu</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15630">
+      <lg>
+         <l pos="">täältä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -164949,7 +165558,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">uináástâllâđ</t>
-            <t pos="">ujostâllâđ ujostâlâm</t>
+            <t pos=""> ujostâllâđ ujostâlâm</t>
          </tg>
       </mg>
    </e>
@@ -165778,7 +166387,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">čođâvaaibâs</t>
+            <t pos="">čođâvaaibâs </t>
             <t pos="">(voimattoman uupunut) šliedâs šlied'dâs # šlied'dâ ~ šlieđâs šlieđ'đâs # šlieđ'đâ;</t>
          </tg>
       </mg>
@@ -168816,7 +169425,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">tooHâđpiSovâžžân</t>
+            <t pos="">tooHâđ piSovâžžân</t>
          </tg>
       </mg>
    </e>
@@ -168858,7 +169467,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">juár'mi</t>
+            <t pos="">juár'mi </t>
          </tg>
       </mg>
    </e>
@@ -169059,7 +169668,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(jllak)</re>
-            <t pos="">liäš'kuđoolâ</t>
+            <t pos="">liäš'kuđ oolâ</t>
          </tg>
       </mg>
    </e>
@@ -170096,7 +170705,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">(ei ravintolassa) šuá'vuttâs;</t>
+            <t pos="">(ei ravintolassa)  šuá'vuttâs;</t>
             <t pos="">(ravintolassa) čuoVâmerkkâ -meerhâ;</t>
          </tg>
       </mg>
@@ -171799,7 +172408,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">váRugávt,</t>
-            <t pos="">sijvuht</t>
+            <t pos="">sijvuht </t>
          </tg>
       </mg>
    </e>
@@ -173786,7 +174395,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">keNigitteeäšši</t>
+            <t pos="">keNigittee äšši</t>
          </tg>
       </mg>
    </e>
@@ -174379,7 +174988,8 @@
    </e>
    <e id="16602">
       <lg>
-         <l pos="">verkkarit, verryttelyhousut</l>
+         <l pos="">verkkarit</l>
+         <l_syn pos="">verkkarit, verryttelyhousut</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -174952,7 +175562,18 @@
    </e>
    <e id="16658">
       <lg>
-         <l pos="">vertainen, vertais-</l>
+         <l pos="">vertainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">viär'dásâš</t>
+            <t pos="">viär'dágâš viär'dágáá</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16658">
+      <lg>
+         <l pos="">vertais-</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -176786,7 +177407,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">adeliđoonâ</t>
+            <t pos="">adeliđ oonâ</t>
          </tg>
       </mg>
    </e>
@@ -177242,7 +177863,7 @@
          <tg xml:lang="smn">
             <re>(jk esineen asento toisen olan yli ja toisen ali)</re>
             <t pos="">voolâh,</t>
-            <t pos="">vijlâseh (mon.);</t>
+            <t pos=""> vijlâseh (mon.);</t>
          </tg>
       </mg>
    </e>
@@ -177414,7 +178035,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">moonnâmtove</t>
+            <t pos="">moonnâm tove</t>
          </tg>
       </mg>
    </e>
@@ -178317,7 +178938,8 @@
    </e>
    <e id="16979">
       <lg>
-         <l pos="">villahuivi, -liina</l>
+         <l pos="">villahuivi</l>
+         <l_syn pos="">villaliina</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -179305,7 +179927,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">arvâlistiđ</t>
-            <t pos="">uvestiđ uuveest, celkkiđ ciälhám, ravkkâđ raavhâm, ettâđ eeđâm iä'tá; (tokaista) páhudistiđ páhudistám, na'bdestiđ nabdeest; (todeta) pahudiđ~pahhuudiđ paaHud</t>
+            <t pos="">uvestiđ uuveest, celkkiđ ciälhám,  ravkkâđ raavhâm, ettâđ eeđâm iä'tá; (tokaista) páhudistiđ páhudistám, na'bdestiđ nabdeest; (todeta) pahudiđ~pahhuudiđ paaHud</t>
          </tg>
       </mg>
    </e>
@@ -179858,7 +180480,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">čonâstoh~čonâstuh~čonâstâh</t>
+            <t pos="">čonâstoh~čonâstuh~čonâstâh </t>
             <t pos="">piä'sádâh piä'sáduv ~ piä'ssádâh piä'ssáduv ~ piä'ssdoh ~ piä'ssduv; (kalavitsas) vicárâh vicáruv</t>
          </tg>
       </mg>
@@ -181004,7 +181626,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">ihemuštâlus</t>
+            <t pos="">ihemuštâlus </t>
          </tg>
       </mg>
    </e>
@@ -181285,7 +181907,7 @@
          <tg xml:lang="smn">
             <re>(mon.) (erit. neulakota)</re>
             <t pos="">äimiskiärk'ku</t>
-            <t pos="">äimiskerkkâ -skeerhâ</t>
+            <t pos="">äimiskerkkâ  -skeerhâ</t>
          </tg>
       </mg>
    </e>
@@ -182814,7 +183436,7 @@
       <mg>
          <tg xml:lang="smn">
             <re>(tuntea väsymystä)</re>
-            <t pos="">vaaibâsleđe;</t>
+            <t pos="">vaaibâs leđe;</t>
             <t pos="">(erit. ruumiinosia) njuoccâđ njuosâm njuácá;</t>
          </tg>
       </mg>
@@ -183260,7 +183882,7 @@
    </e>
    <e id="17452">
       <lg>
-         <l pos="">yhdessäpysyvä</l>
+         <l pos="">yhdessä pysyvä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -183635,7 +184257,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">ohtsâsovdâsvástádâsvuotâ</t>
+            <t pos="">ohtsâs ovdâsvástádâsvuotâ</t>
          </tg>
       </mg>
    </e>
@@ -183797,7 +184419,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">finnodâhhânrievdâdem</t>
+            <t pos="">finnodâhhân rievdâdem</t>
          </tg>
       </mg>
    </e>
@@ -183840,7 +184462,7 @@
          <tg xml:lang="smn">
             <re>(harjoittaa sukupuoliyhteyttä)</re>
             <t pos="">anneeđ</t>
-            <t pos="">(nussia) nargeđ na'rgam, niäv'zuđ niävzum</t>
+            <t pos=""> (nussia) nargeđ na'rgam, niäv'zuđ niävzum</t>
          </tg>
       </mg>
    </e>
@@ -184212,7 +184834,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">o'vtâimild</t>
+            <t pos="">o'vtâi mild</t>
          </tg>
       </mg>
    </e>
@@ -184408,7 +185030,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(kuulijat) kulleeh</t>
-            <t pos="">kuldâleijeeh (mon.); (katsojat) keččeeh (mon.); (väki) aalmug, olmoošjuáv'kku -juávhu</t>
+            <t pos=""> kuldâleijeeh (mon.); (katsojat) keččeeh (mon.); (väki) aalmug, olmoošjuáv'kku -juávhu</t>
          </tg>
       </mg>
    </e>
@@ -184553,7 +185175,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">merettespurâdem;</t>
+            <t pos="">merettes purâdem;</t>
             <t pos="">(ahmiminen, mässäily) hurttom, sávdum;</t>
          </tg>
       </mg>
@@ -184591,7 +185213,17 @@
    </e>
    <e id="17581">
       <lg>
-         <l pos="">ylhäällä, -ltä</l>
+         <l pos="">ylhäällä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">paijeen</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17581">
+      <lg>
+         <l pos="">ylhäältä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -186213,7 +186845,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">äimikuáti</t>
-            <t pos="">äimiskerkkâ -skeerhâ</t>
+            <t pos="">äimiskerkkâ  -skeerhâ</t>
          </tg>
       </mg>
    </e>
@@ -186487,7 +187119,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(murista) rohhoođ</t>
-            <t pos="">harijdiđ haarijd ~ haridiđ haariid; (olla tuimana) korâstâllâđ korâstâlâm; (niuhottaa) kye'cistiđ kyeccist</t>
+            <t pos=""> harijdiđ haarijd ~ haridiđ haariid; (olla tuimana) korâstâllâđ korâstâlâm; (niuhottaa) kye'cistiđ kyeccist</t>
          </tg>
       </mg>
    </e>
@@ -186518,7 +187150,7 @@
       <mg>
          <tg xml:lang="smn">
             <t pos="">(härnäävä) hardâšittee;</t>
-            <t pos="">(esim. ihoa) iär'dudeijee</t>
+            <t pos="">(esim. ihoa)  iär'dudeijee</t>
          </tg>
       </mg>
    </e>
@@ -186991,7 +187623,17 @@
    </e>
    <e id="17811">
       <lg>
-         <l pos="">ääressä, -stä</l>
+         <l pos="">ääressä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">piäl'lást</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17811">
+      <lg>
+         <l pos="">äärestä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -187015,7 +187657,7 @@
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="">roobdâräi</t>
+            <t pos="">roobdâ räi</t>
          </tg>
       </mg>
    </e>

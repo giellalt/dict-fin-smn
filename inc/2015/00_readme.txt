@@ -66,7 +66,6 @@ B: =CONCATENATE(CG," ",I," ",E," ",F," "," ")
   </mg>
 </e>
 
-
 Issues with the target language:
 1. Which are (quasi-)synonyms and should land in the same mg and which not?
 2. Separators: , ;

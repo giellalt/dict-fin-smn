@@ -6574,7 +6574,9 @@
    </e>
    <e id="630">
       <lg>
-         <l pos="">armelias ~ armias ~ armollinen</l>
+         <l pos="">armelias</l>
+         <l_syn pos="">armias</l_syn>
+         <l_syn pos="">armollinen</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -8283,7 +8285,8 @@
    </e>
    <e id="793">
       <lg>
-         <l pos="">aukea ~ aukio</l>
+         <l pos="">aukea</l>
+         <l_syn pos="">aukio</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -12527,7 +12530,8 @@
    </e>
    <e id="1197">
       <lg>
-         <l pos="">entä~entäs</l>
+         <l pos="">entä</l>
+         <l_syn pos="">entäs</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -15642,7 +15646,8 @@
    </e>
    <e id="1492">
       <lg>
-         <l pos="">farkut ~ farmarit</l>
+         <l pos="">farkut</l>
+         <l_syn pos="">farmarit</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -15860,7 +15865,8 @@
    </e>
    <e id="1513">
       <lg>
-         <l pos="">fleece~fleese</l>
+         <l pos="">fleece</l>
+         <l_syn pos="">fleese</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -18170,7 +18176,8 @@
    </e>
    <e id="1731">
       <lg>
-         <l pos="">haltia~haltija</l>
+         <l pos="">haltia</l>
+         <l_syn pos="">haltija</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -18500,7 +18507,8 @@
    </e>
    <e id="1762">
       <lg>
-         <l pos="">-han~-hän</l>
+         <l pos="">-han</l>
+         <l_syn pos="">-hän</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -24613,7 +24621,8 @@
    </e>
    <e id="2340">
       <lg>
-         <l pos="">hiomalaikka ~ -laippa</l>
+         <l pos="">hiomalaikka</l>
+         <l_syn pos="">hiomalaippa</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -26321,7 +26330,8 @@
    </e>
    <e id="2503">
       <lg>
-         <l pos="">huki~hukki</l>
+         <l pos="">huki</l>
+         <l_syn pos="">hukki</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -28823,7 +28833,8 @@
    </e>
    <e id="2741">
       <lg>
-         <l pos="">hyysä~hyyssä</l>
+         <l pos="">hyysä</l>
+         <l_syn pos="">hyyssä</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -41561,7 +41572,8 @@
    </e>
    <e id="3946">
       <lg>
-         <l pos="">-kaan~-kään</l>
+         <l pos="">-kaan</l>
+         <l_syn pos="">-kään</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -57794,7 +57806,8 @@
    </e>
    <e id="5490">
       <lg>
-         <l pos="">-ko~-kö</l>
+         <l pos="">-ko</l>
+         <l_syn pos="">-kö</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -67163,7 +67176,8 @@
    </e>
    <e id="6376">
       <lg>
-         <l pos="">kuullen~kuulten</l>
+         <l pos="">kuullen</l>
+         <l_syn pos="">kuulten</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -70673,7 +70687,8 @@
    </e>
    <e id="6706">
       <lg>
-         <l pos="">-kään ~ -kaan</l>
+         <l pos="">-kään</l>
+         <l_syn pos="">-kaan</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -82453,7 +82468,7 @@
    </e>
    <e id="7823">
       <lg>
-         <l pos="">luutu~luuttu</l>
+         <l pos="">luutu</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -102306,7 +102321,8 @@
    </e>
    <e id="9703">
       <lg>
-         <l pos="">-pa~-pä</l>
+         <l pos="">-pa</l>
+         <l_syn pos="">-pä</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -119833,16 +119849,6 @@
          </tg>
       </mg>
    </e>
-   <e id="11360">
-      <lg>
-         <l pos="">-pä~-pa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smn">
-            <t pos="">-gân~-kân</t>
-         </tg>
-      </mg>
-   </e>
    <e id="11361">
       <lg>
          <l pos="">pähkinä</l>
@@ -134806,7 +134812,8 @@
    </e>
    <e id="12781">
       <lg>
-         <l pos="">saunavasta ~ -vihta</l>
+         <l pos="">saunavasta</l>
+         <l_syn pos="">saunavihta</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -152363,9 +152370,19 @@
          </tg>
       </mg>
    </e>
-   <e id="14443">
+   <e id="14443" comment="to_be_checked">
       <lg>
-         <l pos="">tasalla, -lta</l>
+         <l pos="">tasalla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">tááSá</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14443" comment="to_be_checked">
+      <lg>
+         <l pos="">tasalta</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -156269,7 +156286,8 @@
    </e>
    <e id="14815">
       <lg>
-         <l pos="">titti~tintti</l>
+         <l pos="">titti</l>
+         <l_syn pos="">tintti</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -162652,7 +162670,8 @@
    </e>
    <e id="15422">
       <lg>
-         <l pos="">tylpentyä ~ tylpetä</l>
+         <l pos="">tylpentyä</l>
+         <l_syn pos="">tylpetä</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -164112,7 +164131,8 @@
    </e>
    <e id="15563">
       <lg>
-         <l pos="">tähyillä~tähystellä</l>
+         <l pos="">tähyillä</l>
+         <l_syn pos="">tähystellä</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -172280,7 +172300,8 @@
    </e>
    <e id="16342">
       <lg>
-         <l pos="">varmaan~varmaankin</l>
+         <l pos="">varmaan</l>
+         <l_syn pos="">varmaankin</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -182346,7 +182367,8 @@
    </e>
    <e id="17306">
       <lg>
-         <l pos="">vähästä~vähältä</l>
+         <l pos="">vähästä</l>
+         <l_syn pos="">vähältä</l_syn>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -184923,7 +184945,17 @@
    </e>
    <e id="17553">
       <lg>
-         <l pos="">yksivuotinen ~ -vuotias</l>
+         <l pos="" re="plants, non-animates">yksivuotinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="">oovtâihásâš</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17553">
+      <lg>
+         <l pos="" re="humans, animals">yksivuotias</l>
       </lg>
       <mg>
          <tg xml:lang="smn">

@@ -40,20 +40,20 @@ Tierv. Taarna
 
 
 Legend:
-A SUOMI	=> FIN lemma
-B SÄMIKIELÂ UUCÂMSÄÄNI	=> SMN lemma
-C SAAMEN_HAK	=> Saami_Lemma (First part of compound words made by concatenating DH)
-D SUOMEN_HAK	=> Finnish_Lemma  (First part of compound words made by concatenating EI)
-E SAAMEN_RIN	=> Saami_Parallel (this is additional information related to the Saami_Lemma)
-F ESIMERKKEJÄ JA LIITTYVIÄ ILMAUKSIA	Examples???
-G SAAMEN_YHD	=> Saami_Compound  (Second part of compound words made by concatenating DH)
-H SUOMEN_YHD	=> Finnish_Compound  (Second part of compound words made by concatenating EI)
-I SAAMEN_TAI	=> Saami_TAI This is a field containing Saami stem information (irrelevant in an NDS with fst)
-J SUOMEN_HA2	=> Finnish_2nd_Lemma
-K SUOMEN_J_L	=> Finnish_J_L This is a <re> field containing Latin terms and field specifications
+     1	A SUOMI	=> FIN lemma
+     2	B SÄMIKIELÂ UUCÂMSÄÄNI	=> SMN lemma
+     3	C SAAMEN_HAK	=> Saami_Lemma (First part of compound words made by concatenating DH)
+     4	D SUOMEN_HAK	=> Finnish_Lemma  (First part of compound words made by concatenating EI)
+     5	E SAAMEN_RIN	=> Saami_Parallel (this is additional information related to the Saami_Lemma)
+     6	F ESIMERKKEJÄ JA LIITTYVIÄ ILMAUKSIA	Examples???
+     7	G SAAMEN_YHD	=> Saami_Compound  (Second part of compound words made by concatenating DH)
+     8	H SUOMEN_YHD	=> Finnish_Compound  (Second part of compound words made by concatenating EI)
+     9	I SAAMEN_TAI	=> Saami_TAI This is a field containing Saami stem information (irrelevant in an NDS with fst)
+    10	J SUOMEN_HA2	=> Finnish_2nd_Lemma
+    11	K SUOMEN_J_L	=> Finnish_J_L This is a <re> field containing Latin terms and field specifications
 
 A: =CONCATENATE(DH," ",J," ",K)
-B: =CONCATENATE(CG," ",I," ",E," ",F," "," ")
+B: =CONCATENATE(CG," ",I," ",E," ",F," "," ") = 3 7, 5, 9
 
 <e>
   <l>DH</l>

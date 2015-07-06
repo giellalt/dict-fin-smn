@@ -1,0 +1,46 @@
+This documents describes the problems and solutions to getting the excel-data of the fin2smn-dictionary into
+a usable xml-format.
+
+The main taks is to put all pieces of information from the excel-file in the appropriate structure slots of a xml.
+
+The problem hereby is that there are different types of ambiguities that an fully automated way can not manage.
+
+Ambiguities:
+1. COMMA
+ - normally, comma is used to separate different translations with approximately the same meaning, hence between
+ synonyms or quasi-sysnonyms
+
+But in the input data it is used also in other contexts, for instance in the bracket "(aallota, lyödä rantaan)"
+
+Example:
+
+   <e id="8">
+      <p id="1">aalto  </p>
+      <p id="2">pááRu  pááru ~ páro,  sijgâ siijgâ, nuvgâ nuuvgâ;  (aallota, lyödä rantaan) keerrâđ kiäRá; (lyödä rantaan erit. yksittäisistä aalloista) si'jgâdiđ sijgâd; (aallota äänekkäästi) skulččeđ skulččá  </p>
+</e>
+
+
+This partly done automatically, but it should be checked for correctness manually. 
+
+----
+Task: 
+----
+
+
+Which are (quasi-)synonyms and should land in the same mg and which not?
+
+
+
+Issues with the target language:
+
+
+2. Separators: , ;
+3. Other characters: . ~ - ( ) # =
+4. COMMA abmiguity:
+Ex.
+   (ehyt, jtak pitävä) čavos čappoos # čapo; (esim. sauma) lävvid~läävviđ # läVidis; (tiivis aine) tooškâs toškâs # toškâ, čaavdes;
+
+
+
+
+

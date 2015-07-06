@@ -25,6 +25,45 @@ This partly done automatically, but it should be checked for correctness manuall
 ----
 Task: 
 ----
+Go thryough the xml-converted entries and check whether the synonyms are correctly done.
+
+The Giellatekno xml structure for the example "aalto" is the following.
+
+lg=lemma group of for the (source language) lemma, here "aalto"
+mg= meaning group for the first group of the (target language) translations
+tg=translation group with the attribute of the target language, here "smn"
+t=translation
+
+ - first meaning group with the sysnonym translations: pááRu pááru ~ páro, sijgâ siijgâ, nuvgâ nuuvgâ
+ - second meaning group with the translation: keerrâđ kiäRá
+
+etc.
+<e id="8">
+      <lg>
+         <l pos="">aalto</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="">pááRu pááru ~ páro</t>
+            <t pos="">sijgâ siijgâ</t>
+            <t pos="">nuvgâ nuuvgâ</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="" l_par="aallota _COMMA_ lyödä rantaan">keerrâđ kiäRá</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="" l_par="lyödä rantaan erit. yksittäisistä aalloista">si'jgâdiđ sijgâd</t>
+         </tg>
+      <mg id="4">
+         <tg xml:lang="smn">
+            <t pos="" l_par="aallota äänekkäästi">skulččeđ skulččá</t>
+         </tg>
+      </mg>
+   </e>
 
 
 Which are (quasi-)synonyms and should land in the same mg and which not?

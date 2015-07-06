@@ -114,11 +114,67 @@ Task:
 ===========
 3. Whitespace
 ===========
+ - the same problem as with COMMA and SEMICOLON, only that this problem can not be evaluate on a automatic basis.
+ - normally, in a translation, the left-most string is the base form, as oposed to some flected foms, possibly following
+ it, for instance, "páRudiđ  páárrud" or  "párustiđ páárust". But sometimes, the string can be a multiword expression, or some
+ explanations.
 
+Example:
+   <e id="5251">
+      <p id="1">kinkku  </p>
+      <p id="2">šaVe čuár'bbeeLi  -pele      </p>
+   </e>
+
+
+   <e id="9353">
+      <p id="1">näköinen (jk) </p>
+      <p id="2">vuávlus,    vuávnus, kiännii niähu ~ niäVust, kiännii niä'husâš niä'hušii; (-näköinen) -háMásâš -háMásii    </p>
+   </e>
+
+
+
+The xml transformation would get the following structures:
+
+   <e id="5251">
+      <lg>
+         <l pos="">kinkku</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="" right_string=" čuár'bbeeLi -pele">šaVe</t>
+         </tg>
+      </mg>t
+   </e>
+
+that means: "kinkku" translated as "šaVe", that might not be correct
+
+
+   <e id="9353">
+      <lg>
+         <l pos="">näköinen (jk)</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="">vuávlus</t>
+            <t pos="">vuávnus</t>
+            <t pos="" synonym="niäVust" right_string="niähu">kiännii</t>
+            <t pos="" right_string="niä'husâš niä'hušii">kiännii</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="" l_par="-näköinen" right_string="-háMásii">-háMásâš</t>
+         </tg>
+      </mg>
+   </e>
+
+This splitting might not be correct either.
 
 ----
 Task: 
 ----
+ - check and if needed correct the automatic transformation into xml.
+
 
 ===========
 4. Other characters: . ~ - ( ) # =

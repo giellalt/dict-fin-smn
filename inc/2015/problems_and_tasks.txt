@@ -6,8 +6,12 @@ The main taks is to put all pieces of information from the excel-file in the app
 The problem hereby is that there are different types of ambiguities that an fully automated way can not manage.
 
 Ambiguities:
+
+===========
 1. COMMA
- - normally, comma is used to separate different translations with approximately the same meaning, hence between
+===========
+
+- normally, comma is used to separate different translations with approximately the same meaning, hence between
  synonyms or quasi-sysnonyms
 
 But in the input data it is used also in other contexts, for instance in the bracket "(aallota, lyödä rantaan)"
@@ -65,21 +69,63 @@ etc.
       </mg>
    </e>
 
-
-Which are (quasi-)synonyms and should land in the same mg and which not?
-
-
-
-Issues with the target language:
-
-
-2. Separators: , ;
-3. Other characters: . ~ - ( ) # =
-4. COMMA abmiguity:
-Ex.
-   (ehyt, jtak pitävä) čavos čappoos # čapo; (esim. sauma) lävvid~läävviđ # läVidis; (tiivis aine) tooškâs toškâs # toškâ, čaavdes;
+===========
+2. SEMICOLON
+===========
+- the same problem as with COMMA, only that semicolon is used to separate different meaning groups, hence as separator of
+non-synonyms translations; and again, sometimes it appears in other contexts, too, such as in
+ (esim. tv-sarjan t. sarjakuvan; leluhahmo, pienoismalli, figuuri).
 
 
+Example:
+   <e id="1614">
+      <p id="1">hahmo  </p>
+      <p id="2">(muoto) hääMi  häämi;  (m. ulkoasu) fardâ faardâ; (esim. tv-sarjan t. sarjakuvan; leluhahmo, pienoismalli, figuuri) fiiguur    </p>
+   </e>
+
+----
+Task:
+----
+ - similar as for comma: go through the structure and check whether the synonyms  versus non-synonyms landed in the correct meaning group
+ 
+   <e id="1614">
+      <lg>
+         <l pos="">hahmo</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="" l_par="muoto">hääMi häämi</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="" l_par="m. ulkoasu">fardâ faardâ</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos=""
+               l_par="esim. tv-sarjan t. sarjakuvan _SEMICOLLON_ leluhahmo _COMMA_ pienoismalli _COMMA_ figuuri">fiiguur</t>
+         </tg>
+      </mg>
+    </e>
 
 
+===========
+3. Whitespace
+===========
 
+
+----
+Task: 
+----
+
+===========
+4. Other characters: . ~ - ( ) # =
+===========
+
+----
+Task:
+----
+ - check whether the information marked with characters such as ~, -, #, =, etc. has been processed
+ correctly

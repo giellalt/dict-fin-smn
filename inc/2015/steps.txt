@@ -40,3 +40,10 @@ g '<p id="1">' Suoma-saami_ERRATA_03072015.xml|z|g ','
  ==> the rest automatically
 _six clean_comma_l_fin2smn.xml
 
+ -check whitespace with Latin terminology
+1_xml>g '<p id="1">' Suoma-saami_ERRATA_03072015.xml|z|g ' '|egrep ' [A-X]'
+
+ ==> automatically cleanup of Latin terminology
+2015>_six clean_tt_l_fin2smn.xml
+
+

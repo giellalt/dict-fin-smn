@@ -34,4 +34,9 @@ g '<p id="1"' 1_xml_c3/Suoma-saami_ERRATA_03072015.xml|z|g '('
 
  ==> manual correction
 
+ -check comma
+g '<p id="1">' Suoma-saami_ERRATA_03072015.xml|z|g ','
+ ==> some manual correction needed
+ ==> the rest automatically
+_six clean_comma_l_fin2smn.xml
 

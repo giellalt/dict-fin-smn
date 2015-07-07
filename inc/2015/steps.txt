@@ -6,3 +6,11 @@ awk -F "\t" '{print NF}' Suoma-saami_ERRATA_03072015.csv |tl
 
 3. Check and manual correction of l-elements
 
+ 3.1 correct brackets that are not at the very end of the string
+g '<p id="1">' Suoma-saami_ERRATA_03072015.xml |z|g '('|g -v ')\s*$'
+
+ - add new attributes for the cleaned string:
+   syn = sysnonym
+   tt  = terminus technicus
+
+

@@ -29,4 +29,9 @@ _six clean_l_fin2smn.xml
  - check after transformation
 g '<p id="1"' 1_xml_c3/Suoma-saami_ERRATA_03072015.xml|z|g '('
 
+ - check tilde:
+1_xml_c3>g '<p id="1">' Suoma-saami_ERRATA_03072015.xml|z|g '~'
+
+ ==> manual correction
+
 

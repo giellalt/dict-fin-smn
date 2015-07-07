@@ -1,6 +1,6 @@
 1. excel2csv via LibreOffice
  ==> check the colum number
-awk -F "\t" '{print NF}' Suoma-saami_ERRATA_03072015.csv |tl
+awk -F "\t" '{print NF}' Suoma-saami_ERRATA_03072015.csv |t
 
 2. csv2xml via csv2xml_awk.sh
 
@@ -16,5 +16,17 @@ g '<p id="1">' Suoma-saami_ERRATA_03072015.xml |z|g '('|g -v ')\s*$'
  3.2 generate automatically further attributes
      containing the bracketed infos at the extremes of the string
      or infos separated by comma, tilde, dash, etc. 
+
+ - check whether there are brackets only on the right side
+
+1_xml_c2>g '<p id="1">' Suoma-saami_ERRATA_03072015.xml |z|g '('|c
+    1826
+1_xml_c2>g '<p id="1">' Suoma-saami_ERRATA_03072015.xml |z|g '('|g -v '^('|c
+    1826
+ - clean up brackets automatically
+_six clean_l_fin2smn.xml
+ 
+ - check after transformation
+g '<p id="1"' 1_xml_c3/Suoma-saami_ERRATA_03072015.xml|z|g '('
 
 

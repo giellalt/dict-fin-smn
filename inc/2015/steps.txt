@@ -1,0 +1,8 @@
+1. excel2csv via LibreOffice
+ ==> check the colum number
+awk -F "\t" '{print NF}' Suoma-saami_ERRATA_03072015.csv |tl
+
+2. csv2xml via csv2xml_awk.sh
+
+3. Check and manual correction of l-elements
+

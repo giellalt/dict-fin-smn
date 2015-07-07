@@ -13,4 +13,8 @@ g '<p id="1">' Suoma-saami_ERRATA_03072015.xml |z|g '('|g -v ')\s*$'
    syn = sysnonym
    tt  = terminus technicus
 
+ 3.2 generate automatically further attributes
+     containing the bracketed infos at the extremes of the string
+     or infos separated by comma, tilde, dash, etc. 
+
 

@@ -49,3 +49,14 @@ _six clean_comma_l_fin2smn.xml
  - with exception of very few entries with whitespaces in the string, the l-elements are done
   sekä ... että
   tuki- ja liikuntavammainen
+
+4. split data according to the complexity of t-elements:
+2015>_six split_2sxml_fin2smn.xsl
+
+   - t-elements contain no COMMA
+     ==> NAME_simple.xml
+   - t-elements contain COMMA but no SEMICOLON
+     ==> NAME_only_comma.xml
+   - t-elements contain at least one SEMICOLON and possibly COMMA, too
+     ==> NAME_complex.xml
+

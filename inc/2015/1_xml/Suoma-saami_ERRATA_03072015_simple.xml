@@ -115506,7 +115506,7 @@
    </e>
    <e id="13372">
       <p id="1" r1_par="(mon.)">soistumistavat</p>
-      <p id="2">jeggilumvyeVih  (mon.)  ~ jieggilumvyeVih (mon.)    </p>
+      <p id="2" syn="~ jieggilumvyeVih (mon.)">jeggilumvyeVih  (mon.) </p>
       <p id="3">jeggilum</p>
       <p id="4">soistumis</p>
       <p id="5">~ jieggilumvyeVih (mon.)</p>

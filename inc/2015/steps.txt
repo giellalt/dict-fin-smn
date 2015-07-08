@@ -46,4 +46,6 @@ _six clean_comma_l_fin2smn.xml
  ==> automatically cleanup of Latin terminology
 2015>_six clean_tt_l_fin2smn.xml
 
-
+ - with exception of very few entries with whitespaces in the string, the l-elements are done
+  sekä ... että
+  tuki- ja liikuntavammainen

@@ -10194,7 +10194,7 @@
    </e>
    <e id="1114">
       <p id="1">elämänkumppani</p>
-      <p id="2">(eellim)kyei'mi  -kyeimi      </p>
+      <p id="2" syn="(eellim)kyei'mi  -kyeimi" >kyei'mi</p>
       <p id="3">(eellim)</p>
       <p id="4">elämän</p>
       <p id="5"/>
@@ -98798,7 +98798,7 @@
    </e>
    <e id="11524">
       <p id="1" r1_par="(-)">pörrö</p>
-      <p id="2">parfe(-)  pa'rfe      </p>
+      <p id="2" syn="parfe(-)">parfe  pa'rfe      </p>
       <p id="3">parfe(-)</p>
       <p id="4">pörrö(-)</p>
       <p id="5"/>
@@ -105793,7 +105793,7 @@
    </e>
    <e id="12287">
       <p id="1">ruokko-</p>
-      <p id="2">piäm'mu(-)        </p>
+      <p id="2" syn="piäm'mu(-)">piäm'mu        </p>
       <p id="3">piäm'mu(-)</p>
       <p id="4">ruokko-</p>
       <p id="5"/>

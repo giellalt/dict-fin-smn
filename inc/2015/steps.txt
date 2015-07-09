@@ -71,6 +71,10 @@ páRutopâldâh -topâlduv
 iđedispiäiváš -piäi'váá
  ==> automatically split of syn_dash attribute in unambiguous contexts
 
+3. check the entries with a whitespace but no ~ or #
+2_gtxml>g '<t ' Suoma-saami_ERRATA_03072015_simple.xml|z|g -v '#'|g -v '~'|g ' '|c
+    3447
+
 
 
 n. convert the simple file to gt-xml

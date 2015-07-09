@@ -64,5 +64,14 @@ _six clean_comma_l_fin2smn.xml
 1. check brackets with specific syntax (i.e., not at the extremes)
 g '<p id="2">' Suoma-saami_ERRATA_03072015_simple.xml |z|s|u|s|awk -F'(' '{if (NF==2) print $0}'|g '-'
 
-2. convert the simple file to gt-xml
+2. check the entries with ' -' and clean them up
+2_gtxml>g '<t ' Suoma-saami_ERRATA_03072015_simple.xml|z|g -v '~'|g -v '#'|g ' -'|l
+páRukukkodâh -kukkoduv
+páRutopâldâh -topâlduv
+iđedispiäiváš -piäi'váá
+ ==> automatically split of syn_dash attribute in unambiguous contexts
+
+
+
+n. convert the simple file to gt-xml
 _six s-xml2gt-xml_fin2smn.xsl

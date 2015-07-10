@@ -71,7 +71,12 @@ páRutopâldâh -topâlduv
 iđedispiäiváš -piäi'váá
  ==> automatically split of syn_dash attribute in unambiguous contexts
 
-3. check the entries with a whitespace but no ~ or #
+3. check the only-attr entries and clean them up automatically
+2_gtxml>g '<t ' Suoma-saami_ERRATA_03072015_simple.xml|z|g '#'|g -v '~'|awk -F '#' '{print NF}'|t
+g '<t ' Suoma-saami_ERRATA_03072015_simple.xml|z|g '#'|g -v '~'|awk -F '#' '{print $1}'
+g '<t ' Suoma-saami_ERRATA_03072015_simple.xml|z|g '#'|g -v '~'|awk -F '#' '{print $2}'
+
+4. check the entries with a whitespace but no ~ or #
 2_gtxml>g '<t ' Suoma-saami_ERRATA_03072015_simple.xml|z|g -v '#'|g -v '~'|g ' '|c
     3447
 

@@ -66,7 +66,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">párudeijee # -s</t>
+            <t pos="" attr="# -s">párudeijee</t>
          </tg>
       </mg>
    </e>
@@ -186,7 +186,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">murriš # murrišâs</t>
+            <t pos="" attr="# murrišâs">murriš</t>
          </tg>
       </mg>
    </e>
@@ -366,7 +366,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">viijđes vijđá # vi'jđes</t>
+            <t pos="" attr="# vi'jđes">viijđes vijđá</t>
          </tg>
       </mg>
    </e>
@@ -646,7 +646,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">vuáv'dáá # -s</t>
+            <t pos="" attr="# -s">vuáv'dáá</t>
          </tg>
       </mg>
    </e>
@@ -926,7 +926,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">áijáá # -s</t>
+            <t pos="" attr="# -s">áijáá</t>
          </tg>
       </mg>
    </e>
@@ -1526,7 +1526,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">äigikyev'dil # -kyev'dilis</t>
+            <t pos="" attr="# -kyev'dilis">äigikyev'dil</t>
          </tg>
       </mg>
    </e>
@@ -1626,7 +1626,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ä'igittem # ä'igittes</t>
+            <t pos="" attr="# ä'igittes">ä'igittem</t>
          </tg>
       </mg>
    </e>
@@ -1646,7 +1646,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">juurdâšmettum # -es</t>
+            <t pos="" attr="# -es">juurdâšmettum</t>
          </tg>
       </mg>
    </e>
@@ -2426,7 +2426,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">vye'Ligâš vye'Ligáá # vye'ligâs</t>
+            <t pos="" attr="# vye'ligâs">vye'Ligâš vye'Ligáá</t>
          </tg>
       </mg>
    </e>
@@ -4096,7 +4096,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">šlunde šlu'nde # šlu'ndes</t>
+            <t pos="" attr="# šlu'ndes">šlunde šlu'nde</t>
          </tg>
       </mg>
    </e>
@@ -4676,7 +4676,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">udduu # -s</t>
+            <t pos="" attr="# -s">udduu</t>
          </tg>
       </mg>
    </e>
@@ -5676,7 +5676,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">piäi'váá # -s</t>
+            <t pos="" attr="# -s">piäi'váá</t>
          </tg>
       </mg>
    </e>
@@ -6876,7 +6876,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ovdánmettum # -is</t>
+            <t pos="" attr="# -is">ovdánmettum</t>
          </tg>
       </mg>
    </e>
@@ -7116,7 +7116,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čavos čappoos # čapo</t>
+            <t pos="" attr="# čapo">čavos čappoos</t>
          </tg>
       </mg>
    </e>
@@ -8566,7 +8566,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">epičielgâs -čiel'gâs # epičiel'gâ</t>
+            <t pos="" syn_dash="-čiel'gâs" attr="# epičiel'gâ">epičielgâs</t>
          </tg>
       </mg>
    </e>
@@ -8586,7 +8586,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">turgáá # -s</t>
+            <t pos="" attr="# -s">turgáá</t>
          </tg>
       </mg>
    </e>
@@ -8606,7 +8606,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">epinjuol'gâd # epinjuol'gâ</t>
+            <t pos="" attr="# epinjuol'gâ">epinjuol'gâd</t>
          </tg>
       </mg>
    </e>
@@ -8756,7 +8756,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">mye'sittem # mye'sittemes</t>
+            <t pos="" attr="# mye'sittemes">mye'sittem</t>
          </tg>
       </mg>
    </e>
@@ -8926,7 +8926,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">oomâs oommâs # omâs</t>
+            <t pos="" attr="# omâs">oomâs oommâs</t>
          </tg>
       </mg>
    </e>
@@ -9226,7 +9226,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">máksupe'ivittem # -pe'ivittes</t>
+            <t pos="" attr="# -pe'ivittes">máksupe'ivittem</t>
          </tg>
       </mg>
    </e>
@@ -9576,7 +9576,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">iä'stuttem # -es</t>
+            <t pos="" attr="# -es">iä'stuttem</t>
          </tg>
       </mg>
    </e>
@@ -10636,7 +10636,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">glutenittem # -es</t>
+            <t pos="" attr="# -es">glutenittem</t>
          </tg>
       </mg>
    </e>
@@ -11326,7 +11326,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">hajâttem # hajâttes</t>
+            <t pos="" attr="# hajâttes">hajâttem</t>
          </tg>
       </mg>
    </e>
@@ -11656,7 +11656,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">hallaa #-s</t>
+            <t pos="" attr="#-s">hallaa</t>
          </tg>
       </mg>
    </e>
@@ -11676,7 +11676,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kuov'gâd # kuo'vgis</t>
+            <t pos="" attr="# kuo'vgis">kuov'gâd</t>
          </tg>
       </mg>
    </e>
@@ -12036,7 +12036,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">noccáá # -s</t>
+            <t pos="" attr="# -s">noccáá</t>
          </tg>
       </mg>
    </e>
@@ -12296,7 +12296,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">suvrodhánnáá # -s</t>
+            <t pos="" attr="# -s">suvrodhánnáá</t>
          </tg>
       </mg>
    </e>
@@ -13496,7 +13496,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">njuo'râdeijee # -s</t>
+            <t pos="" attr="# -s">njuo'râdeijee</t>
          </tg>
       </mg>
    </e>
@@ -13516,7 +13516,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">luáNi luáni # luá'nis</t>
+            <t pos="" attr="# luá'nis">luáNi luáni</t>
          </tg>
       </mg>
    </e>
@@ -13806,7 +13806,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čyeijil # čye'Jilis</t>
+            <t pos="" attr="# čye'Jilis">čyeijil</t>
          </tg>
       </mg>
    </e>
@@ -14436,7 +14436,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ko'skâlduuhánnáá # -s</t>
+            <t pos="" attr="# -s">ko'skâlduuhánnáá</t>
          </tg>
       </mg>
    </e>
@@ -14486,7 +14486,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">herkki heerhi # he'rhis</t>
+            <t pos="" attr="# he'rhis">herkki heerhi</t>
          </tg>
       </mg>
    </e>
@@ -14496,7 +14496,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">murriš # murrišâs</t>
+            <t pos="" attr="# murrišâs">murriš</t>
          </tg>
       </mg>
    </e>
@@ -14986,7 +14986,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">smaavâs # smaVâ</t>
+            <t pos="" attr="# smaVâ">smaavâs</t>
          </tg>
       </mg>
    </e>
@@ -15166,7 +15166,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">suá'játtem # suá'játtes</t>
+            <t pos="" attr="# suá'játtes">suá'játtem</t>
          </tg>
       </mg>
    </e>
@@ -15596,7 +15596,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">šier'vi šiervi # šie'rvis</t>
+            <t pos="" attr="# šie'rvis">šier'vi šiervi</t>
          </tg>
       </mg>
    </e>
@@ -16076,7 +16076,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ti'pšohánnáá # -s</t>
+            <t pos="" attr="# -s">ti'pšohánnáá</t>
          </tg>
       </mg>
    </e>
@@ -16236,7 +16236,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kuop'pii # -s</t>
+            <t pos="" attr="# -s">kuop'pii</t>
          </tg>
       </mg>
    </e>
@@ -16796,7 +16796,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">humusnallii # -nalliis</t>
+            <t pos="" attr="# -nalliis">humusnallii</t>
          </tg>
       </mg>
    </e>
@@ -17116,7 +17116,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">jie'nâttem # -s</t>
+            <t pos="" attr="# -s">jie'nâttem</t>
          </tg>
       </mg>
    </e>
@@ -17216,7 +17216,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">hoppeel # hopelis</t>
+            <t pos="" attr="# hopelis">hoppeel</t>
          </tg>
       </mg>
    </e>
@@ -17246,7 +17246,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">huMo humo # humos</t>
+            <t pos="" attr="# humos">huMo humo</t>
          </tg>
       </mg>
    </e>
@@ -17276,7 +17276,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">passaa # -s</t>
+            <t pos="" attr="# -s">passaa</t>
          </tg>
       </mg>
    </e>
@@ -17446,7 +17446,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">hiär'váá # -s</t>
+            <t pos="" attr="# -s">hiär'váá</t>
          </tg>
       </mg>
    </e>
@@ -17706,7 +17706,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kuál'láá # -s</t>
+            <t pos="" attr="# -s">kuál'láá</t>
          </tg>
       </mg>
    </e>
@@ -17756,7 +17756,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">pánnáá # -s</t>
+            <t pos="" attr="# -s">pánnáá</t>
          </tg>
       </mg>
    </e>
@@ -17796,7 +17796,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kulliš # kuLisâš</t>
+            <t pos="" attr="# kuLisâš">kulliš</t>
          </tg>
       </mg>
    </e>
@@ -17806,7 +17806,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">pye'Riluándug # -luá'ndugis</t>
+            <t pos="" attr="# -luá'ndugis">pye'Riluándug</t>
          </tg>
       </mg>
    </e>
@@ -17816,7 +17816,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">muštee # -s</t>
+            <t pos="" attr="# -s">muštee</t>
          </tg>
       </mg>
    </e>
@@ -17896,7 +17896,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">siivvâd # siVâdis</t>
+            <t pos="" attr="# siVâdis">siivvâd</t>
          </tg>
       </mg>
    </e>
@@ -18426,7 +18426,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">iät'táá # iät'táás</t>
+            <t pos="" attr="# iät'táás">iät'táá</t>
          </tg>
       </mg>
    </e>
@@ -19236,7 +19236,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">tulkkâdijjee # -s</t>
+            <t pos="" attr="# -s">tulkkâdijjee</t>
          </tg>
       </mg>
    </e>
@@ -19276,7 +19276,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">vallii # -s</t>
+            <t pos="" attr="# -s">vallii</t>
          </tg>
       </mg>
    </e>
@@ -19806,7 +19806,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ilottem # ilottes</t>
+            <t pos="" attr="# ilottes">ilottem</t>
          </tg>
       </mg>
    </e>
@@ -20106,7 +20106,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">infraruop'sâd # -ruo'psis</t>
+            <t pos="" attr="# -ruo'psis">infraruop'sâd</t>
          </tg>
       </mg>
    </e>
@@ -20176,7 +20176,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kooidâs koidâs # koidâ</t>
+            <t pos="" attr="# koidâ">kooidâs koidâs</t>
          </tg>
       </mg>
    </e>
@@ -20316,7 +20316,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">nyes'ki nyeski # nye'skis</t>
+            <t pos="" attr="# nye'skis">nyes'ki nyeski</t>
          </tg>
       </mg>
    </e>
@@ -20726,7 +20726,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ruáv'jáá # -s</t>
+            <t pos="" attr="# -s">ruáv'jáá</t>
          </tg>
       </mg>
    </e>
@@ -20746,7 +20746,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">puuriš # puriččis</t>
+            <t pos="" attr="# puriččis">puuriš</t>
          </tg>
       </mg>
    </e>
@@ -20786,7 +20786,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čuár'váá # čuár'váás</t>
+            <t pos="" attr="# čuár'váás">čuár'váá</t>
          </tg>
       </mg>
    </e>
@@ -20886,7 +20886,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čuáv'jáá # -s</t>
+            <t pos="" attr="# -s">čuáv'jáá</t>
          </tg>
       </mg>
    </e>
@@ -21006,7 +21006,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">lonnjeed # lonjedis</t>
+            <t pos="" attr="# lonjedis">lonnjeed</t>
          </tg>
       </mg>
    </e>
@@ -21346,7 +21346,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">jiešräähis -rákkás # -rähis</t>
+            <t pos="" syn_dash="-rákkás" attr="# -rähis">jiešräähis</t>
          </tg>
       </mg>
    </e>
@@ -21646,7 +21646,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">jye'Vihánnáá # -s</t>
+            <t pos="" attr="# -s">jye'Vihánnáá</t>
          </tg>
       </mg>
    </e>
@@ -23696,7 +23696,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">sárgáá # -s</t>
+            <t pos="" attr="# -s">sárgáá</t>
          </tg>
       </mg>
    </e>
@@ -23956,7 +23956,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ruámšáá # -s</t>
+            <t pos="" attr="# -s">ruámšáá</t>
          </tg>
       </mg>
    </e>
@@ -24076,7 +24076,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">stoorgâs storgâs # storgâ</t>
+            <t pos="" attr="# storgâ">stoorgâs storgâs</t>
          </tg>
       </mg>
    </e>
@@ -24236,7 +24236,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">vanttâ vaantâ # va'ntâs</t>
+            <t pos="" attr="# va'ntâs">vanttâ vaantâ</t>
          </tg>
       </mg>
    </e>
@@ -24316,7 +24316,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">jiäg'gáá # -s</t>
+            <t pos="" attr="# -s">jiäg'gáá</t>
          </tg>
       </mg>
    </e>
@@ -24436,7 +24436,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">o'rnijduuhánnáá # -s</t>
+            <t pos="" attr="# -s">o'rnijduuhánnáá</t>
          </tg>
       </mg>
    </e>
@@ -24476,7 +24476,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">oornijdmettum # -es</t>
+            <t pos="" attr="# -es">oornijdmettum</t>
          </tg>
       </mg>
    </e>
@@ -24496,7 +24496,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">jie'rmittem # jie'rmittes</t>
+            <t pos="" attr="# jie'rmittes">jie'rmittem</t>
          </tg>
       </mg>
    </e>
@@ -25056,7 +25056,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">jie'Ŋâkoolmâs -kolmâs # -kolmâ</t>
+            <t pos="" syn_dash="-kolmâs" attr="# -kolmâ">jie'Ŋâkoolmâs</t>
          </tg>
       </mg>
    </e>
@@ -25286,7 +25286,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">mulžáá # -s</t>
+            <t pos="" attr="# -s">mulžáá</t>
          </tg>
       </mg>
    </e>
@@ -25456,7 +25456,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">moiváá # -s</t>
+            <t pos="" attr="# -s">moiváá</t>
          </tg>
       </mg>
    </e>
@@ -26836,7 +26836,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kalšâd # -is</t>
+            <t pos="" attr="# -is">kalšâd</t>
          </tg>
       </mg>
    </e>
@@ -27876,7 +27876,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kyed'dee # -s</t>
+            <t pos="" attr="# -s">kyed'dee</t>
          </tg>
       </mg>
    </e>
@@ -27906,7 +27906,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">muár'ráá # -s</t>
+            <t pos="" attr="# -s">muár'ráá</t>
          </tg>
       </mg>
    </e>
@@ -28386,7 +28386,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kyermis kuár'má # kye'rmis</t>
+            <t pos="" attr="# kye'rmis">kyermis kuár'má</t>
          </tg>
       </mg>
    </e>
@@ -28486,7 +28486,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">skárttáá # -s</t>
+            <t pos="" attr="# -s">skárttáá</t>
          </tg>
       </mg>
    </e>
@@ -28706,7 +28706,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">riičâs riččâs # riččâ</t>
+            <t pos="" attr="# riččâ">riičâs riččâs</t>
          </tg>
       </mg>
    </e>
@@ -29216,7 +29216,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kaađâš kaattâš # kađâš</t>
+            <t pos="" attr="# kađâš">kaađâš kaattâš</t>
          </tg>
       </mg>
    </e>
@@ -29466,7 +29466,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">keeJâthánnáá # -s</t>
+            <t pos="" attr="# -s">keeJâthánnáá</t>
          </tg>
       </mg>
    </e>
@@ -30446,7 +30446,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ovdánmettum # -is</t>
+            <t pos="" attr="# -is">ovdánmettum</t>
          </tg>
       </mg>
    </e>
@@ -30526,7 +30526,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kiäh'nu kiähnu # kiä'hnus</t>
+            <t pos="" attr="# kiä'hnus">kiäh'nu kiähnu</t>
          </tg>
       </mg>
    </e>
@@ -30966,7 +30966,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">utkáá # -s</t>
+            <t pos="" attr="# -s">utkáá</t>
          </tg>
       </mg>
    </e>
@@ -31056,7 +31056,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kuov'gâd # kuo'vgis</t>
+            <t pos="" attr="# kuo'vgis">kuov'gâd</t>
          </tg>
       </mg>
    </e>
@@ -31186,7 +31186,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">šovkkâd # šovkkâdis</t>
+            <t pos="" attr="# šovkkâdis">šovkkâd</t>
          </tg>
       </mg>
    </e>
@@ -31636,7 +31636,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kammuuttem # kammuuttes</t>
+            <t pos="" attr="# kammuuttes">kammuuttem</t>
          </tg>
       </mg>
    </e>
@@ -31806,7 +31806,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kier'gâd # -is</t>
+            <t pos="" attr="# -is">kier'gâd</t>
          </tg>
       </mg>
    </e>
@@ -31946,7 +31946,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">rámmáá # -s</t>
+            <t pos="" attr="# -s">rámmáá</t>
          </tg>
       </mg>
    </e>
@@ -33196,7 +33196,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">sahhii # -s</t>
+            <t pos="" attr="# -s">sahhii</t>
          </tg>
       </mg>
    </e>
@@ -33426,7 +33426,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">skiäl'gá skiälgá # skiäl'gá</t>
+            <t pos="" attr="# skiäl'gá">skiäl'gá skiälgá</t>
          </tg>
       </mg>
    </e>
@@ -33846,7 +33846,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kimmáá # -s</t>
+            <t pos="" attr="# -s">kimmáá</t>
          </tg>
       </mg>
    </e>
@@ -34376,7 +34376,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">nánnáá # -s</t>
+            <t pos="" attr="# -s">nánnáá</t>
          </tg>
       </mg>
    </e>
@@ -34516,7 +34516,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">skálváá # -s</t>
+            <t pos="" attr="# -s">skálváá</t>
          </tg>
       </mg>
    </e>
@@ -34866,7 +34866,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kirjáá # -s</t>
+            <t pos="" attr="# -s">kirjáá</t>
          </tg>
       </mg>
    </e>
@@ -34976,7 +34976,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čäLimettum # čäLimettumes</t>
+            <t pos="" attr="# čäLimettumes">čäLimettum</t>
          </tg>
       </mg>
    </e>
@@ -35641,7 +35641,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">narcce na'rce # na'rces</t>
+            <t pos="" attr="# na'rces">narcce na'rce</t>
          </tg>
       </mg>
    </e>
@@ -35651,7 +35651,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">raavžâs ravžâs # ravžâ</t>
+            <t pos="" attr="# ravžâ">raavžâs ravžâs</t>
          </tg>
       </mg>
    </e>
@@ -35721,7 +35721,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">hitruu # -s</t>
+            <t pos="" attr="# -s">hitruu</t>
          </tg>
       </mg>
    </e>
@@ -35931,7 +35931,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kiäđ'gáá # -s</t>
+            <t pos="" attr="# -s">kiäđ'gáá</t>
          </tg>
       </mg>
    </e>
@@ -36091,7 +36091,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kuáimáá # -s</t>
+            <t pos="" attr="# -s">kuáimáá</t>
          </tg>
       </mg>
    </e>
@@ -36111,7 +36111,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">pä'ihittem # -es</t>
+            <t pos="" attr="# -es">pä'ihittem</t>
          </tg>
       </mg>
    </e>
@@ -36361,7 +36361,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">merettem # merettes</t>
+            <t pos="" attr="# merettes">merettem</t>
          </tg>
       </mg>
    </e>
@@ -37801,7 +37801,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">hiär'váá # -s</t>
+            <t pos="" attr="# -s">hiär'váá</t>
          </tg>
       </mg>
    </e>
@@ -37811,7 +37811,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">hervii # -s</t>
+            <t pos="" attr="# -s">hervii</t>
          </tg>
       </mg>
    </e>
@@ -37901,7 +37901,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">robdii # -s</t>
+            <t pos="" attr="# -s">robdii</t>
          </tg>
       </mg>
    </e>
@@ -38181,7 +38181,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">mittedmettum # -is</t>
+            <t pos="" attr="# -is">mittedmettum</t>
          </tg>
       </mg>
    </e>
@@ -38461,7 +38461,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kuoš'kii # -s</t>
+            <t pos="" attr="# -s">kuoš'kii</t>
          </tg>
       </mg>
    </e>
@@ -38771,7 +38771,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ruán'záá # -s</t>
+            <t pos="" attr="# -s">ruán'záá</t>
          </tg>
       </mg>
    </e>
@@ -38941,7 +38941,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">párttáá # -s</t>
+            <t pos="" attr="# -s">párttáá</t>
          </tg>
       </mg>
    </e>
@@ -38961,7 +38961,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">jien'nii # -s</t>
+            <t pos="" attr="# -s">jien'nii</t>
          </tg>
       </mg>
    </e>
@@ -38981,7 +38981,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">koovvâr # koVâris</t>
+            <t pos="" attr="# koVâris">koovvâr</t>
          </tg>
       </mg>
    </e>
@@ -39531,7 +39531,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">rássáá # -s</t>
+            <t pos="" attr="# -s">rássáá</t>
          </tg>
       </mg>
    </e>
@@ -39611,7 +39611,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čummii # -s</t>
+            <t pos="" attr="# -s">čummii</t>
          </tg>
       </mg>
    </e>
@@ -40511,7 +40511,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kunneehäänis -háánnás # -hänis</t>
+            <t pos="" syn_dash="-háánnás" attr="# -hänis">kunneehäänis</t>
          </tg>
       </mg>
    </e>
@@ -40521,7 +40521,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kunneettem # kunneettes kunneettemes</t>
+            <t pos="" attr="# kunneettes kunneettemes">kunneettem</t>
          </tg>
       </mg>
    </e>
@@ -40761,7 +40761,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">suál'ssáá # -s</t>
+            <t pos="" attr="# -s">suál'ssáá</t>
          </tg>
       </mg>
    </e>
@@ -40801,7 +40801,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">luáNi luáni # luá'nis</t>
+            <t pos="" attr="# luá'nis">luáNi luáni</t>
          </tg>
       </mg>
    </e>
@@ -40851,7 +40851,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">jäämithánnáá # -s</t>
+            <t pos="" attr="# -s">jäämithánnáá</t>
          </tg>
       </mg>
    </e>
@@ -40971,7 +40971,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">roggáá # -s</t>
+            <t pos="" attr="# -s">roggáá</t>
          </tg>
       </mg>
    </e>
@@ -41931,7 +41931,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kulottem # kulottes</t>
+            <t pos="" attr="# kulottes">kulottem</t>
          </tg>
       </mg>
    </e>
@@ -42101,7 +42101,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">piccáá # -s</t>
+            <t pos="" attr="# -s">piccáá</t>
          </tg>
       </mg>
    </e>
@@ -42121,7 +42121,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">pe'ljittem # pe'ljittes</t>
+            <t pos="" attr="# pe'ljittes">pe'ljittem</t>
          </tg>
       </mg>
    </e>
@@ -43811,7 +43811,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">várdu váárdu # vá'rdus</t>
+            <t pos="" attr="# vá'rdus">várdu váárdu</t>
          </tg>
       </mg>
    </e>
@@ -44181,7 +44181,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">šie'všlaajâg # -šlajâgis</t>
+            <t pos="" attr="# -šlajâgis">šie'všlaajâg</t>
          </tg>
       </mg>
    </e>
@@ -44191,7 +44191,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">viijđes vijđá # vi'jđes</t>
+            <t pos="" attr="# vi'jđes">viijđes vijđá</t>
          </tg>
       </mg>
    </e>
@@ -45381,7 +45381,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">lakkaahánnáá # -s</t>
+            <t pos="" attr="# -s">lakkaahánnáá</t>
          </tg>
       </mg>
    </e>
@@ -45391,7 +45391,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">nuhâmettum # -is</t>
+            <t pos="" attr="# -is">nuhâmettum</t>
          </tg>
       </mg>
    </e>
@@ -45441,7 +45441,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">laktoosittem # -es</t>
+            <t pos="" attr="# -es">laktoosittem</t>
          </tg>
       </mg>
    </e>
@@ -46531,7 +46531,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">lääđis lááđđás # läđis</t>
+            <t pos="" attr="# läđis">lääđis lááđđás</t>
          </tg>
       </mg>
    </e>
@@ -48091,7 +48091,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">uác'cáá # -s</t>
+            <t pos="" attr="# -s">uác'cáá</t>
          </tg>
       </mg>
    </e>
@@ -48361,7 +48361,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">läivi lääivi # lä'ivis</t>
+            <t pos="" attr="# lä'ivis">läivi lääivi</t>
          </tg>
       </mg>
    </e>
@@ -49771,7 +49771,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">njuáidus njuái'dus # njuá'idus</t>
+            <t pos="" attr="# njuá'idus">njuáidus njuái'dus</t>
          </tg>
       </mg>
    </e>
@@ -49801,7 +49801,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">njiäš'šáá # -s</t>
+            <t pos="" attr="# -s">njiäš'šáá</t>
          </tg>
       </mg>
    </e>
@@ -50361,7 +50361,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">táhtáá # -s</t>
+            <t pos="" attr="# -s">táhtáá</t>
          </tg>
       </mg>
    </e>
@@ -51751,7 +51751,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">hitruu # -s</t>
+            <t pos="" attr="# -s">hitruu</t>
          </tg>
       </mg>
    </e>
@@ -52481,7 +52481,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">haijii # -s</t>
+            <t pos="" attr="# -s">haijii</t>
          </tg>
       </mg>
    </e>
@@ -52511,7 +52511,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">uá'ivittem # uá'ivittes</t>
+            <t pos="" attr="# uá'ivittes">uá'ivittem</t>
          </tg>
       </mg>
    </e>
@@ -53206,7 +53206,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">rámmáá # -s</t>
+            <t pos="" attr="# -s">rámmáá</t>
          </tg>
       </mg>
    </e>
@@ -53226,7 +53226,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">má'hđuttem # -es</t>
+            <t pos="" attr="# -es">má'hđuttem</t>
          </tg>
       </mg>
    </e>
@@ -53266,7 +53266,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">mie'lhittem # mie'lhittes</t>
+            <t pos="" attr="# mie'lhittes">mie'lhittem</t>
          </tg>
       </mg>
    </e>
@@ -53766,7 +53766,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">huáv'ráá # -s</t>
+            <t pos="" attr="# -s">huáv'ráá</t>
          </tg>
       </mg>
    </e>
@@ -54126,7 +54126,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">njeeĐi njeeđi # njeđes</t>
+            <t pos="" attr="# njeđes">njeeĐi njeeđi</t>
          </tg>
       </mg>
    </e>
@@ -54146,7 +54146,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ro'bdâttem # ro'bdâttes</t>
+            <t pos="" attr="# ro'bdâttes">ro'bdâttem</t>
          </tg>
       </mg>
    </e>
@@ -54526,7 +54526,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">mannee # -s</t>
+            <t pos="" attr="# -s">mannee</t>
          </tg>
       </mg>
    </e>
@@ -55416,7 +55416,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">mie'lâttem # mie'lâttes</t>
+            <t pos="" attr="# mie'lâttes">mie'lâttem</t>
          </tg>
       </mg>
    </e>
@@ -55896,7 +55896,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">läittimettum # -es</t>
+            <t pos="" attr="# -es">läittimettum</t>
          </tg>
       </mg>
    </e>
@@ -56386,7 +56386,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">muldáá # -s</t>
+            <t pos="" attr="# -s">muldáá</t>
          </tg>
       </mg>
    </e>
@@ -56416,7 +56416,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">miäl'ssáá # -s</t>
+            <t pos="" attr="# -s">miäl'ssáá</t>
          </tg>
       </mg>
    </e>
@@ -56706,7 +56706,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">smiäRu smiäru # smiä'rus</t>
+            <t pos="" attr="# smiä'rus">smiäRu smiäru</t>
          </tg>
       </mg>
    </e>
@@ -56776,7 +56776,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">morâtteijee # -s</t>
+            <t pos="" attr="# -s">morâtteijee</t>
          </tg>
       </mg>
    </e>
@@ -56886,7 +56886,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čappâd # čapis</t>
+            <t pos="" attr="# čapis">čappâd</t>
          </tg>
       </mg>
    </e>
@@ -57296,7 +57296,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">mottáá # -s</t>
+            <t pos="" attr="# -s">mottáá</t>
          </tg>
       </mg>
    </e>
@@ -58076,7 +58076,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">luák'káá # -s</t>
+            <t pos="" attr="# -s">luák'káá</t>
          </tg>
       </mg>
    </e>
@@ -58236,7 +58236,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">vošmii # -s</t>
+            <t pos="" attr="# -s">vošmii</t>
          </tg>
       </mg>
    </e>
@@ -58316,7 +58316,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">mieh'tii # -s</t>
+            <t pos="" attr="# -s">mieh'tii</t>
          </tg>
       </mg>
    </e>
@@ -58336,7 +58336,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kuocâ # kuo'câ</t>
+            <t pos="" attr="# kuo'câ">kuocâ</t>
          </tg>
       </mg>
    </e>
@@ -58496,7 +58496,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">merettem # merettes</t>
+            <t pos="" attr="# merettes">merettem</t>
          </tg>
       </mg>
    </e>
@@ -58786,7 +58786,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">najâhánnáá # -s</t>
+            <t pos="" attr="# -s">najâhánnáá</t>
          </tg>
       </mg>
    </e>
@@ -59556,7 +59556,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ráđđáá # -s</t>
+            <t pos="" attr="# -s">ráđđáá</t>
          </tg>
       </mg>
    </e>
@@ -59646,7 +59646,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">skálváá # -s</t>
+            <t pos="" attr="# -s">skálváá</t>
          </tg>
       </mg>
    </e>
@@ -59676,7 +59676,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">sappeed # sapedis</t>
+            <t pos="" attr="# sapedis">sappeed</t>
          </tg>
       </mg>
    </e>
@@ -59926,7 +59926,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">nomâttem # nomâttes</t>
+            <t pos="" attr="# nomâttes">nomâttem</t>
          </tg>
       </mg>
    </e>
@@ -60366,7 +60366,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kiep'pii # -s</t>
+            <t pos="" attr="# -s">kiep'pii</t>
          </tg>
       </mg>
    </e>
@@ -60556,7 +60556,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">neppir # -is</t>
+            <t pos="" attr="# -is">neppir</t>
          </tg>
       </mg>
    </e>
@@ -60566,7 +60566,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">lašmâd # -is</t>
+            <t pos="" attr="# -is">lašmâd</t>
          </tg>
       </mg>
    </e>
@@ -60746,7 +60746,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">siivvâd # siVâdis</t>
+            <t pos="" attr="# siVâdis">siivvâd</t>
          </tg>
       </mg>
    </e>
@@ -60756,7 +60756,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">tuáv'kki tuávhi # tuá'vhis</t>
+            <t pos="" attr="# tuá'vhis">tuáv'kki tuávhi</t>
          </tg>
       </mg>
    </e>
@@ -60836,7 +60836,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">nuáv'váá # -s</t>
+            <t pos="" attr="# -s">nuáv'váá</t>
          </tg>
       </mg>
    </e>
@@ -61286,7 +61286,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">nälittem # nälittes</t>
+            <t pos="" attr="# nälittes">nälittem</t>
          </tg>
       </mg>
    </e>
@@ -62036,7 +62036,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">nuáv'váá # -s</t>
+            <t pos="" attr="# -s">nuáv'váá</t>
          </tg>
       </mg>
    </e>
@@ -62066,7 +62066,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">vye'Ligâš vye'Ligáá # vye'ligâs</t>
+            <t pos="" attr="# vye'ligâs">vye'Ligâš vye'Ligáá</t>
          </tg>
       </mg>
    </e>
@@ -62306,7 +62306,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">i'bles iblá # ibláás</t>
+            <t pos="" attr="# ibláás">i'bles iblá</t>
          </tg>
       </mg>
    </e>
@@ -63046,7 +63046,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">párttáá # -s</t>
+            <t pos="" attr="# -s">párttáá</t>
          </tg>
       </mg>
    </e>
@@ -63546,7 +63546,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">uárbis uár'bás # uá'rbis</t>
+            <t pos="" attr="# uá'rbis">uárbis uár'bás</t>
          </tg>
       </mg>
    </e>
@@ -64076,7 +64076,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kahhaannallii # -s</t>
+            <t pos="" attr="# -s">kahhaannallii</t>
          </tg>
       </mg>
    </e>
@@ -64276,7 +64276,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">haijii # -s</t>
+            <t pos="" attr="# -s">haijii</t>
          </tg>
       </mg>
    </e>
@@ -64286,7 +64286,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">paasluándug # -luá'ndugis</t>
+            <t pos="" attr="# -luá'ndugis">paasluándug</t>
          </tg>
       </mg>
    </e>
@@ -64296,7 +64296,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ilgâd # ilgâdis</t>
+            <t pos="" attr="# ilgâdis">ilgâd</t>
          </tg>
       </mg>
    </e>
@@ -64306,7 +64306,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">paasyev'vee # -s</t>
+            <t pos="" attr="# -s">paasyev'vee</t>
          </tg>
       </mg>
    </e>
@@ -64716,7 +64716,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">tiä'duttem # tiä'duttes</t>
+            <t pos="" attr="# tiä'duttes">tiä'duttem</t>
          </tg>
       </mg>
    </e>
@@ -65196,7 +65196,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čiäv'đáá # -s</t>
+            <t pos="" attr="# -s">čiäv'đáá</t>
          </tg>
       </mg>
    </e>
@@ -65236,7 +65236,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">skeerčâ # ske'rčâ</t>
+            <t pos="" attr="# ske'rčâ">skeerčâ</t>
          </tg>
       </mg>
    </e>
@@ -65376,7 +65376,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">puuriš # puriččis</t>
+            <t pos="" attr="# puriččis">puuriš</t>
          </tg>
       </mg>
    </e>
@@ -65386,7 +65386,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">stálppáá # -s</t>
+            <t pos="" attr="# -s">stálppáá</t>
          </tg>
       </mg>
    </e>
@@ -66776,7 +66776,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">siLe sile # siles</t>
+            <t pos="" attr="# siles">siLe sile</t>
          </tg>
       </mg>
    </e>
@@ -67346,7 +67346,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">tolcce to'lce # to'lces</t>
+            <t pos="" attr="# to'lces">tolcce to'lce</t>
          </tg>
       </mg>
    </e>
@@ -70436,7 +70436,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">sollii # -s</t>
+            <t pos="" attr="# -s">sollii</t>
          </tg>
       </mg>
    </e>
@@ -70556,7 +70556,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">cuáp'cil # -âs</t>
+            <t pos="" attr="# -âs">cuáp'cil</t>
          </tg>
       </mg>
    </e>
@@ -71046,7 +71046,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">poNettem # -es</t>
+            <t pos="" attr="# -es">poNettem</t>
          </tg>
       </mg>
    </e>
@@ -71206,7 +71206,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">tuáris tuár'rás # tuá'ris</t>
+            <t pos="" attr="# tuá'ris">tuáris tuár'rás</t>
          </tg>
       </mg>
    </e>
@@ -71216,7 +71216,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kyed'dee # -s</t>
+            <t pos="" attr="# -s">kyed'dee</t>
          </tg>
       </mg>
    </e>
@@ -72196,7 +72196,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">koorrâd # koRâdis</t>
+            <t pos="" attr="# koRâdis">koorrâd</t>
          </tg>
       </mg>
    </e>
@@ -72996,7 +72996,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ruop'sâd # ruo'psis</t>
+            <t pos="" attr="# ruo'psis">ruop'sâd</t>
          </tg>
       </mg>
    </e>
@@ -73526,7 +73526,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">koškáá # -s</t>
+            <t pos="" attr="# -s">koškáá</t>
          </tg>
       </mg>
    </e>
@@ -73576,7 +73576,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">peLikukke -kuhe # -kuhes</t>
+            <t pos="" syn_dash="-kuhe" attr="# -kuhes">peLikukke</t>
          </tg>
       </mg>
    </e>
@@ -73586,7 +73586,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">peLijuurbâs -jurbâs # -jurbâ</t>
+            <t pos="" syn_dash="-jurbâs" attr="# -jurbâ">peLijuurbâs</t>
          </tg>
       </mg>
    </e>
@@ -73616,7 +73616,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">peLivaalmâš # -va'lmâš</t>
+            <t pos="" attr="# -va'lmâš">peLivaalmâš</t>
          </tg>
       </mg>
    </e>
@@ -74186,7 +74186,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">jäämithánnáá # -s</t>
+            <t pos="" attr="# -s">jäämithánnáá</t>
          </tg>
       </mg>
    </e>
@@ -74376,7 +74376,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">rossii # -s</t>
+            <t pos="" attr="# -s">rossii</t>
          </tg>
       </mg>
    </e>
@@ -74446,7 +74446,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">muo'râttem # muo'râttes</t>
+            <t pos="" attr="# muo'râttes">muo'râttem</t>
          </tg>
       </mg>
    </e>
@@ -74686,7 +74686,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">riän'náá # -s</t>
+            <t pos="" attr="# -s">riän'náá</t>
          </tg>
       </mg>
    </e>
@@ -75936,7 +75936,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kovjii # -s</t>
+            <t pos="" attr="# -s">kovjii</t>
          </tg>
       </mg>
    </e>
@@ -76296,7 +76296,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">rámmáá # -s</t>
+            <t pos="" attr="# -s">rámmáá</t>
          </tg>
       </mg>
    </e>
@@ -76396,7 +76396,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">räävis ráávvás # rävis</t>
+            <t pos="" attr="# rävis">räävis ráávvás</t>
          </tg>
       </mg>
    </e>
@@ -76506,7 +76506,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ruttii # -s</t>
+            <t pos="" attr="# -s">ruttii</t>
          </tg>
       </mg>
    </e>
@@ -76606,7 +76606,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ruttâväimil # -väimilis</t>
+            <t pos="" attr="# -väimilis">ruttâväimil</t>
          </tg>
       </mg>
    </e>
@@ -76886,7 +76886,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">juVâhánnáá # -s</t>
+            <t pos="" attr="# -s">juVâhánnáá</t>
          </tg>
       </mg>
    </e>
@@ -76936,7 +76936,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">muár'ráá # -s</t>
+            <t pos="" attr="# -s">muár'ráá</t>
          </tg>
       </mg>
    </e>
@@ -77006,7 +77006,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">räjittem # -es</t>
+            <t pos="" attr="# -es">räjittem</t>
          </tg>
       </mg>
    </e>
@@ -77096,7 +77096,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">räähis rákkás # rähis</t>
+            <t pos="" attr="# rähis">räähis rákkás</t>
          </tg>
       </mg>
    </e>
@@ -78366,7 +78366,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ravâdâhvaljaa # -s</t>
+            <t pos="" attr="# -s">ravâdâhvaljaa</t>
          </tg>
       </mg>
    </e>
@@ -78586,7 +78586,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ráigáá # -s</t>
+            <t pos="" attr="# -s">ráigáá</t>
          </tg>
       </mg>
    </e>
@@ -78606,7 +78606,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">virkkuu # -s</t>
+            <t pos="" attr="# -s">virkkuu</t>
          </tg>
       </mg>
    </e>
@@ -79286,7 +79286,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">pehtil # -is</t>
+            <t pos="" attr="# -is">pehtil</t>
          </tg>
       </mg>
    </e>
@@ -79746,7 +79746,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">raddaa # -s</t>
+            <t pos="" attr="# -s">raddaa</t>
          </tg>
       </mg>
    </e>
@@ -80166,7 +80166,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">roššuu # -s</t>
+            <t pos="" attr="# -s">roššuu</t>
          </tg>
       </mg>
    </e>
@@ -80176,7 +80176,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">tuámmir # tuá'Miris</t>
+            <t pos="" attr="# tuá'Miris">tuámmir</t>
          </tg>
       </mg>
    </e>
@@ -80456,7 +80456,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ruáb'báá # -s</t>
+            <t pos="" attr="# -s">ruáb'báá</t>
          </tg>
       </mg>
    </e>
@@ -80576,7 +80576,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">tuol'luu # -s</t>
+            <t pos="" attr="# -s">tuol'luu</t>
          </tg>
       </mg>
    </e>
@@ -80726,7 +80726,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">huáv'ráá # -s</t>
+            <t pos="" attr="# -s">huáv'ráá</t>
          </tg>
       </mg>
    </e>
@@ -81076,7 +81076,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">puškuu # -s</t>
+            <t pos="" attr="# -s">puškuu</t>
          </tg>
       </mg>
    </e>
@@ -81086,7 +81086,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">šaddaa # -s</t>
+            <t pos="" attr="# -s">šaddaa</t>
          </tg>
       </mg>
    </e>
@@ -81096,7 +81096,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">lostii # -s</t>
+            <t pos="" attr="# -s">lostii</t>
          </tg>
       </mg>
    </e>
@@ -81106,7 +81106,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">miäl'kkáá # -s</t>
+            <t pos="" attr="# -s">miäl'kkáá</t>
          </tg>
       </mg>
    </e>
@@ -81116,7 +81116,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">miäl'kkáá # -s</t>
+            <t pos="" attr="# -s">miäl'kkáá</t>
          </tg>
       </mg>
    </e>
@@ -81126,7 +81126,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">arvaa # -s</t>
+            <t pos="" attr="# -s">arvaa</t>
          </tg>
       </mg>
    </e>
@@ -81506,7 +81506,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">táhtáá # -s</t>
+            <t pos="" attr="# -s">táhtáá</t>
          </tg>
       </mg>
    </e>
@@ -81586,7 +81586,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ruáb'báá # -s</t>
+            <t pos="" attr="# -s">ruáb'báá</t>
          </tg>
       </mg>
    </e>
@@ -82216,7 +82216,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čuál'ččáá # -s</t>
+            <t pos="" attr="# -s">čuál'ččáá</t>
          </tg>
       </mg>
    </e>
@@ -82546,7 +82546,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">hervii # -s</t>
+            <t pos="" attr="# -s">hervii</t>
          </tg>
       </mg>
    </e>
@@ -83826,7 +83826,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">suoHâd # suo'his</t>
+            <t pos="" attr="# suo'his">suoHâd</t>
          </tg>
       </mg>
    </e>
@@ -84996,7 +84996,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">njaijii # -s</t>
+            <t pos="" attr="# -s">njaijii</t>
          </tg>
       </mg>
    </e>
@@ -85066,7 +85066,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">suov'vii # -s</t>
+            <t pos="" attr="# -s">suov'vii</t>
          </tg>
       </mg>
    </e>
@@ -85856,7 +85856,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">káálgus kálgus # ká'lgus</t>
+            <t pos="" attr="# ká'lgus">káálgus kálgus</t>
          </tg>
       </mg>
    </e>
@@ -85876,7 +85876,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čielgâs čiel'gâs # čiel'gâ</t>
+            <t pos="" attr="# čiel'gâ">čielgâs čiel'gâs</t>
          </tg>
       </mg>
    </e>
@@ -86776,7 +86776,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čurgiihánnáá # -s</t>
+            <t pos="" attr="# -s">čurgiihánnáá</t>
          </tg>
       </mg>
    </e>
@@ -86886,7 +86886,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">suá'játtem # suá'játtes</t>
+            <t pos="" attr="# suá'játtes">suá'játtem</t>
          </tg>
       </mg>
    </e>
@@ -86936,7 +86936,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čurgiihánnáá # -s</t>
+            <t pos="" attr="# -s">čurgiihánnáá</t>
          </tg>
       </mg>
    </e>
@@ -87076,7 +87076,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">sokkuu # -s</t>
+            <t pos="" attr="# -s">sokkuu</t>
          </tg>
       </mg>
    </e>
@@ -87116,7 +87116,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">njuvgâd # nju'vgis</t>
+            <t pos="" attr="# nju'vgis">njuvgâd</t>
          </tg>
       </mg>
    </e>
@@ -88271,7 +88271,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čoonnâsmáttum # -is</t>
+            <t pos="" attr="# -is">čoonnâsmáttum</t>
          </tg>
       </mg>
    </e>
@@ -88411,7 +88411,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">siivvâd # siVâdis</t>
+            <t pos="" attr="# siVâdis">siivvâd</t>
          </tg>
       </mg>
    </e>
@@ -88751,7 +88751,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">jiäg'gáá # -s</t>
+            <t pos="" attr="# -s">jiäg'gáá</t>
          </tg>
       </mg>
    </e>
@@ -88771,7 +88771,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čyeijil # čye'Jilis</t>
+            <t pos="" attr="# čye'Jilis">čyeijil</t>
          </tg>
       </mg>
    </e>
@@ -89001,7 +89001,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">muál'kkáá # -s</t>
+            <t pos="" attr="# -s">muál'kkáá</t>
          </tg>
       </mg>
    </e>
@@ -89041,7 +89041,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">šoođbâs šođbâs # šođbâ</t>
+            <t pos="" attr="# šođbâ">šoođbâs šođbâs</t>
          </tg>
       </mg>
    </e>
@@ -89221,7 +89221,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čavos čappoos # čapo</t>
+            <t pos="" attr="# čapo">čavos čappoos</t>
          </tg>
       </mg>
    </e>
@@ -89241,7 +89241,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čiev'rii # -s</t>
+            <t pos="" attr="# -s">čiev'rii</t>
          </tg>
       </mg>
    </e>
@@ -89551,7 +89551,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">sorráá # -s</t>
+            <t pos="" attr="# -s">sorráá</t>
          </tg>
       </mg>
    </e>
@@ -90081,7 +90081,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">njyeb'žil # -is</t>
+            <t pos="" attr="# -is">njyeb'žil</t>
          </tg>
       </mg>
    </e>
@@ -90431,7 +90431,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">nánnáá # -s</t>
+            <t pos="" attr="# -s">nánnáá</t>
          </tg>
       </mg>
    </e>
@@ -90871,7 +90871,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">läddi läädi # lädi-</t>
+            <t pos="" attr="# lädi-">läddi läädi</t>
          </tg>
       </mg>
    </e>
@@ -90881,7 +90881,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">läddi läädi # lädi-</t>
+            <t pos="" attr="# lädi-">läddi läädi</t>
          </tg>
       </mg>
    </e>
@@ -91161,7 +91161,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">rieh'tis # -is</t>
+            <t pos="" attr="# -is">rieh'tis</t>
          </tg>
       </mg>
    </e>
@@ -91261,7 +91261,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">piivnoh # pi'vnohis</t>
+            <t pos="" attr="# pi'vnohis">piivnoh</t>
          </tg>
       </mg>
    </e>
@@ -91331,7 +91331,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kärži käärži # kä'ržis</t>
+            <t pos="" attr="# kä'ržis">kärži käärži</t>
          </tg>
       </mg>
    </e>
@@ -91561,7 +91561,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">njálmáá # -s</t>
+            <t pos="" attr="# -s">njálmáá</t>
          </tg>
       </mg>
    </e>
@@ -91581,7 +91581,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">poNettem # -es</t>
+            <t pos="" attr="# -es">poNettem</t>
          </tg>
       </mg>
    </e>
@@ -91731,7 +91731,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">puuriš # puriččis</t>
+            <t pos="" attr="# puriččis">puuriš</t>
          </tg>
       </mg>
    </e>
@@ -91951,7 +91951,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">šnárkkáá # -s</t>
+            <t pos="" attr="# -s">šnárkkáá</t>
          </tg>
       </mg>
    </e>
@@ -92491,7 +92491,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">skálváá # -s</t>
+            <t pos="" attr="# -s">skálváá</t>
          </tg>
       </mg>
    </e>
@@ -92691,7 +92691,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">puuriš # puriččis</t>
+            <t pos="" attr="# puriččis">puuriš</t>
          </tg>
       </mg>
    </e>
@@ -93121,7 +93121,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">suáđis suáđđás # suá'đes</t>
+            <t pos="" attr="# suá'đes">suáđis suáđđás</t>
          </tg>
       </mg>
    </e>
@@ -93201,7 +93201,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">šordáá # -s</t>
+            <t pos="" attr="# -s">šordáá</t>
          </tg>
       </mg>
    </e>
@@ -93291,7 +93291,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">sijvuu # -s</t>
+            <t pos="" attr="# -s">sijvuu</t>
          </tg>
       </mg>
    </e>
@@ -93461,7 +93461,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čuoš'kii #-s</t>
+            <t pos="" attr="#-s">čuoš'kii</t>
          </tg>
       </mg>
    </e>
@@ -93591,7 +93591,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">nánnáá # -s</t>
+            <t pos="" attr="# -s">nánnáá</t>
          </tg>
       </mg>
    </e>
@@ -93771,7 +93771,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">tátuhánnáá # -s</t>
+            <t pos="" attr="# -s">tátuhánnáá</t>
          </tg>
       </mg>
    </e>
@@ -93841,7 +93841,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">turdáá # -s</t>
+            <t pos="" attr="# -s">turdáá</t>
          </tg>
       </mg>
    </e>
@@ -94001,7 +94001,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">passaa # -s</t>
+            <t pos="" attr="# -s">passaa</t>
          </tg>
       </mg>
    </e>
@@ -95101,7 +95101,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">tálváá # -s</t>
+            <t pos="" attr="# -s">tálváá</t>
          </tg>
       </mg>
    </e>
@@ -95381,7 +95381,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">párttáá # -s</t>
+            <t pos="" attr="# -s">párttáá</t>
          </tg>
       </mg>
    </e>
@@ -95411,7 +95411,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">puncettem # -es</t>
+            <t pos="" attr="# -es">puncettem</t>
          </tg>
       </mg>
    </e>
@@ -95661,7 +95661,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">u'lmettem # -es</t>
+            <t pos="" attr="# -es">u'lmettem</t>
          </tg>
       </mg>
    </e>
@@ -95711,7 +95711,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">taarbâšmettum # -es</t>
+            <t pos="" attr="# -es">taarbâšmettum</t>
          </tg>
       </mg>
    </e>
@@ -95871,7 +95871,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">täSiliegâs -lieg'gâs # -lieg'gâ</t>
+            <t pos="" syn_dash="-lieg'gâs" attr="# -lieg'gâ">täSiliegâs</t>
          </tg>
       </mg>
    </e>
@@ -97321,7 +97321,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čolmiš # čolmišâs</t>
+            <t pos="" attr="# čolmišâs">čolmiš</t>
          </tg>
       </mg>
    </e>
@@ -97951,7 +97951,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">sävri säävri # sä'vris</t>
+            <t pos="" attr="# sä'vris">sävri säävri</t>
          </tg>
       </mg>
    </e>
@@ -98021,7 +98021,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">suáđis suáđđás # suá'đes</t>
+            <t pos="" attr="# suá'đes">suáđis suáđđás</t>
          </tg>
       </mg>
    </e>
@@ -98061,7 +98061,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kuáŋŋid # kuá'Ŋidis</t>
+            <t pos="" attr="# kuá'Ŋidis">kuáŋŋid</t>
          </tg>
       </mg>
    </e>
@@ -98691,7 +98691,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">tye'jettem # tye'jettes</t>
+            <t pos="" attr="# tye'jettes">tye'jettem</t>
          </tg>
       </mg>
    </e>
@@ -99221,7 +99221,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">káigáá # -s</t>
+            <t pos="" attr="# -s">káigáá</t>
          </tg>
       </mg>
    </e>
@@ -99281,7 +99281,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">tuámmir # tuá'Miris</t>
+            <t pos="" attr="# tuá'Miris">tuámmir</t>
          </tg>
       </mg>
    </e>
@@ -100141,7 +100141,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">hääitis háittás # hä'itis</t>
+            <t pos="" attr="# hä'itis">hääitis háittás</t>
          </tg>
       </mg>
    </e>
@@ -100411,7 +100411,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">te'vkisruop'sâd # -ruo'psis</t>
+            <t pos="" attr="# -ruo'psis">te'vkisruop'sâd</t>
          </tg>
       </mg>
    </e>
@@ -100421,7 +100421,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">te'vkisčuov'jâd # -čuo'vjis</t>
+            <t pos="" attr="# -čuo'vjis">te'vkisčuov'jâd</t>
          </tg>
       </mg>
    </e>
@@ -100461,7 +100461,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">turnuu # -s</t>
+            <t pos="" attr="# -s">turnuu</t>
          </tg>
       </mg>
    </e>
@@ -101431,7 +101431,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">voorâs vorrâs # vorâs</t>
+            <t pos="" attr="# vorâs">voorâs vorrâs</t>
          </tg>
       </mg>
    </e>
@@ -101621,7 +101621,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">tuššáá # -s</t>
+            <t pos="" attr="# -s">tuššáá</t>
          </tg>
       </mg>
    </e>
@@ -101741,7 +101741,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">pilláá # -s</t>
+            <t pos="" attr="# -s">pilláá</t>
          </tg>
       </mg>
    </e>
@@ -101981,7 +101981,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">toskáá # -s</t>
+            <t pos="" attr="# -s">toskáá</t>
          </tg>
       </mg>
    </e>
@@ -102551,7 +102551,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">nurssáá # -s</t>
+            <t pos="" attr="# -s">nurssáá</t>
          </tg>
       </mg>
    </e>
@@ -102571,7 +102571,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">tulkkâdijjee # -s</t>
+            <t pos="" attr="# -s">tulkkâdijjee</t>
          </tg>
       </mg>
    </e>
@@ -103521,7 +103521,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">tásnáá # -s</t>
+            <t pos="" attr="# -s">tásnáá</t>
          </tg>
       </mg>
    </e>
@@ -103751,7 +103751,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">cabze ca'bze # ca'bzes</t>
+            <t pos="" attr="# ca'bzes">cabze ca'bze</t>
          </tg>
       </mg>
    </e>
@@ -104271,7 +104271,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čuál'ččáá # -s</t>
+            <t pos="" attr="# -s">čuál'ččáá</t>
          </tg>
       </mg>
    </e>
@@ -104651,7 +104651,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čuál'ččáá # -s</t>
+            <t pos="" attr="# -s">čuál'ččáá</t>
          </tg>
       </mg>
    </e>
@@ -105021,7 +105021,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">naverttem # naverttes</t>
+            <t pos="" attr="# naverttes">naverttem</t>
          </tg>
       </mg>
    </e>
@@ -105141,7 +105141,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">vuájus vuáijus # vuá'jus</t>
+            <t pos="" attr="# vuá'jus">vuájus vuáijus</t>
          </tg>
       </mg>
    </e>
@@ -105501,7 +105501,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">o'skottem # o'skottes</t>
+            <t pos="" attr="# o'skottes">o'skottem</t>
          </tg>
       </mg>
    </e>
@@ -105551,7 +105551,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">o'skottem # o'skottes</t>
+            <t pos="" attr="# o'skottes">o'skottem</t>
          </tg>
       </mg>
    </e>
@@ -105761,7 +105761,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">uuđâs uđđâs # uđđâ</t>
+            <t pos="" attr="# uđđâ">uuđâs uđđâs</t>
          </tg>
       </mg>
    </e>
@@ -105781,7 +105781,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">uđâsmuuhánnáá # -s</t>
+            <t pos="" attr="# -s">uđâsmuuhánnáá</t>
          </tg>
       </mg>
    </e>
@@ -105941,7 +105941,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">suptii # -s</t>
+            <t pos="" attr="# -s">suptii</t>
          </tg>
       </mg>
    </e>
@@ -106271,7 +106271,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">vye'Ligâš vye'Ligáá # vye'ligâs</t>
+            <t pos="" attr="# vye'ligâs">vye'Ligâš vye'Ligáá</t>
          </tg>
       </mg>
    </e>
@@ -106581,7 +106581,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">riev'deeliegâs -lieg'gâs # -lieg'gâ</t>
+            <t pos="" syn_dash="-lieg'gâs" attr="# -lieg'gâ">riev'deeliegâs</t>
          </tg>
       </mg>
    </e>
@@ -107411,7 +107411,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">českâd # če'skis</t>
+            <t pos="" attr="# če'skis">českâd</t>
          </tg>
       </mg>
    </e>
@@ -107971,7 +107971,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čuo'vâttem # čuo'vâttes</t>
+            <t pos="" attr="# čuo'vâttes">čuo'vâttem</t>
          </tg>
       </mg>
    </e>
@@ -108561,7 +108561,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">väŋkki vääŋki # vä'ŋkis</t>
+            <t pos="" attr="# vä'ŋkis">väŋkki vääŋki</t>
          </tg>
       </mg>
    </e>
@@ -108761,7 +108761,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">munnáá # -s</t>
+            <t pos="" attr="# -s">munnáá</t>
          </tg>
       </mg>
    </e>
@@ -109451,7 +109451,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kyed'dee # -s</t>
+            <t pos="" attr="# -s">kyed'dee</t>
          </tg>
       </mg>
    </e>
@@ -110591,7 +110591,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">voorâs vorrâs # vorâs</t>
+            <t pos="" attr="# vorâs">voorâs vorrâs</t>
          </tg>
       </mg>
    </e>
@@ -110691,7 +110691,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">vorrii # -s</t>
+            <t pos="" attr="# -s">vorrii</t>
          </tg>
       </mg>
    </e>
@@ -111561,7 +111561,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čäcinallii # -s</t>
+            <t pos="" attr="# -s">čäcinallii</t>
          </tg>
       </mg>
    </e>
@@ -111771,7 +111771,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">njarbâd # nja'rbis</t>
+            <t pos="" attr="# nja'rbis">njarbâd</t>
          </tg>
       </mg>
    </e>
@@ -111861,7 +111861,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">njiesâs njie'câseh # njie'câ</t>
+            <t pos="" attr="# njie'câ">njiesâs njie'câseh</t>
          </tg>
       </mg>
    </e>
@@ -111891,7 +111891,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">keessil # -is</t>
+            <t pos="" attr="# -is">keessil</t>
          </tg>
       </mg>
    </e>
@@ -112211,7 +112211,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">vaimuu # -s</t>
+            <t pos="" attr="# -s">vaimuu</t>
          </tg>
       </mg>
    </e>
@@ -112231,7 +112231,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">vyen'ttem # -es</t>
+            <t pos="" attr="# -es">vyen'ttem</t>
          </tg>
       </mg>
    </e>
@@ -112511,7 +112511,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kuJe kuje # kujes</t>
+            <t pos="" attr="# kujes">kuJe kuje</t>
          </tg>
       </mg>
    </e>
@@ -112521,7 +112521,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">sovđii # -s</t>
+            <t pos="" attr="# -s">sovđii</t>
          </tg>
       </mg>
    </e>
@@ -112631,7 +112631,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">makkuu # -s</t>
+            <t pos="" attr="# -s">makkuu</t>
          </tg>
       </mg>
    </e>
@@ -112771,7 +112771,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">skäärvis # skä'rvis</t>
+            <t pos="" attr="# skä'rvis">skäärvis</t>
          </tg>
       </mg>
    </e>
@@ -112901,7 +112901,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ájáttâlhánnáá # -s</t>
+            <t pos="" attr="# -s">ájáttâlhánnáá</t>
          </tg>
       </mg>
    </e>
@@ -113381,7 +113381,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">livkkáá # -s</t>
+            <t pos="" attr="# -s">livkkáá</t>
          </tg>
       </mg>
    </e>
@@ -113521,7 +113521,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">fálskáá # fálskáás</t>
+            <t pos="" attr="# fálskáás">fálskáá</t>
          </tg>
       </mg>
    </e>
@@ -114191,7 +114191,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">virkkuu # -s</t>
+            <t pos="" attr="# -s">virkkuu</t>
          </tg>
       </mg>
    </e>
@@ -114281,7 +114281,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">rávŋáá # -s</t>
+            <t pos="" attr="# -s">rávŋáá</t>
          </tg>
       </mg>
    </e>
@@ -114521,7 +114521,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">voccii # -s</t>
+            <t pos="" attr="# -s">voccii</t>
          </tg>
       </mg>
    </e>
@@ -114531,7 +114531,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">šiet'tuu # -s</t>
+            <t pos="" attr="# -s">šiet'tuu</t>
          </tg>
       </mg>
    </e>
@@ -114681,7 +114681,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">raddaa # -s</t>
+            <t pos="" attr="# -s">raddaa</t>
          </tg>
       </mg>
    </e>
@@ -114821,7 +114821,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">vyeit'timettum # -es</t>
+            <t pos="" attr="# -es">vyeit'timettum</t>
          </tg>
       </mg>
    </e>
@@ -115791,7 +115791,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">mie'lhittem # mie'lhittes</t>
+            <t pos="" attr="# mie'lhittes">mie'lhittem</t>
          </tg>
       </mg>
    </e>
@@ -115801,7 +115801,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">sá'rnuttem # -es</t>
+            <t pos="" attr="# -es">sá'rnuttem</t>
          </tg>
       </mg>
    </e>
@@ -115821,7 +115821,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">uccáávuoi'jii # -s</t>
+            <t pos="" attr="# -s">uccáávuoi'jii</t>
          </tg>
       </mg>
    </e>
@@ -115831,7 +115831,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">porottem # porottes</t>
+            <t pos="" attr="# porottes">porottem</t>
          </tg>
       </mg>
    </e>
@@ -116301,7 +116301,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ve'ltihánnáá # -s</t>
+            <t pos="" attr="# -s">ve'ltihánnáá</t>
          </tg>
       </mg>
    </e>
@@ -116331,7 +116331,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ruán'záá # -s</t>
+            <t pos="" attr="# -s">ruán'záá</t>
          </tg>
       </mg>
    </e>
@@ -116411,7 +116411,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ivnáá # -s</t>
+            <t pos="" attr="# -s">ivnáá</t>
          </tg>
       </mg>
    </e>
@@ -116481,7 +116481,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">i'vnettem # i'vnettes</t>
+            <t pos="" attr="# i'vnettes">i'vnettem</t>
          </tg>
       </mg>
    </e>
@@ -116821,7 +116821,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čuák'káá # -s</t>
+            <t pos="" attr="# -s">čuák'káá</t>
          </tg>
       </mg>
    </e>
@@ -117801,7 +117801,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">merettem # merettes</t>
+            <t pos="" attr="# merettes">merettem</t>
          </tg>
       </mg>
    </e>
@@ -118171,7 +118171,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">pier'giimettum # -es</t>
+            <t pos="" attr="# -es">pier'giimettum</t>
          </tg>
       </mg>
    </e>
@@ -118441,7 +118441,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">pirrâčuop'puuhánnáá # -s</t>
+            <t pos="" attr="# -s">pirrâčuop'puuhánnáá</t>
          </tg>
       </mg>
    </e>
@@ -119401,7 +119401,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ro'bdâttem # ro'bdâttes</t>
+            <t pos="" attr="# ro'bdâttes">ro'bdâttem</t>
          </tg>
       </mg>
    </e>

@@ -72,7 +72,7 @@
 </xsl:function>
 
   <xsl:param name="inDir" select="'a_1_xml_input'"/>
-  <xsl:param name="outDir" select="'2_gtxml_7'"/>
+  <xsl:param name="outDir" select="'2_gtxml_2'"/>
   <xsl:variable name="of" select="'xml'"/>
   <xsl:variable name="e" select="$of"/>
   <xsl:variable name="debug" select="false()"/>
@@ -211,24 +211,45 @@
 					      else ($rest)
 					      "/>
 
-			<xsl:variable name="syn_dash"
+
+			<xsl:variable name="attr"
 				      select="
 					      if (contains($rest_rest,
-					      ' -') and
-					      not(contains($rest_rest,'~') or contains($rest_rest,'#')))
+					      '#') and
+					      not(contains($rest_rest,'~')))
 					      then
-					      normalize-space(concat('-',substring-after($rest_rest,' -')))
+					      normalize-space(concat('#',substring-after($rest_rest,'#')))
 					      else ()
 					      "/>
 			
 			<xsl:variable name="r_r_r"
 				      select="
 					      if (contains($rest_rest,
-					      ' -') and
-					      not(contains($rest_rest,'~') or contains($rest_rest,'#')))
+					      '#') and
+					      not(contains($rest_rest,'~')))
 					      then
-					      substring-before($rest_rest,' -')
+					      substring-before($rest_rest,'#')
 					      else ($rest_rest)
+					      "/>
+
+			<xsl:variable name="syn_dash"
+				      select="
+					      if (contains($r_r_r,
+					      ' -') and
+					      not(contains($r_r_r,'~') or contains($r_r_r,'#')))
+					      then
+					      normalize-space(concat('-',substring-after($r_r_r,' -')))
+					      else ()
+					      "/>
+			
+			<xsl:variable name="r_r_r_r"
+				      select="
+					      if (contains($r_r_r,
+					      ' -') and
+					      not(contains($r_r_r,'~') or contains($r_r_r,'#')))
+					      then
+					      substring-before($r_r_r,' -')
+					      else ($r_r_r)
 					      "/>
 
 			
@@ -248,7 +269,12 @@
 			      <xsl:value-of select="$syn_dash"/>
 			    </xsl:attribute>
 			  </xsl:if>
-			  <xsl:value-of select="normalize-space($r_r_r)"/>
+			  <xsl:if test="not(normalize-space($attr)='')">
+			    <xsl:attribute name="attr">
+			      <xsl:value-of select="$attr"/>
+			    </xsl:attribute>
+			  </xsl:if>
+			  <xsl:value-of select="normalize-space($r_r_r_r)"/>
 			</t>
 		      </xsl:if>
 		    </xsl:for-each>

@@ -1,8 +1,8 @@
 SUOMI _ SÄMIKIELÂ UUCÂMSÄÄNI _ 
-aakkostaa _ orniđ puustavij mild _ 
+aakkostaa _ orniđ puustavij mild _ abc 
 aallota _ párustiđ páárust _ 
 aamuinen _ iiđeedlâš iiđeedlii _ 
-aarnialue _ luánduviđá vyev'dikuáv'lu _ 
+aarnialue _ luánduviđá vyev'dikuáv'lu _ n 
 aarto _ árdu áárdu _ 
 aasialainen _ aasialâš aasialii _ 
 aatelinen _ aatellâš aatellii _ 
@@ -72,7 +72,7 @@ alistua _ vuá'Lániđ vuállán _
 alkaa _ älgiđ áálgám _ 
 alkeellinen _ a'lgâlâš a'lgâlii _ 
 allas _ ääldis áldá _ 
-allegretto _ vie'hâ jotelávt _ 
+allegretto _ vie'hâ jotelávt _ n
 alli _ áŊálâh áŊáluv _ 
 aloite _ aalgâ alguu _ 
 alppi _ alppâ aalpâ _ 
@@ -110,7 +110,7 @@ arpi _ uddo udo _
 arveluttaa _ iä'pádâllâđ iä'pádâlâm _ 
 arvio _ árvu áárvu _ 
 arvo _ árvu áárvu _ 
-arvostaa _ anneeđ áárvust _ 
+arvostaa _ anneeđ áárvust _ n
 arvostella _ á'rvuštâllâđ á'rvuštâlâm _ 
 arvuuttaa _ iär'vádittiđ iär'váditám _ 
 aseellinen _ viä'rjulâš viä'rjulii _ 
@@ -146,23 +146,23 @@ availla _ čo'vdâččiđ čoovdâš _
 avain _ čoovdâ čovduu _ 
 avaruus _ koMovuotâ koMovuođâ _ 
 avaus _ lehâstâh lehâstuv _ 
-avojaloin _ pä'ljis juo'lgij _ 
+avojaloin _ pä'ljis juo'lgij _ n
 avomeri _ ääpi äävi _ 
 avuliaisuus _ iššáávuotâ iššáávuođâ _ 
 avustus _ toorjâ torjuu _ 
 avuttomuus _ ke'hnittisvuotâ ke'hnittisvuođâ _ 
 boreaalinen _ boreaallâš boreaallii _ 
-dementointua _ mu'štottuđ mu'štottuum mu'štottuVá _ 
+dementoitua _ mu'štottuđ mu'štottuum mu'štottuVá _ c
 demokraattinen _ demokraatlâš demokraatlii _ 
 desinfioida _ desinfistiđ desinfistám _ 
 digitaalinen _ digitaallâš digitaallii _ 
 dramaattinen _ dramaatlâš dramaatlii _ 
-edeltävä _ tađe oovdeb _ 
-edeltää _ leđe ovdiibeln _ 
+edeltävä _ tađe oovdeb _ n
+edeltää _ leđe ovdiibeln _ n
 eettinen _ eettisâš eettisii _ 
 ehdokkuus _ iä'vtukkâsvuotâ iä'vtukkâsvuođâ _ 
 ehdollinen _ iä'vtulâš iä'vtulii _ 
-ehdollistaa _ tooHâđ iä'vtulâžžân _ 
+ehdollistaa _ tooHâđ iä'vtulâžžân _ n
 ehdottaa _ iä'vtuttiđ iävtut _ 
 eheyttää _ ča'vdesmittiđ ča'vdesmitám _ 
 ehto _ iäh'tu iävtu _ 
@@ -177,7 +177,7 @@ elo _ iäLu iälu _
 eloperäinen _ orgaanlâš orgaanlii _ 
 elpyä _ iäl'láđ iäl'láám _ 
 elää _ eelliđ iä'lám iäLá _ 
-em. _ o. m. _ 
+em. _ o. m. _ n
 emo _ enni eeNi _ 
 emäksinen _ alkaallâš alkaallii _ 
 emännöidä _ emedâššâđ emedâšâm _ 
@@ -194,7 +194,7 @@ erite _ vuočâ vuoč'čuu _
 erittyä _ vuáččuđ vuáJum vuáču _ 
 erittää _ vuá'čuttiđ vuáččut _ 
 eroottinen _ eerootlâš eerootlii _ 
-erääntyä _ šoddâđ mäksimnáál _ 
+erääntyä _ šoddâđ mäksimnáál _ n
 esiintymä _ iđos ittoos _ 
 esineellistää _ ti'ŋgâstittiđ ti'ŋgâstitám _ 
 esivanhempi _ maadâr maddâr _ 
@@ -223,7 +223,7 @@ filosofinen _ filosooflâš filosooflii _
 fluorata _ fluoriđ fluoriim _ 
 fontti _ fonttâ foontâ _ 
 formatoida _ formatistiđ formatistiim _ 
-geneettinen _ genetiiklâš genetiiklii _ 
+geneettinen _ geeneetlâš geeneetlii _ c
 geologinen _ geologlâš geologlii _ 
 geometrinen _ geometrisâš geometrisii _ 
 germaaninen _ germaanlâš germaanlii _ 
@@ -343,7 +343,7 @@ herua _ miel'kkuđ miäl'kkojeh _
 heruttaa _ lakkuđ lakkuum lákkoo _ 
 heräillä _ koccáástâllâđ koccáástâlâm _ 
 hevonen _ hiävuš hiäp'puš _ 
-hienovarainen _ fijnáht lättejeijee _ 
+hienovarainen _ fijnáht lättejeijee _ n
 hieraista _ fier'riđ fier'riim _ 
 hierarkkinen _ hierarkkisâš hierarkkisii _ 
 hierottaa _ ruvviittiđ ruvviittâm _ 
@@ -430,7 +430,7 @@ huovata _ vuáp'páđ vuáp'páám _
 huovuttaa _ tuop'piđ tuop'piim tyep'pee _ 
 huppu _ čuppâ čuupâ _ 
 hurskas _ hu'rskes hurskás _ 
-hutiloida _ leđe huo'lâttem _ 
+hutiloida _ leđe huo'lâttem _ n
 hutkia _ ruáš'kuđ ruáškum _ 
 huudahdus _ čuor'viistâh čuor'viistuv _ 
 huuli _ poovsâ poksâm _ 
@@ -439,7 +439,7 @@ huurtua _ sovđâđ savđa _
 huuruta _ pu'rgijdiđ puurgijd _ 
 hylje _ nuár'ju nuárju _ 
 hylkeennahkakenkä _ nuárjuh nuárjuheh _ 
-hylky _ vuáijum käärbis _ 
+hylky _ vuáijum käärbis _ n
 hymistellä _ hu'hkádâllâđ hu'hkádâlâm _ 
 hymy _ moJe moje _ 
 hymähdellä _ hi'máttâllâđ hi'máttâlâm _ 
@@ -459,8 +459,8 @@ hyörinä _ huššâ huušâ _
 hyöriä _ libžođ li'bžom _ 
 hädänalainen _ iä'tásâš iä'tásii _ 
 häikäilemätön _ vuo'vnâlâš vuo'vnâlii _ 
-häikäistyä _ ča'lmettuđ koskâpuddâsávt _ 
-häikäistä _ päštiđ čolmijd _ 
+häikäistyä _ ča'lmettuđ koskâpuddâsávt _ n
+häikäistä _ päštiđ čolmijd _ n
 häkeltyä _ hiä'Máskiđ hiämmásk _ 
 häkkyrä _ hátárâh hátáruv _ 
 hälistä _ šlamâttiđ šlaamât _ 
@@ -484,7 +484,7 @@ hölmöys _ huMovuotâ huMovuođâ _
 hölskyntä _ skuulčâs skulččâs _ 
 höyhen _ puzzâ puuzâ _ 
 höyry _ liev'lâ lievlâ _ 
-höyrytä _ lie'vlistiđ lievlist _ 
+höyrytä _ lie'vlistiđ lievlist _  
 iankaikkisuus _ nuVâhánnáávuotâ nuVâhánnáávuođâ _ 
 identtinen _ identlâš identlii _ 
 idättää _ iđettiđ iiđeet _ 
@@ -492,7 +492,7 @@ ihme _ iimâš immâš _
 ihmetyttää _ imâštâttâđ imâštât _ 
 ihminen _ olmooš ulmuu _ 
 ihra _ pyei'di pyeidi _ 
-ikirouta _ sudâhánnáás tuáLu tuálu _ 
+ikirouta _ sudâhánnáás tuáLu tuálu _ ab
 ikivanha _ toovláš tovláá _ 
 ikä _ ahe aVe _ 
 ikävystyä _ tulkkâđ tuulhâm tolkká _ 
@@ -501,7 +501,7 @@ ilkikurisuus _ ilbâdvuotâ ilbâdvuođâ _
 ilmasto _ šoŋŋâdâh šoŋŋâduv _ 
 ilmastoida _ á'imustittiđ á'imustitám _ 
 ilme _ keJâstâh keJâstuv _ 
-ilmestyskirja _ a'lmostusâi kirje ki'rje _ 
+ilmestyskirja _ a'lmostusâi kirje ki'rje _ ab
 ilmoitella _ a'lmottâllâđ a'lmottâlâm _ 
 ilmoittaa _ a'lmottiđ almoot _ 
 ilo _ iLo ilo _ 
@@ -523,7 +523,7 @@ inttää _ naggiđ naggiim näggee _
 invalidisoitua _ láámmuđ láámum _ 
 irlantilainen _ irlandlâš irlandlii _ 
 irrallaan olo _ luo'vâsvuotâ luo'vâsvuođâ _ 
-irtisanoa _ celkkiđ luo'vâsin _ 
+irtisanoa _ celkkiđ luo'vâsin _ n
 irtolainen _ kolgolâš kolgolii _ 
 irtonaisuus _ luo'vâsvuotâ luo'vâsvuođâ _ 
 irvinaama _ ružže ruže _ 
@@ -537,7 +537,7 @@ isontua _ stuárruđ stuárum _
 isota _ stuárruđ stuárum _ 
 isotella _ stuá'rástâllâđ stuá'rástâlâm _ 
 isous _ stye'resvuotâ stye'resvuođâ _ 
-isovanhemmat _ ákku já äijih _ 
+isovanhemmat _ ákku já äijih _ abc
 istahtaa _ čokánistiđ čokánistám _ 
 istuin _ peŋkkâ peeŋkâ _ 
 istuksia _ ištâmâššâđ ištâmâšâm _ 
@@ -550,13 +550,13 @@ itiö _ iđos ittoos _
 itkaista _ čiä'rustiđ čiärust _ 
 itkettää _ čiä'rustuđ čiä'rustuum čiä'rustuVá _ 
 itsenäisyys _ jie'čânâsvuotâ jie'čânâsvuođâ _ 
-itsesääli _ jiei'jâs šalligâššâm _ 
+itsesääli _ jiei'jâs šalligâššâm _ n
 itu _ ito iđo _ 
 ivalolainen _ avveellâš avveellii _ 
 iäinen _ aValâš aValii _ 
-jaaha _ jáá nuuvt _ 
+jaaha _ jáá nuuvt _ n
 jae _ verstâ veerstâ _ 
-jakkara _ riäŋ'kku riäŋku _ 
+jakkara _ riäŋ'kku riäŋku _ c check
 jakki _ jakki jaaki _ 
 jaksaa _ vaijeeđ vajam vaJa _ 
 jalava _ jalvâ jaalvâ _ 
@@ -573,8 +573,8 @@ jaollinen _ juá'Vulâš juá'Vulii _
 jaos _ juáVus juáHus _ 
 japanilainen _ jaapaanlâš jaapaanlii _ 
 jarruttaa _ kooccâđ koosâm kaca _ 
-jauheliha _ millum piär'gu piärgu _ 
-jogurtti _ viNe juugurt _ 
+jauheliha _ millum piär'gu piärgu _ ab
+jogurtti _ viNe juuguurt _ c check
 johdannainen _ jođettâslâš jođettâslii _ 
 johdatella _ ča'skâttâllâđ ča'skâttâlâm _ 
 johdonmukainen _ systemaatlâš systemaatlii _ 
@@ -584,9 +584,9 @@ jokilaakso _ vyeMi vye'me _
 jokin _ miinii monnii _ 
 jomottaa _ po'včâstâllâđ po'včâstâlâm _ 
 jompikumpi _ kuábbášnii kuáb'báánii _ 
-jonottaa _ čuáž'žuđ rááiđust _ 
+jonottaa _ čuáž'žuđ rááiđust _ n
 jotain _ miinii maidnii _ 
-joten _ nuuvt ete _ 
+joten _ nuuvt ete _ n
 jouhisorsa _ vuonjâš vuonnjâš _ 
 jousitus _ tá'vgádâh tá'vgáduv _ 
 joustaa _ njyeb'žiđ njuábžám _ 
@@ -627,12 +627,12 @@ jyske _ puuŋkâs puŋkkâs _
 jähmettyä _ ste'rgâgiđ steergâg _ 
 jäljityskeli _ vuá'tádâh vuá'táduv _ 
 jälkiura _ cie'gâttoh cie'gâttuv _ 
-jälleennäkeminen _ uđđâsist oi'nâlâttâm _ 
+jälleennäkeminen _ uđđâsist oi'nâlâttâm _ n
 jälsi _ njaLe njale _ 
 jännesolmu _ čooVâr čoohâr _ 
 järistä _ tuá'rgistiđ tuárgist _ 
 järjestellä _ orniistâllâđ orniistâlâm _ 
-järkeistyä _ šoddâđ jiä'rmálâžžân _ 
+järkeistyä _ šoddâđ jiä'rmálâžžân _ n
 järkeistää _ jiä'rmásmittiđ jiä'rmásmitám _ 
 järkiinnyttää _ vi'jsásmittiđ vi'jsásmitám _ 
 järkiintyä _ vi'jsásmuđ vi'jsásmuum vi'jsásmuVá _ 
@@ -668,7 +668,7 @@ kahakka _ stuime stuuime _
 kahakoida _ tuá'ruttiđ tuárut _ 
 kahdeksankymmentä _ kähcilov käävcilov _ 
 kahdeksikko _ káávcáš kávccáá _ 
-kahdenkeskinen _ munnuu koskâvuođâ äšši _ 
+kahdenkeskinen _ munnuu koskâvuođâ äšši _ abc
 kahlaamo _ kaalâ kalluu _ 
 kahlailla _ kalâččiđ kaalâš _ 
 kahlausjälki _ káláttuh káláttuv _ 
@@ -683,7 +683,7 @@ kaima _ käimi kääimi _
 kaimakset _ kaaimiš kaaimižeh _ 
 kaira _ skäiđi skääiđi _ 
 kaisa _ káisá kááisá _ 
-kaitselmus _ immeel jođáttâs _ 
+kaitselmus _ immeel jođáttâs _ n
 kaivaista _ kuám'máristiđ kuám'máristám _ 
 kaivaus _ kuá'ivuttâh kuá'ivuttuv _ 
 kaivertaa _ skuá'žurdiđ skuážžurd _ 
@@ -705,7 +705,7 @@ kalsu _ piddo pido _
 kaltaisuus _ sullâ suulâ _ 
 kalusto _ ká'lvudâh ká'lvuduv _ 
 kalvaa _ kahheeđ kaVam _ 
-kama _ tobrik topârik _ 
+kama _ tobrik topârik _ ~
 kameli _ kaameel kamelist kameleh _ 
 kammata _ čohhoođ čoVom _ 
 kampaamo _ čovottâh čovottuv _ 
@@ -831,7 +831,7 @@ kengittää _ kamâttiđ kaamât _
 kenkäheinäkerä _ vieRâ vierâ _ 
 kenkäraja _ tuál'ppi tuálpi _ 
 kenno _ kenno keNo _ 
-kenties _ kii tiätá _ 
+kenties _ kii tiätá _ n
 kepittää _ suáb'bádiđ suáb'bád _ 
 keppi _ suáb'bi suábi _ 
 kermikäntalja _ čiermihât čiermihâđâ _ 
@@ -876,7 +876,7 @@ kihahtaa _ šävittiđ šäävit _
 kihartaa _ kihárittiđ kihárit _ 
 kihelmöidä _ ilâštiđ iilâšt _ 
 kihertää _ skužestiđ skužžeest _ 
-kihlasormus _ kihlesuormâs suor'mâs _ 
+kihlasormus _ kihlesuormâs suor'mâs _
 kiihdyttää _ jo'đálmittiđ jo'đálmitám _ 
 kiikaroida _ kijkkiđ kijkkiim _ 
 kiikkua _ juár'buđ juárbum _ 
@@ -905,7 +905,7 @@ kimpaantua _ ruá'Sigyet'tiđ ruá'Siguá'đám _
 kimpi _ stäävis stááppás _ 
 kimppu _ kiäs'tu kiästu _ 
 kina _ nággu náágu _ 
-kinkku _ šaVe čuár'bbeeLi _ 
+kinkku _ šaVe čuár'bbeeLi _ n
 kinner _ čevži čeevži _ 
 kinttu _ ruoi'dâ ruoidâ _ 
 kipaista _ nji'bžâstiđ njiibžâst _ 
@@ -917,11 +917,11 @@ kirjaimellinen _ puustavlâš puustavlii _
 kirjallinen _ ki'rjálâš ki'rjálii _ 
 kirjallisuus _ ki'rjálâšvuotâ ki'rjálâšvuođâ _ 
 kirjanen _ kirjááš kirjáá _ 
-kirjautua _ čáládâttâđ siisâ _ 
+kirjautua _ čáládâttâđ siisâ _ n
 kirje _ reivâ reeivâ _ 
 kirjoa _ ki'rjettiđ kirjeet _ 
 kirjohylje _ nuár'ju nuárju _ 
-kirjoilija _ karolâs karolii _ 
+kiroilija _ karolâs karolii _ c
 kirjoitella _ čalâččiđ čaalâš _ 
 kirjoittautua _ čälittiđ čäälit _ 
 kirjoitustaitoinen _ ki'rjálâš ki'rjálii _ 
@@ -947,7 +947,7 @@ kiuru _ leivosâš leivosii _
 kiusaantua _ vigguđ vigguum _ 
 kivettyä _ keđgiluđ keđgiluVá _ 
 kivetä _ keđgiđ keđgiim _ 
-kiveys _ kiä'đágáttâh kiä'đgáttuv _ 
+kiveys _ kiä'đgáttâh kiä'đgáttuv _ c
 kivilaatta _ ráptu rááptu _ 
 kivipiira _ máirá mááirá _ 
 kivipyykki _ urrâ uurâ _ 
@@ -992,7 +992,7 @@ kollos _ kuáLus kuál'lus _
 kollostaa _ kuá'Lustiđ kuállust _ 
 kolmekymmentä _ kulmâlov kuulmâlov _ 
 kolminaisuus _ kulmâvuotâ kulmâvuođâ _ 
-kolminkertaistaa _ tooHâđ kuulmâkiä'rdásâžžân _ 
+kolminkertaistaa _ tooHâđ kuulmâkiä'rdásâžžân _ n
 kolonialistinen _ kolonialistsâš kolonialistsii _ 
 kolota _ kolloođ kolom _ 
 kolottaa _ juvliđ juvliim juvlee _ 
@@ -1027,7 +1027,7 @@ korjailla _ tivodiđ tiivood _
 korjauttaa _ tivottiđ tiivoot _ 
 korkki _ korkkâ koorhâ _ 
 korkkijälsi _ naarvâ narvuu _ 
-korpi _ kärree karrii _ 
+korpi _ kärree karrii _ ~
 korsi _ vaadâs vaddâs _ 
 korte _ huáš'ši huáši _ 
 kortisto _ korttâdâh korttâduv _ 
@@ -1043,9 +1043,9 @@ kosteus _ lahtâvuotâ lahtâvuođâ _
 koteloitua _ kuá'tiluđ kuá'tiluum _ 
 koti _ päikki pääihi _ 
 kotilo _ skuáp'pu skuápu _ 
-kotiuttaa _ vuo'lgâttiđ pááikán _ 
+kotiuttaa _ vuo'lgâttiđ pááikán _ n
 kotkottaa _ okâttiđ ookkât _ 
-kotoisin _ leđe meddâl kostnii _ 
+kotoisin _ leđe meddâl kostnii _ abc
 kottarainen _ kottarâš kottarii _ 
 koukistaa _ kuák'kiluttiđ kuák'kilutám _ 
 koukkaista _ kuo'hâstiđ kuohâst _ 
@@ -1055,10 +1055,10 @@ kouristus _ čarviittoh čarviittuv _
 kourukirves _ viet'kâ vieđhâ _ 
 kovettuma _ jaRe jare _ 
 kovuus _ korâsvuotâ korâsvuođâ _ 
-kraavata _ salttiđ kye'le _ 
+kraavata _ salttiđ kye'le _ n
 krapula _ kohmá kohmáást _ 
 kristillinen _ ri'stâlâš ri'stâlii _ 
-krusifiksi _ krusifiksi krusifiiksi _ 
+krusifiksi _ krusifiks krusifiks _ c
 kruunata _ ruvnáđ ruvnáám _ 
 kruunu _ ruvnâ ruuvnâ _ 
 kruunu _ ruvnâ ruuvnâ _ 
@@ -1093,7 +1093,7 @@ kumartua _ njaahâđ njaaVâm _
 kumma _ komme koMe _ 
 kummeksua _ koMášiđ kommááš _ 
 kummitella _ kuMâttâllâđ kuMâttâlâm _ 
-kumpainenkaan _ kuábbáškin kuáb'báá-uv _ 
+kumpainenkaan _ kuábbáškin kuáb'báágin _ cf
 kumpainenkin _ kuábbáš-uv kuáb'báá-uv _ 
 kumpikaan _ kuábbáškin kuáb'báágin _ 
 kumpikin _ kuábbáš-uv kuáb'báá-uv _ 
@@ -1160,7 +1160,7 @@ kuumentaa _ pahâdiđ paahâd _
 kuunvaihe _ vaajâs vaaijâs _ 
 kuura _ pice pise _ 
 kuuro _ uáh'ti uávti _ 
-kuuromykkä _ pe'ljittes kie'lâttem _ 
+kuuromykkä _ pe'ljittes kie'lâttem _ n
 kuuroutua _ pe'ljittuđ pe'ljittuum pe'ljittuVá _ 
 kuusi _ kuoSâ kuosâ _ 
 kuusikymmentä _ kutlov kuđâlov _ 
@@ -1215,12 +1215,12 @@ kärsivällisyys _ killeelvuotâ killeelvuođâ _
 kärventää _ puo'vnjâdiđ puovnjâd _ 
 käsite _ tuá'vádâh tuá'váduv _ 
 käskettää _ kočottiđ koččoot _ 
-kätellä _ adeliđ kieđâ _ 
+kätellä _ adeliđ kieđâ _ n
 kätönen _ kieđâš kieđii _ 
-käveleskellä _ vázzálâhčâđ vázzáluuvčâm vázzálâhš _ 
+käveleskellä _ vázzálâhčâđ vázzáluuvčâm vázzáluš _ cf
 käydä _ keevvâđ kiäVá _ 
 käydä kipeää _ čuoccâđ čuácá _ 
-käynnistyä _ vyel'giđ joton _ 
+käynnistyä _ vyel'giđ joton _ n
 käyrä _ kavre ka'vre _ 
 käyskennellä _ vazâččiđ vaazzâš _ 
 käytettävä _ aNamâš aNamuš _ 
@@ -1284,7 +1284,7 @@ lappilainen _ lappilâš lappilii _
 lapsettomuus _ pä'rnittesvuotâ pä'rnittesvuođâ _ 
 lapsuus _ pärnivuotâ pärnivuođâ _ 
 laputtaa _ tuál'ppádiđ tuál'ppád _ 
-larghetto _ vie'hâ hitásávt _ 
+larghetto _ vie'hâ hitásávt _ n
 laskeuma _ kočâttâh kočâttuv _ 
 laskiainen _ laskijâš laskijáá _ 
 lasko _ seŋkka se'ŋka _ 
@@ -1344,7 +1344,7 @@ liemus _ liemâs liemmâs _
 lierihattu _ hattâ haatâ _ 
 lieska _ tuulâš tuulii _ 
 liestää _ kargiđ kargiim kärgee _ 
-lievittää _ älkkeedittiđ älkkeedâđâm _ 
+lievittää _ älkkeedittiđ älkkeeditám _ cf
 liha _ uáž'ži uáži _ 
 lihallinen _ uá'žálâš uá'žálii _ 
 lihallisuus _ uá'žálâšvuotâ uá'žálâšvuođâ _ 
@@ -1411,12 +1411,12 @@ louhikko _ juoVâ juovâ _
 loveta _ snaittiđ snaittiim snäittee _ 
 luento _ luvâldâh luvâlduv _ 
 luentomoniste _ mááŋgus máŋ'gus _ 
-lueskella _ luhâlâhčâđ luhâluuvčâm luhâlâhš _ 
+lueskella _ luhâlâhčâđ luhâluuvčâm luhâluš _ cf
 luetella _ luVâttâllâđ luVâttâlâm _ 
 luettaa _ luVâttiđ luuvât _ 
 luikahtaa _ njuá'mádiđ njuámmád _ 
 luikauttaa _ hulijdiđ huulijd _ 
-luimistaa _ njuoidiđ peeljijd _ 
+luimistaa _ njuoidiđ peeljijd _ n
 luisto _ jođádâh jođáduv _ 
 luisupaikka _ skirviittâh skirviittuv _ 
 lujittaa _ nanodiđ naanood ij nannood _ 
@@ -1449,7 +1449,7 @@ luovuttaa _ luo'vâttiđ luovât _
 lupa _ lope love _ 
 lurjus _ šlarvâ šlaarvâ _ 
 lusikoida _ kozzâđ koozâm _ 
-lusto _ muorâ iheriegis _ 
+lusto _ muorâ iheriegis _ n
 lutkuttaa _ skuár'ččuđ skuárčum skorččum _ 
 luukku _ luŋkká luŋká _ 
 luulo _ káddu káádu _ 
@@ -1502,7 +1502,7 @@ maallinen _ eennâmlâš eennâmlii _
 madaltua _ cuáHuđ cuávum _ 
 made _ njäähi njääVi _ 
 magneettinen _ magneetlâš magneetlii _ 
-mahdollistaa _ tooHâđ má'hđulâžžân _ 
+mahdollistaa _ tooHâđ má'hđulâžžân _ n
 mahduttaa _ čahâdiđ čaahâd _ 
 mahtava _ vá'ldálâš vá'ldálii _ 
 mahti _ mahtâ maavtâ _ 
@@ -1569,20 +1569,20 @@ messu _ messu meeSu _
 metallilanka _ sraŋgâ sraaŋgâ _ 
 metrinen _ meetteersâš meetteersii _ 
 metsähaapa _ supe suve _ 
-metsäkorte _ čuán'njááhuáš 'ši _ 
+metsäkorte _ čuán'njááhuáš'ši _ c
 metsämänty _ peeci peesi _ 
 miehekäs _ almaalâš almaalii _ 
 miekkailla _ miä'hástâllâđ miä'hástâlâm _ 
 miekkonen _ almaš almaažii _ 
-mielipaha _ nie'vris mieLâ _ 
-mielissään _ leđe mielâst mastnii _ 
+mielipaha _ nie'vris mieLâ _ n
+mielissään _ leđe mielâst mastnii _ abc
 miellyttää _ mie'lâstuttiđ mie'lâstutám _ 
 mieltyä _ mie'lâstuđ mie'lâstuum mie'lâstuVá _ 
 miina _ mijne mi'jne _ 
 minkki _ miŋkki miiŋki _ 
 minttu _ minttu miintu _ 
 minä _ mun muu _ 
-minäkuva _ uái'nu a'lnestis _ 
+minäkuva _ uái'nu a'lnestis _ n
 mitoittaa _ mittođ mitom _ 
 mittaus _ mittedem mittedmeh _ 
 mittauttaa _ mittádittiđ mittáditám _ 
@@ -1875,7 +1875,7 @@ pakkautua _ pokkâšuđ pokkâšuum pokkâšuVá _
 pakko _ pággu páágu _ 
 pakoilla _ patârâddâđ patârâd _ 
 pakollinen _ págulâš págulii _ 
-pakomatka _ patâremmätki määđhi _ 
+pakomatka _ patâremmätki patâremmääđhi _ c
 paksukainen _ pagge page _ 
 pakurikääpä _ tyev'li tyevli _ 
 palata _ maccâđ maacâm _ 
@@ -1900,7 +1900,7 @@ palvata _ pä'lvidiđ päälvid _
 palvi _ pälvi päälvi _ 
 pamppu _ pamppu paampu _ 
 panetella _ pe'lhittiđ peelhit _ 
-paneutua _ vuáijuđ áášán _ 
+paneutua _ vuáijuđ áášán _ n
 panka _ päggi päägi _ 
 pankki _ paŋkki paaŋki _ 
 pannu _ pánnu pááNu _ 
@@ -2024,7 +2024,7 @@ pistos _ čuog'giistâh čuog'giistuv _
 pistos _ vuái'sá vuáisá _ 
 pistäytyä _ čaŋâdiđ čaaŋâd _ 
 pitkällinen _ kuhálâš kuhálii _ 
-pitkälti _ pyeRi muudon _ 
+pitkälti _ pyeRi muudon _ n
 pitkämielisyys _ killeelvuotâ killeelvuođâ _ 
 pituus _ kukkodâh kukkoduv _ 
 pitäjä _ pitejâš pitejáá _ 
@@ -2050,7 +2050,7 @@ politiikka _ politijkká politiijká _
 polkaista _ tuo'lmâstiđ tuolmâst _ 
 polkulevy _ skiäl'ttu skiältu _ 
 polskia _ porššođ po'ršom _ 
-polttiaisentoukka _ sahe saVe _ 
+polttiaisentoukka _ sahe saVe _ check
 polvistella _ čibástâllâđ čibástâlâm _ 
 polvitaive _ koodâr koddâr _ 
 pommi _ pommi pooMi _ 
@@ -2093,7 +2093,7 @@ puistattaa _ savŋelittiđ savŋelitám _
 pujotella _ puá'ibildiđ puáibild _ 
 pukata _ uigâđ uuigâm _ 
 pukki _ pokkâ poohâ _ 
-puku _ a'lmai mááccuh _ 
+puku _ a'lmai mááccuh _ n
 pulkka _ pulkke pu'lhe _ 
 pulputtaa _ skiäl'guđ skiälgum _ 
 pulssi _ pulssâ puulsâ _ 
@@ -2162,7 +2162,7 @@ pärskiä _ russoođ rusom _
 pärskyttää _ tiškođ ti'škom _ 
 pärskähtää _ rusádiđ russáád _ 
 pärskäyttää _ rusádiđ russáád _ 
-pätemätön _ ij toolâ tiäi'vás _ 
+pätemätön _ ij toolâ tiäi'vás _ abc
 pätevä _ tohálâš tohálii _ 
 päähänpisto _ huáv'ri huávri _ 
 päälakiaukile _ sudde sude _ 
@@ -2189,7 +2189,7 @@ pöyhiä _ talâstiđ taallâst _
 raahata _ vie'šidiđ vieššid _ 
 raaja _ ryev'ji ryevji _ 
 raajoa _ ruov'jiđ ruov'jiim ryev'jee _ 
-raakalauta _ sááháviĐá lyev'di lyevdi _ 
+raakalauta _ sááháviĐá lyev'di lyevdi _ ab
 raanu _ rááNu ráánu _ 
 raapaisu _ sa'rgâstâh sa'rgâstuv _ 
 raaskia _ raskiđ raskiim räskee _ 
@@ -2427,7 +2427,7 @@ saattaa _ sättiđ sáátám _
 saatto _ miä'đáttâh miä'đáttuv _ 
 saavuttaa _ juksâđ juuvsâm _ 
 sadin _ liestâš lies'tii _ 
-sadoittain _ čuođij mild _ 
+sadoittain _ čuođij mild _ n
 saeta _ suáHuđ suáVum _ 
 sahata _ sáhháđ sáhháám _ 
 sahti _ sahti saahti _ 
@@ -2529,7 +2529,7 @@ silkki _ silkke si'lhe _
 silli _ silde si'lde _ 
 silmukka _ várvu váárvu _ 
 silmustaa _ ko'rtâstiđ koortâst _ 
-silmänkantamaton _ uáinus tovnpel _ 
+silmänkantamaton _ uáinus tovnpel _ n
 silmäpeite _ uumâs uummâs _ 
 simpukka _ skálžu skáálžu _ 
 sinertää _ čuáv'jáđ čuávjáám _ 
@@ -2599,7 +2599,7 @@ staattinen _ staattâlâš staattâlii _
 steriloida _ sterilistiđ sterilistám _ 
 stressi _ stressi streesi _ 
 suhahtaa _ šuvettiđ šuvveet _ 
-suhtautua _ anneeđ koskâvuođâ _ 
+suhtautua _ anneeđ koskâvuođâ _ n
 suhteellinen _ koskâvuo'đâlâš koskâvuo'đâlii _ 
 suihke _ ci'rgos cirgos _ 
 suihkuta _ cirgođ ci'rgom _ 
@@ -2713,7 +2713,7 @@ säveltää _ nuot'tiđ nuot'tiim nyet'tee _
 sääksi _ čieh'čâ čievčâ _ 
 säännöstellä _ tulvâdiđ tulvâd _ 
 sääret _ riččá ričá _ 
-sääskentoukka _ sahe saVe _ 
+sääskentoukka _ sahe saVe _ check
 säästyä _ šeštuđ šeštuum šiäš'too _ 
 säästää _ šeštiđ šiäštám _ 
 säästö _ šiäš'tu šiäštu _ 
@@ -2738,7 +2738,7 @@ taiteellinen _ ta'iđâlâš ta'iđâlii _
 taiteilla _ taaidârâššâđ taaidârâšâm _ 
 taitosukeltaja _ kubilâš kubiláá _ 
 taivaallinen _ a'lmalâš a'lmalii _ 
-taivaan valtakunta _ a'lme väldikodde _ 
+taivaan valtakunta _ a'lme väldikodde _ n
 taivas _ alme a'lme _ 
 taivastella _ puái'málâstâllâđ puái'málâstâlâm _ 
 tajuttomuus _ to'rgâttisvuotâ to'rgâttisvuođâ _ 
@@ -2772,7 +2772,7 @@ taputtaa _ tuáš'kuđ tuáškum _
 taputus _ tooškâs toškâs _ 
 tarina _ maainâs mainâs _ 
 tarjeta _ pallâđ paaLâm _ 
-tarjoilla _ falâluhčâđ falâluuvčâm falâlâhš _ 
+tarjoilla _ falâluhčâđ falâluuvčâm falâluš _ cf
 tarjonta _ falâldâh falâlduv _ 
 tarkata _ vakšuđ vakšuum vákšoo _ 
 tarkentaa _ tärkkilistiđ tärkkilistám _ 
@@ -2802,7 +2802,7 @@ tavoittaa _ juksâđ juuvsâm _
 tavuttaa _ staVâlistiđ staVâlist _ 
 te _ tuoi tunnuu _ 
 te _ tij tii _ 
-tehokäyttö _ pehtilis kevttim _ 
+tehokäyttö _ pehtilis kevttim _ n
 tehostua _ piähtuđ piähtuum _ 
 tehota _ latkiittiđ latkit _ 
 tekaista _ tohâliđ toohâl _ 
@@ -2917,7 +2917,7 @@ tuhkata _ kunniđ kunniim _
 tuhlaantua _ skemmâšuđ skemmâšuVá _ 
 tuho _ hiäv'vu hiävu _ 
 tuhto _ tiljá ti'ljá _ 
-tuki- ja liikuntavammainen _ tuuvdâ- já lihâdemvádulâš _ 
+tuki- ja liikuntavammainen _ tuuvdâ- já lihâdemvádulâš _ abc
 tukipiena _ nuhostâh nuhostuv _ 
 tulenarka _ puoliš puo'liččeh _ 
 tuliperäinen _ vulkaanlâš vulkaanlii _ 
@@ -3006,8 +3006,8 @@ tyynnyttää _ kolkkiittiđ kolkkit _
 tyyppi _ tijppâ tiijpâ _ 
 tyytymättömyys _ tuđâhánnáávuotâ tuđâhánnáávuođâ _ 
 tyytyä _ tuuttâđ tuuđâm totá _ 
-työllistyä _ uážžuđ pa'rgo _ 
-työllistää _ adeliđ pa'rgo _ 
+työllistyä _ uážžuđ pa'rgo _ n
+työllistää _ adeliđ pa'rgo _ n
 työllisyys _ pa'rgolâšvuotâ pa'rgolâšvuođâ _ 
 työnnellä _ saJâdiđ saajâd _ 
 työnteko _ pargo pa'rgo _ 
@@ -3050,7 +3050,7 @@ ulkoistaa _ o'lgoštittiđ o'lgoštitám _
 ulku _ ulgâ uulgâ _ 
 ummettaa _ činehuttiđ činehut _ 
 ummistaa _ moskodiđ moskood _ 
-umpeen _ ávjuđ ávjoo _ 
+kasvaa umpeen _ ávjuđ ávjoo _ c
 umpilaavu _ kovos kovvoos _ 
 uneksia _ niev'dâđ nievdâm _ 
 uneksija _ nie'vdâlâs nie'vdâlii _ 
@@ -3127,7 +3127,7 @@ vakuuttaa _ nonniđ nonniim nannee _
 valaistua _ čuo'Vâniđ čuovvân _ 
 vale _ kie'les kiällás _ 
 valehtelu _ kie'lesvuotâ kie'lesvuođâ _ 
-valella _ liäš'kuđ oolâ _ 
+valella _ liäš'kuđ oolâ _ n
 valhe _ kie'les kiällás _ 
 valheellisuus _ kie'lesvuotâ kie'lesvuođâ _ 
 valikko _ valjiittâh valjiittuv _ 
@@ -3226,7 +3226,7 @@ velkoa _ viäl'guđ viälgum _
 velmu _ skelmâ skeelmâ _ 
 velmuilla _ skelmušiđ skelmuš _ 
 veltostaa _ njuál'ccudiđ njuálccut _ 
-velvoite _ keNigittee äšši ääši _ 
+velvoite _ keNigittee äšši ääši _ ab
 veneenohjaamisriuku _ romssi roomsi _ 
 ventää _ veddiđ viädám viäd'dá _ 
 venynyt _ sierŋâs sier'ŋâs _ 
@@ -3239,7 +3239,7 @@ verkko _ viä'rmádâh viä'rmáduv _
 verkkokeppi _ ääLi ääli _ 
 verkkoväri _ ciccâ ciisâ _ 
 verkonkives _ kiptâ kiiptâ _ 
-verkonkorjauskäpy _ čihtâmkiäpu kiävu _ 
+verkonkorjauskäpy _ čihtâmkiäpu čihtâmkiävu _ c
 verkonliitos _ lävđi läävđi _ 
 verkosto _ viä'rmádâh viä'rmáduv _ 
 verkostoitua _ viä'rmádâttâđ viä'rmádâđâm _ 
@@ -3279,7 +3279,7 @@ viikate _ liššá liŠá _
 viikko _ okko oho _ 
 viikottainen _ okkosâš okkosii _ 
 viiletä _ já'ldudiđ jááldud _ 
-viimeksi _ moonnâm tove _ 
+viimeksi _ moonnâm tove _ n
 viimevuotinen _ tiijmáš tijmáá _ 
 viina _ vijne viijne _ 
 viiriäinen _ viirijâš viirijáá _ 
@@ -3340,7 +3340,7 @@ voimaantua _ kiäv'ruđ kiävrum _
 voimallinen _ vuá'imálâš vuá'imálii _ 
 vointi _ vaJo vajo _ 
 voipua _ silloođ silom _ 
-voisula _ suddâdum vuojâ _ 
+voisula _ suddâdum vuojâ _ n
 voitto _ vuái'ttu vuáitu _ 
 voivotella _ vuá'ivuttiđ vuáivut _ 
 voltti _ volttâ vooltâ _ 
@@ -3400,16 +3400,16 @@ yhdistelmä _ kuáLus kuál'lus _
 yhdistys _ servi seervi _ 
 yhdistää _ o'vtâstittiđ o'vtâstitám _ 
 yhdyskunta _ siä'rvádâh siä'rváduv _ 
-yhteisvastuullisuus _ ohtsâs o'vdâsvástádâsvuotâ _ 
+yhteisvastuullisuus _ ohtsâs o'vdâsvástádâsvuotâ _ n
 yhteisöllinen _ siä'rvuslâš siä'rvuslii _ 
 yhtenäistää _ ohtâlistiđ ohtâlistám _ 
 yhteyttää _ ohtiđ ohtiim _ 
-yhtiöittäminen _ finnodâhhân riev'dâdem _ 
+yhtiöittäminen _ finnodâhhân riev'dâdem _ n
 yhtälö _ o'vtâldâh o'vtâlduv _ 
 ykkönen _ oovtâš ovttii _ 
 yksi _ ohtâ oovtâ _ 
 yksinäisyys _ ohtuuvuotâ ohtuuvuođâ _ 
-yksitellen _ o'vtâi mild _ 
+yksitellen _ o'vtâi mild _ n
 yleispätevä _ ubâlâš ubâlii _ 
 yletä _ aLaniđ allaan _ 
 ylimmäinen _ pajemuš pajemuu _ 
@@ -3442,6 +3442,6 @@ yököttää _ ko'vláhittiđ ko'vláhitám _
 äänittää _ jie'nâttiđ jienât _ 
 äänne _ jie'Nâdâh jie'Nâduv _ 
 ääntää _ jie'Nâdiđ jiennâd _ 
-äärimmilleen _ roobdâ räi _ 
+äärimmilleen _ roobdâ räi _ n
 äärimmäinen _ ro'bdâmuš ro'bdâmuu _ 
 öljyyntyä _ eljuttuđ eljuttuum eljuttuVá _ 

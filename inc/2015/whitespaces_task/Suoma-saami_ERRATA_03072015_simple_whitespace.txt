@@ -556,7 +556,7 @@ ivalolainen _ avveellâš avveellii _
 iäinen _ aValâš aValii _ 
 jaaha _ jáá nuuvt _ n
 jae _ verstâ veerstâ _ 
-jakkara _ riäŋ'kku riäŋku _ c check
+jakkara _ peŋkkâ peeŋkâ _ c
 jakki _ jakki jaaki _ 
 jaksaa _ vaijeeđ vajam vaJa _ 
 jalava _ jalvâ jaalvâ _ 
@@ -574,7 +574,7 @@ jaos _ juáVus juáHus _
 japanilainen _ jaapaanlâš jaapaanlii _ 
 jarruttaa _ kooccâđ koosâm kaca _ 
 jauheliha _ millum piär'gu piärgu _ ab
-jogurtti _ viNe juuguurt _ c check
+jogurtti _ juuguurt _ c
 johdannainen _ jođettâslâš jođettâslii _ 
 johdatella _ ča'skâttâllâđ ča'skâttâlâm _ 
 johdonmukainen _ systemaatlâš systemaatlii _ 
@@ -2050,7 +2050,7 @@ politiikka _ politijkká politiijká _
 polkaista _ tuo'lmâstiđ tuolmâst _ 
 polkulevy _ skiäl'ttu skiältu _ 
 polskia _ porššođ po'ršom _ 
-polttiaisentoukka _ sahe saVe _ check
+polttiaisentoukka _ suoˊṿâlode suoksâ polttijáá suoksâ _ c ab~cd
 polvistella _ čibástâllâđ čibástâlâm _ 
 polvitaive _ koodâr koddâr _ 
 pommi _ pommi pooMi _ 
@@ -2713,7 +2713,7 @@ säveltää _ nuot'tiđ nuot'tiim nyet'tee _
 sääksi _ čieh'čâ čievčâ _ 
 säännöstellä _ tulvâdiđ tulvâd _ 
 sääret _ riččá ričá _ 
-sääskentoukka _ sahe saVe _ check
+sääskentoukka _ čuoškâ suoksâ _ nc
 säästyä _ šeštuđ šeštuum šiäš'too _ 
 säästää _ šeštiđ šiäštám _ 
 säästö _ šiäš'tu šiäštu _ 

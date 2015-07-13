@@ -80,6 +80,13 @@ g '<t ' Suoma-saami_ERRATA_03072015_simple.xml|z|g '#'|g -v '~'|awk -F '#' '{pri
 2_gtxml>g '<t ' Suoma-saami_ERRATA_03072015_simple.xml|z|g -v '#'|g -v '~'|g ' '|c
     3447
 
+5. check the entries with ~ but no #
+
+
+6. check the entries with # but no ~
+
+
+4. check the entries with both ~ and #
 
 
 n. convert the simple file to gt-xml

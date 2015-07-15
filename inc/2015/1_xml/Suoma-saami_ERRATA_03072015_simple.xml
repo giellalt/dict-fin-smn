@@ -21610,7 +21610,7 @@
       <p id="11"/>
    </e>
    <e id="2503">
-      <p id="1" r1_par="(lyötävä kalakoukku)">huki~hukki</p>
+      <p id="1" syn="~hukki" r1_par="(lyötävä kalakoukku)">huki</p>
       <p id="2">liep'pi  liepi      </p>
       <p id="3">liep'pi</p>
       <p id="4">huki~hukki</p>
@@ -66933,7 +66933,7 @@
       <p id="11">(soitin)</p>
    </e>
    <e id="7826">
-      <p id="1" r1_par="(siivousväline)">luutu~luuttu</p>
+      <p id="1" syn="~luuttu" r1_par="(siivousväline)">luutu</p>
       <p id="2">sappe  sape      </p>
       <p id="3">sappe</p>
       <p id="4">luutu~luuttu</p>

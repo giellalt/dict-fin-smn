@@ -402,7 +402,7 @@ huidonta _ faaškâs faškâs _
 huilata _ huiláđ huiláám _ 
 huipentua _ čokkeluđ čokkeluum čokkeluVá _ 
 huivi _ lijne liijne _ 
-huki~hukki _ liep'pi liepi _ 
+huki _ liep'pi liepi _ 
 hukuttaa _ hevâttiđ heevât _ 
 hukuttautua _ hevâttâttâđ hevâttâđâm hevâttât _ 
 hulmuta _ livârdiđ liivârd _ 
@@ -705,7 +705,7 @@ kalsu _ piddo pido _
 kaltaisuus _ sullâ suulâ _ 
 kalusto _ ká'lvudâh ká'lvuduv _ 
 kalvaa _ kahheeđ kaVam _ 
-kama _ tobrik topârik _ ~
+kama _ tobrik topârik _ ~
 kameli _ kaameel kamelist kameleh _ 
 kammata _ čohhoođ čoVom _ 
 kampaamo _ čovottâh čovottuv _ 
@@ -1456,7 +1456,7 @@ luulo _ káddu káádu _
 luunsiru _ čiegâ čieg'gâm _ 
 luuppi _ luuppi luupi _ 
 luurata _ luvráđ luvráám _ 
-luutu~luuttu _ sappe sape _ 
+luutu _ sappe sape _ 
 luututa _ sappadiđ sappad _ 
 luvallinen _ loválâš loválii _ 
 lyhentää _ uá'nidiđ uánid _ 
@@ -2050,7 +2050,7 @@ politiikka _ politijkká politiijká _
 polkaista _ tuo'lmâstiđ tuolmâst _ 
 polkulevy _ skiäl'ttu skiältu _ 
 polskia _ porššođ po'ršom _ 
-polttiaisentoukka _ suoˊṿâlode suoksâ polttijáá suoksâ _ c ab~cd
+polttiaisentoukka _ suo'Vâlode suoksâ polttijáá suoksâ _ c ab~cd
 polvistella _ čibástâllâđ čibástâlâm _ 
 polvitaive _ koodâr koddâr _ 
 pommi _ pommi pooMi _ 

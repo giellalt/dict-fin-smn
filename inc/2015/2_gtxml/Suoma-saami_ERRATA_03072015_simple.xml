@@ -6422,7 +6422,7 @@
    </e>
    <e id="919">
       <lg>
-         <l pos="">dementointua</l>
+         <l pos="">dementoitua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -10546,7 +10546,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">genetiiklâš genetiiklii</t>
+            <t pos="">geeneetlâš geeneetlii</t>
          </tg>
       </mg>
    </e>
@@ -21676,7 +21676,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">riäŋ'kku riäŋku</t>
+            <t pos="">peŋkkâ peeŋkâ</t>
          </tg>
       </mg>
    </e>
@@ -22356,7 +22356,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">viNe juugurt</t>
+            <t pos="">juuguurt</t>
          </tg>
       </mg>
    </e>
@@ -34942,7 +34942,7 @@
    </e>
    <e id="5322">
       <lg>
-         <l pos="">kirjoilija</l>
+         <l pos="">kiroilija</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -35791,7 +35791,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kiä'đágáttâh kiä'đgáttuv</t>
+            <t pos="">kiä'đgáttâh kiä'đgáttuv</t>
          </tg>
       </mg>
    </e>
@@ -39141,7 +39141,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">krusifiksi krusifiiksi</t>
+            <t pos="">krusifiks krusifiks</t>
          </tg>
       </mg>
    </e>
@@ -40291,7 +40291,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kuábbáškin kuáb'báá-uv</t>
+            <t pos="">kuábbáškin kuáb'báágin</t>
          </tg>
       </mg>
    </e>
@@ -43691,7 +43691,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">vázzálâhčâđ vázzáluuvčâm vázzálâhš</t>
+            <t pos="">vázzálâhčâđ vázzáluuvčâm vázzáluš</t>
          </tg>
       </mg>
    </e>
@@ -48351,7 +48351,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">älkkeedittiđ älkkeedâđâm</t>
+            <t pos="">älkkeedittiđ älkkeeditám</t>
          </tg>
       </mg>
    </e>
@@ -50161,7 +50161,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">luhâlâhčâđ luhâluuvčâm luhâlâhš</t>
+            <t pos="">luhâlâhčâđ luhâluuvčâm luhâluš</t>
          </tg>
       </mg>
    </e>
@@ -55126,7 +55126,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" syn_dash="-huáši">čuán'njááhuáš 'ši</t>
+            <t pos="" syn_dash="-huáši">čuán'njááhuáš'ši</t>
          </tg>
       </mg>
    </e>
@@ -65166,7 +65166,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">patâremmätki määđhi</t>
+            <t pos="" syn_dash="-määđhi">patâremmätki</t>
          </tg>
       </mg>
    </e>
@@ -93431,7 +93431,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">sahe saVe</t>
+            <t pos="">čuoškâ suoksâ</t>
          </tg>
       </mg>
    </e>
@@ -95491,7 +95491,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">falâluhčâđ falâluuvčâm falâlâhš</t>
+            <t pos="">falâluhčâđ falâluuvčâm falâluš</t>
          </tg>
       </mg>
    </e>
@@ -104937,7 +104937,7 @@
    </e>
    <e id="15781">
       <lg>
-         <l pos="">umpeen</l>
+         <l pos="">kasvaa umpeen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -110891,7 +110891,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čihtâmkiäpu kiävu</t>
+            <t pos="" syn_dash="-kiävu">čihtâmkiäpu</t>
          </tg>
       </mg>
    </e>

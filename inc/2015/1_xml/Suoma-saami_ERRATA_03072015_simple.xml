@@ -28,7 +28,7 @@
    </e>
    <e id="3">
       <p id="1">aakkostaa</p>
-      <p id="2">orniđ puustavij mild        </p>
+      <p id="2" mwe="y">orniđ puustavij mild        </p>
       <p id="3">orniđ </p>
       <p id="4">aakkostaa</p>
       <p id="5"/>
@@ -24822,7 +24822,7 @@
    </e>
    <e id="2937">
       <p id="1">ikirouta</p>
-      <p id="2">sudâhánnáás tuáLu  tuálu      </p>
+      <p id="2" mwe="2">sudâhánnáás tuáLu  tuálu      </p>
       <p id="3">sudâhánnáás </p>
       <p id="4">iki</p>
       <p id="5"/>
@@ -25628,7 +25628,7 @@
    </e>
    <e id="3029">
       <p id="1">ilmestyskirja</p>
-      <p id="2">a'lmostusâi kirje  ki'rje      </p>
+      <p id="2" mwe="2">a'lmostusâi kirje  ki'rje      </p>
       <p id="3">a'lmostusâi </p>
       <p id="4">ilmestys</p>
       <p id="5"/>
@@ -27123,7 +27123,7 @@
    </e>
    <e id="3193">
       <p id="1" r1_par="(mon.)">isovanhemmat</p>
-      <p id="2">ákku já äijih        </p>
+      <p id="2" mwe="y">ákku já äijih        </p>
       <p id="3">ákku </p>
       <p id="4">iso</p>
       <p id="5"/>
@@ -28878,7 +28878,7 @@
    </e>
    <e id="3411">
       <p id="1">jauheliha</p>
-      <p id="2">millum piär'gu  piärgu      </p>
+      <p id="2" mwe="2">millum piär'gu  piärgu      </p>
       <p id="3">millum </p>
       <p id="4">jauhe</p>
       <p id="5"/>
@@ -33467,7 +33467,7 @@
    </e>
    <e id="3995">
       <p id="1">kahdenkeskinen</p>
-      <p id="2">(kahdenkeskinen asia) munnuu koskâvuođâ äšši        </p>
+      <p id="2" mwe="2">(kahdenkeskinen asia) munnuu koskâvuođâ äšši        </p>
       <p id="3">(kahdenkeskinen asia) munnuu </p>
       <p id="4">kahden</p>
       <p id="5"/>
@@ -50380,7 +50380,7 @@
    </e>
    <e id="5902">
       <p id="1">kotoisin</p>
-      <p id="2">leđe meddâl kostnii        </p>
+      <p id="2" mwe="y">leđe meddâl kostnii        </p>
       <p id="3">leđe </p>
       <p id="4">kotoisin</p>
       <p id="5"/>
@@ -72108,7 +72108,7 @@
    </e>
    <e id="8425">
       <p id="1">mielissään</p>
-      <p id="2">(olla mielissään jstak) leđe mielâst mastnii        </p>
+      <p id="2" mwe="y">(olla mielissään jstak) leđe mielâst mastnii        </p>
       <p id="3">(olla mielissään jstak) leđe mielâst mastnii</p>
       <p id="4">mielissään</p>
       <p id="5"/>
@@ -98057,7 +98057,7 @@
    </e>
    <e id="11427">
       <p id="1">pätemätön</p>
-      <p id="2">ij toolâ tiäi'vás        </p>
+      <p id="2" mwe="y">ij toolâ tiäi'vás        </p>
       <p id="3">ij toolâ tiäi'vás</p>
       <p id="4">pätemätön</p>
       <p id="5"/>
@@ -99110,7 +99110,7 @@
    </e>
    <e id="11554">
       <p id="1">raakalauta</p>
-      <p id="2">sááháviĐá lyev'di  lyevdi      </p>
+      <p id="2" mwe="2">sááháviĐá lyev'di  lyevdi      </p>
       <p id="3">sááhá</p>
       <p id="4">raaka</p>
       <p id="5"/>
@@ -129990,7 +129990,7 @@
    </e>
    <e id="15058">
       <p id="1">tuki- ja liikuntavammainen</p>
-      <p id="2">tuuvdâ- já lihâdemvádulâš  -vádulii      </p>
+      <p id="2" mwe="3">tuuvdâ- já lihâdemvádulâš  -vádulii      </p>
       <p id="3">tuuvdâ- </p>
       <p id="4">tuki- </p>
       <p id="5"/>
@@ -143538,7 +143538,7 @@
    </e>
    <e id="16563">
       <p id="1">velvoite</p>
-      <p id="2">keNigittee äšši  ääši      </p>
+      <p id="2" mwe="2">keNigittee äšši  ääši      </p>
       <p id="3">keNigittee </p>
       <p id="4">velvoite</p>
       <p id="5"/>

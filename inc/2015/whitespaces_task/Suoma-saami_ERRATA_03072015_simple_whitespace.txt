@@ -705,7 +705,6 @@ kalsu _ piddo pido _
 kaltaisuus _ sullâ suulâ _ 
 kalusto _ ká'lvudâh ká'lvuduv _ 
 kalvaa _ kahheeđ kaVam _ 
-kama _ tobrik topârik _ ~
 kameli _ kaameel kamelist kameleh _ 
 kammata _ čohhoođ čoVom _ 
 kampaamo _ čovottâh čovottuv _ 
@@ -1027,7 +1026,6 @@ korjailla _ tivodiđ tiivood _
 korjauttaa _ tivottiđ tiivoot _ 
 korkki _ korkkâ koorhâ _ 
 korkkijälsi _ naarvâ narvuu _ 
-korpi _ kärree karrii _ ~
 korsi _ vaadâs vaddâs _ 
 korte _ huáš'ši huáši _ 
 kortisto _ korttâdâh korttâduv _ 
@@ -2050,7 +2048,6 @@ politiikka _ politijkká politiijká _
 polkaista _ tuo'lmâstiđ tuolmâst _ 
 polkulevy _ skiäl'ttu skiältu _ 
 polskia _ porššođ po'ršom _ 
-polttiaisentoukka _ suo'Vâlode suoksâ polttijáá suoksâ _ c ab~cd
 polvistella _ čibástâllâđ čibástâlâm _ 
 polvitaive _ koodâr koddâr _ 
 pommi _ pommi pooMi _ 

@@ -252,6 +252,27 @@
 					      else ($r_r_r)
 					      "/>
 
+
+			<xsl:variable name="syn_tilde"
+				      select="
+					      if (contains($r_r_r_r,
+					      '~') and
+					      not(contains($r_r_r_r,'-') or contains($r_r_r_r,'#')))
+					      then
+					      normalize-space(substring($r_r_r_r,functx:index-of-string-first($r_r_r_r,'~')))
+					      else ()
+					      "/>
+			
+			<xsl:variable name="r_r_r_r_r"
+				      select="
+					      if (contains($r_r_r_r,
+					      '~') and
+					      not(contains($r_r_r_r,'-') or contains($r_r_r_r,'#')))
+					      then
+					      substring($r_r_r_r,1,functx:index-of-string-first($r_r_r_r,'~')-1)
+					      else ($r_r_r_r)
+					      "/>
+
 			
 			<t pos="">
 			  <xsl:if test="not(normalize-space($l_par)='')">
@@ -274,8 +295,15 @@
 			      <xsl:value-of select="$attr"/>
 			    </xsl:attribute>
 			  </xsl:if>
-			  <xsl:value-of select="normalize-space($r_r_r_r)"/>
+			  <xsl:value-of select="normalize-space($r_r_r_r_r)"/>
 			</t>
+
+			<xsl:if test="not(normalize-space($syn_tilde)='')">
+			  <xsl:element name="t_tld">
+			    <xsl:value-of select="normalize-space($syn_tilde)"/>
+			  </xsl:element>
+			</xsl:if>
+			
 		      </xsl:if>
 		    </xsl:for-each>
 		  </tg>

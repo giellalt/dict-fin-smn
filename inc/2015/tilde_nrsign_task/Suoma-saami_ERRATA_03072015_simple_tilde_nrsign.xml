@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e id="567">
+      <p id="1">anteeksiantamaton</p>
+      <p id="2">addâgâsân~addâgâs addeelhánnáá  # -s      </p>
+   </e>
+   <e id="728">
+      <p id="1">asiaton</p>
+      <p id="2">äšittem  # äšittes ~ äšittemes      </p>
+   </e>
+   <e id="772">
+      <p id="1">asunnoton</p>
+      <p id="2">vi'stettem  # -es ~ vi'stettes      </p>
+   </e>
+   <e id="890">
+      <p id="1">avuton</p>
+      <p id="2">ke'hnittis  # ke'hnittis~-es      </p>
+   </e>
+   <e id="1123">
+      <p id="1">eläväinen</p>
+      <p id="2">eeliš  # eliččâs~eličâs~eliččis      </p>
+   </e>
+   <e id="1144">
+      <p id="1" r1_par="(esim. vasasta)">emätön</p>
+      <p id="2">eNittem  # eNittes ~ eNittemes      </p>
+   </e>
+   <e id="1207">
+      <p id="1">epäkelpo</p>
+      <p id="2">tuhhiimettum  # -es~-is      </p>
+   </e>
+   <e id="1223">
+      <p id="1">epäonninen</p>
+      <p id="2">luhottem  # luhottes ~ luhottemes      </p>
+   </e>
+   <e id="1237">
+      <p id="1">epätarkka</p>
+      <p id="2">epitärkki  -täärhi # -tä'rhis ~ -tärkki      </p>
+   </e>
+   <e id="1878">
+      <p id="1">harmiton</p>
+      <p id="2">vaVettem  # -es ~ veVettes      </p>
+   </e>
+   <e id="1903">
+      <p id="1" r1_par="(verkosta)">harvasilmäinen</p>
+      <p id="2">juollâd  # juo'Lis ~ juo'Lâdis~-âs      </p>
+   </e>
+   <e id="1993">
+      <p id="1" r1_par="(kahvista, suolasta)">heikkolaatuinen</p>
+      <p id="2">ča'skettem~ča'skettim  # ča'skettes      </p>
+   </e>
+   <e id="2554">
+      <p id="1">huolimaton</p>
+      <p id="2">huo'lâttem  # huo'lâttes ~ huo'lâttemes      </p>
+   </e>
+   <e id="2632">
+      <p id="1">hutiloiva</p>
+      <p id="2">huo'lâttem  # huo'lâttes ~ huo'lâttemes      </p>
+   </e>
+   <e id="2868">
+      <p id="1">hölöttäjä</p>
+      <p id="2">huá'lssáá  # -s  ~ huál'ššáá # -s    </p>
+   </e>
+   <e id="2960">
+      <p id="1" r1_par="(adj.)">ikävä</p>
+      <p id="2">ahheev  # ahevâs~ahevis ~ ahheevâs      </p>
+   </e>
+   <e id="3019">
+      <p id="1" r1_par="(kuohkea, pöyheä)">ilmava</p>
+      <p id="2">luáđhus  luát'kus # luá'đhus ~ luát'ku-      </p>
+   </e>
+   <e id="3233">
+      <p id="1">isätön</p>
+      <p id="2">ejittem  # ejittes ~ ejittemes      </p>
+   </e>
+   <e id="3302">
+      <p id="1">iätön</p>
+      <p id="2">aVettem  # aVettes~aVettâs      </p>
+   </e>
+   <e id="4158">
+      <p id="1">kalteva</p>
+      <p id="2">kärŋil  # -is~-âs      </p>
+   </e>
+   <e id="4302">
+      <p id="1" r1_par="(esim. äänestä)">kantava</p>
+      <p id="2">kyed'dil  # -is~-âs      </p>
+   </e>
+   <e id="4499">
+      <p id="1">katkera</p>
+      <p id="2">poččâ  # počis~počâs      </p>
+   </e>
+   <e id="4999">
+      <p id="1">kevyt</p>
+      <p id="2">keppis  # keppâ ~ keppisâs      </p>
+   </e>
+   <e id="5938">
+      <p id="1">kovasydäminen</p>
+      <p id="2">vá'imuttem  # -es ~ vá'imuttes      </p>
+   </e>
+   <e id="6482">
+      <p id="1">kylmänarka</p>
+      <p id="2">uár'nji  uárnji # uá'rnjis ~  uár'ŋi uárŋi # uá'rŋis ~ uár'vi uárvi # uá'rvis    </p>
+   </e>
+   <e id="6608">
+      <p id="1">kärkevä</p>
+      <p id="2">pastel  # -is~-âs      </p>
+   </e>
+   <e id="6661">
+      <p id="1" r1_par="(ihmisestä)">kätevä</p>
+      <p id="2">faantâs  fanttâs # fanttâ  ~ vaantâs vanttâs # vanttâ    </p>
+   </e>
+   <e id="6876">
+      <p id="1">laiton</p>
+      <p id="2">laVâttem  # laVâttes ~ laVâttemes      </p>
+   </e>
+   <e id="7021">
+      <p id="1">lapseton</p>
+      <p id="2">pä'rnittem  # -es ~ pä'rnittes      </p>
+   </e>
+   <e id="7542">
+      <p id="1">lohduton</p>
+      <p id="2">lo'hđuttem  # lo'hđuttes ~ lo'hđuttemes      </p>
+   </e>
+   <e id="7831">
+      <p id="1">luvaton</p>
+      <p id="2">lovettem  # lovettes ~ lovettemes      </p>
+   </e>
+   <e id="7839">
+      <p id="1">lyhytikäinen</p>
+      <p id="2">aVettem  # aVettes~aVettâs      </p>
+   </e>
+   <e id="7941">
+      <p id="1" r1_par="(esim. tiheikkö t. metsä puiden t. kivien takia)">läpipääsemätön</p>
+      <p id="2">rooHâd  # rohâdis ~ rohis      </p>
+   </e>
+   <e id="8481">
+      <p id="1">mitätön</p>
+      <p id="2">heeitug~heeitâg  # heitugâs~heitâgâs      </p>
+   </e>
+   <e id="9127">
+      <p id="1">niukka</p>
+      <p id="2">väänis  váánnás # väNi~vaNâ      </p>
+   </e>
+   <e id="9313">
+      <p id="1">nuutunut</p>
+      <p id="2">njuosâs  njuoccâs # njuo'câ ~ njuosâs      </p>
+   </e>
+   <e id="9455">
+      <p id="1">ohutnahkainen</p>
+      <p id="2">če'vđittem  # če'vđittemes ~ če'vđittes      </p>
+   </e>
+   <e id="9575">
+      <p id="1">ontuva</p>
+      <p id="2">likkuš  # likkušis~likkušâs      </p>
+   </e>
+   <e id="9656">
+      <p id="1">osaton</p>
+      <p id="2">mä'inittem  # mä'inittes~mä'inittis      </p>
+   </e>
+   <e id="9906">
+      <p id="1">palelematon</p>
+      <p id="2">palliš  # -âs~-is      </p>
+   </e>
+   <e id="9929">
+      <p id="1">palkaton</p>
+      <p id="2">pä'lhittem  # pä'lhittes ~ pä'lhittemes      </p>
+   </e>
+   <e id="10311">
+      <p id="1" r1_par="(asiasta)">perätön</p>
+      <p id="2">perettem  # perettes ~ perettemes      </p>
+   </e>
+   <e id="11148">
+      <p id="1">puolueeton</p>
+      <p id="2">pelettem  # pelettes ~ pelettemes      </p>
+   </e>
+   <e id="11614">
+      <p id="1">rahaton</p>
+      <p id="2">ruđâttem  # ruđâttemes ~ ruđâttes~ruđâttis      </p>
+   </e>
+   <e id="11750">
+      <p id="1">ranttu</p>
+      <p id="2">ranttu  raantu # ranttuus ~ ra'ntus      </p>
+   </e>
+   <e id="11906">
+      <p id="1">rento</p>
+      <p id="2">huo'lâttem  # huo'lâttes ~ huo'lâttemes      </p>
+   </e>
+   <e id="12461">
+      <p id="1">rämeinen</p>
+      <p id="2">karriinallii  # -s ~ karriinalaš      </p>
+   </e>
+   <e id="12517">
+      <p id="1">saamaton</p>
+      <p id="2">nakkanttim  # -es  ~ nakkanttem # -es    </p>
+   </e>
+   <e id="13814">
+      <p id="1" r1_par="(helposti eksyvä)">suuntavaistoton</p>
+      <p id="2">tä'iđittem  # -es ~ tä'iđittes      </p>
+   </e>
+   <e id="13850">
+      <p id="1">sydämetön</p>
+      <p id="2">vá'imuttem  # vá'imuttemes ~ vá'imuttes      </p>
+   </e>
+   <e id="14410">
+      <p id="1">tarkeneva</p>
+      <p id="2">palliš  # -âs~-is      </p>
+   </e>
+   <e id="14415">
+      <p id="1">tarkka</p>
+      <p id="2">tärkki  täärhi # tä'rhis ~ tärkki      </p>
+   </e>
+   <e id="14419">
+      <p id="1">tarkkakorvainen</p>
+      <p id="2">peljiš  # peljišâs~-is      </p>
+   </e>
+   <e id="14507">
+      <p id="1" r1_par="(adj.)">tavaton</p>
+      <p id="2">tävittem  # -es ~ tävittes      </p>
+   </e>
+   <e id="14932">
+      <p id="1">toivoton</p>
+      <p id="2">tuá'ivuttem  # -es ~ tuá'ivuttes      </p>
+   </e>
+   <e id="14990">
+      <p id="1">tottelematon</p>
+      <p id="2">tottâlmettum  # -es ~ is      </p>
+   </e>
+   <e id="15334">
+      <p id="1">turvaton</p>
+      <p id="2">to'rvottem  # -es ~ to'rvottes      </p>
+   </e>
+   <e id="15372">
+      <p id="1" r1_par="(adj.)">tuttu</p>
+      <p id="2">uápis  uáp'pá ~ uáp'pás # uá'pis      </p>
+   </e>
+   <e id="15500">
+      <p id="1">työkyvytön</p>
+      <p id="2">pargona'vcâttem  # -es ~ -na'vcâttes      </p>
+   </e>
+   <e id="15958">
+      <p id="1">vaaraton</p>
+      <p id="2">varâttem  # varâttes ~ varâttemes      </p>
+   </e>
+   <e id="16080">
+      <p id="1">vakaa</p>
+      <p id="2">stääđis  stááđđás # stäđis~stađes ~ stađâ      </p>
+   </e>
+   <e id="16113">
+      <p id="1" r1_par="(perätön)">valheellinen</p>
+      <p id="2">perettem  # perettes ~ perettemes      </p>
+   </e>
+   <e id="16334">
+      <p id="1">varaton</p>
+      <p id="2">värittem  # -es ~ värittes      </p>
+   </e>
+   <e id="16505">
+      <p id="1">vedetön</p>
+      <p id="2">čäsittem  # čäsittes ~ čäsittemes      </p>
+   </e>
+   <e id="16534">
+      <p id="1">velaton</p>
+      <p id="2">ve'lgittem  # -es ~ ve'lgittes      </p>
+   </e>
+   <e id="16662">
+      <p id="1">veroton</p>
+      <p id="2">viä'ruttem  # viä'ruttemes ~ viä'ruttes      </p>
+   </e>
+   <e id="17059">
+      <p id="1" r1_par="(esim. tuotteesta)">virheetön</p>
+      <p id="2">váduttem  # -es ~ váduttes      </p>
+   </e>
+   <e id="17106">
+      <p id="1" r1_par="(voimakkaasti esim. koski)">virtaava</p>
+      <p id="2">vooHâd  # vohâdis~vohâdâs      </p>
+   </e>
+   <e id="17327">
+      <p id="1">vähävetinen</p>
+      <p id="2">čäsittem  # čäsittes ~ čäsittemes      </p>
+   </e>
+   <e id="17751">
+      <p id="1">äiditön</p>
+      <p id="2">eNittem  # eNittes ~ eNittemes      </p>
+   </e>
+</r>

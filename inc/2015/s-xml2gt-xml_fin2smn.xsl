@@ -71,8 +71,9 @@
 
 </xsl:function>
 
-  <xsl:param name="inDir" select="'a_1_xml_input'"/>
-  <xsl:param name="outDir" select="'2_gtxml_2'"/>
+  <xsl:param name="inDir" select="'dddd'"/>
+  <!--xsl:param name="inDir" select="'x_bra_cor_done'"/-->
+  <xsl:param name="outDir" select="'check_transformation_gtxml'"/>
   <xsl:variable name="of" select="'xml'"/>
   <xsl:variable name="e" select="$of"/>
   <xsl:variable name="debug" select="false()"/>
@@ -182,6 +183,13 @@
 		    <xsl:for-each select="tokenize($corrected_t, ',')">
 		      <xsl:variable name="c_t" select="normalize-space(.)"/>
 		      <xsl:if test="not($c_t='')">
+
+      <xsl:if test="true()">
+	<xsl:message terminate="no">
+	  <xsl:value-of select="concat('t XXX ', $corrected_t, $nl)"/>
+	</xsl:message>
+      </xsl:if>
+
 			
 			<xsl:variable name="l_par"
 				      select="

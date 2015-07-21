@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e id="2040">
+      <lg>
+         <l pos="">helakka</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="" l_par="heleä _COMMA_ kirkas esim. väri">šeellâd # šelis ~ šellis ~ šellâdâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2156">
+      <lg>
+         <l pos="">herkullinen</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="">hiär'skulâš hiär'skulii</t>
+            <t pos="">njäävhis njávkkás</t>
+            <t pos="">njäälgis njálgá # njä'lgis ~ njaalgâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2592">
+      <lg>
+         <l pos="">huonotapainen</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="">tävittem # -es ~ tävittes</t>
+            <t pos="" attr="# nälittes">nälittem</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2622">
+      <lg>
+         <l pos="">hurja</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="" attr="# -s">vildáá</t>
+            <t pos="">ruok'kâd # ruok'kâdis ~ ruo'kis</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2740">
+      <lg>
+         <l pos="">hyvävainuinen</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="">apsalâs # apsalâs ~ apsee</t>
+            <t pos="">apsee # apsees ~ apsalâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2750">
+      <lg>
+         <l pos="">hyödytön</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="">hiä'đuttem # hiä'đuttes ~ hiä'đuttemes</t>
+            <t pos="" attr="# ä'vhittâs">ä'vhittem</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3703">
+      <lg>
+         <l pos="">jyrkkä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="" attr="# ciä'gu">ciägus ciäg'gus</t>
+            <t pos="">ciä'gu-</t>
+            <t pos="" attr="# -s">kivkkáá</t>
+            <t pos="">kivkker # -is~-âs</t>
+            <t pos="">terkkii # terkkâ~terkkiis</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5241">
+      <lg>
+         <l pos="">kimeä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="">piškel # -is~-âs</t>
+            <t pos="">čuuhâl # čuhâlâs ~ čuha</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5595">
+      <lg>
+         <l pos="">koko</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos=""># ubbâ~ubâ</t>
+            <t pos="" attr="# heeilâ"/>
+         </tg>
+      </mg>
+   </e>
+   <e id="5602">
+      <lg>
+         <l pos="">kokonainen</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="">oLes ollás</t>
+            <t pos="">ubâlâš ubâlii</t>
+            <t pos=""># ubbâ~ubâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8136">
+      <lg>
+         <l pos="">makoisa</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="">hekkâ-</t>
+            <t pos="">njäälgis njálgá # njä'lgis ~ njaalgâ</t>
+            <t pos="">njäävhis njávkkás</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8161">
+      <lg>
+         <l pos="">maltillinen</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="" attr="# mašâlis">maaššâl</t>
+            <t pos="">määššil # määššilis~-âs ~ mäšilis~-âs</t>
+            <t pos="">mášulâš mášulii</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8165">
+      <lg>
+         <l pos="">malttavainen</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="" attr="# mašâlis">maaššâl</t>
+            <t pos="">määššil # määššilis~-âs ~ mäšilis~-âs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9380">
+      <lg>
+         <l pos="">näppärä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="">neppir~näppir # -is</t>
+            <t pos="">veessil # veSilis~veSilâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10988">
+      <lg>
+         <l pos="">puhelias</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="" attr="# -s">sárnáá</t>
+            <t pos="">sárnoo</t>
+            <t pos="">huál'ššáá # -s ~ huál'ssáá # -s</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11794">
+      <lg>
+         <l pos="">rasvaton</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="" attr="# pye'idittes">pye'idittem</t>
+            <t pos="">vuo'jâttem # vuo'jâttes ~ vuo'jâttemes</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13069">
+      <lg>
+         <l pos="">siisti</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="">čurgâd # ču'rgis ~ čurgâdis</t>
+            <t pos="">kuonâs kuonnâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13092">
+      <lg>
+         <l pos="">siivo</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="" attr="# -s">sijvuu</t>
+            <t pos="">sijvo</t>
+            <t pos="">čurgâd # ču'rgis ~ čurgâdis</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13521">
+      <lg>
+         <l pos="">stabiili</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="">stääđis stááđđás # stäđis~stađes ~ stađâ</t>
+            <t pos="">staabiil</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13554">
+      <lg>
+         <l pos="">suippo</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="" r_par="-" attr="# čuhâ">čuuVâs čuuhâs</t>
+            <t pos="">čuuhâl # čuhâlâs ~ čuha</t>
+            <t pos="" attr="# -as">čuhâlis</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13779">
+      <lg>
+         <l pos="">suruton</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="" attr="# murâšttes">murâšttem</t>
+            <t pos="">sorottem # -es ~ sorottes</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13838">
+      <lg>
+         <l pos="">suuttuvainen</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="">suttiš # -âs ~ -is</t>
+            <t pos="">suttâlâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14070">
+      <lg>
+         <l pos="">säädytön</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="">siä'đuttem # siä'đuttes ~ siä'đuttemes</t>
+            <t pos="" attr="# nye'skis">nyes'ki nyeski</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15432">
+      <lg>
+         <l pos="">tyhmä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="" attr="# tuá'vhis">tuáv'kki tuávhi</t>
+            <t pos="">tuihme tu'ihme # tu'ihmes ~ tuhme tu'hme # tu'hmes</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15448">
+      <lg>
+         <l pos="">typerä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="" attr="# -s">káigáá</t>
+            <t pos="">u'đhettem # u'đhettes ~ u'đhettemes</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15552">
+      <lg>
+         <l pos="">työtön</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="">pa'rgottem # -es ~ pa'rgottes</t>
+            <t pos="" attr="# tye'jettes">tye'jettem</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16003">
+      <lg>
+         <l pos="">vahvakätinen</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="">čovgâd # čovgâ ~ čo'vgis</t>
+            <t pos="" attr="# -is">olgiš</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16032">
+      <lg>
+         <l pos="">vaikeaselkoinen</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="" attr="# -s">muál'kkáá</t>
+            <t pos="">váádduh # váduhis~váduhâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16928">
+      <lg>
+         <l pos="">viisas</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="">viijses vijssás~vijssá ~ vijsá # vi'jses</t>
+            <t pos="" attr="# -s">jiär'máá</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16972">
+      <lg>
+         <l pos="">vikkelä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="">häppil # häppilis~häppilâs</t>
+            <t pos="">veeleeh # velehis~velehâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17166">
+      <lg>
+         <l pos="">voimakasvirtainen</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="" attr="# -s">virdáá</t>
+            <t pos="">vooHâd # vohâdis ~ vohis</t>
+         </tg>
+      </mg>
+   </e>
+</r>

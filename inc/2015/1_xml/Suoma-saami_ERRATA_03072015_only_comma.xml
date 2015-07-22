@@ -4879,7 +4879,7 @@
    </e>
    <e id="2365">
       <p id="1">hirvikolari</p>
-      <p id="2">sorvâluhottesvuotâ  -luhottesvuođâ,  sorvâkolari    </p>
+      <p id="2">sorvâluhottesvuotâ  -luhottesvuođâ,  sorvâkoolaar    </p>
       <p id="3">sorvâ</p>
       <p id="4">hirvi</p>
       <p id="5">sorvâkolari</p>
@@ -6426,8 +6426,8 @@
    </e>
    <e id="3040">
       <p id="1">ilmoitus</p>
-      <p id="2">a'lmottâs,    a'lmottus    </p>
-      <p id="3">a'lmottâs,</p>
+      <p id="2">a'lmottâs ~   a'lmottus    </p>
+      <p id="3">a'lmottâs ~</p>
       <p id="4">ilmoitus</p>
       <p id="5">a'lmottus</p>
       <p id="6"/>
@@ -11392,8 +11392,8 @@
    </e>
    <e id="5503">
       <p id="1">koettelemus</p>
-      <p id="2">keččâlâs,    keččâlus, táávguh    </p>
-      <p id="3">keččâlâs,</p>
+      <p id="2">keččâlâs ~  keččâlus, táávguh    </p>
+      <p id="3">keččâlâs ~</p>
       <p id="4">koettelemus</p>
       <p id="5">keččâlus, táávguh</p>
       <p id="6"/>
@@ -11834,14 +11834,14 @@
    </e>
    <e id="5745">
       <p id="1">korea</p>
-      <p id="2">koorrâd  # koRâdis,  korrâd # koRis    </p>
+      <p id="2">koorrâd  # koRâdis ~  korrâd # koRis    </p>
       <p id="3">koorrâd</p>
       <p id="4">korea</p>
       <p id="5">korrâd # koRis</p>
       <p id="6"/>
       <p id="7"/>
       <p id="8"/>
-      <p id="9"># koRâdis,</p>
+      <p id="9"># koRâdis ~ </p>
       <p id="10"/>
       <p id="11"/>
    </e>
@@ -12445,10 +12445,10 @@
    </e>
    <e id="6000">
       <p id="1" r1_par="(vähävoimainen noita)">kuiskija</p>
-      <p id="2">culijdijjee,    culijdeijee    </p>
-      <p id="3">culijdijjee,</p>
+      <p id="2">culijdijjee  ~ culijdeijee    </p>
+      <p id="3">culijdijjee</p>
       <p id="4">kuiskija</p>
-      <p id="5">culijdeijee</p>
+      <p id="5">~ culijdeijee</p>
       <p id="6"/>
       <p id="7"/>
       <p id="8"/>
@@ -13745,8 +13745,8 @@
    </e>
    <e id="6648">
       <p id="1">käsittämätön</p>
-      <p id="2">ibbeerdmáttum,    ibbeerdmettum    </p>
-      <p id="3">ibbeerdmáttum,</p>
+      <p id="2">ibbeerdmáttum ~   ibbeerdmettum    </p>
+      <p id="3">ibbeerdmáttum ~</p>
       <p id="4">käsittämätön</p>
       <p id="5">ibbeerdmettum</p>
       <p id="6"/>
@@ -14512,14 +14512,14 @@
    </e>
    <e id="7063">
       <p id="1">lastulevy</p>
-      <p id="2">smákkutuolbâs  -tuol'bâs,  smákkutuálbus -tuál'bus, vuo'lâttâstuálbus -tuál'bus    </p>
+      <p id="2">smákkutuolbâs  -tuol'bâs ~  smákkutuálbus -tuál'bus, vuo'lâttâstuálbus -tuál'bus    </p>
       <p id="3">smákku</p>
       <p id="4">lastu</p>
       <p id="5">smákkutuálbus -tuál'bus, vuo'lâttâstuálbus -tuál'bus</p>
       <p id="6"/>
       <p id="7">tuolbâs</p>
       <p id="8">levy</p>
-      <p id="9">-tuol'bâs,</p>
+      <p id="9">-tuol'bâs ~ </p>
       <p id="10"/>
       <p id="11"/>
    </e>
@@ -27564,10 +27564,10 @@
    </e>
    <e id="14600">
       <p id="1">teollisuusvaltio</p>
-      <p id="2">ráhtádâsriijkâ  -riijhâ,  rá'htulâšriijkâ -riijhâ, rá'htálâšriijkâ -riijhâ    </p>
+      <p id="2">ráhtádâsriijkâ  -riijhâ,  rá'htulâšriijkâ -riijhâ ~ rá'htálâšriijkâ -riijhâ    </p>
       <p id="3">ráhtádâs</p>
       <p id="4">teollisuus</p>
-      <p id="5">rá'htulâšriijkâ -riijhâ, rá'htálâšriijkâ -riijhâ</p>
+      <p id="5">rá'htulâšriijkâ -riijhâ ~ rá'htálâšriijkâ -riijhâ</p>
       <p id="6"/>
       <p id="7">riijkâ</p>
       <p id="8">valtio</p>

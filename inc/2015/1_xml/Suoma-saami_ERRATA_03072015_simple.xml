@@ -3928,7 +3928,7 @@
    </e>
    <e id="442">
       <p id="1">almu</p>
-      <p id="2">adaldâh~adaldoh~adalduh  adalduv      </p>
+      <p id="2">adaldâh adalduv ~adaldoh adalduv ~adalduh  adalduv      </p>
       <p id="3">adaldâh~adaldoh~adalduh</p>
       <p id="4">almu</p>
       <p id="5"/>
@@ -5150,7 +5150,7 @@
    </e>
    <e id="568">
       <p id="1">anteeksianto</p>
-      <p id="2">addâgâsân~addâgâs adelem        </p>
+      <p id="2" mwe="y">addâgâsân adelem ~addâgâs adelem        </p>
       <p id="3">addâgâsân~addâgâs </p>
       <p id="4">anteeksi</p>
       <p id="5"/>
@@ -5189,7 +5189,7 @@
    </e>
    <e id="572">
       <p id="1">anti</p>
-      <p id="2">adaldâh~adaldoh~adalduh  adalduv      </p>
+      <p id="2">adaldâh adalduv ~adaldoh adalduv ~adalduh  adalduv      </p>
       <p id="3">adaldâh~adaldoh~adalduh</p>
       <p id="4">anti</p>
       <p id="5"/>
@@ -5306,7 +5306,7 @@
    </e>
    <e id="582">
       <p id="1">ape</p>
-      <p id="2">apháš~aphâš  apháá      </p>
+      <p id="2">apháš apháá ~aphâš  apháá      </p>
       <p id="3">apháš~aphâš</p>
       <p id="4">ape</p>
       <p id="5"/>
@@ -8972,7 +8972,7 @@
    </e>
    <e id="984">
       <p id="1">edistää</p>
-      <p id="2">o'vdediđ  oovded~ovdeed      </p>
+      <p id="2">o'vdediđ  oovded ~o'vdediđ ovdeed      </p>
       <p id="3">o'vdediđ</p>
       <p id="4">edistää</p>
       <p id="5"/>
@@ -10324,7 +10324,7 @@
    </e>
    <e id="1128">
       <p id="1">emi</p>
-      <p id="2">eeMi  eemi ~ eme      </p>
+      <p id="2">eeMi  eemi ~eeMi eme      </p>
       <p id="3">eeMi</p>
       <p id="4">emi</p>
       <p id="5"/>
@@ -15460,7 +15460,7 @@
    </e>
    <e id="1741">
       <p id="1">halveksia</p>
-      <p id="2">há'lbášiđ  háálbáš~háálbâš      </p>
+      <p id="2">há'lbášiđ  háálbáš ~há'lbášiđ háálbâš      </p>
       <p id="3">há'lbášiđ</p>
       <p id="4">halveksia</p>
       <p id="5"/>
@@ -15486,7 +15486,7 @@
    </e>
    <e id="1743">
       <p id="1" r1_par="(loukata)">halventaa</p>
-      <p id="2">huánnuđ  huá'num~huánum      </p>
+      <p id="2">huánnuđ  huá'num ~huánnuđ huánum      </p>
       <p id="3">huánnuđ</p>
       <p id="4">halventaa</p>
       <p id="5"/>
@@ -15876,7 +15876,7 @@
    </e>
    <e id="1792">
       <p id="1">hankikanto</p>
-      <p id="2">kuá'dádâh~kuá'dádoh~kuá'dáduh  kuá'dáduv      </p>
+      <p id="2">kuá'dádâh kuá'dáduv ~kuá'dádoh kuá'dáduv ~kuá'dáduh  kuá'dáduv      </p>
       <p id="3">kuá'dádâh~kuá'dádoh~kuá'dáduh</p>
       <p id="4">hanki</p>
       <p id="5"/>
@@ -16240,7 +16240,7 @@
    </e>
    <e id="1836">
       <p id="1">harjaantua</p>
-      <p id="2">hárjániđ  hárján~hárjân      </p>
+      <p id="2">hárjániđ  hárján ~hárjániđ hárjân      </p>
       <p id="3">hárjániđ</p>
       <p id="4">harjaantua</p>
       <p id="5"/>
@@ -17254,7 +17254,7 @@
    </e>
    <e id="1959">
       <p id="1" r1_par="(verkon)">havas</p>
-      <p id="2">čuáLi  čuáli ~ čuá'le čoolijd      </p>
+      <p id="2">čuáLi  čuáli čoolijd ~ čuáLi čuá'le čoolijd      </p>
       <p id="3">čuáLi</p>
       <p id="4">havas</p>
       <p id="5"/>
@@ -20426,7 +20426,7 @@
    </e>
    <e id="2353">
       <p id="1">hirsi</p>
-      <p id="2">hirsâ~hirssâ  hiirsâ      </p>
+      <p id="2">hirsâ hiirsâ ~hirssâ  hiirsâ      </p>
       <p id="3">hirsâ~hirssâ</p>
       <p id="4">hirsi</p>
       <p id="5"/>
@@ -23288,7 +23288,7 @@
    </e>
    <e id="2743">
       <p id="1" r1_par="(veri)">hyytymä</p>
-      <p id="2">káđáldâh~káđáldoh~káđálduh  káđálduv  ~ kálálduh~káláldâh~káláldoh kálálduv    </p>
+      <p id="2">káđáldâh káđálduv ~káđáldoh káđálduv ~káđálduh  káđálduv , kálálduh kálálduv ~káláldâh kálálduv ~káláldoh kálálduv    </p>
       <p id="3">káđáldâh~káđáldoh~káđálduh</p>
       <p id="4">hyytymä</p>
       <p id="5">~ kálálduh~káláldâh~káláldoh kálálduv</p>
@@ -23353,7 +23353,7 @@
    </e>
    <e id="2755">
       <p id="1">hyönteinen</p>
-      <p id="2">tivre  tiivre~ti'vre      </p>
+      <p id="2">tivre  tiivre ~tivre ti'vre      </p>
       <p id="3">tivre</p>
       <p id="4">hyönteinen</p>
       <p id="5"/>
@@ -23496,7 +23496,7 @@
    </e>
    <e id="2769">
       <p id="1">häilyä</p>
-      <p id="2">luvnjođ  lu'vnjom ~ luuvnjom      </p>
+      <p id="2">luvnjođ  lu'vnjom ~ luvnjođ luuvnjom      </p>
       <p id="3">luvnjođ</p>
       <p id="4">häilyä</p>
       <p id="5"/>
@@ -23535,7 +23535,7 @@
    </e>
    <e id="2774">
       <p id="1">häkki</p>
-      <p id="2">hekki  heehi~heeki      </p>
+      <p id="2">hekki  heehi ~hekki heeki      </p>
       <p id="3">hekki</p>
       <p id="4">häkki</p>
       <p id="5"/>
@@ -24640,7 +24640,7 @@
    </e>
    <e id="2919">
       <p id="1" tt_auto="Pulex irritans">ihmiskirppu</p>
-      <p id="2">suámsur  suám'ssur~suám'sur      </p>
+      <p id="2">suámsur  suám'ssur ~suámsur suám'sur      </p>
       <p id="3">suámsur</p>
       <p id="4">ihmis</p>
       <p id="5"/>
@@ -25433,7 +25433,7 @@
    </e>
    <e id="3010">
       <p id="1">ilmarakko</p>
-      <p id="2">kooppâin~kooppânj  kopânjeh      </p>
+      <p id="2">kooppâin kopânjeh ~kooppânj  kopânjeh      </p>
       <p id="3">kooppâin~kooppânj</p>
       <p id="4">ilma</p>
       <p id="5"/>
@@ -25758,7 +25758,7 @@
    </e>
    <e id="3049">
       <p id="1">ilotulitus</p>
-      <p id="2">raketij ~ ragetij pääččim        </p>
+      <p id="2">raketij pääččim~ ragetij pääččim        </p>
       <p id="3">raketij ~ ragetij </p>
       <p id="4">ilo</p>
       <p id="5"/>
@@ -29489,7 +29489,7 @@
    </e>
    <e id="3489">
       <p id="1">jollen</p>
-      <p id="2">jis~jos jiem        </p>
+      <p id="2" mwe="y">jis jiem ~jos jiem        </p>
       <p id="3">jis~jos jiem</p>
       <p id="4">jollen</p>
       <p id="5"/>
@@ -31309,7 +31309,7 @@
    </e>
    <e id="3731">
       <p id="1">jäljellä</p>
-      <p id="2">(vain yksi on jäljellä) tuš ohtâ lii pááccám ~ väldihánnáá ~ tuálvuhánnáá        </p>
+      <p id="2">(vain yksi on jäljellä) tuš ohtâ lii pááccám ~ tuš ohtâ lii väldihánnáá ~ tuš ohtâ lii tuálvuhánnáá        </p>
       <p id="3">(vain yksi on jäljellä) tuš ohtâ lii pááccám ~ väldihánnáá ~ tuálvuhánnáá</p>
       <p id="4">jäljellä</p>
       <p id="5"/>
@@ -32960,7 +32960,7 @@
    </e>
    <e id="3934">
       <p id="1" r1_par="(esim. puita)">kaadattaa</p>
-      <p id="2">čuo'pâttiđ  čuopât~čuoppât      </p>
+      <p id="2">čuo'pâttiđ  čuopât~ čuo'pâttiđ čuoppât      </p>
       <p id="3">čuo'pâttiđ</p>
       <p id="4">kaadattaa</p>
       <p id="5"/>
@@ -33077,7 +33077,7 @@
    </e>
    <e id="3948">
       <p id="1">kaaos</p>
-      <p id="2">moive  mooive ~ mo'ive      </p>
+      <p id="2">moive  mooive ~ moive mo'ive      </p>
       <p id="3">moive</p>
       <p id="4">kaaos</p>
       <p id="5"/>
@@ -34247,7 +34247,7 @@
    </e>
    <e id="4081">
       <p id="1">kaksinaamainen</p>
-      <p id="2">kyeh'tilâš  kyeh'tiláá~kyeh'tilii      </p>
+      <p id="2">kyeh'tilâš  kyeh'tiláá ~kyeh'tilâš kyeh'tilii      </p>
       <p id="3">kyeh'tilâš</p>
       <p id="4">kaksi</p>
       <p id="5"/>
@@ -34832,7 +34832,7 @@
    </e>
    <e id="4149">
       <p id="1" r1_par="(kenkä)">kallokas</p>
-      <p id="2">káálluh~kálluh  kálluheh      </p>
+      <p id="2">káálluh kálluheh ~kálluh  kálluheh      </p>
       <p id="3">káálluh~kálluh</p>
       <p id="4">kallokas</p>
       <p id="5"/>
@@ -35287,7 +35287,7 @@
    </e>
    <e id="4192">
       <p id="1">kana</p>
-      <p id="2">kääNi  kääni ~ käne      </p>
+      <p id="2">kääNi  kääni ~kääNi käne      </p>
       <p id="3">kääNi</p>
       <p id="4">kana</p>
       <p id="5"/>
@@ -36392,7 +36392,7 @@
    </e>
    <e id="4307">
       <p id="1">kantohanki</p>
-      <p id="2">cuáŋui ~ cuá'ŋoi  cuoŋ'ŋuu      </p>
+      <p id="2">cuáŋui cuoŋ'ŋuu ~ cuá'ŋoi  cuoŋ'ŋuu      </p>
       <p id="3">cuáŋui ~ cuá'ŋoi</p>
       <p id="4">kanto</p>
       <p id="5"/>
@@ -36990,7 +36990,7 @@
    </e>
    <e id="4381">
       <p id="1">karsia</p>
-      <p id="2">karsâđ~karssâđ  kaarsâm      </p>
+      <p id="2">karsâđ kaarsâm ~karssâđ  kaarsâm      </p>
       <p id="3">karsâđ~karssâđ</p>
       <p id="4">karsia</p>
       <p id="5"/>
@@ -38641,7 +38641,7 @@
    </e>
    <e id="4565">
       <p id="1" r1_par="(ei urh.)">kaukalo</p>
-      <p id="2">kääRi  kääri ~ käre      </p>
+      <p id="2">kääRi  kääri ~kääRi käre      </p>
       <p id="3">kääRi</p>
       <p id="4">kaukalo</p>
       <p id="5"/>
@@ -38784,7 +38784,7 @@
    </e>
    <e id="4576">
       <p id="1">kaula</p>
-      <p id="2">čeve  čiäp'pát~čiäp'pât      </p>
+      <p id="2">čeve  čiäp'pát ~čeve čiäp'pât      </p>
       <p id="3">čeve</p>
       <p id="4">kaula</p>
       <p id="5"/>
@@ -39564,7 +39564,7 @@
    </e>
    <e id="4658">
       <p id="1">kehitellä</p>
-      <p id="2">o'vdediđ  oovded~ovdeed      </p>
+      <p id="2">o'vdediđ  oovded ~o'vdediđ ovdeed      </p>
       <p id="3">o'vdediđ</p>
       <p id="4">kehitellä</p>
       <p id="5"/>
@@ -39616,7 +39616,7 @@
    </e>
    <e id="4663">
       <p id="1">kehittää</p>
-      <p id="2">o'vdediđ  oovded~ovdeed      </p>
+      <p id="2">o'vdediđ  oovded ~o'vdediđ ovdeed      </p>
       <p id="3">o'vdediđ</p>
       <p id="4">kehittää</p>
       <p id="5"/>
@@ -45947,7 +45947,7 @@
    </e>
    <e id="5385">
       <p id="1" r1_par="(ihmisen, koiran, linnun)">kirppu</p>
-      <p id="2">suámsur  suám'ssur~suám'sur      </p>
+      <p id="2">suámsur  suám'ssur ~suámsur suám'sur      </p>
       <p id="3">suámsur</p>
       <p id="4">kirppu</p>
       <p id="5"/>
@@ -47351,7 +47351,7 @@
    </e>
    <e id="5553">
       <p id="1" tt_auto="Monopsyllus sciurorum">koirankirppu</p>
-      <p id="2">suámsur  suám'ssur~suám'sur      </p>
+      <p id="2">suámsur  suám'ssur ~suámsur suám'sur      </p>
       <p id="3">suámsur</p>
       <p id="4">koiran</p>
       <p id="5"/>
@@ -48274,7 +48274,7 @@
    </e>
    <e id="5656">
       <p id="1">kolmonen</p>
-      <p id="2">kuulmâš~kuulmiš  kulmii      </p>
+      <p id="2">kuulmâš kulmii ~kuulmiš  kulmii      </p>
       <p id="3">kuulmâš~kuulmiš</p>
       <p id="4">kolmonen</p>
       <p id="5"/>
@@ -51382,7 +51382,7 @@
    </e>
    <e id="6027">
       <p id="1">kukaan</p>
-      <p id="2">kihheen  kiännán~kiännân      </p>
+      <p id="2">kihheen  kiännán ~kihheen kiännân      </p>
       <p id="3">kihheen</p>
       <p id="4">kukaan</p>
       <p id="5"/>
@@ -51460,7 +51460,7 @@
    </e>
    <e id="6036">
       <p id="1">kukkaro</p>
-      <p id="2">pursâ~purssâ  puursâ      </p>
+      <p id="2">pursâ puursâ ~purssâ  puursâ      </p>
       <p id="3">pursâ~purssâ</p>
       <p id="4">kukkaro</p>
       <p id="5"/>
@@ -51538,7 +51538,7 @@
    </e>
    <e id="6046">
       <p id="1">kuksa</p>
-      <p id="2">kukse  kuuvse ~ ku'vse      </p>
+      <p id="2">kukse  kuuvse ~kukse ku'vse      </p>
       <p id="3">kukse</p>
       <p id="4">kuksa</p>
       <p id="5"/>
@@ -54983,7 +54983,7 @@
    </e>
    <e id="6437">
       <p id="1">kuutonen</p>
-      <p id="2">kuuđâš~kuuđiš  kuuđii      </p>
+      <p id="2">kuuđâš kuuđii ~kuuđiš  kuuđii      </p>
       <p id="3">kuuđâš~kuuđiš</p>
       <p id="4">kuutonen</p>
       <p id="5"/>
@@ -56868,7 +56868,7 @@
    </e>
    <e id="6675">
       <p id="1">kävelyreitti</p>
-      <p id="2">vázáttâh~vázáttuh~vázáttoh  vázáttuv      </p>
+      <p id="2">vázáttâh vázáttuv ~vázáttuh vázáttuv ~vázáttoh  vázáttuv      </p>
       <p id="3">vázáttâh~vázáttuh~vázáttoh</p>
       <p id="4">kävely</p>
       <p id="5"/>
@@ -58987,7 +58987,7 @@
    </e>
    <e id="6926">
       <p id="1" tt_auto="Rubus chamaemorus">lakka</p>
-      <p id="2">lye'me  luámmán~luám'mán~luám'mân       </p>
+      <p id="2">lye'me  luámmán ~lye'me luám'mán ~lye'me luám'mân       </p>
       <p id="3">lye'me</p>
       <p id="4">lakka</p>
       <p id="5"/>
@@ -59247,7 +59247,7 @@
    </e>
    <e id="6954">
       <p id="1">lana</p>
-      <p id="2">lääNi  lääni ~ läne      </p>
+      <p id="2">lääNi  lääni ~ lääNi läne      </p>
       <p id="3">lääNi</p>
       <p id="4">lana</p>
       <p id="5"/>
@@ -60768,7 +60768,7 @@
    </e>
    <e id="7135">
       <p id="1" tt_auto="Tabanus bovihus">lehmänpaarma</p>
-      <p id="2">puárui ~ puá'roi  porruu      </p>
+      <p id="2">puárui porruu ~ puá'roi  porruu      </p>
       <p id="3">puárui ~ puá'roi</p>
       <p id="4">lehmän</p>
       <p id="5"/>
@@ -61353,7 +61353,7 @@
    </e>
    <e id="7188">
       <p id="1">leikkauttaa</p>
-      <p id="2">čuo'pâttiđ  čuopât~čuoppât      </p>
+      <p id="2">čuo'pâttiđ  čuopât~ čuo'pâttiđ čuoppât      </p>
       <p id="3">čuo'pâttiđ</p>
       <p id="4">leikkauttaa</p>
       <p id="5"/>
@@ -62146,7 +62146,7 @@
    </e>
    <e id="7272">
       <p id="1">lepo</p>
-      <p id="2">liäpu  liävu ~ liä'vo      </p>
+      <p id="2">liäpu  liävu ~liäpu liä'vo      </p>
       <p id="3">liäpu</p>
       <p id="4">lepo</p>
       <p id="5"/>
@@ -63006,7 +63006,7 @@
    </e>
    <e id="7371">
       <p id="1">lihasseinämä</p>
-      <p id="2">njárččá  njáárčá ~ njá'rčá      </p>
+      <p id="2">njárččá  njáárčá ~ njárččá njá'rčá      </p>
       <p id="3">njárččá</p>
       <p id="4">lihas</p>
       <p id="5"/>
@@ -66895,7 +66895,7 @@
    </e>
    <e id="7823">
       <p id="1">luuta</p>
-      <p id="2">luvdá  lu'vdá ~ luuvdá      </p>
+      <p id="2">luvdá  lu'vdá ~ luvdá luuvdá      </p>
       <p id="3">luvdá</p>
       <p id="4">luuta</p>
       <p id="5"/>
@@ -68091,7 +68091,7 @@
    </e>
    <e id="7966">
       <p id="1">läävä</p>
-      <p id="2">puvre  puuvre ~ pu'vre      </p>
+      <p id="2">puvre  puuvre ~ puvre pu'vre      </p>
       <p id="3">puvre</p>
       <p id="4">läävä</p>
       <p id="5"/>
@@ -76619,7 +76619,7 @@
    </e>
    <e id="8937">
       <p id="1">napero</p>
-      <p id="2">puicce  puuice ~ pu'ice      </p>
+      <p id="2">puicce  puuice ~ puicce pu'ice      </p>
       <p id="3">puicce</p>
       <p id="4">napero</p>
       <p id="5"/>
@@ -79960,7 +79960,7 @@
    </e>
    <e id="9319">
       <p id="1">nykyinen</p>
-      <p id="2">táálááš~tááláš  tááláá      </p>
+      <p id="2">táálááš tááláá ~tááláš  tááláá      </p>
       <p id="3">táálááš~tááláš</p>
       <p id="4">nykyinen</p>
       <p id="5"/>
@@ -81546,7 +81546,7 @@
    </e>
    <e id="9511">
       <p id="1">olas</p>
-      <p id="2">uá'les~uá'lis ~ uális  uállás      </p>
+      <p id="2">uá'les uállás ~uá'lis uállás ~ uális  uállás      </p>
       <p id="3">uá'les~uá'lis ~ uális</p>
       <p id="4">olas</p>
       <p id="5"/>
@@ -83392,7 +83392,7 @@
    </e>
    <e id="9723">
       <p id="1">paarma</p>
-      <p id="2">puárui ~ puá'roi  porruu      </p>
+      <p id="2">puárui porruu ~ puá'roi  porruu      </p>
       <p id="3">puárui ~ puá'roi</p>
       <p id="4">paarma</p>
       <p id="5"/>
@@ -84185,7 +84185,7 @@
    </e>
    <e id="9821">
       <p id="1">paise</p>
-      <p id="2">puáVui  pohhuu ~ puoh'huu      </p>
+      <p id="2">puáVui  pohhuu ~puáVui puoh'huu      </p>
       <p id="3">puáVui</p>
       <p id="4">paise</p>
       <p id="5"/>
@@ -85498,7 +85498,7 @@
    </e>
    <e id="9966">
       <p id="1" r1_par="(iso routamätäs)">palsa</p>
-      <p id="2">polsâ~polssâ  poolsâ      </p>
+      <p id="2">polsâ poolsâ ~polssâ  poolsâ      </p>
       <p id="3">polsâ~polssâ</p>
       <p id="4">palsa</p>
       <p id="5"/>
@@ -85992,7 +85992,7 @@
    </e>
    <e id="10016">
       <p id="1">paperi</p>
-      <p id="2">pááppár~pááppâr~páppár~páppâr ~ päävir páppár        </p>
+      <p id="2">päävir pááppár pápáreh , pááppár~pááppâr~páppár~páppâr      </p>
       <p id="3">pááppár~pááppâr~páppár~páppâr ~ päävir páppár</p>
       <p id="4">paperi</p>
       <p id="5"/>
@@ -86590,7 +86590,7 @@
    </e>
    <e id="10084">
       <p id="1">pata</p>
-      <p id="2">pääti  pääđi ~ päđe      </p>
+      <p id="2">pääti  pääđi ~ pääti päđe      </p>
       <p id="3">pääti</p>
       <p id="4">pata</p>
       <p id="5"/>
@@ -88553,7 +88553,7 @@
    </e>
    <e id="10316">
       <p id="1">pesettää</p>
-      <p id="2">posâttiđ  poosât~poossât      </p>
+      <p id="2">posâttiđ  poosât ~posâttiđ poossât      </p>
       <p id="3">posâttiđ</p>
       <p id="4">pesettää</p>
       <p id="5"/>
@@ -89047,7 +89047,7 @@
    </e>
    <e id="10370">
       <p id="1">peuravaadin</p>
-      <p id="2">kiävááš~kiäváš  kiäváá      </p>
+      <p id="2">kiävááš kiäváá ~kiäváš  kiäváá      </p>
       <p id="3">kiävááš~kiäváš</p>
       <p id="4">peura</p>
       <p id="5"/>
@@ -89164,7 +89164,7 @@
    </e>
    <e id="10387">
       <p id="1" tt_auto="Buteo lagopus">piekana</p>
-      <p id="2">piehâin~piehânj  pie'hânjeh      </p>
+      <p id="2">piehâin pie'hânjeh ~piehânj  pie'hânjeh      </p>
       <p id="3">piehâin~piehânj</p>
       <p id="4">piekana</p>
       <p id="5"/>
@@ -89190,7 +89190,7 @@
    </e>
    <e id="10391">
       <p id="1">pieli</p>
-      <p id="2">peles  piäl'lá~piäl'lás      </p>
+      <p id="2">peles  piäl'lá ~ peles piäl'lás      </p>
       <p id="3">peles</p>
       <p id="4">pieli</p>
       <p id="5"/>
@@ -91504,7 +91504,7 @@
    </e>
    <e id="10660">
       <p id="1">pitkulainen</p>
-      <p id="2">kuheldâlâš~kuhendâlâš        </p>
+      <p id="2">kuheldâlâš ~kuhendâlâš        </p>
       <p id="3">kuheldâlâš~kuhendâlâš</p>
       <p id="4">pitkulainen</p>
       <p id="5"/>
@@ -94274,7 +94274,7 @@
    </e>
    <e id="10977">
       <p id="1">puhdas</p>
-      <p id="2">putes  puttás~puttá      </p>
+      <p id="2">putes  puttás ~putes puttá      </p>
       <p id="3">putes</p>
       <p id="4">puhdas</p>
       <p id="5"/>
@@ -94326,7 +94326,7 @@
    </e>
    <e id="10984">
       <p id="1">puheensorina</p>
-      <p id="2">hullân~huullân        </p>
+      <p id="2">hullân ~huullân        </p>
       <p id="3">hullân~huullân</p>
       <p id="4">puheen</p>
       <p id="5"/>
@@ -96107,7 +96107,7 @@
    </e>
    <e id="11186">
       <p id="1" tt_auto="Philonotus fontana">purolähdesammal</p>
-      <p id="2">njuárui ~ njuá'roi  njuor'ruu      </p>
+      <p id="2">njuárui njuor'ruu ~ njuá'roi  njuor'ruu      </p>
       <p id="3">njuárui ~ njuá'roi</p>
       <p id="4">puro</p>
       <p id="5"/>
@@ -96536,7 +96536,7 @@
    </e>
    <e id="11234">
       <p id="1">puukaukalo</p>
-      <p id="2">kääRi  kääri ~ käre      </p>
+      <p id="2">kääRi  kääri ~kääRi käre      </p>
       <p id="3">kääRi</p>
       <p id="4">puu</p>
       <p id="5"/>
@@ -96666,7 +96666,7 @@
    </e>
    <e id="11247">
       <p id="1">puura</p>
-      <p id="2">puvre  puuvre ~ pu'vre      </p>
+      <p id="2">puvre  puuvre ~puvre pu'vre      </p>
       <p id="3">puvre</p>
       <p id="4">puura</p>
       <p id="5"/>
@@ -97173,7 +97173,7 @@
    </e>
    <e id="11305">
       <p id="1">pyrähtää lentoon</p>
-      <p id="2">ropâgyet'tiđ  ropâguá'đám ropâguá't~ropâguá'tá      </p>
+      <p id="2">ropâgyet'tiđ  ropâguá'đám ropâguá't ~ropâgyet'tiđ  ropâguá'đám ropâguá'tá      </p>
       <p id="3">ropâgyet'tiđ</p>
       <p id="4">pyrähtää</p>
       <p id="5"/>
@@ -97927,7 +97927,7 @@
    </e>
    <e id="11413">
       <p id="1" r1_par="(suksessa)">päläs</p>
-      <p id="2">peeđŋis~pieđŋis  piäđ'ŋá      </p>
+      <p id="2">peeđŋis piäđ'ŋá ~pieđŋis  piäđ'ŋá      </p>
       <p id="3">peeđŋis~pieđŋis</p>
       <p id="4">päläs</p>
       <p id="5"/>
@@ -98369,7 +98369,7 @@
    </e>
    <e id="11470">
       <p id="1">pääsky</p>
-      <p id="2">spáálváš~spáálvâš  spálváá      </p>
+      <p id="2">spáálváš spálváá ~spáálvâš  spálváá      </p>
       <p id="3">spáálváš~spáálvâš</p>
       <p id="4">pääsky</p>
       <p id="5"/>
@@ -98915,7 +98915,7 @@
    </e>
    <e id="11534">
       <p id="1">pötsinsisältö</p>
-      <p id="2">kuá'moi~kuámui  kuom'muu      </p>
+      <p id="2">kuá'moi kuom'muu ~kuámui  kuom'muu      </p>
       <p id="3">kuá'moi~kuámui</p>
       <p id="4">pötsin</p>
       <p id="5"/>
@@ -99279,7 +99279,7 @@
    </e>
    <e id="11572">
       <p id="1" tt_auto="Menyanthes trifoliata">raate</p>
-      <p id="2">muáskáš  muás'káš  ~ muáskâš muás'kâš    </p>
+      <p id="2">muáskáš  muás'káš        </p>
       <p id="3">muáskáš</p>
       <p id="4">raate</p>
       <p id="5">~ muáskâš muás'kâš</p>
@@ -101073,7 +101073,7 @@
    </e>
    <e id="11754">
       <p id="1">rapa</p>
-      <p id="2">kuá'moi ~ kuámui  kuom'muu      </p>
+      <p id="2">kuá'moi kuom'muu ~ kuámui  kuom'muu      </p>
       <p id="3">kuá'moi ~ kuámui</p>
       <p id="4">rapa</p>
       <p id="5"/>
@@ -102633,7 +102633,7 @@
    </e>
    <e id="11932">
       <p id="1" r1_par="(verkakaistaleilla)">reunustaa</p>
-      <p id="2">njá'lmádiđ  njáálmád~njáálmâd      </p>
+      <p id="2">njá'lmádiđ  njáálmád ~njá'lmádiđ njáálmâd      </p>
       <p id="3">njá'lmádiđ</p>
       <p id="4">reunustaa</p>
       <p id="5"/>
@@ -102685,7 +102685,7 @@
    </e>
    <e id="11937">
       <p id="1">revähdys</p>
-      <p id="2">iät'kálem~iät'kálim        </p>
+      <p id="2">iät'kálem ~iät'kálim        </p>
       <p id="3">iät'kálem~iät'kálim</p>
       <p id="4">revähdys</p>
       <p id="5"/>
@@ -103322,7 +103322,7 @@
    </e>
    <e id="12016">
       <p id="1">rikos</p>
-      <p id="2">rikos  rikkos~rikkoos      </p>
+      <p id="2">rikos  rikkos ~rikos rikkoos      </p>
       <p id="3">rikos</p>
       <p id="4">rikos</p>
       <p id="5"/>
@@ -103829,7 +103829,7 @@
    </e>
    <e id="12075">
       <p id="1" r1_par="(kolmijalkainen, puinen)">ripustusteline</p>
-      <p id="2">syenjir~syennjir        </p>
+      <p id="2">syenjir ~syennjir        </p>
       <p id="3">syenjir~syennjir</p>
       <p id="4">ripustus</p>
       <p id="5"/>
@@ -104181,7 +104181,7 @@
    </e>
    <e id="12111">
       <p id="1">risumerta</p>
-      <p id="2">lääNi  lääni ~ läne      </p>
+      <p id="2">lääNi  lääni ~lääNi läne      </p>
       <p id="3">lääNi</p>
       <p id="4">risu</p>
       <p id="5"/>
@@ -104649,7 +104649,7 @@
    </e>
    <e id="12169">
       <p id="1">rotu</p>
-      <p id="2">nääLi  nääli ~ näle      </p>
+      <p id="2">nääLi  nääli ~nääLi näle      </p>
       <p id="3">nääLi</p>
       <p id="4">rotu</p>
       <p id="5"/>
@@ -107314,7 +107314,7 @@
    </e>
    <e id="12442">
       <p id="1">rähjä</p>
-      <p id="2">ruátu  ruáđu ~ ruá'đo      </p>
+      <p id="2">ruátu  ruáđu ~ruátu ruá'đo      </p>
       <p id="3">ruátu</p>
       <p id="4">rähjä</p>
       <p id="5"/>
@@ -107717,7 +107717,7 @@
    </e>
    <e id="12486">
       <p id="1" tt_auto="Delichon urbica">räystäspääsky</p>
-      <p id="2">spáálváš~spáálvâš  spálváá      </p>
+      <p id="2">spáálváš spálváá ~spáálvâš  spálváá      </p>
       <p id="3">spáálváš~spáálvâš</p>
       <p id="4">räystäs</p>
       <p id="5"/>
@@ -107952,7 +107952,7 @@
    </e>
    <e id="12509">
       <p id="1">röyhtäistä</p>
-      <p id="2">revviittiđ~revvittiđ  reevvit  ~ rävvittiđ räävvit    </p>
+      <p id="2">revviittiđ reevvit ~revvittiđ  reevvit  ~ rävvittiđ räävvit    </p>
       <p id="3">revviittiđ~revvittiđ</p>
       <p id="4">röyhtäistä</p>
       <p id="5">~ rävvittiđ räävvit</p>
@@ -109669,7 +109669,7 @@
    </e>
    <e id="12708">
       <p id="1">sanontatapa</p>
-      <p id="2">kuod'duustâh~kuod'duustoh~kuod'duustuh  kuod'duustuv      </p>
+      <p id="2">kuod'duustâh kuod'duustuv ~kuod'duustoh kuod'duustuv ~kuod'duustuh  kuod'duustuv      </p>
       <p id="3">kuod'duustâh~kuod'duustoh~kuod'duustuh</p>
       <p id="4">sanonta</p>
       <p id="5"/>
@@ -110644,7 +110644,7 @@
    </e>
    <e id="12819">
       <p id="1">seikka</p>
-      <p id="2">äšši  ääŠi~ääši      </p>
+      <p id="2">äšši  ääŠi ~äšši ääši      </p>
       <p id="3">äšši</p>
       <p id="4">seikka</p>
       <p id="5"/>
@@ -111125,7 +111125,7 @@
    </e>
    <e id="12863">
       <p id="1">sekasorto</p>
-      <p id="2">moive  mooive ~ mo'ive      </p>
+      <p id="2">moive  mooive ~moive mo'ive      </p>
       <p id="3">moive</p>
       <p id="4">seka</p>
       <p id="5"/>
@@ -112269,7 +112269,7 @@
    </e>
    <e id="12998">
       <p id="1">sidenaru</p>
-      <p id="2">čonâstâh~čonâstoh~čonâstuh  čonâstuv      </p>
+      <p id="2">čonâstâh čonâstuv ~čonâstoh čonâstuv ~čonâstuh  čonâstuv      </p>
       <p id="3">čonâstâh~čonâstoh~čonâstuh</p>
       <p id="4">side</p>
       <p id="5"/>
@@ -114479,7 +114479,7 @@
    </e>
    <e id="13258">
       <p id="1" r1_par="(kauniiksi)">sisustaa</p>
-      <p id="2">čiŋâttiđ táálu ~ tálo        </p>
+      <p id="2">čiŋâttiđ táálu ~čiŋâttiđ tálo        </p>
       <p id="3">čiŋâttiđ </p>
       <p id="4">sisustaa</p>
       <p id="5"/>
@@ -116377,7 +116377,7 @@
    </e>
    <e id="13474">
       <p id="1">sota</p>
-      <p id="2">suáti  suáđi ~ suá'đe      </p>
+      <p id="2">suáti  suáđi ~suáti suá'đe      </p>
       <p id="3">suáti</p>
       <p id="4">sota</p>
       <p id="5"/>
@@ -116416,7 +116416,7 @@
    </e>
    <e id="13478">
       <p id="1">sotia</p>
-      <p id="2">soottâđ~sottâđ  soođâm suátá      </p>
+      <p id="2">soottâđ soođâm suátá ~sottâđ  soođâm suátá      </p>
       <p id="3">soottâđ~sottâđ</p>
       <p id="4">sotia</p>
       <p id="5"/>
@@ -118275,7 +118275,7 @@
    </e>
    <e id="13707">
       <p id="1" tt_auto="Rubus chamaemorus">suomuurain</p>
-      <p id="2">lye'me  luámmán~luám'mán~luám'mân       </p>
+      <p id="2">lye'me  luámmán ~lye'me luám'mán ~lye'me luám'mân       </p>
       <p id="3">lye'me</p>
       <p id="4">suo</p>
       <p id="5"/>
@@ -120252,7 +120252,7 @@
    </e>
    <e id="13936">
       <p id="1" r1_par="(maassa t. vedessä)" comma=", -ltä">syvällä</p>
-      <p id="2">jie'Ŋâlâsâst~kie'ŋâlâsâst        </p>
+      <p id="2">jie'Ŋâlâsâst~kie'ŋâlâsâst ~čie'ŋâlâsâst       </p>
       <p id="3">jie'Ŋâlâsâst~kie'ŋâlâsâst</p>
       <p id="4">syvällä, -ltä</p>
       <p id="5"/>
@@ -120304,7 +120304,7 @@
    </e>
    <e id="13946">
       <p id="1">syylä</p>
-      <p id="2">čivle  čiivle ~ či'vle      </p>
+      <p id="2">čivle  čiivle ~čivle  či'vle      </p>
       <p id="3">čivle</p>
       <p id="4">syylä</p>
       <p id="5"/>
@@ -120538,7 +120538,7 @@
    </e>
    <e id="13974">
       <p id="1">syöpymä</p>
-      <p id="2">purâttâh~purâttoh~purâttuh  purâttuv      </p>
+      <p id="2">purâttâh purâttuv ~purâttoh purâttuv ~purâttuh  purâttuv      </p>
       <p id="3">purâttâh~purâttoh~purâttuh</p>
       <p id="4">syöpymä</p>
       <p id="5"/>
@@ -120603,7 +120603,7 @@
    </e>
    <e id="13983">
       <p id="1">syövyttää</p>
-      <p id="2">purrâđ~puurrâđ  puurâm poRá      </p>
+      <p id="2">purrâđ puurâm poRá ~puurrâđ  puurâm poRá      </p>
       <p id="3">purrâđ~puurrâđ</p>
       <p id="4">syövyttää</p>
       <p id="5"/>
@@ -121747,7 +121747,7 @@
    </e>
    <e id="14115">
       <p id="1" r1_par="(porolla)">taakkapuoli</p>
-      <p id="2">käädis  káddás~káddá      </p>
+      <p id="2">käädis  káddás ~käädis káddá      </p>
       <p id="3">käädis</p>
       <p id="4">taakka</p>
       <p id="5"/>
@@ -125271,7 +125271,7 @@
    </e>
    <e id="14525">
       <p id="1">teeskentelijä</p>
-      <p id="2">kyeh'tilâš  kyeh'tiláá ~ kyeh'tilii      </p>
+      <p id="2">kyeh'tilâš  kyeh'tiláá ~kyeh'tilâš kyeh'tilii      </p>
       <p id="3">kyeh'tilâš</p>
       <p id="4">teeskentelijä</p>
       <p id="5"/>
@@ -125518,7 +125518,7 @@
    </e>
    <e id="14556">
       <p id="1" r1_par="(mon.)">tekohampaat</p>
-      <p id="2">tahopäänih ~ päneh  (mon.)      </p>
+      <p id="2">tahopäänih ~ tahopäneh  (mon.)      </p>
       <p id="3">taho</p>
       <p id="4">teko</p>
       <p id="5"/>
@@ -125687,7 +125687,7 @@
    </e>
    <e id="14570">
       <p id="1">tela</p>
-      <p id="2">teeLi  teeli ~ tele      </p>
+      <p id="2">teeLi  teeli ~teeLi tele      </p>
       <p id="3">teeLi</p>
       <p id="4">tela</p>
       <p id="5"/>
@@ -131745,7 +131745,7 @@
    </e>
    <e id="15250">
       <p id="1">tuomio</p>
-      <p id="2">tuáMu  tuámu ~ tuá'mo      </p>
+      <p id="2">tuáMu  tuámu ~tuáMu tuá'mo      </p>
       <p id="3">tuáMu</p>
       <p id="4">tuomio</p>
       <p id="5"/>
@@ -132551,7 +132551,7 @@
    </e>
    <e id="15341">
       <p id="1" r1_par="(pieni)">turvenavetta</p>
-      <p id="2">puvre  puuvre ~ pu'vre      </p>
+      <p id="2">puvre  puuvre ~puvre pu'vre      </p>
       <p id="3">puvre</p>
       <p id="4">turve</p>
       <p id="5"/>
@@ -134749,7 +134749,7 @@
    </e>
    <e id="15586">
       <p id="1" r1_par="(linnun rintaliha)">täkkä</p>
-      <p id="2">peeĐi~peeti  peđe      </p>
+      <p id="2">peeĐi peđe ~peeti  peđe      </p>
       <p id="3">peeĐi~peeti</p>
       <p id="4">täkkä</p>
       <p id="5"/>
@@ -135776,7 +135776,7 @@
    </e>
    <e id="15700">
       <p id="1">uimarakko</p>
-      <p id="2">kooppâin~kooppânj  kopânjeh      </p>
+      <p id="2">kooppâin kopânjeh ~kooppânj  kopânjeh      </p>
       <p id="3">kooppâin~kooppânj</p>
       <p id="4">uima</p>
       <p id="5"/>
@@ -139261,7 +139261,7 @@
    </e>
    <e id="16104">
       <p id="1">valas</p>
-      <p id="2">välis~väälis  vállá  ~ fälis~fäälis fállá    </p>
+      <p id="2">välis vállá ~väälis  vállá  ~ fälis fállá ~fäälis fállá    </p>
       <p id="3">välis~väälis</p>
       <p id="4">valas</p>
       <p id="5">~ fälis~fäälis fállá</p>
@@ -141926,7 +141926,7 @@
    </e>
    <e id="16380">
       <p id="1">varsa</p>
-      <p id="2">vársá  vá'rsá ~ váársá      </p>
+      <p id="2">vársá  vá'rsá ~vársá váársá      </p>
       <p id="3">vársá</p>
       <p id="4">varsa</p>
       <p id="5"/>
@@ -142186,7 +142186,7 @@
    </e>
    <e id="16413">
       <p id="1">vasikannahka</p>
-      <p id="2">kálbádâh~kálbádoh~kálbáduh  kálbáduv      </p>
+      <p id="2">kálbádâh kálbáduv ~kálbádoh kálbáduv ~kálbáduh  kálbáduv      </p>
       <p id="3">kálbádâh~kálbádoh~kálbáduh</p>
       <p id="4">vasikan</p>
       <p id="5"/>
@@ -143473,7 +143473,7 @@
    </e>
    <e id="16556">
       <p id="1">velli</p>
-      <p id="2">määLi  määli ~ mäle      </p>
+      <p id="2">määLi  määli ~määLi mäle      </p>
       <p id="3">määLi</p>
       <p id="4">velli</p>
       <p id="5"/>
@@ -144110,7 +144110,7 @@
    </e>
    <e id="16627">
       <p id="1" r1_par="(verkon havas)">verkkoliina</p>
-      <p id="2">čuáLi  čuáli ~ čuá'le čoolijd      </p>
+      <p id="2">čuáLi  čuáli čoolijd ~čuáLi čuá'le čoolijd      </p>
       <p id="3">čuáLi</p>
       <p id="4">verkko</p>
       <p id="5"/>
@@ -146164,7 +146164,7 @@
    </e>
    <e id="16847">
       <p id="1">vihi</p>
-      <p id="2">onnâ~ooNâ  oonâ      </p>
+      <p id="2">onnâ oonâ ~ooNâ  oonâ      </p>
       <p id="3">onnâ~ooNâ</p>
       <p id="4">vihi</p>
       <p id="5"/>
@@ -146892,7 +146892,7 @@
    </e>
    <e id="16930">
       <p id="1">viisastua</p>
-      <p id="2">vijsođ ~ vijssođ  viijsom      </p>
+      <p id="2">vijsođ viijsom ~ vijssođ  viijsom      </p>
       <p id="3">vijsođ ~ vijssođ</p>
       <p id="4">viisastua</p>
       <p id="5"/>
@@ -147815,7 +147815,7 @@
    </e>
    <e id="17028">
       <p id="1">vinkki</p>
-      <p id="2">onnâ~ooNâ  oonâ      </p>
+      <p id="2">onnâ oonâ ~ooNâ  oonâ      </p>
       <p id="3">onnâ~ooNâ</p>
       <p id="4">vinkki</p>
       <p id="5"/>
@@ -150701,7 +150701,7 @@
    </e>
    <e id="17330">
       <p id="1">väistyä</p>
-      <p id="2">čahhiđ~čaahhiđ  čahhiim čähhee      </p>
+      <p id="2">čahhiđ čahhiim čähhee ~čaahhiđ  čahhiim čähhee      </p>
       <p id="3">čahhiđ~čaahhiđ</p>
       <p id="4">väistyä</p>
       <p id="5"/>
@@ -150883,7 +150883,7 @@
    </e>
    <e id="17350">
       <p id="1" r1_par="(esim. ongessa t. atraimessa)">väkänen</p>
-      <p id="2">áŋáldoh~áŋálduh~áŋáldâh  áŋálduv      </p>
+      <p id="2">áŋáldoh áŋálduv ~áŋálduh áŋálduv ~áŋáldâh  áŋálduv      </p>
       <p id="3">áŋáldoh~áŋálduh~áŋáldâh</p>
       <p id="4">väkänen</p>
       <p id="5"/>

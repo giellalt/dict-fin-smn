@@ -10313,10 +10313,10 @@
    </e>
    <e id="4956">
       <p id="1">kesäinen</p>
-      <p id="2">kiäs'sáá  # -s,  -kesäinen -kiäsáš    </p>
+      <p id="2">kiäs'sáá  # -s,  (-kesäinen) -kiäsáš    </p>
       <p id="3">kiäs'sáá</p>
       <p id="4">kesäinen</p>
-      <p id="5">-kesäinen -kiäsáš</p>
+      <p id="5">(-kesäinen) -kiäsáš</p>
       <p id="6"/>
       <p id="7"/>
       <p id="8"/>
@@ -24184,10 +24184,10 @@
    </e>
    <e id="12880">
       <p id="1">sekä ... että</p>
-      <p id="2">sehe - já,    sehe - ete    </p>
-      <p id="3">sehe - já,</p>
-      <p id="4">sekä -</p>
-      <p id="5">sehe - ete</p>
+      <p id="2">sehe ... já,    sehe ... ete    </p>
+      <p id="3">sehe ... já,</p>
+      <p id="4">sekä ...</p>
+      <p id="5">sehe ... ete</p>
       <p id="6"/>
       <p id="7"/>
       <p id="8"> että</p>

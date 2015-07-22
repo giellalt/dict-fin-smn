@@ -1061,7 +1061,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">iä'náá</t>
+            <t pos="">iä'náá</t> check
             <t pos="">enâmus</t>
          </tg>
       </mg>
@@ -1224,7 +1224,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">erakko</t>
+            <t pos="">erakko</t> check
             <t pos="">ohtuunisorroo</t>
             <t pos="">sie'Rânisorroo</t>
          </tg>
@@ -2165,7 +2165,7 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="" syn_dash="-luhottesvuođâ">sorvâluhottesvuotâ</t>
-            <t pos="">sorvâkolari</t>
+            <t pos="">sorvâkoolaar</t> C
          </tg>
       </mg>
    </e>
@@ -2615,7 +2615,7 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="">a'lmottâs</t>
-            <t pos="">a'lmottus</t>
+            <t pos="">a'lmottus</t> tilde
          </tg>
       </mg>
    </e>
@@ -2637,7 +2637,7 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="" syn_dash="-kielâ">aanaarkieLâ</t>
-            <t pos="" syn_dash="-kielâ">aanaarsämikieLâ</t>
+            <t pos="" syn_dash="-kielâ">aanaarsämikieLâ</t> check
          </tg>
       </mg>
    </e>
@@ -2658,7 +2658,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">inuk</t>
+            <t pos="">inuk</t> check
             <t pos="" r_par="mon.">inuiteh</t>
          </tg>
       </mg>
@@ -3459,7 +3459,7 @@
          <tg xml:lang="smn">
             <t pos="" syn_dash="-mudo">jiäŋŋummuddo</t>
             <t pos="" syn_dash="-čuág'gá">jiäŋŋumčyegis</t>
-            <t pos="" syn_dash="-čuá'gástuv">jiäŋŋumčuá'gástuh</t>
+            <t pos="" syn_dash="-čuá'gástuv">jiäŋŋumčuá'gástuh</t> check
          </tg>
       </mg>
    </e>
@@ -4201,7 +4201,7 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="" attr="# -s">kiäs'sáá</t>
-            <t pos="" syn_dash="-kiäsáš">-kesäinen</t>
+            <t pos="" syn_dash="-kiäsáš">-kesäinen</t> fix
          </tg>
       </mg>
    </e>
@@ -4548,7 +4548,7 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="">keččâlâs</t>
-            <t pos="">keččâlus</t>
+            <t pos="">keččâlus</t> tilde
             <t pos="">táávguh</t>
          </tg>
       </mg>
@@ -4773,7 +4773,7 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="" attr="# koRâdis">koorrâd</t>
-            <t pos="" attr="# koRis">korrâd</t>
+            <t pos="" attr="# koRis">korrâd</t> tilde
          </tg>
       </mg>
    </e>
@@ -4817,7 +4817,7 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="">aLodâh</t>
-            <t_tld>~aLodoh~aLoduh aLoduv</t_tld>
+            <t_tld>~aLodoh~aLoduh aLoduv</t_tld> fix
             <t pos="" syn_dash="-vuođâ">olluvvuotâ</t>
          </tg>
       </mg>
@@ -4979,7 +4979,7 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="">culijdijjee</t>
-            <t pos="">culijdeijee</t>
+            <t pos="">culijdeijee</t> tilde
          </tg>
       </mg>
    </e>
@@ -5518,7 +5518,7 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="">ibbeerdmáttum</t>
-            <t pos="">ibbeerdmettum</t>
+            <t pos="">ibbeerdmettum</t> tilde
          </tg>
       </mg>
    </e>
@@ -5799,7 +5799,7 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="" syn_dash="-tuol'bâs">smákkutuolbâs</t>
-            <t pos="" syn_dash="-tuál'bus">smákkutuálbus</t>
+            <t pos="" syn_dash="-tuál'bus">smákkutuálbus</t> tilde
             <t pos="" syn_dash="-tuál'bus">vuo'lâttâstuálbus</t>
          </tg>
       </mg>
@@ -7014,7 +7014,7 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="">tuá'pánjâš</t>
-            <t_tld>~tuá'pánjâs tuá'pánjáá</t_tld>
+            <t_tld>~tuá'pánjâs tuá'pánjáá</t_tld> fix
             <t pos="">tuá'pulâs</t>
          </tg>
       </mg>
@@ -7749,6 +7749,7 @@
          <tg xml:lang="smn">
             <t pos="" syn_dash="-kielâ">orjâlâškieLâ</t>
             <t pos="" syn_dash="-kielâ">paJekieLâ</t>
+            <t pos="" syn_dash="-kielâ">tavesämikieLâ</t> ADD
          </tg>
       </mg>
    </e>
@@ -7893,7 +7894,7 @@
          <tg xml:lang="smn">
             <t pos="">pooteens</t>
             <t_tld>~pootens</t_tld>
-            <t pos="">potenssi</t>
+            <t pos="">potenssi</t> check
          </tg>
       </mg>
    </e>
@@ -7936,7 +7937,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">prosessâ</t>
+            <t pos="">prosessâ</t> check
             <t pos="">proosees</t>
          </tg>
       </mg>
@@ -8058,7 +8059,7 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="">pyramiid</t>
-            <t pos="">pyramidi</t>
+            <t pos="">pyramidi</t> check
          </tg>
       </mg>
    </e>
@@ -8228,7 +8229,7 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="">luoštâ</t>
-            <t_tld>~luáštu luoš'tuu</t_tld>
+            <t_tld>~luáštu luoš'tuu</t_tld> fix
             <t pos="">luá'štádâs</t>
          </tg>
       </mg>
@@ -9022,8 +9023,8 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" syn_dash="- já">sehe</t>
-            <t pos="" syn_dash="- ete">sehe</t>
+            <t pos="" syn_dash="- já">sehe</t> fix
+            <t pos="" syn_dash="- ete">sehe</t> fix
          </tg>
       </mg>
    </e>
@@ -9314,7 +9315,7 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="">tuáhunteehin</t>
-            <t_tld>~ tuá'huutehin</t_tld>
+            <t_tld>~ tuá'huntehin</t_tld> C
             <t pos="">setitoho</t>
          </tg>
       </mg>
@@ -10284,7 +10285,7 @@
          <tg xml:lang="smn">
             <t pos="" syn_dash="-riijhâ">ráhtádâsriijkâ</t>
             <t pos="" syn_dash="-riijhâ">rá'htulâšriijkâ</t>
-            <t pos="" syn_dash="-riijhâ">rá'htálâšriijkâ</t>
+            <t pos="" syn_dash="-riijhâ">rá'htálâšriijkâ</t> tilde
          </tg>
       </mg>
    </e>
@@ -10306,9 +10307,9 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="">čuVâstâh</t>
-            <t_tld>~čuVâstoh~čuVâstuh čuVâstuv</t_tld>
+            <t_tld>~čuVâstoh~čuVâstuh čuVâstuv</t_tld> fix
             <t pos="">čuuvâstoh</t>
-            <t_tld>~čuuvâstuh~čuuvâstâh čuuvâstuv</t_tld>
+            <t_tld>~čuuvâstuh~čuuvâstâh čuuvâstuv</t_tld> fix
             <t pos="" syn_dash="-peelji">čuhhumpelji</t>
          </tg>
       </mg>
@@ -11255,6 +11256,7 @@
          <tg xml:lang="smn">
             <t pos="" r_par="mon.">káárvuh</t>
             <t pos="" r_par="mon.">pivoh</t>
+            <t pos="" r_par="mon.">pihtâseh</t> ADD
          </tg>
       </mg>
    </e>
@@ -12229,7 +12231,7 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="" syn_dash="-čuág'gá">o'vtâskâsčyegis</t>
-            <t pos="">detalji</t>
+            <t pos="">detalji</t> check
          </tg>
       </mg>
    </e>

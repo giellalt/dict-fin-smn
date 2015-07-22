@@ -12720,7 +12720,7 @@
       <p id="3">(tiukentaa) čovgâđ</p>
       <p id="4">kiristää</p>
       <p id="5">čovgiđ čovgiim čavgee; (hieman) čovgâliđ, čovgiistiđ čovgist; (hihnaa, siimaa, verkkoa tms.) sogâdiđ sooggâd, soggiđ soggiim suág'gee; (lankoja, naruja tms., pingottaa) sporriđ sporriim spuár'ree; (sauma kaarevaksi esim. kengässä) kuoppâđ kuovâm:</p>
-      <p id="6">(tulla kiristetyksi, tiukennetuksi) čovgâsiđ, čovguđ</p>
+      <p id="6">(tulla kiristetyksi _COMMA_ tiukennetuksi) čovgâsiđ, čovguđ</p>
       <p id="7"/>
       <p id="8"/>
       <p id="9">čoovgâm čavga,</p>
@@ -13483,7 +13483,7 @@
    </e>
    <e id="5619">
       <p id="1">kolauttaa</p>
-      <p id="2">(ääni) kolkkâliđ;(kolautin pääni) mun puŋkkááttim uái'ván; (pääni kolahti jhk) must uái'vi puŋkkái moosnii    (kolkata _COMMA_ kolkata kuoliaaksi) čolkkâliđ; (satuttaa jk jhk) puŋkkáđ puŋkkáám, noigâđ nooigâm; (itsensä jhk) puŋkkááttiđ jiei'jâs; (päänsä jhk) julkkâliđ;  (kolautin pääni) mun puŋkkááttim uái'ván; (pääni kolahti jhk) must uái'vi puŋkkái moosnii  </p>
+      <p id="2">(ääni) kolkkâliđ; (kolautin pääni) mun puŋkkááttim uái'ván _N_; (pääni kolahti jhk) must uái'vi puŋkkái moosnii _N_; (kolkata, kolkata kuoliaaksi) čolkkâliđ; (satuttaa jk jhk) puŋkkáđ puŋkkáám, noigâđ nooigâm; (itsensä jhk) puŋkkááttiđ jiei'jâs _N_; (päänsä jhk) julkkâliđ;  (kolautin pääni) mun puŋkkááttim uái'ván _N_; (pääni kolahti jhk) must uái'vi puŋkkái moosnii _N_</p>
       <p id="3">(ääni) kolkkâliđ;</p>
       <p id="4">kolauttaa</p>
       <p id="5">(kolkata, kolkata kuoliaaksi) čolkkâliđ; (satuttaa jk jhk) puŋkkáđ puŋkkáám, noigâđ nooigâm; (itsensä jhk) puŋkkááttiđ jiei'jâs; (päänsä jhk) julkkâliđ;</p>
@@ -18722,7 +18722,7 @@
    </e>
    <e id="7639">
       <p id="1" r1_par="(nokkiinsa ottanut)">loukkaantunut</p>
-      <p id="2">vá'imuskâddâm,    pahadum, muá'ráttum, njuNádum; (mielensä pahoittanut) nie'vridum  (olla _COMMA_ käyttäytyä loukkaantuneesti) vá'imuskâddâđ  </p>
+      <p id="2">(mielensä pahoittanut) vá'imuskâddâm, pahadum, muá'ráttum, njuNádum, nie'vridum;  (olla, käyttäytyä loukkaantuneesti) vá'imuskâddâđ </p>
       <p id="3">vá'imuskâddâm,</p>
       <p id="4">loukkaantunut</p>
       <p id="5">pahadum, muá'ráttum, njuNádum; (mielensä pahoittanut) nie'vridum</p>
@@ -24585,7 +24585,8 @@
    </e>
    <e id="9884">
       <p id="1">paksu</p>
-      <p id="2">(litteistä esineistä) assaa  # assaas;  (pyöreistä esineistä, ihmisistä, lumesta) kossuv # kossâ; (nahasta) čiäv'đáá # -s, asalâš asalii, assaa # -s  (pitää liian paksuna pyöreistä esineistä _COMMA_ ihmisistä _COMMA_ lumesta) kaSašiđ kassaaš  </p>
+
+      <p id="2">(litteistä esineistä) assaa  # assaas;  (pyöreistä esineistä, ihmisistä, lumesta) kossuv # kossâ; (nahasta) čiäv'đáá # -s, asalâš asalii, assaa # -s;  (pitää liian paksuna pyöreistä esineistä, ihmisistä, lumesta) kaSašiđ kassaaš  </p>
       <p id="3">(litteistä esineistä) assaa</p>
       <p id="4">paksu</p>
       <p id="5">(pyöreistä esineistä, ihmisistä, lumesta) kossuv # kossâ; (nahasta) čiäv'đáá # -s, asalâš asalii, assaa # -s</p>

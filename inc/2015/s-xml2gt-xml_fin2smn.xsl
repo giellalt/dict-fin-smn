@@ -71,9 +71,10 @@
 
 </xsl:function>
 
-  <xsl:param name="inDir" select="'dddd'"/>
-  <!--xsl:param name="inDir" select="'x_bra_cor_done'"/-->
-  <xsl:param name="outDir" select="'check_transformation_gtxml'"/>
+
+  <xsl:param name="flag" select="'c'"/>
+  <xsl:param name="inDir" select="concat($flag,'_1_xml_input')"/>
+  <xsl:param name="outDir" select="concat('out_',$flag,'_2_gtxml')"/>
   <xsl:variable name="of" select="'xml'"/>
   <xsl:variable name="e" select="$of"/>
   <xsl:variable name="debug" select="false()"/>

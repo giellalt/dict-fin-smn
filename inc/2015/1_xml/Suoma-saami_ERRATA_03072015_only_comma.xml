@@ -2487,10 +2487,10 @@
    </e>
    <e id="1158">
       <p id="1">eniten</p>
-      <p id="2">iä'náá,    enâmus    </p>
-      <p id="3">iä'náá,</p>
+      <p id="2">enâmus    </p>
+      <p id="3">enâmus</p>
       <p id="4">eniten</p>
-      <p id="5">enâmus</p>
+      <p id="5"/p>
       <p id="6"/>
       <p id="7"/>
       <p id="8"/>
@@ -2721,10 +2721,10 @@
    </e>
    <e id="1258">
       <p id="1">erakko</p>
-      <p id="2">erakko,    ohtuunisorroo, sie'Rânisorroo    </p>
-      <p id="3">erakko,</p>
+      <p id="2">ohtuunisorroo, sie'Rânisorroo    </p>
+      <p id="3">ohtuunisorroo,</p>
       <p id="4">erakko</p>
-      <p id="5">ohtuunisorroo, sie'Rânisorroo</p>
+      <p id="5">sie'Rânisorroo</p>
       <p id="6"/>
       <p id="7"/>
       <p id="8"/>
@@ -3007,8 +3007,8 @@
    </e>
    <e id="1376">
       <p id="1">eskimo</p>
-      <p id="2">inuk,    inuiteh (mon.)    </p>
-      <p id="3">inuk,</p>
+      <p id="2">inuit,    inuiteh (mon.)    </p>
+      <p id="3">inuit,</p>
       <p id="4">eskimo</p>
       <p id="5">inuiteh (mon.)</p>
       <p id="6"/>
@@ -6543,10 +6543,10 @@
    </e>
    <e id="3081">
       <p id="1" r1_par="(kieli)">inarinsaame</p>
-      <p id="2">aanaarkieLâ  -kielâ,  aanaarsämikieLâ -kielâ    </p>
+      <p id="2">aanaarkieLâ  -kielâ,  aanaarsämikieLâ -kielâ, anarâškieLâ -kielâ   </p>
       <p id="3">aanaar</p>
       <p id="4">inarin</p>
-      <p id="5">aanaarsämikieLâ -kielâ</p>
+      <p id="5">aanaarsämikieLâ -kielâ, anarâškieLâ -kielâ</p>
       <p id="6"/>
       <p id="7">kieLâ</p>
       <p id="8">saame</p>
@@ -6634,8 +6634,8 @@
    </e>
    <e id="3108">
       <p id="1">inuitti</p>
-      <p id="2">inuk,    inuiteh (mon.)    </p>
-      <p id="3">inuk,</p>
+      <p id="2">inuit,    inuiteh (mon.)    </p>
+      <p id="3">inuit,</p>
       <p id="4">inuitti</p>
       <p id="5">inuiteh (mon.)</p>
       <p id="6"/>
@@ -13342,7 +13342,7 @@
    </e>
    <e id="6442">
       <p id="1">kuvajainen</p>
-      <p id="2">speJâlkoVe  -kove,  spejâlistem    </p>
+      <p id="2">speJâlkoVe  -kove, speeijâlkoVe -kove,  spejâlistem    </p>
       <p id="3">speJâl</p>
       <p id="4">kuvajainen</p>
       <p id="5">spejâlistem</p>
@@ -20895,10 +20895,10 @@
    </e>
    <e id="10920">
       <p id="1">potenssi</p>
-      <p id="2">pooteens~pootens,    potenssi    </p>
-      <p id="3">pooteens~pootens,</p>
+      <p id="2">pooteens~pootens</p>
+      <p id="3">pooteens~pootens</p>
       <p id="4">potenssi</p>
-      <p id="5">potenssi</p>
+      <p id="5"/p>
       <p id="6"/>
       <p id="7"/>
       <p id="8"/>
@@ -20973,10 +20973,10 @@
    </e>
    <e id="10958">
       <p id="1">prosessi</p>
-      <p id="2">prosessâ,     proosees    </p>
-      <p id="3">prosessâ, </p>
+      <p id="2">proosees    </p>
+      <p id="3">proosees</p>
       <p id="4">prosessi</p>
-      <p id="5">proosees</p>
+      <p id="5"/p>
       <p id="6"/>
       <p id="7"/>
       <p id="8"/>
@@ -21480,10 +21480,10 @@
    </e>
    <e id="11292">
       <p id="1">pyramidi</p>
-      <p id="2">pyramiid,    pyramidi    </p>
+      <p id="2">pyramiid,    pyramid    </p>
       <p id="3">pyramiid,</p>
       <p id="4">pyramidi</p>
-      <p id="5">pyramidi</p>
+      <p id="5">pyramid</p>
       <p id="6"/>
       <p id="7"/>
       <p id="8"/>
@@ -26420,10 +26420,10 @@
    </e>
    <e id="13948">
       <p id="1">syyntakeeton</p>
-      <p id="2">västidmettum,    o'vdâsvástádâsttem # -es    </p>
-      <p id="3">västidmettum,</p>
+      <p id="2">västidmettum</p>
+      <p id="3">västidmettum</p>
       <p id="4">syyn</p>
-      <p id="5">o'vdâsvástádâsttem # -es</p>
+      <p id="5"/p>
       <p id="6"/>
       <p id="7"/>
       <p id="8">takeeton</p>
@@ -32973,10 +32973,10 @@
    </e>
    <e id="17569">
       <p id="1">yksityiskohta</p>
-      <p id="2">o'vtâskâsčyegis  -čuág'gá,  detalji    </p>
+      <p id="2">o'vtâskâsčyegis  -čuág'gá,  deetaalj    </p>
       <p id="3">o'vtâskâs</p>
       <p id="4">yksityis</p>
-      <p id="5">detalji</p>
+      <p id="5">deetaalj</p>
       <p id="6"/>
       <p id="7">čyegis</p>
       <p id="8">kohta</p>

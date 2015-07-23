@@ -221,66 +221,75 @@
 					      else ($r1)
 					      "/>
 
-			<xsl:variable name="attr"
+
+			<xsl:variable name="syn_tilde"
 				      select="
 					      if (contains($r2,
-					      '#') and
-					      not(contains($r2,'~')))
+					      '~') and
+					      not(contains($r2,'-') or contains($r2,'#')))
 					      then
-					      normalize-space(concat('#',substring-after($r2,'#')))
+					      normalize-space(substring($r2,functx:index-of-string-first($r2,'~')))
 					      else ()
 					      "/>
 			
 			<xsl:variable name="r3"
 				      select="
 					      if (contains($r2,
-					      '#') and
-					      not(contains($r2,'~')))
+					      '~') and
+					      not(contains($r2,'-') or contains($r2,'#')))
 					      then
-					      substring-before($r2,'#')
+					      substring($r2,1,functx:index-of-string-first($r2,'~')-1)
 					      else ($r2)
 					      "/>
 
-			<xsl:variable name="syn_dash"
+
+			
+			
+			
+			<xsl:variable name="attr"
 				      select="
 					      if (contains($r3,
-					      ' -') and
-					      not(contains($r3,'~') or contains($r3,'#')))
+					      '#') and
+					      not(contains($r3,'~')))
 					      then
-					      normalize-space(concat('-',substring-after($r3,' -')))
+					      normalize-space(concat('#',substring-after($r3,'#')))
 					      else ()
 					      "/>
 			
 			<xsl:variable name="r4"
 				      select="
 					      if (contains($r3,
-					      ' -') and
-					      not(contains($r3,'~') or contains($r3,'#')))
+					      '#') and
+					      not(contains($r3,'~')))
 					      then
-					      substring-before($r3,' -')
+					      substring-before($r3,'#')
 					      else ($r3)
 					      "/>
 
 
-			<xsl:variable name="syn_tilde"
+
+			
+			<xsl:variable name="syn_dash"
 				      select="
 					      if (contains($r4,
-					      '~') and
-					      not(contains($r4,'-') or contains($r4,'#')))
+					      ' -') and
+					      not(contains($r4,'~') or contains($r4,'#')))
 					      then
-					      normalize-space(substring($r4,functx:index-of-string-first($r4,'~')))
+					      normalize-space(concat('-',substring-after($r4,' -')))
 					      else ()
 					      "/>
 			
 			<xsl:variable name="r5"
 				      select="
 					      if (contains($r4,
-					      '~') and
-					      not(contains($r4,'-') or contains($r4,'#')))
+					      ' -') and
+					      not(contains($r4,'~') or contains($r4,'#')))
 					      then
-					      substring($r4,1,functx:index-of-string-first($r4,'~')-1)
+					      substring-before($r4,' -')
 					      else ($r4)
 					      "/>
+
+
 
 			
 			<t pos="">

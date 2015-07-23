@@ -72,7 +72,7 @@
 </xsl:function>
 
 
-  <xsl:param name="flag" select="'a'"/>
+  <xsl:param name="flag" select="'c'"/>
   <xsl:param name="inDir" select="concat($flag,'_1_xml_input')"/>
   <xsl:param name="outDir" select="concat('out_',$flag,'_2_gtxml')"/>
   <xsl:variable name="of" select="'xml'"/>
@@ -200,7 +200,7 @@
 					      else ()
 					      "/>
 			
-			<xsl:variable name="rest"
+			<xsl:variable name="r1"
 				      select="
 					      if (starts-with($c_t, '('))
 					      then normalize-space(substring($c_t,functx:index-of-string-first($c_t,')')+2,string-length($c_t)))
@@ -209,78 +209,77 @@
 			
 			<xsl:variable name="r_par"
 				      select="
-					      if (ends-with($rest, ')'))
-					      then substring($rest,functx:index-of-string-last($rest,'(')+1,functx:index-of-string-last($rest,')')-1)
+					      if (ends-with($r1, ')'))
+					      then substring($r1,functx:index-of-string-last($r1,'(')+1,functx:index-of-string-last($r1,')')-1)
 					      else ()
 					      "/>
 			
-			<xsl:variable name="rest_rest"
+			<xsl:variable name="r2"
 				      select="
-					      if (ends-with($rest, ')'))
-					      then substring($rest,1,functx:index-of-string-last($rest,'(')-1)
-					      else ($rest)
+					      if (ends-with($r1, ')'))
+					      then substring($r1,1,functx:index-of-string-last($r1,'(')-1)
+					      else ($r1)
 					      "/>
-
 
 			<xsl:variable name="attr"
 				      select="
-					      if (contains($rest_rest,
+					      if (contains($r2,
 					      '#') and
-					      not(contains($rest_rest,'~')))
+					      not(contains($r2,'~')))
 					      then
-					      normalize-space(concat('#',substring-after($rest_rest,'#')))
+					      normalize-space(concat('#',substring-after($r2,'#')))
 					      else ()
 					      "/>
 			
-			<xsl:variable name="r_r_r"
+			<xsl:variable name="r3"
 				      select="
-					      if (contains($rest_rest,
+					      if (contains($r2,
 					      '#') and
-					      not(contains($rest_rest,'~')))
+					      not(contains($r2,'~')))
 					      then
-					      substring-before($rest_rest,'#')
-					      else ($rest_rest)
+					      substring-before($r2,'#')
+					      else ($r2)
 					      "/>
 
 			<xsl:variable name="syn_dash"
 				      select="
-					      if (contains($r_r_r,
+					      if (contains($r3,
 					      ' -') and
-					      not(contains($r_r_r,'~') or contains($r_r_r,'#')))
+					      not(contains($r3,'~') or contains($r3,'#')))
 					      then
-					      normalize-space(concat('-',substring-after($r_r_r,' -')))
+					      normalize-space(concat('-',substring-after($r3,' -')))
 					      else ()
 					      "/>
 			
-			<xsl:variable name="r_r_r_r"
+			<xsl:variable name="r4"
 				      select="
-					      if (contains($r_r_r,
+					      if (contains($r3,
 					      ' -') and
-					      not(contains($r_r_r,'~') or contains($r_r_r,'#')))
+					      not(contains($r3,'~') or contains($r3,'#')))
 					      then
-					      substring-before($r_r_r,' -')
-					      else ($r_r_r)
+					      substring-before($r3,' -')
+					      else ($r3)
 					      "/>
 
 
 			<xsl:variable name="syn_tilde"
 				      select="
-					      if (contains($r_r_r_r,
+					      if (contains($r4,
 					      '~') and
-					      not(contains($r_r_r_r,'-') or contains($r_r_r_r,'#')))
+					      not(contains($r4,'-') or contains($r4,'#')))
 					      then
-					      normalize-space(substring($r_r_r_r,functx:index-of-string-first($r_r_r_r,'~')))
+					      normalize-space(substring($r4,functx:index-of-string-first($r4,'~')))
 					      else ()
 					      "/>
 			
-			<xsl:variable name="r_r_r_r_r"
+			<xsl:variable name="r5"
 				      select="
-					      if (contains($r_r_r_r,
+					      if (contains($r4,
 					      '~') and
-					      not(contains($r_r_r_r,'-') or contains($r_r_r_r,'#')))
+					      not(contains($r4,'-') or contains($r4,'#')))
 					      then
-					      substring($r_r_r_r,1,functx:index-of-string-first($r_r_r_r,'~')-1)
-					      else ($r_r_r_r)
+					      substring($r4,1,functx:index-of-string-first($r4,'~')-1)
+					      else ($r4)
 					      "/>
 
 			
@@ -311,7 +310,7 @@
 			    </xsl:attribute>
 			  </xsl:if>
 			  <xsl:copy-of select="$current_e/p[./@id='2']/@*[not(local-name()='id')]"/>
-			  <xsl:value-of select="normalize-space($r_r_r_r_r)"/>
+			  <xsl:value-of select="normalize-space($r5)"/>
 			</t>
 			
 		      </xsl:if>

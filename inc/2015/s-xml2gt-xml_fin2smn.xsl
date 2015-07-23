@@ -305,16 +305,14 @@
 			      <xsl:value-of select="$attr"/>
 			    </xsl:attribute>
 			  </xsl:if>
+			  <xsl:if test="not(normalize-space($syn_tilde)='')">
+			    <xsl:attribute name="t_tld">
+			      <xsl:value-of select="normalize-space($syn_tilde)"/>
+			    </xsl:attribute>
+			  </xsl:if>
 			  <xsl:copy-of select="$current_e/p[./@id='2']/@*[not(local-name()='id')]"/>
-
 			  <xsl:value-of select="normalize-space($r_r_r_r_r)"/>
 			</t>
-
-			<xsl:if test="not(normalize-space($syn_tilde)='')">
-			  <xsl:element name="t_tld">
-			    <xsl:value-of select="normalize-space($syn_tilde)"/>
-			  </xsl:element>
-			</xsl:if>
 			
 		      </xsl:if>
 		    </xsl:for-each>

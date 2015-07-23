@@ -241,10 +241,6 @@
 					      substring($r2,1,functx:index-of-string-first($r2,'~')-1)
 					      else ($r2)
 					      "/>
-
-
-			
-			
 			
 			<xsl:variable name="attr"
 				      select="
@@ -265,9 +261,6 @@
 					      substring-before($r3,'#')
 					      else ($r3)
 					      "/>
-
-
-
 			
 			<xsl:variable name="syn_dash"
 				      select="
@@ -289,9 +282,6 @@
 					      else ($r4)
 					      "/>
 
-
-
-			
 			<t pos="">
 			  <xsl:if test="not(normalize-space($l_par)='')">
 			    <xsl:attribute name="l_par">

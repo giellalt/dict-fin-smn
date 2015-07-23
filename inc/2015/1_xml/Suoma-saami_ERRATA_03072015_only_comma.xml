@@ -2490,7 +2490,7 @@
       <p id="2">enâmus    </p>
       <p id="3">enâmus</p>
       <p id="4">eniten</p>
-      <p id="5"/p>
+      <p id="5"/>
       <p id="6"/>
       <p id="7"/>
       <p id="8"/>
@@ -4190,7 +4190,7 @@
    </e>
    <e id="2040">
       <p id="1">helakka</p>
-      <p id="2">(heleä, kirkas esim. väri) šeellâd  # šelis ~ šellis ~ šellâdâs      </p>
+      <p id="2">(heleä, kirkas esim. väri) šeellâd # šelis _AT_ šellis _AT_ šellâdâs      </p>
       <p id="3">(heleä, kirkas esim. väri) šeellâd</p>
       <p id="4">helakka</p>
       <p id="5"/>
@@ -4450,7 +4450,7 @@
    </e>
    <e id="2156">
       <p id="1">herkullinen</p>
-      <p id="2">hiär'skulâš  hiär'skulii,  njäävhis njávkkás, njäälgis njálgá # njä'lgis ~ njaalgâ    </p>
+      <p id="2">hiär'skulâš  hiär'skulii,  njäävhis njávkkás, njäälgis njálgá # njä'lgis _AT_ njaalgâ    </p>
       <p id="3">hiär'skulâš</p>
       <p id="4">herkullinen</p>
       <p id="5">njäävhis njávkkás, njäälgis njálgá # njä'lgis ~ njaalgâ</p>
@@ -5360,7 +5360,7 @@
    </e>
    <e id="2592">
       <p id="1">huonotapainen</p>
-      <p id="2">tävittem  # -es ~ tävittes,  nälittem # nälittes    </p>
+      <p id="2">tävittem  # -es _AT_ tävittes,  nälittem # nälittes    </p>
       <p id="3">tävittem</p>
       <p id="4">huono</p>
       <p id="5">nälittem # nälittes</p>
@@ -5464,7 +5464,7 @@
    </e>
    <e id="2622">
       <p id="1">hurja</p>
-      <p id="2">vildáá  # -s,  ruok'kâd # ruok'kâdis ~ ruo'kis    </p>
+      <p id="2">vildáá  # -s,  ruok'kâd # ruok'kâdis _AT_ ruo'kis    </p>
       <p id="3">vildáá</p>
       <p id="4">hurja</p>
       <p id="5">ruok'kâd # ruok'kâdis ~ ruo'kis</p>
@@ -5724,7 +5724,7 @@
    </e>
    <e id="2740">
       <p id="1" r1_par="(koirasta)">hyvävainuinen</p>
-      <p id="2">apsalâs  # apsalâs ~ apsee,  apsee # apsees ~ apsalâs    </p>
+      <p id="2">apsalâs  # apsalâs _AT_ apsee,  apsee # apsees _AT_ apsalâs    </p>
       <p id="3">apsalâs</p>
       <p id="4">hyvä</p>
       <p id="5">apsee # apsees ~ apsalâs</p>
@@ -5802,7 +5802,7 @@
    </e>
    <e id="2750">
       <p id="1">hyödytön</p>
-      <p id="2">hiä'đuttem  # hiä'đuttes ~ hiä'đuttemes,  ä'vhittem # ä'vhittâs    </p>
+      <p id="2">hiä'đuttem  # hiä'đuttes _AT_ hiä'đuttemes,  ä'vhittem # ä'vhittâs    </p>
       <p id="3">hiä'đuttem</p>
       <p id="4">hyödytön</p>
       <p id="5">ä'vhittem # ä'vhittâs</p>
@@ -7934,7 +7934,7 @@
    </e>
    <e id="3703">
       <p id="1">jyrkkä</p>
-      <p id="2">ciägus  ciäg'gus # ciä'gu,  ciä'gu-, kivkkáá # -s, kivkker # -is~-âs, terkkii # terkkâ~terkkiis    </p>
+      <p id="2">ciägus  ciäg'gus # ciä'gu,  ciä'gu-, kivkkáá # -s, kivkker # -is _AT_ -âs, terkkii # terkkâ _AT_ terkkiis    </p>
       <p id="3">ciägus</p>
       <p id="4">jyrkkä</p>
       <p id="5">ciä'gu-, kivkkáá # -s, kivkker # -is~-âs, terkkii # terkkâ~terkkiis</p>
@@ -10833,7 +10833,7 @@
    </e>
    <e id="5241">
       <p id="1" r1_par="(ääni)">kimeä</p>
-      <p id="2">piškel  # -is~-âs,  čuuhâl # čuhâlâs ~ čuha    </p>
+      <p id="2">piškel  # -is _AT_ -âs,  čuuhâl # čuhâlâs _AT_ čuha    </p>
       <p id="3">piškel</p>
       <p id="4">kimeä</p>
       <p id="5">čuuhâl # čuhâlâs ~ čuha</p>
@@ -11574,7 +11574,7 @@
    </e>
    <e id="5595">
       <p id="1" r1_par="(part.)">koko</p>
-      <p id="2"># ubbâ~ubâ,    # heeilâ    </p>
+      <p id="2">(attr. only) ubbâ ~ ubâ, (attr. only)    heeilâ    </p>
       <p id="3"># ubbâ~ubâ,</p>
       <p id="4">koko</p>
       <p id="5"># heeilâ</p>
@@ -11587,7 +11587,7 @@
    </e>
    <e id="5602">
       <p id="1">kokonainen</p>
-      <p id="2">oLes  ollás,  ubâlâš ubâlii, # ubbâ~ubâ    </p>
+      <p id="2">oLes  ollás,  ubâlâš ubâlii, (attr. only) ubbâ ~ ubâ    </p>
       <p id="3">oLes</p>
       <p id="4">kokonainen</p>
       <p id="5">ubâlâš ubâlii, # ubbâ~ubâ</p>
@@ -16254,7 +16254,7 @@
    </e>
    <e id="8136">
       <p id="1">makoisa</p>
-      <p id="2">hekkâ-,    njäälgis njálgá # njä'lgis ~ njaalgâ, njäävhis njávkkás    </p>
+      <p id="2">hekkâ-,    njäälgis njálgá # njä'lgis _AT_ njaalgâ, njäävhis njávkkás    </p>
       <p id="3">hekkâ-,</p>
       <p id="4">makoisa</p>
       <p id="5">njäälgis njálgá # njä'lgis ~ njaalgâ, njäävhis njávkkás</p>
@@ -16306,7 +16306,7 @@
    </e>
    <e id="8161">
       <p id="1">maltillinen</p>
-      <p id="2">maaššâl  # mašâlis,  määššil # määššilis~-âs ~ mäšilis~-âs, mášulâš mášulii    </p>
+      <p id="2">maaššâl  # mašâlis,  määššil # määššilis _AT_ -âs _AT_ mäšilis _AT_ -âs, mášulâš mášulii    </p>
       <p id="3">maaššâl</p>
       <p id="4">maltillinen</p>
       <p id="5">määššil # määššilis~-âs ~ mäšilis~-âs, mášulâš mášulii</p>
@@ -16332,7 +16332,7 @@
    </e>
    <e id="8165">
       <p id="1">malttavainen</p>
-      <p id="2">maaššâl  # mašâlis,  määššil # määššilis~-âs ~ mäšilis~-âs    </p>
+      <p id="2">maaššâl  # mašâlis,  määššil # määššilis _AT_ -âs _AT_ mäšilis _AT_ -âs    </p>
       <p id="3">maaššâl</p>
       <p id="4">malttavainen</p>
       <p id="5">määššil # määššilis~-âs ~ mäšilis~-âs</p>
@@ -18321,7 +18321,7 @@
    </e>
    <e id="9380">
       <p id="1">näppärä</p>
-      <p id="2">neppir~näppir  # -is,  veessil # veSilis~veSilâs    </p>
+      <p id="2">neppir~näppir  # -is,  veessil # veSilis _AT_ veSilâs    </p>
       <p id="3">neppir~näppir</p>
       <p id="4">näppärä</p>
       <p id="5">veessil # veSilis~veSilâs</p>
@@ -20898,7 +20898,7 @@
       <p id="2">pooteens~pootens</p>
       <p id="3">pooteens~pootens</p>
       <p id="4">potenssi</p>
-      <p id="5"/p>
+      <p id="5"/>
       <p id="6"/>
       <p id="7"/>
       <p id="8"/>
@@ -20976,7 +20976,7 @@
       <p id="2">proosees    </p>
       <p id="3">proosees</p>
       <p id="4">prosessi</p>
-      <p id="5"/p>
+      <p id="5"/>
       <p id="6"/>
       <p id="7"/>
       <p id="8"/>
@@ -22299,7 +22299,7 @@
    </e>
    <e id="11794">
       <p id="1">rasvaton</p>
-      <p id="2">pye'idittem  # pye'idittes,  vuo'jâttem # vuo'jâttes ~ vuo'jâttemes    </p>
+      <p id="2">pye'idittem  # pye'idittes,  vuo'jâttem # vuo'jâttes _AT_ vuo'jâttemes    </p>
       <p id="3">pye'idittem</p>
       <p id="4">rasvaton</p>
       <p id="5">vuo'jâttem # vuo'jâttes ~ vuo'jâttemes</p>
@@ -24574,7 +24574,7 @@
    </e>
    <e id="13069">
       <p id="1">siisti</p>
-      <p id="2">čurgâd  # ču'rgis ~ čurgâdis,  kuonâs kuonnâs    </p>
+      <p id="2">čurgâd  # ču'rgis _AT_ čurgâdis,  kuonâs kuonnâs    </p>
       <p id="3">čurgâd</p>
       <p id="4">siisti</p>
       <p id="5">kuonâs kuonnâs</p>
@@ -24626,7 +24626,7 @@
    </e>
    <e id="13092">
       <p id="1" r1_par="(adj.)">siivo</p>
-      <p id="2">sijvuu  # -s,  sijvo, čurgâd # ču'rgis ~ čurgâdis    </p>
+      <p id="2">sijvuu  # -s, (attr. only) sijvo, čurgâd # ču'rgis ~ čurgâdis    </p>
       <p id="3">sijvuu</p>
       <p id="4">siivo</p>
       <p id="5">sijvo, čurgâd # ču'rgis ~ čurgâdis</p>
@@ -25484,7 +25484,7 @@
    </e>
    <e id="13521">
       <p id="1">stabiili</p>
-      <p id="2">stääđis  stááđđás # stäđis~stađes ~ stađâ,  staabiil    </p>
+      <p id="2">stääđis  stááđđás # stäđis _AT_ stađes _AT_ stađâ,  staabiil    </p>
       <p id="3">stääđis</p>
       <p id="4">stabiili</p>
       <p id="5">staabiil</p>
@@ -25601,7 +25601,7 @@
    </e>
    <e id="13554">
       <p id="1">suippo</p>
-      <p id="2">čuuVâs  čuuhâs # čuhâ(-),  čuuhâl # čuhâlâs ~ čuha, čuhâlis # -as    </p>
+      <p id="2">čuuVâs  čuuhâs # čuhâ(-),  čuuhâl # čuhâlâs _AT_ čuha, čuhâlis # -as    </p>
       <p id="3">čuuVâs</p>
       <p id="4">suippo</p>
       <p id="5">čuuhâl # čuhâlâs ~ čuha, čuhâlis # -as</p>
@@ -25991,7 +25991,7 @@
    </e>
    <e id="13779">
       <p id="1">suruton</p>
-      <p id="2">murâšttem  # murâšttes,  sorottem # -es ~ sorottes    </p>
+      <p id="2">murâšttem  # murâšttes,  sorottem # -es _AT_ sorottes    </p>
       <p id="3">murâšttem</p>
       <p id="4">suruton</p>
       <p id="5">sorottem # -es ~ sorottes</p>
@@ -26147,7 +26147,7 @@
    </e>
    <e id="13838">
       <p id="1">suuttuvainen</p>
-      <p id="2">suttiš  # -âs ~ -is,  suttâlâs    </p>
+      <p id="2">suttiš  # -âs _AT_ -is,  suttâlâs    </p>
       <p id="3">suttiš</p>
       <p id="4">suuttuvainen</p>
       <p id="5">suttâlâs</p>
@@ -26423,7 +26423,7 @@
       <p id="2">västidmettum</p>
       <p id="3">västidmettum</p>
       <p id="4">syyn</p>
-      <p id="5"/p>
+      <p id="5"/>
       <p id="6"/>
       <p id="7"/>
       <p id="8">takeeton</p>
@@ -26680,7 +26680,7 @@
    </e>
    <e id="14070">
       <p id="1">säädytön</p>
-      <p id="2">siä'đuttem  # siä'đuttes ~ siä'đuttemes,  nyes'ki nyeski # nye'skis    </p>
+      <p id="2">siä'đuttem  # siä'đuttes _AT_ siä'đuttemes,  nyes'ki nyeski # nye'skis    </p>
       <p id="3">siä'đuttem</p>
       <p id="4">säädytön</p>
       <p id="5">nyes'ki nyeski # nye'skis</p>
@@ -29423,10 +29423,10 @@
    </e>
    <e id="15432">
       <p id="1">tyhmä</p>
-      <p id="2">tuáv'kki  tuávhi # tuá'vhis,  tuihme tu'ihme # tu'ihmes ~ tuhme tu'hme # tu'hmes    </p>
+      <p id="2">tuáv'kki  tuávhi # tuá'vhis,  tuihme tu'ihme # tu'ihmes,  tuhme tu'hme # tu'hmes    </p>
       <p id="3">tuáv'kki</p>
       <p id="4">tyhmä</p>
-      <p id="5">tuihme tu'ihme # tu'ihmes ~ tuhme tu'hme # tu'hmes</p>
+      <p id="5">tuihme tu'ihme # tu'ihmes, tuhme tu'hme # tu'hmes</p>
       <p id="6"/>
       <p id="7"/>
       <p id="8"/>
@@ -29462,7 +29462,7 @@
    </e>
    <e id="15448">
       <p id="1">typerä</p>
-      <p id="2">káigáá  # -s,  u'đhettem # u'đhettes ~ u'đhettemes    </p>
+      <p id="2">káigáá  # -s,  u'đhettem # u'đhettes _AT_ u'đhettemes    </p>
       <p id="3">káigáá</p>
       <p id="4">typerä</p>
       <p id="5">u'đhettem # u'đhettes ~ u'đhettemes</p>
@@ -29644,7 +29644,7 @@
    </e>
    <e id="15552">
       <p id="1">työtön</p>
-      <p id="2">pa'rgottem  # -es ~ pa'rgottes,  tye'jettem # tye'jettes    </p>
+      <p id="2">pa'rgottem  # -es _AT_ pa'rgottes,  tye'jettem # tye'jettes    </p>
       <p id="3">pa'rgottem</p>
       <p id="4">työtön</p>
       <p id="5">tye'jettem # tye'jettes</p>
@@ -30450,7 +30450,7 @@
    </e>
    <e id="16003">
       <p id="1">vahvakätinen</p>
-      <p id="2">čovgâd  # čovgâ ~ čo'vgis,  olgiš # -is    </p>
+      <p id="2">čovgâd  # čovgâ _AT_ čo'vgis,  olgiš # -is    </p>
       <p id="3">čovgâd</p>
       <p id="4">vahva</p>
       <p id="5">olgiš # -is</p>
@@ -30515,7 +30515,7 @@
    </e>
    <e id="16032">
       <p id="1">vaikeaselkoinen</p>
-      <p id="2">muál'kkáá  # -s,  váádduh # váduhis~váduhâs    </p>
+      <p id="2">muál'kkáá  # -s,  váádduh # váduhis _AT_ váduhâs    </p>
       <p id="3">muál'kkáá</p>
       <p id="4">vaikea</p>
       <p id="5">váádduh # váduhis~váduhâs</p>
@@ -31946,7 +31946,7 @@
    </e>
    <e id="16972">
       <p id="1">vikkelä</p>
-      <p id="2">häppil  # häppilis~häppilâs,  veeleeh # velehis~velehâs    </p>
+      <p id="2">häppil  # häppilis _AT_ häppilâs,  veeleeh # velehis _AT_ velehâs    </p>
       <p id="3">häppil</p>
       <p id="4">vikkelä</p>
       <p id="5">veeleeh # velehis~velehâs</p>
@@ -32336,7 +32336,7 @@
    </e>
    <e id="17166">
       <p id="1">voimakasvirtainen</p>
-      <p id="2">virdáá  # -s,  vooHâd # vohâdis ~ vohis    </p>
+      <p id="2">virdáá  # -s,  vooHâd # vohâdis _AT_ vohis    </p>
       <p id="3">virdáá</p>
       <p id="4">voimakas</p>
       <p id="5">vooHâd # vohâdis ~ vohis</p>

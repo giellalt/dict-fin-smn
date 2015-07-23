@@ -1,0 +1,333 @@
+109 _ aholeinikki _ kuolbâmieđâš -miettâš ~ -mieđii _ 
+213 _ aitokana _ puigâkääNi -kääni ~ -käne _ 
+226 _ aivokoppa _ vuo'iŋâškuáti -kuáđi ~ -kuá'đe _ 
+332 _ alaleukaluu _ uáLutähti -täävti ~ uá'lultähti -täävti _ 
+339 _ alarotu _ vye'LinääLi -nääli ~ -näle _ 
+398 _ alkaa _ -gyet'tiđ -guá'đám ~ -kyet'tiđ -kuá'dám ~ -škyet'tiđ -škuá'đám _ 
+401 _ alkeis- _ algâ-~álgu- _ 
+402 _ alkeisjuuri _ algâ-~álguruotâs -ruot'tâs _ 
+403 _ alkeiskurssi _ algâ-~álgukurssâ -kuursâ _ 
+404 _ alkeislehti _ algâ-~álgulostâ -loostâ _ 
+407 _ alkeissilmu _ algâ-~álguurbe -u'rbe _ 
+413 _ alkuaine _ algâ-~álguaamnâs -amnâs _ 
+414 _ alkuasukas _ algâ-~álguässee _ 
+416 _ alkuihminen _ algâ-~álguolmooš -ulmuu _ 
+418 _ alkuluku _ algâ-~álguloho -loVo _ 
+419 _ alkupala _ algâ-~álgupittá -pitá _ 
+422 _ alkuperäiskansa _ algâ-~álguaalmug _ 
+423 _ alkupuoli _ algâ-~álgupeeLi -pele _ 
+425 _ alkuräjähdys _ algâ-~álgupävkittem _ 
+426 _ alkusana _ algâ-~álgusääNi -sääni ~ -säne _ 
+428 _ alkutuotanto _ algâ-~álgupuovtâdâs _ 
+429 _ alkuvuosi _ algâ-~álguihe -iVe _ 
+430 _ alkuyö _ algâ-~álguijjâ -iijâ _ 
+457 _ aluehallinto _ kuáv'luha'ldâttâs ~ -ha'ldâttâh -ha'ldâttuv _ 
+508 _ ammattitulo _ áámmátpuátu -puáđu ~ -puáđo _ 
+518 _ ampiaispesä _ viäp'sákuáti -kuáđi ~ -kuá'đe _ 
+525 _ ampumasuoja _ perttumkuáti -kuáđi ~ -kuá'đe _ 
+631 _ armoateria _ ármumäälis -máállás~-máállâs _ 
+683 _ arvosana _ árvusääNi -sääni ~ -säne _ 
+727 _ asiapaperi _ äššipáppár -pááppár ~ -pááppâr ~ -päävir -páppár _ 
+768 _ asumistiheys _ aassâmtávjudâh~-távjudoh~-távjuduh -távjuduv _ 
+803 _ auringonkukka _ piäi'váárääSi~-rääsi -rääsi _ 
+842 _ avainsana _ čoovdâsääNi -sääni ~ -säne _ 
+862 _ aviorikos _ näimirikos -rikkos~rikkoos _ 
+1211 _ epäluotettava _ epilye'tittettee~-lye'tittijjee _ 
+1321 _ erotuomari _ iä'Rutuámmár~-tuámmâr _ 
+1326 _ eräopas _ mecciuápis -uáp'pá~-uáp'pás _ 
+1433 _ etuhammas _ ovdâpääNi -pääni ~ -päne _ 
+1465 _ etäpesäke _ ká'iduskuáti -kuáđi ~ -kuá'đe _ 
+1478 _ euroopanmajava _ euroopmaaijuv~ -maijuu _ 
+1769 _ hanhenpaju _ čuán'njáápuájui ~ -puá'joi -poijuu _ 
+1772 _ hanhikki _ suor'mârääSi~-rääsi -rääsi _ 
+1901 _ harvahammaspoimulehti _ ajâhaamiträäSi~-rääsi -rääsi _ 
+1935 _ haurasloikko _ suoi'vuurääSi~-rääsi -rääsi _ 
+1963 _ havumaja _ kuác'ceekuáti -kuáđi ~ -kuá'đe _ 
+2011 _ heinähäkki _ syei'nihekki -heehi~-heeki _ 
+2017 _ heinäpuura _ syei'nipuvre -puuvre ~ -pu'vre _ 
+2026 _ heisimato _ läbžimáátu -mááđu ~ -máđo _ 
+2041 _ helatorstai _ hellâtuo'râstâh -tuo'râstuv ~ -turâstuh -turâstuv _ 
+2126 _ henkirikos _ jieg'gârikos -rikkos~-rikkoos _ 
+2141 _ herastuomari _ hiäRástuámmár~-tuámmâr _ 
+2250 _ hietatiira _ čunoičierrih~-čier'rih~-čerrih _ 
+2252 _ hietikkopaju _ čunoipuájui ~ -puá'joi -poijuu _ 
+2289 _ hiirenvirna _ säpligviermirääSi~-rääsi -rääsi _ 
+2311 _ hillamato _ lye'memáátu -mááđu ~ -máđo _ 
+2354 _ hirsikota _ hirssâkuáti -kuáđi ~ -kuá'đe _ 
+2407 _ hoikkaängelmä _ segispuál'ččimieđâš -miettâš ~ -mieđii _ 
+2577 _ huonekärpänen _ tupekiärpáš~-kiärpâš -kiär'ppáá _ 
+2824 _ häränkielikääpä _ njuovčâčááNá -čááná ~ -čáná _ 
+2859 _ hökkeli _ tuuváášruátu -ruáđu ~ -ruá'đo _ 
+2868 _ hölöttäjä _ huá'lssáá # -s ~ huál'ššáá # -s _ 
+2901 _ idänniittyleinikki _ nuor'ttâfi'skisrääSi~-rääsi -rääsi _ 
+2929 _ ihonväri _ liškeivne -iivne ~ -i'vne _ 
+2942 _ ikkunankaavin _ laSâfoskâm~-voskâm _ 
+2981 _ illallinen _ ehidâsmäälis -máállás~-máállâs _ 
+2997 _ ilmankostutin _ áimulahtâdeijee ~ -lahtâdijjee _ 
+3008 _ ilmapuolustus _ áimusuo'Jâlus ~ -suo'Jâlâs _ 
+3030 _ ilmestysmaja _ tuo'đâštuskuáti -kuáđi ~ -kuá'đe _ 
+3041 _ ilmoitusasia _ tie'đettemäšši -ääŠi ~ -ääši _ 
+3050 _ ilotulitusraketti _ hiä'rvástâllâmraageet -raggeet ~ -raakeet -rakkeet _ 
+3169 _ isolaukku _ syei'niruttârääSi~-rääsi -rääsi _ 
+3181 _ isorysä _ stuor'râlääNi -lääni ~ -läne _ 
+3243 _ itiöpesäke _ iđoskuáti -kuáđi ~ -kuá'đe _ 
+3474 _ jokileinikki _ juhâmieđâš -miettâš ~ -mieđii _ 
+3476 _ jokipaju _ juhâpuájui ~ -puá'joi -poijuu _ 
+3513 _ jouhimato _ vuop'tâmáátu -mááđu ~ -máđo _ 
+3596 _ jumalansana _ immeelsääNi -sääni ~ -säne _ 
+3679 _ juurikääpä _ ruo'tâsčááNá -čááná ~ -čáná _ 
+3879 _ jäähile _ jie'ŊâmuáLu -muálu ~ -muál'lu -muáLu _ 
+3892 _ jääkukka _ jie'ŊârääSi~-rääsi -rääsi _ 
+3897 _ jääleinikki _ jie'Ŋâmieđâš -miettâš ~ -mieđii _ 
+3947 _ -kaan _ -gin~-kin _ 
+4086 _ kaksitoista _ kyeh'ti-~kyeh'tnubáloh -nubálov _ 
+4097 _ kalankasvatuslaitos _ kye'Lišoddâdemlágádâs ~ -lájádâs _ 
+4109 _ kalatiira _ kye'Ličierrih~-čier'rih~-čerrih _ 
+4125 _ kalkkilähdesammal _ juhânjuárui ~ -njuá'roi -njuor'ruu _ 
+4132 _ kalliohaurasloikko _ källeesuoi'vuurääSi~-rääsi -rääsi _ 
+4163 _ kalvaspaju _ kuo'vgispuájui ~ -puá'joi -poijuu _ 
+4214 _ kangasmaitikka _ kuolbâmiälkus~-miälhus -miäl'kkus _ 
+4250 _ kansalaissota _ aalmuglâšsuáti -suáđi ~ -suá'đe _ 
+4283 _ kansitiiviste _ lokketo'vkos -tovkkos~-to'vhos _ 
+4309 _ kantokääpä _ kuá'duičááNá -čááná ~ -čáná _ 
+4340 _ karhunpyynti _ kuob'žâpivdo -piivdo ~ -pi'vdo _ 
+4363 _ karjatalo _ šiiveettááLu -táálu ~ -tálo _ 
+4491 _ katinlieko _ kaasirääSi~-rääsi -rääsi _ 
+4622 _ kauppaoppilaitos _ kävppioppâlágádâs ~ -lájádâs _ 
+4629 _ kaupungintalo _ kaavpugtááLu -táálu ~ -tálo _ 
+4682 _ kehtolaulu _ vuát'tumlivđe -li'vđe ~ -liivđe _ 
+4689 _ kehäkukka _ kiär'durääSi~-rääsi -rääsi _ 
+4720 _ keisarinna _ kiäi'sárroonnig ~ -kunâgâtâr _ 
+4728 _ keittokota _ lie'mâskuáti -kuáđi ~ -kuá'đe _ 
+4787 _ keltakannusruoho _ kiär'ppáárääSi~-rääsi -rääsi _ 
+4819 _ keminängelmä _ kiemâpuál'ččimieđâš -miettâš ~ -mieđii _ 
+4839 _ kenttämittarin toukka _ lye'memáátu -mááđu ~ -máđo _ 
+4868 _ kerrostalo _ kerditááLu -táálu ~ -tálo _ 
+4895 _ keräpääpoimulehti _ rivgoohaamiträäSi~-rääsi -rääsi _ 
+4925 _ keskitulo _ koskâtienâs -tiennâs ~ koskâtiänás -tiännás _ 
+4932 _ keskoskaappi _ kooskâhskäppi -skääpi ~ kooskâhskappi -skaapi _ 
+4974 _ ketohopeahanhikki _ kied'disilbârääSi~-rääsi -rääsi _ 
+4982 _ ketunlieko _ tiherääSi~-rääsi -rääsi _ 
+5014 _ kevätlehtoleinikki _ kiđđârotomieđâš -miettâš ~ -mieđii _ 
+5015 _ kevätleinikki _ kiđđâmieđâš -miettâš ~ -mieđii _ 
+5071 _ kielo _ kiđđâtivgârääSi~-rääsi -rääsi _ 
+5142 _ kiiltomato _ kildeemáátu -mááđu ~ -máđo _ 
+5343 _ kirjopillike _ kiirjâgrääSi~-rääsi -rääsi _ 
+5354 _ kirkiruoho _ myer'sseerääSi~-rääsi -rääsi _ 
+5407 _ kissakala _ meRâkissá -kiSá~-kisá _ 
+5469 _ kivikkoalvejuuri _ juo'VâkaaicârääSi~-rääsi -rääsi _ 
+5557 _ koiranputki _ pennuurääSi~-rääsi -rääsi _ 
+5707 _ konnanleinikki _ skeelmâmieđâš -miettâš ~ -mieđii _ 
+5791 _ korpialvejuuri _ rotokaaicârääSi~-rääsi -rääsi _ 
+5821 _ korvakkokota _ peljikuáti -kuáđi ~ -kuá'đe _ 
+6035 _ kukkakärpänen _ räsikiärpáš~-kiärpâš -kiär'ppáá _ 
+6307 _ kurmupaarma _ kurmápuárui ~ -puá'roi -porruu _ 
+6308 _ kurnuliejukana _ ruov'gânješšikääNi -kääni ~ -käne _ 
+6367 _ kuukautisside _ máNutavdâčonâstâh~čonâstoh~čonâstuh -čonâstuv _ 
+6498 _ kyläkellukka _ markkânkiäl'lurääSi~-rääsi -rääsi _ 
+6499 _ kyläkurjenpolvi _ nijttočuov'jisrääSi~-rääsi -rääsi _ 
+6709 _ -kään _ -gin ~ -kin _ 
+6782 _ lahdenperä _ luohtâ-~luohtpottâ -poođâ _ 
+6825 _ lainasana _ lovnâsääNi -sääni ~ -säne _ 
+6897 _ lakiasia _ lahâäšši -ääŠi ~ -ääši _ 
+6939 _ lammasläävä _ savzâpuvre -puuvre ~ -pu'vre _ 
+6941 _ lammaspuura _ savzâpuvre -puuvre ~ -pu'vre _ 
+6943 _ lampaankääpä _ saavzâčááNá -čááná ~ -čáná _ 
+6992 _ lapinlaukku _ taveruttârääSi~-rääsi -rääsi _ 
+6993 _ lapinleinikki _ säämimieđâš -miettâš ~ -mieđii _ 
+6994 _ lapinlemmikki _ rototäsnirääSi~-rääsi -rääsi _ 
+7007 _ lapintalo _ sämitááLu -táálu ~ -tálo _ 
+7036 _ lasiainen _ čalmekákká -kááhá~-káhá~-káká _ 
+7072 _ lattaviila _ tuol'bâfijlo -fi'jlo ~ -fiijlo _ 
+7134 _ lehmännahka _ kuusâ-~kusâčevđi -čeevđi _ 
+7150 _ lehtimaja _ lostâkuáti -kuáđi ~ -kuá'đe _ 
+7151 _ lehtimato _ lostâmáátu -mááđu ~ -máđo _ 
+7175 _ lehtoukonhattu _ äijihrääSi~-rääsi -rääsi _ 
+7176 _ lehtovirmajuuri _ piijporääSi~-rääsi -rääsi _ 
+7195 _ leikkokukka _ čuáp'purääSi~-rääsi -rääsi _ 
+7279 _ leppäkerttu _ tiäl'kkutivre -tiivre ~ -ti'vre _ 
+7284 _ leskenlehti _ hiäp'puškozzârääSi~-rääsi -rääsi _ 
+7299 _ leukaluu _ uá'lultähti -täävti ~ uáLutähti -täävti _ 
+7336 _ liejukana _ nješšikääNi -kääni ~ -käne _ 
+7341 _ lieko _ páinurääSi~-rääsi -rääsi _ 
+7344 _ liekovarpio _ toŋâsrääSi~-rääsi -rääsi _ 
+7349 _ liero _ muldemáátu -mááđu ~ -máđo _ 
+7511 _ lisätulo _ laSepuátu -puáđu ~ -puáđo _ 
+7629 _ loskakeli _ suáv'li-~šuáv'lisijvo -siijvo _ 
+7643 _ lounas _ peivimäälis -máállás~-máállâs _ 
+7656 _ luhtakana _ luhteekääNi -kääni ~ -käne _ 
+7659 _ luhtalemmikki _ jeggitäsnirääSi~-rääsi -rääsi _ 
+7660 _ luhtalitukka _ jeggisuor'mâkuáti -kuáđi ~ -kuá'đe _ 
+7703 _ lukusana _ lohosääNi -sääni ~ -säne _ 
+7710 _ lumihärkki _ muo'tâsäpligrääSi~-rääsi -rääsi _ 
+7722 _ lumileinikki _ muo'tâmieđâš -miettâš ~ -mieđii _ 
+7883 _ lähete _ vuo'lgâttâspááppár~-pááppâr~-páppár~-páppâr ~ -päävir _ 
+7897 _ lähteikköpoimulehti _ še'lgishaamiträäSi~-rääsi -rääsi _ 
+7943 _ läpäisemätön _ jehhee~-jieh'hee _ 
+8004 _ maailmansota _ maailmsuáti -suáđi ~ -suá'đe _ 
+8012 _ maalaiskunta _ táálunkieldâ ~ -kundá _ 
+8026 _ maanjäristys _ eennâmtuá'rgástus~-tuá'rgástâs _ 
+8360 _ metsäalvejuuri _ meccikaaicârääSi~-rääsi -rääsi _ 
+8372 _ metsäkatinlieko _ meccikaasirääSi~-rääsi -rääsi _ 
+8395 _ metsäriidenlieko _ meccisoterääSi~-rääsi -rääsi _ 
+8433 _ miesjoukko _ a'lmaiválástâh~-válástoh~-válástuh -válástuv _ 
+8462 _ minuuttiviisari _ miinutviijsár~-vijsár _ 
+8559 _ mukulaleinikki _ ruo'tâsčalmemieđâš -miettâš ~ -mieđii _ 
+8579 _ munapesäke _ maNekuáti -kuáđi ~ -kuá'đe _ 
+8589 _ munuaispoimulehti _ manemušhaamiträäSi~-rääsi -rääsi _ 
+8671 _ mustatiira _ čapisčierrih~-čier'rih~-čerrih _ 
+8684 _ mustuvapaju _ čápudeijeepuájui ~ -puá'joi -poijuu _ 
+8786 _ myötäkäyminen _ mie'tikieđâkeevâd ~ -kie'đâkeevâd _ 
+8807 _ mäkitervakko _ miel'lipikkârääSi~-rääsi -rääsi _ 
+8933 _ napanuora _ näpičuáLi -čuáli ~ -čuá'le _ 
+9067 _ niittyvilla _ ullorääSi~-rääsi -rääsi _ 
+9110 _ niskakuoppa _ kazzer-~kazerräigi -rääigi _ 
+9153 _ nokikana _ kie'pâkääNi -kääni ~ -käne _ 
+9295 _ nurmihärkki _ syei'nisäpligrääSi~-rääsi -rääsi _ 
+9477 _ oikeusasia _ tiggeäšši -ääŠi ~ -ääši _ 
+9496 _ ojakellukka _ nijttokiäl'lurääSi~-rääsi -rääsi _ 
+9497 _ ojakärsämö _ ka'šnettitteerääSi~-rääsi -rääsi _ 
+9498 _ ojaleinikki _ raavimieđâš -miettâš ~ -mieđii _ 
+9535 _ omakotitalo _ peerâtááLu -táálu ~ -tálo _ 
+9657 _ osmankäämi _ šlubborääSi~-rääsi -rääsi _ 
+9698 _ outapaju _ vyev'dipuájui ~ -puá'joi -poijuu _ 
+9891 _ paksusuoli _ kossâčuáLi -čuáli ~ -čuá'le _ 
+9939 _ palkkatulo _ pälkkipuátu -puáđu ~ -puáđo _ 
+9946 _ pallea _ vuo'ivâsnjárččá -njáárčá~njá'rčá _ 
+9964 _ palpakko _ pu'škorääSi~-rääsi -rääsi _ 
+10043 _ paritalo _ paRâtááLu -táálu ~ -tálo _ 
+10306 _ peräsuoli _ pottâčuáLi -čuáli ~ -čuá'le _ 
+10406 _ piennarniittyleinikki _ kuo'Râfi'skisrääSi~-rääsi -rääsi _ 
+10421 _ pihakurjenpolvi _ šiljočuov'jisrääSi~-rääsi -rääsi _ 
+10423 _ pihasaunio _ jaamišpääNi -pääni ~ -päne _ 
+10519 _ pikkulaukku _ ruttârääSi~-rääsi -rääsi _ 
+10520 _ pikkuleinikki _ uccâmieđâš -miettâš ~ -mieđii _ 
+10537 _ pikkutervakko _ tuo'dârpikkârääSi~-rääsi -rääsi _ 
+10538 _ pikkutiira _ uccâčierrih~-čier'rih~-čerrih _ 
+10644 _ pistohanka _ peljipel ~ -peeLi -pele _ 
+10712 _ pohjanhoikkaängelmä _ tavepuál'ččimieđâš -miettâš ~ -mieđii _ 
+10717 _ pohjankatinlieko _ tavekaasirääSi~-rääsi -rääsi _ 
+10721 _ pohjanleinikki _ tavemieđâš -miettâš ~ -mieđii _ 
+10734 _ pohjanriidenlieko _ tavesoterääSi~-rääsi -rääsi _ 
+10759 _ pohjukaissuoli _ vuá'đugâščuáLi -čuáli ~ -čuá'le _ 
+10796 _ pojankoltiainen _ kandâlipáruvvâš -lipáruvvii ~ -libáruvvâš -libáruvvii _ 
+10891 _ porotila _ puá'suitááLu -táálu ~ -tálo _ 
+10904 _ poskihammas _ madâpääNi -pääni ~ -päne _ 
+11045 _ pullonkaula _ puttâlčeve -čiäppát~-čiäppât _ 
+11094 _ punatyvipoimulehti _ ruo'psishaamiträäSi~-rääsi -rääsi _ 
+11185 _ purolitukka _ ajâsuor'mâkuáti -kuáđi ~ -kuá'đe _ 
+11187 _ purorentukka _ ajâkollerääSi~-rääsi -rääsi _ 
+11243 _ puulämmitys _ muo'Râlieg'giittâs ~ -lieg'gim _ 
+11313 _ pystykiurunkannus _ ciä'guleivosiirääSi~-rääsi -rääsi _ 
+11372 _ -pä _ -gân~-kân _ 
+11400 _ päivällinen _ eeHidpurrâmâš~-purrâmuš _ 
+11402 _ päivänkakkara _ peivirääSi~-rääsi -rääsi _ 
+11467 _ pääruoka _ váldupurrâmâš~-purrâmuš _ 
+11493 _ päätulo _ uái'vipuátu -puáđu ~ -puáđo _ 
+11553 _ raakakumi _ algâ-~álgukumi _ 
+11555 _ raakarauta _ algâ-~álguryev'di -ryevdi _ 
+11556 _ raakaöljy _ algâ-~álguoljo -o'ljo _ 
+11589 _ raha-asia _ ruttâäšši -ääŠi ~ -ääši _ 
+11593 _ rahakukkaro _ ruttâpursâ~-purssâ -puursâ _ 
+11596 _ rahalaitos _ ruttâlágádâs ~ -lájádâs _ 
+11628 _ rahoituslaitos _ ruttâdemlágádâs ~ -lájádâs _ 
+11724 _ rantakana _ riddokääNi -kääni ~ -käne _ 
+11725 _ rantakanankaali _ riddokäNikaaLâ -kaalâ ~ riddokääNikaaLâ -kaalâ _ 
+11727 _ rantakukka _ riddorääSi~-rääsi -rääsi _ 
+11730 _ rantaleinikki _ riddomieđâš -miettâš ~ -mieđii _ 
+11731 _ rantalemmikki _ njettitäsnirääSi~-rääsi -rääsi _ 
+11733 _ rantaluhtalitukka _ riddosuor'mâkuáti -kuáđi ~ -kuá'đe _ 
+11740 _ rantarentukka _ riddokollerääSi~-rääsi -rääsi _ 
+11819 _ rauhanturvaaja _ ráávhutorvejeijee ~ -torvodeijee _ 
+11830 _ rautakala _ ryev'dikolmihâš -kolmiháá ~ ryev'dikuá'lmihâš -kuá'lmiháá _ 
+11858 _ ravustus _ rapupivdo -piivdo ~ -pi'vdo _ 
+11912 _ rentukka _ kollerääSi~-rääsi -rääsi _ 
+11960 _ riidenlieko _ soterääSi~-rääsi -rääsi _ 
+12007 _ rikkikääpä _ riššâčááNá -čááná ~ -čáná _ 
+12008 _ rikkileinikki _ riššâmieđâš -miettâš ~ -mieđii _ 
+12017 _ rikosasia _ rikosäšši -ääŠi ~ -ääši _ 
+12019 _ rikosjuttu _ rikosäšši -ääŠi ~ -ääši _ 
+12065 _ ripsiväri _ ramâsivne -iivne ~ -i'vne _ 
+12122 _ riuttatiira _ riddočierrih~-čier'rih~-čerrih _ 
+12202 _ ruiskaunokki _ ruvâšrääSi~-rääsi -rääsi _ 
+12303 _ ruostesiiventoukka _ ullomáátu -mááđu ~ máđo _ 
+12484 _ räyskä _ ráhučierrih~-čier'rih~-čerrih _ 
+12500 _ rönsyleinikki _ čaŋâdeijeerääSi~-rääsi -rääsi _ 
+12514 _ saakutti _ mie'Sârokke -rohe ~ mies'sârokke -rohe _ 
+12517 _ saamaton _ nakkanttim # -es ~ nakkanttem # -es _ 
+12528 _ saamelaistalo _ sämitááLu -táálu ~ -tálo _ 
+12639 _ salasana _ sye'LisääNi -sääni ~ -säne _ 
+12678 _ sammalvarpio _ vie'lgistoŋâsrääSi~-rääsi -rääsi _ 
+12786 _ satunnainen _ säti-~seti- _ 
+12787 _ satunnaislaji _ säti-~setišlaaJâ -šlaajâ _ 
+12850 _ seittitakiainen _ viermitarvaneddeerääSi~-rääsi -rääsi _ 
+12862 _ sekaparvi _ siä'hálâsmuáti -muáđi ~ -muá'đe _ 
+13063 _ siirtotyöläinen _ siirdolâš-~sirdolâšpargee _ 
+13083 _ siittiöpesäke _ šovâttemkuáti -kuáđi ~ -kuá'đe _ 
+13134 _ silkkipoimulehti _ čyev'veehaamiträäSi~-rääsi -rääsi _ 
+13168 _ silmäripset _ čalmerommâseh~-rammâseh _ 
+13183 _ simpukka _ rippokuáti -kuáđi ~ -kuá'đe _ 
+13271 _ sisällissota _ si'skáldâssuáti -suáđi ~ -suá'đe _ 
+13334 _ sivutulo _ uál'gipuátu -puáđu ~ -puáđo _ 
+13460 _ sormustin _ suor'mâkuáti -kuáđi ~ -kuá'đe _ 
+13552 _ suikerohanhikki _ fi'skissuor'mârääSi~-rääsi -rääsi _ 
+13675 _ suolakalapuura _ sälttikye'Lipuvre -puuvre ~ -pu'vre _ 
+13701 _ suomenlumme _ suomâluobbâsk~-luubbâsk _ 
+13718 _ suo-ohdake _ jeggikuobžârääSi~-rääsi -rääsi _ 
+13903 _ syntiinlankeemus _ suudonjuRâlem ~ -juurrâm _ 
+13914 _ syrjätalo _ meččitááLu -táálu ~ -tálo _ 
+14085 _ säärilihas _ čuož'žâmâs-~čuáž'žumâstekki -teehi _ 
+14235 _ takahammas _ madâpääNi -pääni ~ -päne _ 
+14272 _ takiainen _ tarvaneddeerääSi~-rääsi -rääsi _ 
+14331 _ talvikkipaju _ talviipuájui ~ -puá'joi -poijuu _ 
+14332 _ talvikota _ ta'lvâskuáti -kuáđi ~ -kuá'đe _ 
+14609 _ terhi _ peljirääSi~-rääsi -rääsi _ 
+14644 _ terveysside _ máNutavdâčonâstâh~čonâstoh~čonâstuh -čonâstuv _ 
+14645 _ terveystalo _ tie'rvâsvuođâtááLu -táálu ~ -tálo _ 
+14659 _ terävälovipoimulehti _ cekkihaamiträäSi~-rääsi -rääsi _ 
+15024 _ tuhkapaju _ kunnâpuájui ~ -puá'joi -poijuu _ 
+15040 _ tuhohyönteinen _ pilletivre -ti'vre ~ -tiivre _ 
+15162 _ tunnussana _ tu'bdâldâhsääNi -sääni ~ -säne _ 
+15172 _ tuntiviisari _ tijmeviijsár~-vijsár _ 
+15187 _ tunturihärkki _ väRisäpligrääSi~-rääsi -rääsi _ 
+15189 _ tunturikalvaspaju _ tuo'dârpuájui ~ -puá'joi -poijuu _ 
+15207 _ tunturiniittyleinikki _ tuo'dârfi'skisrääSi~-rääsi -rääsi _ 
+15217 _ tunturipoimulehti _ čiev'râhaamiträäSi~-rääsi -rääsi _ 
+15235 _ tuoksualvejuuri _ haJâkaaicârääSi~-rääsi -rääsi _ 
+15255 _ tuomiorovasti _ tuá'Muruávást ~ -ruávvást _ 
+15280 _ tupasvilla _ ullorääSi~-rääsi -rääsi _ 
+15382 _ tuulenpitävä _ pieg'gâjehhee~-jieh'hee _ 
+15451 _ typäskääpä _ haŋkkâčááNá -čááná ~ -čáná _ 
+15484 _ työansio _ pargotiänás -tiännás ~ pargotienâs -tiennâs _ 
+15549 _ työtulo _ pargopuátu -puáđu ~ -puáđo _ 
+15590 _ tällä kertaa _ -gis~-ges ~ -kis~-kes _ 
+15772 _ ulpukka _ fi'skisluobbâsk~-luubbâsk ~ vi'skisluobbâsk~-luubbâsk _ 
+15802 _ unikko _ oijâgâsrääSi~-rääsi -rääsi _ 
+15812 _ untuvapilvi _ piegâkozzâ -koozâ ~ pieg'gâkozzâ -koozâ _ 
+15888 _ uudissana _ uđâssääNi -sääni ~ -säne _ 
+16070 _ vaivero _ jeggitoŋâsrääSi~-rääsi -rääsi _ 
+16081 _ vakaus _ stäđisvuotâ stäđisvuođâ ~ stäđesvuotâ -vuođâ _ 
+16168 _ valkoposkitiira _ vie'lgisnie'rčierrih~-čier'rih~-čerrih _ 
+16173 _ valkosiipitiira _ vie'lgissuá'jáčierrih~-čier'rih~-čerrih _ 
+16200 _ valoaalto _ čuo'VâpááRu -pááru ~ páro _ 
+16335 _ varattomuus _ värittemesvuotâ värittemesvuođâ ~ värittesvuotâ -vuođâ _ 
+16665 _ verotulo _ viä'Rupuátu -puáđu ~ -puáđo _ 
+16720 _ vesiraukka _ čääsiravgâ -raavgâ ~ čäciravgâ -raavgâ _ 
+16737 _ vesiväri _ čäci-ivne -iivne ~ -i'vne _ 
+16837 _ viherpeippo _ ruánáápiäi'ppáin~-piäi'ppâin -piä'ipánjeh~-piä'ipânjeh _ 
+16889 _ viiksi- _ njäävvil- ~ njävil- _ 
+16931 _ viisaudenhammas _ vi'jsesvuođâpääNi -pääni ~ -päne _ 
+17067 _ virka-asia _ virgeäšši -ääŠi ~ -ääši _ 
+17096 _ virpapaju _ tijdâpuájui ~ -puá'joi -poijuu _ 
+17159 _ voikukka _ vuo'JârääSi~-rääsi -rääsi _ 
+17169 _ voimala _ vyei'milágádâs ~ -lájádâs _ 
+17229 _ vuorihaurasloikko _ väRisuoi'vuurääSi~-rääsi -rääsi _ 
+17329 _ väinönputki _ puurrâmrääSi~-rääsi -rääsi _ 
+17343 _ väkilannoite _ vie'hâkoolvâ -kolvuu ~ -suvle -su'vle _ 
+17460 _ ydinvoimalaitos _ vá'imusvyei'milágádâs ~ -lájádâs _ 
+17628 _ ylioppilastutkinto _ paJeuáp'peetu'đhos -tutkos ~ to'đhos -totkos _ 
+17683 _ ympyräsuinen _ jurbânjáálmâg~-njáálmág _ 
+17733 _ yömyssy _ ijjâcerkki -ceerhi ~ -cerkkâ -ceerhâ _ 
+17744 _ zoom-objektiivi _ zoom-objektiiv~-objektiv _ 
+17778 _ änkyrimato _ ka'šmârmáátu -mááđu ~ -máđo _ 
+17847 _ öljyväri _ oljoivne -iivne ~ -i'vne _ 

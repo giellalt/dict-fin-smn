@@ -72,7 +72,7 @@
 </xsl:function>
 
 
-  <xsl:param name="flag" select="'c'"/>
+  <xsl:param name="flag" select="'a'"/>
   <xsl:param name="inDir" select="concat($flag,'_1_xml_input')"/>
   <xsl:param name="outDir" select="concat('out_',$flag,'_2_gtxml')"/>
   <xsl:variable name="of" select="'xml'"/>
@@ -109,6 +109,7 @@
 	    <e id="{./@id}">
 	      <lg>
 		<l pos="">
+		  <xsl:copy-of select="$current_e/p[./@id='1']/@*[not(local-name()='id')]"/>
 		  <xsl:value-of select="normalize-space(./p[./@id='1'])"/>
 		</l>
 	      </lg>
@@ -304,6 +305,8 @@
 			      <xsl:value-of select="$attr"/>
 			    </xsl:attribute>
 			  </xsl:if>
+			  <xsl:copy-of select="$current_e/p[./@id='2']/@*[not(local-name()='id')]"/>
+
 			  <xsl:value-of select="normalize-space($r_r_r_r_r)"/>
 			</t>
 

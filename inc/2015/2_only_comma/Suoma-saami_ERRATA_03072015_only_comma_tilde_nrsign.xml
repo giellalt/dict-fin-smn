@@ -155,7 +155,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">neppir~näppir # -is</t>
+            <t pos="">neppir # -is ~näppir # -is</t> _C_
             <t pos="">veessil # veSilis_AT_veSilâs</t>
          </tg>
       </mg>
@@ -323,7 +323,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">viijses vijssás~vijssá ~ vijsá # vi'jses</t>
+            <t pos="">viijses vijssás # vi'jses ~vijssá # vi'jses ~ vijsá # vi'jses</t> _C_
             <t pos="" attr="# -s">jiär'máá</t>
          </tg>
       </mg>

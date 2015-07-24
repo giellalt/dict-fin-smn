@@ -38,7 +38,7 @@
       </mg>
       <mg id="7">
          <tg xml:lang="smn">
-            <t pos="" l_par="sarven">särgim (haaralla) syereel</t>
+            <t pos="" l_par="sarven">särgim, (haaralla) syereel</t> _COMMA_
          </tg>
       </mg>
    </e>
@@ -63,7 +63,7 @@
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="" l_par="altahanka">skivŋe skiivŋe (hanka alla) vye'ldi- ~ vyel'nihaŋgâ -haaŋgâ</t>
+            <t pos="" l_par="altahanka">skivŋe skiivŋe, (hanka alla) vye'ldi- ~ vyel'nihaŋgâ -haaŋgâ</t> _COMMA_
             <t pos="" syn_dash="-haaŋgâ">maajeeldhaŋgâ</t>
             <t pos="">skivŋe skiivŋe</t>
             <t pos="" syn_dash="-skiivŋe">kieš'kâskivŋe</t>
@@ -93,7 +93,7 @@
             <t pos="">häänis ~ hänes háánnás # hänis~hänes</t>
             <t pos="" attr="# sáiđáá">säiđi sääiđi</t>
             <t pos="" attr="# käcis">käcci kääci</t>
-            <t pos="">tiivâs tiivvâs (tulla itaraksi) káccuđ káácum</t>
+            <t pos="">tiivâs tiivvâs, (tulla itaraksi) káccuđ káácum</t> _COMMA_
             <t pos="">háánnuđ hánum hááNu</t>
          </tg>
       </mg>
@@ -117,7 +117,7 @@
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="" l_par="ilmaan">luptâniđ (pystyyn) ceggâniđ ceggân</t>
+            <t pos="" l_par="ilmaan">luptâniđ, (pystyyn) ceggâniđ ceggân</t> _COMMA_
          </tg>
       </mg>
       <mg id="3">
@@ -167,7 +167,7 @@
       </mg>
       <mg id="7">
          <tg xml:lang="smn">
-            <t pos="" l_par="panna kuivumaan erit. riu'ulle">(akt.) suhčâdiđ</t>
+            <t pos="" l_par="panna kuivumaan erit. riu'ulle">(akt.) suhčâdiđ</t> _WHAT_
             <t_tld>~ čuhčâdiđ</t_tld>
             <t pos="" l_par="pass.">suhčâduđ</t>
             <t_tld>~ čuhčâduđ čuhčâduum čuhčâduVá</t_tld>
@@ -251,7 +251,7 @@
       </mg>
       <mg id="13">
          <tg xml:lang="smn">
-            <t pos="" l_par="tulla pienimahaiseksi">čuá'vjittuđ čuá'vjittuum čuá'vjittuVá (tulla pienimahaiseksi eläimestä) čuá'littuđ čuá'littuVá</t>
+            <t pos="" l_par="tulla pienimahaiseksi">čuá'vjittuđ čuá'vjittuum čuá'vjittuVá, (tulla pienimahaiseksi eläimestä) čuá'littuđ čuá'littuVá</t> _COMMA_
          </tg>
       </mg>
    </e>
@@ -268,7 +268,7 @@
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="" l_par="peuroja keväällä" attr="# -s">vuáv'nuđ vuávnum (innokas metsästämään) pivduu</t>
+            <t pos="" l_par="peuroja keväällä" attr="# -s">vuáv'nuđ vuávnum, (innokas metsästämään) pivduu</t> _COMMA_
          </tg>
       </mg>
    </e>
@@ -339,7 +339,7 @@
       </mg>
       <mg id="13">
          <tg xml:lang="smn">
-            <t pos="" l_par="nahan läpi luista laihalla ihmisellä">párccáđ párccáám (sopia paistamiseen) pasettiđ passeet</t>
+            <t pos="" l_par="nahan läpi luista laihalla ihmisellä">párccáđ párccáám, (sopia paistamiseen) pasettiđ passeet</t> _COMMA_
          </tg>
       </mg>
    </e>
@@ -360,7 +360,7 @@
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="" l_par="palvelu-">palvâlem- (palveluksessa) palvâlusâst</t>
+            <t pos="" l_par="palvelu-">palvâlem-, (palveluksessa) palvâlusâst</t> _COMMA_
          </tg>
       </mg>
    </e>
@@ -383,7 +383,7 @@
          <tg xml:lang="smn">
             <t pos="" l_par="esim. tilaisuus">maasâdkeessiđ</t>
             <t pos="">mu'rdettiđ murdeet</t>
-            <t pos="">joskâđ orniimist (hän peruuttaa ehdotuksensa) sun kiäsá maasâd iä'vtuttâsâs</t>
+            <t pos="">joskâđ orniimist, (hän peruuttaa ehdotuksensa) sun kiäsá maasâd iä'vtuttâsâs</t> _COMMA_
             <t pos="">sun kiä'sádat iä'vtuttâsâst</t>
          </tg>
       </mg>
@@ -407,7 +407,7 @@
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="" l_par="pettää">pettiđ piätám piät'tá (tulla petkutetuksi) filliittâttâđ filliittât</t>
+            <t pos="" l_par="pettää">pettiđ piätám piät'tá, (tulla petkutetuksi) filliittâttâđ filliittât</t> _COMMA_
             <t pos="">petittâttâđ petittât</t>
             <t pos="">pettuđ pettuum</t>
             <t pos="">manâttâttâđ manâttât</t>
@@ -440,7 +440,7 @@
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="" l_par="tietynlaisia säitä">anneeđ (+ akk.) (pitää sateita) anneeđ oorvijd</t>
+            <t pos="" l_par="tietynlaisia säitä">anneeđ (+ akk.), (pitää sateita) anneeđ oorvijd</t> _COMMA_
          </tg>
       </mg>
       <mg id="6">
@@ -466,7 +466,7 @@
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="" l_par="panna kuivumaan erit. riu'ulle">(akt.) suhčâdiđ</t>
+            <t pos="" l_par="panna kuivumaan erit. riu'ulle">(akt.) suhčâdiđ</t> _WHAT_
             <t_tld>~ čuhčâdiđ</t_tld>
             <t pos="" l_par="pass.">suhčâduđ</t>
             <t_tld>~ čuhčâduđ čuhčâduum čuhčâduVá</t_tld>
@@ -510,7 +510,7 @@
       </mg>
       <mg id="7">
          <tg xml:lang="smn">
-            <t pos="" l_par="ohjeita _COMMA_ noudattaa">paittuđ paittuum páittoo (lähteä seuraamaan) čuá'Vuliđ čuávvul</t>
+            <t pos="" l_par="ohjeita _COMMA_ noudattaa">paittuđ paittuum páittoo, (lähteä seuraamaan) čuá'Vuliđ čuávvul</t> _COMMA_
          </tg>
       </mg>
       <mg id="8">
@@ -537,7 +537,7 @@
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="" l_par="pidemmän aikaa">cuáv'kkuđ cuávhum (särkeä t. vaihtaa rahaa pienemmäksi) cuov'kkiđ cuov'kkiim cyev'kkee</t>
+            <t pos="" l_par="pidemmän aikaa">cuáv'kkuđ cuávhum, (särkeä t. vaihtaa rahaa pienemmäksi) cuov'kkiđ cuov'kkiim cyev'kkee</t> _COMMA_
          </tg>
       </mg>
       <mg id="3">
@@ -552,7 +552,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">tiettiđ tiä'đám ij tie'đe (tietää _COMMA_ ennustaa jtak kun palava halko vierii esim. pois tulesta) viä'lgášiđ viälgáš</t>
+            <t pos="">tiettiđ tiä'đám ij tie'đe,  (tietää _COMMA_ ennustaa jtak kun palava halko vierii esim. pois tulesta) viä'lgášiđ viälgáš</t> _COMMA_
          </tg>
       </mg>
       <mg id="2">
@@ -587,7 +587,7 @@
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="" l_par="sangallinen">kyeš'ši kyeŠi (tehdä tuohiastia t. ommella tuohisia verkonpainoja) kupsâđ kuupsâm</t>
+            <t pos="" l_par="sangallinen">kyeš'ši kyeŠi, (tehdä tuohiastia t. ommella tuohisia verkonpainoja) kupsâđ kuupsâm</t> _COMMA_
          </tg>
       </mg>
    </e>

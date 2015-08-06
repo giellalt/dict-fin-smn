@@ -72,7 +72,7 @@
 </xsl:function>
 
 
-  <xsl:param name="flag" select="'c'"/>
+  <xsl:param name="flag" select="'b'"/>
   <xsl:param name="inDir" select="concat($flag,'_1_xml_input')"/>
   <xsl:param name="outDir" select="concat('out_',$flag,'_2_gtxml')"/>
   <xsl:variable name="of" select="'xml'"/>
@@ -224,9 +224,15 @@
 
 			<xsl:variable name="syn_tilde"
 				      select="
-					      if (contains($r2,
+					      if ((contains($r2,
 					      '~') and
-					      not(contains($r2,'-') or contains($r2,'#')))
+					      not(contains($r2,'-')))
+					      or
+					      (contains($r2,
+					      '~') and
+					      contains($r2,'-')
+					      and
+					      contains($r2,'#')))
 					      then
 					      normalize-space(substring($r2,functx:index-of-string-first($r2,'~')))
 					      else ()
@@ -234,9 +240,15 @@
 			
 			<xsl:variable name="r3"
 				      select="
-					      if (contains($r2,
+					      if ((contains($r2,
 					      '~') and
-					      not(contains($r2,'-') or contains($r2,'#')))
+					      not(contains($r2,'-')))
+					      or
+					      (contains($r2,
+					      '~') and
+					      contains($r2,'-')
+					      and
+					      contains($r2,'#')))
 					      then
 					      substring($r2,1,functx:index-of-string-first($r2,'~')-1)
 					      else ($r2)

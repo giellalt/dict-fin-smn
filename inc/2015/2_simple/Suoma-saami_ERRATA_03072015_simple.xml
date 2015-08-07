@@ -18630,7 +18630,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">huá'lssáá # -s ~ huál'ššáá # -s</t>
+            <t pos="" attr="# -s" t_tld="~ huál'ššáá # -s">huá'lssáá</t>
          </tg>
       </mg>
    </e>
@@ -83103,7 +83103,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">nakkanttim # -es ~ nakkanttem # -es</t>
+            <t pos="" attr="# -es" t_tld="~ nakkanttem # -es">nakkanttim</t>
          </tg>
       </mg>
    </e>

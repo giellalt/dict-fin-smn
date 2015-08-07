@@ -72,7 +72,7 @@
 </xsl:function>
 
 
-  <xsl:param name="flag" select="'b'"/>
+  <xsl:param name="flag" select="'a'"/>
   <xsl:param name="inDir" select="concat($flag,'_1_xml_input')"/>
   <xsl:param name="outDir" select="concat('out_',$flag,'_2_gtxml')"/>
   <xsl:variable name="of" select="'xml'"/>
@@ -185,13 +185,12 @@
 		    <xsl:for-each select="tokenize($corrected_t, ',')">
 		      <xsl:variable name="c_t" select="normalize-space(.)"/>
 		      <xsl:if test="not($c_t='')">
-
-      <xsl:if test="true()">
-	<xsl:message terminate="no">
-	  <xsl:value-of select="concat('t XXX ', $corrected_t, $nl)"/>
-	</xsl:message>
-      </xsl:if>
-
+			
+			<xsl:if test="false()">
+			  <xsl:message terminate="no">
+			    <xsl:value-of select="concat('t XXX ', $corrected_t, $nl)"/>
+			  </xsl:message>
+			</xsl:if>
 			
 			<xsl:variable name="l_par"
 				      select="
@@ -294,6 +293,89 @@
 					      else ($r4)
 					      "/>
 
+			<!-- tilde-dash issue still not resolved:
+			     that's why the not-conditions -->
+			<xsl:variable name="word_form"
+				      select="
+					      if (contains($r5,
+					      ' ') and
+					      not(contains($r5,'~') or contains($r5,'-'))
+					      and
+					      not($current_e/p[./@id='2'][./@mwe])
+					      and
+					      not(contains($r5,'_MWEy_')))
+					      then
+					      normalize-space(substring(
+					      $r5,
+					      functx:index-of-string-first($r5,' ')+1,string-length($r5)))
+					      else ()
+					      "/>
+			
+			<xsl:variable name="r6"
+				      select="
+					      if (contains($r5,
+					      ' ') and
+					      not(contains($r5,'~') or contains($r5,'-'))
+					      and
+					      not($current_e/p[./@id='2'][./@mwe])
+					      and
+					      not(contains($r5,'_MWEy_')))
+					      then
+					      normalize-space(substring(
+					      $r5, 1,
+					      functx:index-of-string-first($r5,' ')))
+					      else ($r5)
+					      "/>
+
+			<xsl:variable name="mwe_word_form">
+			  <xsl:if test="$current_e/p[./@id='2'][./@mwe]
+					and not($current_e/p[./@id='2'][./@mwe='y'])">
+			    <xsl:variable name="counter"
+					  select="number($current_e/p[./@id='2']/@mwe)"/>
+			    <xsl:for-each select="tokenize($r6, ' ')">
+			      <xsl:variable name="c_p" select="position()"/>
+			      <xsl:if test="number($c_p) &gt; number($counter)">
+				<xsl:value-of select="concat(., ' ')"/>
+			      </xsl:if>
+			      
+			    </xsl:for-each>
+			  </xsl:if>
+
+			  <xsl:if test="not($current_e/p[./@id='2'][./@mwe]
+					and not($current_e/p[./@id='2'][./@mwe='y']))">
+			    <xsl:value-of select="''"/>
+			  </xsl:if>
+			</xsl:variable>
+
+			<xsl:variable name="r7">
+			  <xsl:if test="$current_e/p[./@id='2'][./@mwe]
+					and not($current_e/p[./@id='2'][./@mwe='y'])">
+			    <xsl:variable name="counter"
+					  select="number($current_e/p[./@id='2']/@mwe)"/>
+			    <xsl:for-each select="tokenize($r6, ' ')">
+			      <xsl:variable name="c_p" select="position()"/>
+			      <xsl:if test="$c_p &lt;= $counter">
+				<xsl:value-of select="concat(., ' ')"/>
+			      </xsl:if>
+			    </xsl:for-each>
+			    
+			  </xsl:if>
+
+			  <xsl:if test="not($current_e/p[./@id='2'][./@mwe]
+					and not($current_e/p[./@id='2'][./@mwe='y']))">
+			    <xsl:value-of select="$r6"/>
+			  </xsl:if>
+
+			</xsl:variable>
+
+			<xsl:if test="not($mwe_word_form='')">
+			  <xsl:message terminate="no">
+			    <xsl:value-of
+				select="concat($mwe_word_form,' __ ', $r7, ' _ ', ., $nl)"/>
+			  </xsl:message>
+			</xsl:if>
+			
+			
 			<t pos="">
 			  <xsl:if test="not(normalize-space($l_par)='')">
 			    <xsl:attribute name="l_par">
@@ -320,8 +402,26 @@
 			      <xsl:value-of select="normalize-space($syn_tilde)"/>
 			    </xsl:attribute>
 			  </xsl:if>
+			  <xsl:if
+			      test="not(normalize-space($word_form)='')
+				    or
+				    not(normalize-space($mwe_word_form)='')">
+			    <xsl:attribute name="wf">
+			      <xsl:value-of
+				  select="concat(normalize-space($word_form),
+					  normalize-space($mwe_word_form))"/>
+			    </xsl:attribute>
+			  </xsl:if>
+			  <!-- after all cleanup mwe-attributes can be
+			       then fitered out -->
+			  <!--xsl:copy-of select="$current_e/p[./@id='2']/@*[not(local-name()='id')][not(local-name()='mwe')]"/-->
+			  <xsl:if test="contains($r7, '_MWEy_')">
+			    <xsl:attribute name="mwe">
+			      <xsl:value-of select="'y'"/>
+			    </xsl:attribute>
+			  </xsl:if>
 			  <xsl:copy-of select="$current_e/p[./@id='2']/@*[not(local-name()='id')]"/>
-			  <xsl:value-of select="normalize-space($r5)"/>
+			  <xsl:value-of select="normalize-space(replace($r7, '_MWEy_', ''))"/>
 			</t>
 			
 		      </xsl:if>

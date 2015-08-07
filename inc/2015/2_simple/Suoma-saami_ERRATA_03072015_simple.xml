@@ -17915,17 +17915,6 @@
          </tg>
       </mg>
    </e>
-   <e id="2743">
-      <lg>
-         <l pos="" r1_par="(veri)">hyytymä</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="" t_tld="~káđáldoh káđálduv ~káđálduh káđálduv" wf="káđálduv">káđáldâh</t>
-            <t pos="" t_tld="~káláldâh kálálduv ~káláldoh kálálduv" wf="kálálduv">kálálduh</t>
-         </tg>
-      </mg>
-   </e>
    <e id="2744">
       <lg>
          <l pos="">hyytyä</l>
@@ -66160,17 +66149,6 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="" syn_dash="-na'rte">snäldeenartte</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="10016">
-      <lg>
-         <l pos="">paperi</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="" wf="pááppár pápáreh">päävir</t>
-            <t pos="" t_tld="~pááppâr~páppár~páppâr">pááppár</t>
          </tg>
       </mg>
    </e>

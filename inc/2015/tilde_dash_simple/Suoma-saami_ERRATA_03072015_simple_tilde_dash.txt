@@ -66,7 +66,7 @@
 2997 _ ilmankostutin _ áimulahtâdeijee ~ áimulahtâdijjee _ C_
 3008 _ ilmapuolustus _ áimusuo'Jâlus ~ áimusuo'Jâlâs _ C_
 3030 _ ilmestysmaja _ tuo'đâštuskuáti -kuáđi _FT_ -kuá'đe _ C_
-3041 _ ilmoitusasia _ tie'đettemäšši -ääŠi _FT -ääši _ C_
+3041 _ ilmoitusasia _ tie'đettemäšši -ääŠi _FT_ -ääši _ C_
 3050 _ ilotulitusraketti _ hiä'rvástâllâmraageet -raggeet ~ hiä'rvástâllâmraakeet -rakkeet _ C_
 3169 _ isolaukku _ syei'niruttârääSi~syei'niruttârääsi -rääsi _ C_
 3181 _ isorysä _ stuor'râlääNi -lääni _FT_ -läne _ C_
@@ -98,7 +98,7 @@
 4682 _ kehtolaulu _ vuát'tumlivđe -li'vđe _FT_ -liivđe _ C_
 4689 _ kehäkukka _ kiär'durääSi~kiär'durääsi -rääsi _ C_
 4720 _ keisarinna _ kiäi'sárroonnig ~ kiäi'sárkunâgâtâr _ C_
-4728 _ keittokota _ lie'mâskuáti -kuáđi _FT- -kuá'đe _ C_
+4728 _ keittokota _ lie'mâskuáti -kuáđi _FT_ -kuá'đe _ C_
 4787 _ keltakannusruoho _ kiär'ppáárääSi~kiär'ppáárääsi -rääsi _ C_
 4819 _ keminängelmä _ kiemâpuál'ččimieđâš -miettâš _FT_ -mieđii _ C_
 4839 _ kenttämittarin toukka _ lye'memáátu -mááđu _FT_ -máđo _ C_

@@ -25,16 +25,16 @@
 508 _ ammattitulo _ áámmátpuátu -puáđu _FT_ -puáđo _ C_
 518 _ ampiaispesä _ viäp'sákuáti -kuáđi _FT_ -kuá'đe _ C_
 525 _ ampumasuoja _ perttumkuáti -kuáđi _FT_ -kuá'đe _ C_
-631 _ armoateria _ ármumäälis -máállás_FT_-máállâs _ C_
+631 _ armoateria _ ármumäälis -máállás _FT_ -máállâs _ C_
 683 _ arvosana _ árvusääNi -sääni _FT_ -säne _ C_
 727 _ asiapaperi _ äššipáppár ~ äššipááppár ~ äššipááppâr ~ äššipäävir -pááppár _ C_
 768 _ asumistiheys _ aassâmtávjudâh~aassâmtávjudoh~aassâmtávjuduh -távjuduv _ C_
 803 _ auringonkukka _ piäi'váárääSi~piäi'váárääsi -rääsi _ C_
 842 _ avainsana _ čoovdâsääNi -sääni _FT_ -säne _ C_
-862 _ aviorikos _ näimirikos -rikkos_FT_rikkoos _ C_
+862 _ aviorikos _ näimirikos -rikkos _FT_ rikkoos _ C_
 1211 _ epäluotettava _ epilye'tittettee~epilye'tittijjee _ C_
 1321 _ erotuomari _ iä'Rutuámmár~iä'Rutuámmâr _ C_
-1326 _ eräopas _ mecciuápis -uáp'pá_FT_uáp'pás _ C_
+1326 _ eräopas _ mecciuápis -uáp'pá _FT_ uáp'pás _ C_
 1433 _ etuhammas _ ovdâpääNi -pääni _FT_ -päne _ C_
 1465 _ etäpesäke _ ká'iduskuáti -kuáđi _FT_ -kuá'đe _ C_
 1478 _ euroopanmajava _ euroopmaaijuv~ euroopmaijuu _ C_
@@ -43,11 +43,11 @@
 1901 _ harvahammaspoimulehti _ ajâhaamiträäSi~ajâhaamiträäsi -rääsi _ C_
 1935 _ haurasloikko _ suoi'vuurääSi~suoi'vuurääsi -rääsi _ C_
 1963 _ havumaja _ kuác'ceekuáti -kuáđi _FT_ -kuá'đe _ C_
-2011 _ heinähäkki _ syei'nihekki -heehi_FT_-heeki _ C_
+2011 _ heinähäkki _ syei'nihekki -heehi _FT_ -heeki _ C_
 2017 _ heinäpuura _ syei'nipuvre -puuvre _FT_ -pu'vre _ C_
 2026 _ heisimato _ läbžimáátu -mááđu _FT_ -máđo _ C_
 2041 _ helatorstai _ hellâtuo'râstâh -tuo'râstuv ~ hellâturâstuh -turâstuv _ C_
-2126 _ henkirikos _ jieg'gârikos -rikkos_FT_-rikkoos _ C_
+2126 _ henkirikos _ jieg'gârikos -rikkos _FT_ -rikkoos _ C_
 2141 _ herastuomari _ hiäRástuámmár~hiäRástuámmâr _ C_
 2250 _ hietatiira _ čunoičierrih~čunoičier'rih~čunoičerrih _ C_
 2252 _ hietikkopaju _ čunoipuájui ~ čunoipuá'joi -poijuu _ C_
@@ -62,7 +62,7 @@
 2901 _ idänniittyleinikki _ nuor'ttâfi'skisrääSi~nuor'ttâfi'skisrääsi -rääsi _ C_
 2929 _ ihonväri _ liškeivne -iivne _FT_ -i'vne _ C_
 2942 _ ikkunankaavin _ laSâfoskâm~laSâvoskâm _ C_
-2981 _ illallinen _ ehidâsmäälis -máállás_FT_-máállâs _ C_
+2981 _ illallinen _ ehidâsmäälis -máállás _FT_ -máállâs _ C_
 2997 _ ilmankostutin _ áimulahtâdeijee ~ áimulahtâdijjee _ C_
 3008 _ ilmapuolustus _ áimusuo'Jâlus ~ áimusuo'Jâlâs _ C_
 3030 _ ilmestysmaja _ tuo'đâštuskuáti -kuáđi _FT_ -kuá'đe _ C_
@@ -88,7 +88,7 @@
 4163 _ kalvaspaju _ kuo'vgispuájui ~ kuo'vgispuá'joi -poijuu _ C_
 4214 _ kangasmaitikka _ kuolbâmiälkus~kuolbâmiälhus -miäl'kkus _ C_
 4250 _ kansalaissota _ aalmuglâšsuáti -suáđi _FT_ -suá'đe _ C_
-4283 _ kansitiiviste _ lokketo'vkos -tovkkos_FT_-to'vhos _ C_
+4283 _ kansitiiviste _ lokketo'vkos -tovkkos _FT_ -to'vhos _ C_
 4309 _ kantokääpä _ kuá'duičááNá -čááná _FT_ -čáná _ C_
 4340 _ karhunpyynti _ kuob'žâpivdo -piivdo _FT_ -pi'vdo _ C_
 4363 _ karjatalo _ šiiveettááLu -táálu _FT_ -tálo _ C_
@@ -114,7 +114,7 @@
 5142 _ kiiltomato _ kildeemáátu -mááđu _FT_ -máđo _ C_
 5343 _ kirjopillike _ kiirjâgrääSi~kiirjâgrääsi -rääsi _ C_
 5354 _ kirkiruoho _ myer'sseerääSi~myer'sseerääsi -rääsi _ C_
-5407 _ kissakala _ meRâkissá -kiSá_FT_-kisá _ C_
+5407 _ kissakala _ meRâkissá -kiSá _FT_ -kisá _ C_
 5469 _ kivikkoalvejuuri _ juo'VâkaaicârääSi~juo'Vâkaaicârääsi -rääsi _ C_ 
 5557 _ koiranputki _ pennuurääSi~pennuurääsi -rääsi _ C_
 5707 _ konnanleinikki _ skeelmâmieđâš -miettâš _FT_ -mieđii _ C_
@@ -137,7 +137,7 @@
 6993 _ lapinleinikki _ säämimieđâš -miettâš _FT_ -mieđii _ C_
 6994 _ lapinlemmikki _ rototäsnirääSi~rototäsnirääsi -rääsi _ C_
 7007 _ lapintalo _ sämitááLu -táálu _FT_ -tálo _ C_
-7036 _ lasiainen _ čalmekákká -kááhá_FT_-káhá_FT_-káká _ C_
+7036 _ lasiainen _ čalmekákká -kááhá _FT_ -káhá_FT_-káká _ C_
 7072 _ lattaviila _ tuol'bâfijlo -fi'jlo _FT_ -fiijlo _ C_
 7134 _ lehmännahka _ kuusâčevđi~kusâčevđi -čeevđi _ C_
 7150 _ lehtimaja _ lostâkuáti -kuáđi _FT_ -kuá'đe _ C_
@@ -154,7 +154,7 @@
 7349 _ liero _ muldemáátu -mááđu _FT_ -máđo _ C_
 7511 _ lisätulo _ laSepuátu -puáđu _FT_ -puáđo _ C_
 7629 _ loskakeli _ suáv'lisijvo~šuáv'lisijvo -siijvo _ C_
-7643 _ lounas _ peivimäälis -máállás_FT_-máállâs _ C_
+7643 _ lounas _ peivimäälis -máállás _FT_ -máállâs _ C_
 7656 _ luhtakana _ luhteekääNi -kääni _FT_ -käne _ C_
 7659 _ luhtalemmikki _ jeggitäsnirääSi~jeggitäsnirääsi -rääsi _ C_
 7660 _ luhtalitukka _ jeggisuor'mâkuáti -kuáđi _FT_ -kuá'đe _ C_
@@ -179,7 +179,7 @@
 8684 _ mustuvapaju _ čápudeijeepuájui ~ čápudeijeepuá'joi -poijuu _ C_
 8786 _ myötäkäyminen _ mie'tikieđâkeevâd ~ mie'tikie'đâkeevâd _ C_
 8807 _ mäkitervakko _ miel'lipikkârääSi~miel'lipikkârääsi -rääsi _ C_
-8933 _ napanuora _ näpičuáLi -čuáli _FT_-čuá'le _ C_
+8933 _ napanuora _ näpičuáLi -čuáli _FT_ -čuá'le _ C_
 9067 _ niittyvilla _ ullorääSi~ullorääsi -rääsi _ C_
 9110 _ niskakuoppa _ kazzerräigi~kazerräigi -rääigi _ C_
 9153 _ nokikana _ kie'pâkääNi -kääni _FT_ -käne _ C_
@@ -193,7 +193,7 @@
 9698 _ outapaju _ vyev'dipuájui ~ vyev'dipuá'joi -poijuu _ C_
 9891 _ paksusuoli _ kossâčuáLi -čuáli _FT_ -čuá'le _ C_
 9939 _ palkkatulo _ pälkkipuátu -puáđu _FT_ -puáđo _ C_
-9946 _ pallea _ vuo'ivâsnjárččá -njáárčá_FT_njá'rčá _ C_
+9946 _ pallea _ vuo'ivâsnjárččá -njáárčá _FT_ njá'rčá _ C_
 9964 _ palpakko _ pu'škorääSi~pu'škorääsi -rääsi _ C_
 10043 _ paritalo _ paRâtááLu -táálu _FT_ -tálo _ C_
 10306 _ peräsuoli _ pottâčuáLi -čuáli _FT_ -čuá'le _ C_
@@ -213,7 +213,7 @@
 10796 _ pojankoltiainen _ kandâlipáruvvâš -lipáruvvii ~ kandâlibáruvvâš -libáruvvii _ C_
 10891 _ porotila _ puá'suitááLu -táálu _FT_ -tálo _ C_
 10904 _ poskihammas _ madâpääNi -pääni _FT_ -päne _ C_
-11045 _ pullonkaula _ puttâlčeve -čiäppát_FT_-čiäppât _ C_
+11045 _ pullonkaula _ puttâlčeve -čiäppát _FT_ -čiäppât _ C_
 11094 _ punatyvipoimulehti _ ruo'psishaamiträäSi~ruo'psishaamiträäsi -rääsi _ C_
 11185 _ purolitukka _ ajâsuor'mâkuáti -kuáđi _FT_ -kuá'đe _ C_
 11187 _ purorentukka _ ajâkollerääSi~ajâkollerääsi -rääsi _ C_
@@ -314,7 +314,7 @@
 16665 _ verotulo _ viä'Rupuátu -puáđu _FT_ -puáđo _ C_
 16720 _ vesiraukka _ čääsiravgâ -raavgâ ~ čäciravgâ -raavgâ _ 
 16737 _ vesiväri _ čäci-ivne -iivne _FT_ -i'vne _ C_
-16837 _ viherpeippo _ ruánáápiäi'ppáin~ruánáápiäi'ppâin -piä'ipánjeh_FT_-piä'ipânjeh _ C_ 
+16837 _ viherpeippo _ ruánáápiäi'ppáin~ruánáápiäi'ppâin -piä'ipánjeh _FT_ -piä'ipânjeh _ C_ 
 16889 _ viiksi- _ njäävvil- ~ njävil- _ 
 16931 _ viisaudenhammas _ vi'jsesvuođâpääNi -pääni _FT_ -päne _ C_
 17067 _ virka-asia _ virgeäšši -ääŠi _FT_ -ääši _ C_

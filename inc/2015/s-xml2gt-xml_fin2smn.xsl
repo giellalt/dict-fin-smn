@@ -223,15 +223,7 @@
 
 			<xsl:variable name="syn_tilde"
 				      select="
-					      if ((contains($r2,
-					      '~') and
-					      not(contains($r2,'-')))
-					      or
-					      (contains($r2,
-					      '~') and
-					      contains($r2,'-')
-					      and
-					      contains($r2,'#')))
+					      if (contains($r2,'~'))
 					      then
 					      normalize-space(substring($r2,functx:index-of-string-first($r2,'~')))
 					      else ()
@@ -239,15 +231,7 @@
 			
 			<xsl:variable name="r3"
 				      select="
-					      if ((contains($r2,
-					      '~') and
-					      not(contains($r2,'-')))
-					      or
-					      (contains($r2,
-					      '~') and
-					      contains($r2,'-')
-					      and
-					      contains($r2,'#')))
+					      if (contains($r2,'~'))
 					      then
 					      substring($r2,1,functx:index-of-string-first($r2,'~')-1)
 					      else ($r2)
@@ -255,9 +239,7 @@
 			
 			<xsl:variable name="attr"
 				      select="
-					      if (contains($r3,
-					      '#') and
-					      not(contains($r3,'~')))
+					      if (contains($r3,'#'))
 					      then
 					      normalize-space(concat('#',substring-after($r3,'#')))
 					      else ()
@@ -265,9 +247,7 @@
 			
 			<xsl:variable name="r4"
 				      select="
-					      if (contains($r3,
-					      '#') and
-					      not(contains($r3,'~')))
+					      if (contains($r3,'#'))
 					      then
 					      substring-before($r3,'#')
 					      else ($r3)
@@ -275,9 +255,7 @@
 			
 			<xsl:variable name="syn_dash"
 				      select="
-					      if (contains($r4,
-					      ' -') and
-					      not(contains($r4,'~') or contains($r4,'#')))
+					      if (contains($r4,' -'))
 					      then
 					      normalize-space(concat('-',substring-after($r4,' -')))
 					      else ()
@@ -285,22 +263,16 @@
 			
 			<xsl:variable name="r5"
 				      select="
-					      if (contains($r4,
-					      ' -') and
-					      not(contains($r4,'~') or contains($r4,'#')))
+					      if (contains($r4,' -'))
 					      then
 					      substring-before($r4,' -')
 					      else ($r4)
 					      "/>
 
-			<!-- tilde-dash issue still not resolved:
-			     that's why the not-conditions -->
 			<xsl:variable name="word_form"
 				      select="
 					      if (contains($r5,
 					      ' ') and
-					      not(contains($r5,'~') or contains($r5,'-'))
-					      and
 					      not($current_e/p[./@id='2'][./@mwe])
 					      and
 					      not(contains($r5,'_MWEy_')))
@@ -315,8 +287,6 @@
 				      select="
 					      if (contains($r5,
 					      ' ') and
-					      not(contains($r5,'~') or contains($r5,'-'))
-					      and
 					      not($current_e/p[./@id='2'][./@mwe])
 					      and
 					      not(contains($r5,'_MWEy_')))

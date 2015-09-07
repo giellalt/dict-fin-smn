@@ -170,7 +170,7 @@
 8360 _ metsäalvejuuri _ meccikaaicârääSi~meccikaaicârääsi -rääsi _ C_
 8372 _ metsäkatinlieko _ meccikaasirääSi~meccikaasirääsi -rääsi _ C_
 8395 _ metsäriidenlieko _ meccisoterääSi~meccisoterääsi -rääsi _ C_
-8433 _ miesjoukko _ a'lmaiválástâh~a'lmaiválástoh~a'lmaiválástuh -válástuv _ C-
+8433 _ miesjoukko _ a'lmaiválástâh~a'lmaiválástoh~a'lmaiválástuh -válástuv _ C_
 8462 _ minuuttiviisari _ miinutviijsár~miinutvijsár _ C_
 8559 _ mukulaleinikki _ ruo'tâsčalmemieđâš -miettâš _FT_ -mieđii _ C_
 8579 _ munapesäke _ maNekuáti -kuáđi _FT_ -kuá'đe _ C_
@@ -244,7 +244,7 @@
 11912 _ rentukka _ kollerääSi~kollerääsi -rääsi _ C_
 11960 _ riidenlieko _ soterääSi~soterääsi -rääsi _ C_
 12007 _ rikkikääpä _ riššâčááNá -čááná _FT_ -čáná _ C_
-12008 _ rikkileinikki _ riššâmieđâš -miettâš _FT_ -mieđii _ C-
+12008 _ rikkileinikki _ riššâmieđâš -miettâš _FT_ -mieđii _ C_
 12017 _ rikosasia _ rikosäšši -ääŠi _FT_ -ääši _ C_
 12019 _ rikosjuttu _ rikosäšši -ääŠi _FT_ -ääši _ C_
 12065 _ ripsiväri _ ramâsivne -iivne _FT_ -i'vne _ C_
@@ -299,7 +299,7 @@
 15382 _ tuulenpitävä _ pieg'gâjehhee~pieg'gâjieh'hee _ C_
 15451 _ typäskääpä _ haŋkkâčááNá -čááná _FT_ -čáná _ C_
 15484 _ työansio _ pargotiänás -tiännás ~ pargotienâs -tiennâs _ 
-15549 _ työtulo _ pargopuátu -puáđu _FT_ -puáđo _ C
+15549 _ työtulo _ pargopuátu -puáđu _FT_ -puáđo _ C_
 15590 _ tällä kertaa _ -gis~-ges ~ -kis~-kes _ 
 15772 _ ulpukka _ fi'skisluobbâsk~-luubbâsk ~ vi'skisluobbâsk~-luubbâsk _ 
 15802 _ unikko _ oijâgâsrääSi~oijâgâsrääsi -rääsi _ C_

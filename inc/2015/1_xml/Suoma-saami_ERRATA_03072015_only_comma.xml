@@ -22832,7 +22832,7 @@
    </e>
    <e id="12124">
       <p id="1">rivitalo</p>
-      <p id="2">ráiđutááLu  -táálu ~ -tálo,  raddalâstááLu -táálu ~ -tálo    </p>
+      <p id="2">ráiđutááLu  -táálu _FT_ -tálo,  raddalâstááLu -táálu _FT_ -tálo    </p>
       <p id="3">ráiđu</p>
       <p id="4">rivi</p>
       <p id="5">raddalâstááLu -táálu ~ -tálo</p>
@@ -23534,7 +23534,7 @@
    </e>
    <e id="12483">
       <p id="1" tt_auto="Potentilla erecta">rätvänä</p>
-      <p id="2">neljilostâsuor'mârääSi~-rääsi  -rääsi,  vorrâruotâs -ruottâs    </p>
+      <p id="2">neljilostâsuor'mârääSi ~ neljilostâsuor'mârääsi -rääsi, vorrâruotâs -ruottâs </p>
       <p id="3">nelji</p>
       <p id="4">rätvänä</p>
       <p id="5">vorrâruotâs -ruottâs</p>
@@ -23612,7 +23612,7 @@
    </e>
    <e id="12565">
       <p id="1">saavutus</p>
-      <p id="2">jukso  juuvso,  áigápuátu -puáđu ~ -puáđo    </p>
+      <p id="2">jukso  juuvso,  áigápuátu -puáđu _FT_ -puáđo    </p>
       <p id="3">jukso</p>
       <p id="4">saavutus</p>
       <p id="5">áigápuátu -puáđu ~ -puáđo</p>
@@ -24002,7 +24002,7 @@
    </e>
    <e id="12719">
       <p id="1">sapelihammaskissa</p>
-      <p id="2">čallaampäNikissá  -kiSá~-kisá,  saapeelpäNikissá -kiSá~-kisá    </p>
+      <p id="2">čallaampäNikissá  -kiSá _FT_ -kisá,  saapeelpäNikissá -kiSá _FT_ -kisá    </p>
       <p id="3">čallaam</p>
       <p id="4">sapeli</p>
       <p id="5">saapeelpäNikissá -kiSá~-kisá</p>
@@ -24054,7 +24054,7 @@
    </e>
    <e id="12749">
       <p id="1" tt_auto="Acanthocinus aedilis">sarvijaakko</p>
-      <p id="2">čuár'vijáákku  -jááku,  čuár'vitivre -ti'vre ~ -tiivre    </p>
+      <p id="2">čuár'vijáákku  -jááku,  čuár'vitivre -ti'vre _FT_ -tiivre    </p>
       <p id="3">čuár'vi</p>
       <p id="4">sarvi</p>
       <p id="5">čuár'vitivre -ti'vre ~ -tiivre</p>
@@ -24106,7 +24106,7 @@
    </e>
    <e id="12780">
       <p id="1">sattuma</p>
-      <p id="2">säti-~setitábáhtus,    heevim    </p>
+      <p id="2">sätitábáhtus ~ setitábáhtus,    heevim    </p>
       <p id="3">säti-~seti</p>
       <p id="4">sattuma</p>
       <p id="5">heevim</p>
@@ -24418,7 +24418,7 @@
    </e>
    <e id="12992">
       <p id="1" tt_auto="Achillea millefolium">siankärsämö</p>
-      <p id="2">piät'tárrääSi~-rääsi  -rääsi,  piättârrääSi~-rääsi -rääsi    </p>
+      <p id="2">piät'tárrääSi ~ piät'tárrääsi -rääsi, piättârrääSi ~ piättârrääsi -rääsi</p>
       <p id="3">piät'tár</p>
       <p id="4">sian</p>
       <p id="5">piättârrääSi~-rääsi -rääsi</p>
@@ -25393,7 +25393,7 @@
    </e>
    <e id="13437">
       <p id="1" tt_auto="Lemmus lemmus">sopuli</p>
-      <p id="2">kozzâ-~kozzsäplig,    koddesäplig    </p>
+      <p id="2">kozzâsäplig ~ kozzsäplig,    koddesäplig    </p>
       <p id="3">kozzâ-~kozz</p>
       <p id="4">sopuli</p>
       <p id="5">koddesäplig</p>
@@ -25822,7 +25822,7 @@
    </e>
    <e id="13665">
       <p id="1" tt_auto="Andromeda polifolia">suokukka</p>
-      <p id="2">jeggirääSi~-rääsi  -rääsi,  ulâšrääSi~-rääsi -rääsi    </p>
+      <p id="2">jeggirääSi ~ jeggirääsi -rääsi,  ulâšrääSi ~ ulâšrääsi -rääsi    </p>
       <p id="3">jeggi</p>
       <p id="4">suo</p>
       <p id="5">ulâšrääSi~-rääsi -rääsi</p>
@@ -27603,7 +27603,7 @@
    </e>
    <e id="14626">
       <p id="1" tt_auto="Apus apus">tervapääsky</p>
-      <p id="2">stokkespáálváš~-spáálvâš  -spálváá,  vyev'dispáálváš~-spáálvâš -spálváá    </p>
+      <p id="2">stokkespáálváš ~ stokkesspáálvâš -spálváá, vyev'dispáálváš ~ vyev'dispáálvâš -spálváá    </p>
       <p id="3">stokke</p>
       <p id="4">terva</p>
       <p id="5">vyev'dispáálváš~-spáálvâš -spálváá</p>
@@ -28682,7 +28682,7 @@
    </e>
    <e id="15133">
       <p id="1" r1_par="(subst.)">tunari</p>
-      <p id="2">čuám'mi  čuámi  ~ čuáMi čuámi, čuám'mi-~čuáMikozzâ -koozâ, čuám'mi-~čuáMikietâ -kieđâ    </p>
+      <p id="2">čuám'mi  čuámi  ~ čuáMi čuámi, čuám'mikozzâ ~ čuáMikozzâ -koozâ, čuám'mikietâ ~ čuáMikietâ -kieđâ    </p>
       <p id="3">čuám'mi</p>
       <p id="4">tunari</p>
       <p id="5">~ čuáMi čuámi, čuám'mi-~čuáMikozzâ -koozâ, čuám'mi-~čuáMikietâ -kieđâ</p>
@@ -28799,7 +28799,7 @@
    </e>
    <e id="15199">
       <p id="1" tt_auto="Astragalus alpinus">tunturikurjenherne</p>
-      <p id="2">saavzârääSi~-rääsi  -rääsi,  kuorgâherttâ -heertâ, teJârääSi~-rääsi -rääsi    </p>
+      <p id="2">saavzârääSi ~ saavzârääsi -rääsi,  kuorgâherttâ -heertâ, teJârääSi ~ teJârääsi -rääsi    </p>
       <p id="3">saavzâ</p>
       <p id="4">tunturi</p>
       <p id="5">kuorgâherttâ -heertâ, teJârääSi~-rääsi -rääsi</p>
@@ -28812,7 +28812,7 @@
    </e>
    <e id="15203">
       <p id="1" tt_auto="Cardamine bellifolia">tunturilitukka</p>
-      <p id="2">tuo'dârsuor'mâkuáti  -kuáđi ~ -kuá'đe,  aalaašsuor'mâkuáti -kuáđi ~ -kuá'đe    </p>
+      <p id="2">tuo'dârsuor'mâkuáti  -kuáđi _FT_ -kuá'đe,  aalaašsuor'mâkuáti -kuáđi _FT_ -kuá'đe</p>
       <p id="3">tuo'dâr</p>
       <p id="4">tunturi</p>
       <p id="5">aalaašsuor'mâkuáti -kuáđi ~ -kuá'đe</p>
@@ -28838,7 +28838,7 @@
    </e>
    <e id="15208">
       <p id="1">tunturinlaki</p>
-      <p id="2">tuo'dârčokke  -čohe,  väRičokke -čohe, väRi-~tuo'dâraalaaš -aalaa -alaččist    </p>
+      <p id="2">tuo'dârčokke  -čohe,  väRičokke -čohe, väRiaalaaš ~ tuo'dâraalaaš -aalaa -alaččist    </p>
       <p id="3">tuo'dâr</p>
       <p id="4">tunturin</p>
       <p id="5">väRičokke -čohe, väRi-~tuo'dâraalaaš -aalaa -alaččist</p>
@@ -28890,7 +28890,7 @@
    </e>
    <e id="15224">
       <p id="1" tt_auto="Thalictrum flavum">tunturiängelmä</p>
-      <p id="2">tuo'dârpuál'ččimieđâš  -miettâš ~ -mieđii,  tuo'dârsiemâtäsni -tääsni    </p>
+      <p id="2">tuo'dârpuál'ččimieđâš  -miettâš _FT_ -mieđii,  tuo'dârsiemâtäsni -tääsni    </p>
       <p id="3">tuo'dâr</p>
       <p id="4">tunturi</p>
       <p id="5">tuo'dârsiemâtäsni -tääsni</p>
@@ -29020,7 +29020,7 @@
    </e>
    <e id="15274">
       <p id="1" tt_auto="Anobium punctatum">tupajumi</p>
-      <p id="2">seinitiivráš  -tivráá,  seinimáátu -mááđu ~ -máđo    </p>
+      <p id="2">seinitiivráš  -tivráá,  seinimáátu -mááđu _FT_ -máđo    </p>
       <p id="3">seini</p>
       <p id="4">tupa</p>
       <p id="5">seinimáátu -mááđu ~ -máđo</p>
@@ -29098,7 +29098,7 @@
    </e>
    <e id="15311">
       <p id="1" tt_auto="Nicrophorus vespillo">turkkilo</p>
-      <p id="2">kiccimtivre  -ti'vre ~ -tiivre,  kuocâkiccee, kizijdeijeetivre -ti'vre ~ -tiivre, turkkilâš turkkilii    </p>
+      <p id="2">kiccimtivre  -ti'vre _FT_ -tiivre,  kuocâkiccee, kizijdeijeetivre -ti'vre _FT_ -tiivre, turkkilâš turkkilii    </p>
       <p id="3">kiccim</p>
       <p id="4">turkkilo</p>
       <p id="5">kuocâkiccee, kizijdeijeetivre -ti'vre ~ -tiivre, turkkilâš turkkilii</p>
@@ -29150,7 +29150,7 @@
    </e>
    <e id="15339">
       <p id="1">turvekammi</p>
-      <p id="2">lavnjekuáti  -kuáđi ~ -kuá'đe,  lavŋekuáti -kuáđi ~ -kuá'đe    </p>
+      <p id="2">lavnjekuáti  -kuáđi _FT_ -kuá'đe,  lavŋekuáti -kuáđi _FT_ -kuá'đe    </p>
       <p id="3">lavnje</p>
       <p id="4">turve</p>
       <p id="5">lavŋekuáti -kuáđi ~ -kuá'đe</p>
@@ -29163,7 +29163,7 @@
    </e>
    <e id="15340">
       <p id="1">turvekota</p>
-      <p id="2">lavnjekuáti  -kuáđi ~ -kuá'đe,  lavŋekuáti -kuáđi ~ -kuá'đe    </p>
+      <p id="2">lavnjekuáti  -kuáđi _FT_ -kuá'đe,  lavŋekuáti -kuáđi _FT_ -kuá'đe    </p>
       <p id="3">lavnje</p>
       <p id="4">turve</p>
       <p id="5">lavŋekuáti -kuáđi ~ -kuá'đe</p>
@@ -29475,7 +29475,7 @@
    </e>
    <e id="15464">
       <p id="1" r1_par="(paulanauhassa)">tyvipalmikko</p>
-      <p id="2">čeve  čiäp'pát ~ čiäp'pât,  vuo'dâčeve -čiäp'pát~-čiäp'pât    </p>
+      <p id="2" xxx="ask_Miina">čeve  čiäp'pát ~ čiäp'pât,  vuo'dâčeve -čiäp'pát _FT_ -čiäp'pât </p>
       <p id="3">čeve</p>
       <p id="4">tyvi</p>
       <p id="5">vuo'dâčeve -čiäp'pát~-čiäp'pât</p>
@@ -29995,7 +29995,7 @@
    </e>
    <e id="15787">
       <p id="1">umpilisäke</p>
-      <p id="2">ubbâlaggâ  -laagâ,  ubbâlággá -láágá, ubbâčuáLi -čuáli ~ -čuá'le    </p>
+      <p id="2">ubbâlaggâ  -laagâ,  ubbâlággá -láágá, ubbâčuáLi -čuáli _FT_ -čuá'le    </p>
       <p id="3">ubbâ</p>
       <p id="4">umpi</p>
       <p id="5">ubbâlággá -láágá, ubbâčuáLi -čuáli ~ -čuá'le</p>
@@ -30034,7 +30034,7 @@
    </e>
    <e id="15793">
       <p id="1">umpisuoli</p>
-      <p id="2">ubbâlaggâ  -laagâ,  ubbâlággá -láágá, ubbâčuáLi -čuáli ~ -čuá'le    </p>
+      <p id="2">ubbâlaggâ  -laagâ,  ubbâlággá -láágá, ubbâčuáLi -čuáli _FT_ -čuá'le    </p>
       <p id="3">ubbâ</p>
       <p id="4">umpi</p>
       <p id="5">ubbâlággá -láágá, ubbâčuáLi -čuáli ~ -čuá'le</p>
@@ -30203,7 +30203,7 @@
    </e>
    <e id="15896">
       <p id="1" tt_auto="Thermobia domestica">uunitoukka</p>
-      <p id="2">kunnâmáátu  -mááđu ~ -máđo,  kunnâtivre -ti'vre ~ -tiivre    </p>
+      <p id="2">kunnâmáátu  -mááđu _FT_ -máđo,  kunnâtivre -ti'vre _FT_ -tiivre    </p>
       <p id="3">kunnâ</p>
       <p id="4">uuni</p>
       <p id="5">kunnâtivre -ti'vre ~ -tiivre</p>
@@ -31374,7 +31374,7 @@
    </e>
    <e id="16606">
       <p id="1" tt_auto="Hirudo medicinalis">verijuotikas</p>
-      <p id="2">njammeemáátu  -mááđu ~ máđo,      </p>
+      <p id="2">njammeemáátu  -mááđu _FT_ máđo</p>
       <p id="3">njammee</p>
       <p id="4">veri</p>
       <p id="5"/>
@@ -31387,7 +31387,7 @@
    </e>
    <e id="16628">
       <p id="1">verkkomaha</p>
-      <p id="2">čo'lmâs-~čoolmâsčevđi  -čeevđi,  čoolmâs čolmâs    </p>
+      <p id="2">čo'lmâsčevđi ~ čoolmâsčevđi  -čeevđi,  čoolmâs čolmâs    </p>
       <p id="3">čo'lmâs-~čoolmâs</p>
       <p id="4">verkko</p>
       <p id="5">čoolmâs čolmâs</p>
@@ -31491,7 +31491,7 @@
    </e>
    <e id="16736">
       <p id="1">vesivoimala</p>
-      <p id="2">čäcivyei'miruustig,    čäcivyei'milájádâs ~ -lágádâs    </p>
+      <p id="2">čäcivyei'miruustig,    čäcivyei'milájádâs ~ čäcivyei'milágádâs</p>
       <p id="3">čäci</p>
       <p id="4">vesi</p>
       <p id="5">čäcivyei'milájádâs ~ -lágádâs</p>
@@ -31530,7 +31530,7 @@
    </e>
    <e id="16742">
       <p id="1">vetehinen</p>
-      <p id="2">vuáŋ'ŋáš  vuáŋ'ŋáá,  čääsi-~čäciravgâ -raavgâ    </p>
+      <p id="2">vuáŋ'ŋáš  vuáŋ'ŋáá, čääsiravgâ ~ čäciravgâ -raavgâ</p>
       <p id="3">vuáŋ'ŋáš</p>
       <p id="4">vetehinen</p>
       <p id="5">čääsi-~čäciravgâ -raavgâ</p>
@@ -32167,7 +32167,7 @@
    </e>
    <e id="17052">
       <p id="1">virastotalo</p>
-      <p id="2">virgetááLu  -táálu ~ -tálo,  virgádâhtááLu -táálu ~ -tálo    </p>
+      <p id="2">virgetááLu  -táálu _FT_ -tálo,  virgádâhtááLu -táálu _FT_ -tálo    </p>
       <p id="3">virge</p>
       <p id="4">virasto</p>
       <p id="5">virgádâhtááLu -táálu ~ -tálo</p>
@@ -33350,7 +33350,7 @@
    </e>
    <e id="17755">
       <p id="1">äimäkotelo</p>
-      <p id="2">äimikuáti  -kuáđi ~ -kuá'đe,  äimiskerkkâ  -skeerhâ    </p>
+      <p id="2">äimikuáti  -kuáđi _FT_ -kuá'đe,  äimiskerkkâ  -skeerhâ    </p>
       <p id="3">äimi</p>
       <p id="4">äimä</p>
       <p id="5">äimiskerkkâ  -skeerhâ</p>
@@ -33441,7 +33441,7 @@
    </e>
    <e id="17797">
       <p id="1">äyskäri</p>
-      <p id="2">ávskár,    asker ~ astker~astkar, astkääRi -kääri ~ -käre    </p>
+      <p id="2">ávskár,    asker ~ astker ~ astkar, astkääRi -kääri _FT_ -käre    </p>
       <p id="3">ávskár,</p>
       <p id="4">äyskäri</p>
       <p id="5">asker ~ astker~astkar, astkääRi -kääri ~ -käre</p>

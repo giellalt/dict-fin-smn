@@ -19270,7 +19270,7 @@
    </e>
    <e id="10066">
       <p id="1" tt_auto="Alchemilla filicaulis ssp. vestita">partapoimulehti</p>
-      <p id="2">siä'muhaamiträäSi~-rääsi  -rääsi,  soovsâmaadâlostâ -loostâ    </p>
+      <p id="2">siä'muhaamiträäSi ~ siä'muhaamiträäsi -rääsi,  soovsâmaadâlostâ -loostâ    </p>
       <p id="3">siä'mu</p>
       <p id="4">parta</p>
       <p id="5">soovsâmaadâlostâ -loostâ</p>
@@ -19296,7 +19296,7 @@
    </e>
    <e id="10074">
       <p id="1" r1_par="(nukkumapaikka)">parvi</p>
-      <p id="2">lu'ptâstâh  lu'ptâstuv,  uáđđimilddee ~ -ildee, uáđđimkuár'vi -kuárvi    </p>
+      <p id="2">lu'ptâstâh  lu'ptâstuv,  uáđđimilddee ~ uáđđimildee, uáđđimkuár'vi -kuárvi    </p>
       <p id="3">lu'ptâstâh</p>
       <p id="4">parvi</p>
       <p id="5">uáđđimilddee ~ -ildee, uáđđimkuár'vi -kuárvi</p>
@@ -19413,7 +19413,7 @@
    </e>
    <e id="10158">
       <p id="1" tt_auto="Potentilla norvegica">peltohanhikki</p>
-      <p id="2">piäl'dusuor'mârääSi~-rääsi  -rääsi,  taažâsuor'mâlostâ -loostâ    </p>
+      <p id="2">piäl'dusuor'mârääSi ~ piäl'dusuor'mârääsi -rääsi,  taažâsuor'mâlostâ -loostâ    </p>
       <p id="3">piäl'du</p>
       <p id="4">pelto</p>
       <p id="5">taažâsuor'mâlostâ -loostâ</p>
@@ -20076,7 +20076,7 @@
    </e>
    <e id="10484">
       <p id="1" tt_auto="Ondatra zibethicus">piisami</p>
-      <p id="2">piisam,    čäcikuáđhuš -kuát'kuš ~ -kuođ'huu, čäcikuáđuš -kuáttuš    </p>
+      <p id="2">piisam,    čäcikuáđhuš -kuát'kuš _FT_ -kuođ'huu, čäcikuáđuš -kuáttuš    </p>
       <p id="3">piisam,</p>
       <p id="4">piisami</p>
       <p id="5">čäcikuáđhuš -kuát'kuš ~ -kuođ'huu, čäcikuáđuš -kuáttuš</p>
@@ -20115,7 +20115,7 @@
    </e>
    <e id="10526">
       <p id="1" tt_auto="Larus minutus">pikkulokki</p>
-      <p id="2">uccâkaijuš  -kaijuužii,  uccâpááiskâš~-pááiskáš -páiskáá    </p>
+      <p id="2">uccâkaijuš  -kaijuužii, uccâpááiskâš ~ uccâpááiskáš -páiskáá</p>
       <p id="3">uccâ</p>
       <p id="4">pikku</p>
       <p id="5">uccâpááiskâš~-pááiskáš -páiskáá</p>
@@ -20167,7 +20167,7 @@
    </e>
    <e id="10569">
       <p id="1">pilkkukuume</p>
-      <p id="2">tiäl'kkutavdâ  -taavdâ,  tiäl'kkukumeštâs~-kumestâs    </p>
+      <p id="2">tiäl'kkutavdâ  -taavdâ, tiäl'kkukumeštâs ~ tiäl'kkukumestâs</p>
       <p id="3">tiäl'kku</p>
       <p id="4">pilkku</p>
       <p id="5">tiäl'kkukumeštâs~-kumestâs</p>
@@ -20440,7 +20440,7 @@
    </e>
    <e id="10713">
       <p id="1" tt_auto="Epilobium hornemannii">pohjanhorsma</p>
-      <p id="2">tavenjuolâs  -njuollâs,  rotohorsmá -ho'rsmá ~ rotohormá    </p>
+      <p id="2">tavenjuolâs  -njuollâs,  rotohorsmá -ho'rsmá _FT_ rotohormá    </p>
       <p id="3">tave</p>
       <p id="4">pohjan</p>
       <p id="5">rotohorsmá -ho'rsmá ~ rotohormá</p>
@@ -20453,7 +20453,7 @@
    </e>
    <e id="10719">
       <p id="1" tt_auto="Huperzia selago ssp. arctica">pohjanketunlieko</p>
-      <p id="2">tavetiherääSi~-rääsi  -rääsi,  taveriäm'njáläbži -lääbži    </p>
+      <p id="2">tavetiherääSi ~ tavetiherääsi -rääsi,  taveriäm'njáläbži -lääbži    </p>
       <p id="3">tave</p>
       <p id="4">pohjan</p>
       <p id="5">taveriäm'njáläbži -lääbži</p>
@@ -20466,7 +20466,7 @@
    </e>
    <e id="10723">
       <p id="1" tt_auto="Nymphaea alba ssp. candida">pohjanlumme</p>
-      <p id="2">tavevie'lgisluobbâsk~-luubbâsk,    luobbâsk~luubbâsk    </p>
+      <p id="2">tavevie'lgisluobbâsk ~ tavevie'lgisluubbâsk,    luobbâsk ~ luubbâsk    </p>
       <p id="3">tave</p>
       <p id="4">pohjan</p>
       <p id="5">luobbâsk~luubbâsk</p>
@@ -20596,7 +20596,7 @@
    </e>
    <e id="10797">
       <p id="1">pojannaskali</p>
-      <p id="2">kandâpuicce  -puuice ~ -pu'ice,  kandâpuško -pu'ško    </p>
+      <p id="2">kandâpuicce  -puuice _FT_ -pu'ice,  kandâpuško -pu'ško    </p>
       <p id="3">kandâ</p>
       <p id="4">pojan</p>
       <p id="5">kandâpuško -pu'ško</p>
@@ -20648,7 +20648,7 @@
    </e>
    <e id="10817">
       <p id="1" tt_auto="Ceratopogonidae culicoides">polttiainen</p>
-      <p id="2">njävli  njäävli,  suo'Vâlodde -lode, suo'Vâtivre -tiivre ~ -ti'vre, polttijâš polttijáá    </p>
+      <p id="2">njävli  njäävli,  suo'Vâlodde -lode, suo'Vâtivre -tiivre _FT_ -ti'vre, polttijâš polttijáá    </p>
       <p id="3">njävli</p>
       <p id="4">polttiainen</p>
       <p id="5">suo'Vâlodde -lode, suo'Vâtivre -tiivre ~ -ti'vre, polttijâš polttijáá</p>
@@ -20778,7 +20778,7 @@
    </e>
    <e id="10869">
       <p id="1" tt_auto="Hypoderma tarandi">porokiiliäinen</p>
-      <p id="2">urmá~kurmá,    urmá-~kurmápuárui~-poa'roi -porruu    </p>
+      <p id="2">urmá ~ kurmá, urmápuárui ~ kurmápuárui ~ kurmápoa'roi -porruu</p>
       <p id="3">urmá~kurmá,</p>
       <p id="4">poro</p>
       <p id="5">urmá-~kurmápuárui~-poa'roi -porruu</p>
@@ -20830,7 +20830,7 @@
    </e>
    <e id="10887">
       <p id="1">poropeukalo</p>
-      <p id="2">čuám'mi  čuámi  ~ čuáMi čuámi, čuám'mi-~čuáMikozzâ -koozâ, čuám'mi-~čuáMikietâ -kieđâ    </p>
+      <p id="2">čuám'mi  čuámi  ~ čuáMi čuámi, čuám'mikozzâ ~ čuáMikozzâ -koozâ, čuám'mikietâ ~ čuáMikietâ -kieđâ</p>
       <p id="3">čuám'mi</p>
       <p id="4">poro</p>
       <p id="5">~ čuáMi čuámi, čuám'mi-~čuáMikozzâ -koozâ, čuám'mi-~čuáMikietâ -kieđâ</p>
@@ -20921,7 +20921,7 @@
    </e>
    <e id="10935">
       <p id="1">povitasku</p>
-      <p id="2">puoŊâ  puoŋâ,  puoŊâlummâ -luuMâ ~ -lummo -luMo    </p>
+      <p id="2">puoŊâ  puoŋâ,  puoŊâlummâ -luuMâ ~ puoŊâlummo -luMo    </p>
       <p id="3">puoŊâ</p>
       <p id="4">povi</p>
       <p id="5">puoŊâlummâ -luuMâ ~ -lummo -luMo</p>
@@ -21675,7 +21675,7 @@
    </e>
    <e id="11407">
       <p id="1">päivätaaleri</p>
-      <p id="2">peivitaaLâ  -taalâ,  peivitaallâr~-taaller    </p>
+      <p id="2">peivitaaLâ  -taalâ, peivitaallâr ~ peivitaaller</p>
       <p id="3">peivi</p>
       <p id="4">päivä</p>
       <p id="5">peivitaallâr~-taaller</p>
@@ -21727,7 +21727,7 @@
    </e>
    <e id="11433">
       <p id="1">pääasia</p>
-      <p id="2">válduäšši  -ääŠi ~ ääši,  uái'viäšši -ääŠi ~ -ääsi    </p>
+      <p id="2">válduäšši  -ääŠi _FT_ ääši,  uái'viäšši -ääŠi _FT_ -ääsi    </p>
       <p id="3">váldu</p>
       <p id="4">pää</p>
       <p id="5">uái'viäšši -ääŠi ~ -ääsi</p>
@@ -22000,7 +22000,7 @@
    </e>
    <e id="11635">
       <p id="1" tt_auto="Salix caprea">raita</p>
-      <p id="2">räiđi  rääiđi,  eNâmistpuájui ~ -puá'joi -poijuu    </p>
+      <p id="2">räiđi  rääiđi,  eNâmistpuájui ~ eNâmistpuá'joi -poijuu</p>
       <p id="3">räiđi</p>
       <p id="4">raita</p>
       <p id="5">eNâmistpuájui ~ -puá'joi -poijuu</p>

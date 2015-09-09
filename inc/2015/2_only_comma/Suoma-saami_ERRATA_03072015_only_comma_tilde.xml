@@ -8,7 +8,7 @@
          <tg xml:lang="smn">
             <t pos="">iđedâs</t>
             <t pos="" syn_dash="-pitá">iiđeedpittá</t>
-            <t pos="">iđedâsmäälis -máállás_FT_máállâs</t>
+            <t pos="">iđedâsmäälis -máállás _FT_ máállâs</t>
             <t pos="">iđedâspurrâmuš</t>
          </tg>
       </mg>
@@ -21,7 +21,7 @@
          <tg xml:lang="smn">
             <t pos="">iđedâs</t>
             <t pos="" syn_dash="-pitá">iiđeedpittá</t>
-            <t pos="">iđedâsmäälis -máállás_FT_máállâs</t>
+            <t pos="">iđedâsmäälis -máállás _FT_ máállâs</t>
             <t pos="">iđedâspurrâmuš</t>
          </tg>
       </mg>
@@ -154,7 +154,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ehidâsmäälis -máállás_FT_-máállâs</t>
+            <t pos="">ehidâsmäälis -máállás _FT_ -máállâs</t>
             <t pos="">ehidâs</t>
          </tg>
       </mg>
@@ -212,7 +212,7 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="">herttâmääLi -määli _FT_ -mäle</t>
-            <t pos="">herttâmäälis -máállás_FT_-máállâs</t>
+            <t pos="">herttâmäälis -máállás _FT_ -máállâs</t>
          </tg>
       </mg>
    </e>
@@ -424,7 +424,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">oreskissá -kiSá_FT_-kisá</t>
+            <t pos="">oreskissá -kiSá _FT_ -kisá</t>
             <t pos="">oreskaasi</t>
          </tg>
       </mg>
@@ -515,7 +515,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">piär'gumäälis -máállás_FT_-máállâs</t>
+            <t pos="">piär'gumäälis -máállás _FT_ -máállâs</t>
             <t pos="">piär'gumääLi -määli _FT_ -mäle</t>
          </tg>
       </mg>
@@ -968,8 +968,8 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čallaampäNikissá -kiSá_FT_-kisá</t>
-            <t pos="">saapeelpäNikissá -kiSá_FT_-kisá</t>
+            <t pos="">čallaampäNikissá -kiSá _FT_ -kisá</t>
+            <t pos="">saapeelpäNikissá -kiSá _FT_ -kisá</t>
          </tg>
       </mg>
    </e>
@@ -1152,7 +1152,7 @@
          <tg xml:lang="smn">
             <t pos="">čeve čiäp'pát</t>
             <t_tld>~ čiäp'pât</t_tld>
-            <t pos="">vuo'dâčeve -čiäp'pát_FT_-čiäp'pât</t>
+            <t pos="">vuo'dâčeve -čiäp'pát _FT_ -čiäp'pât</t>
          </tg>
       </mg>
    </e>

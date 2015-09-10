@@ -6413,7 +6413,7 @@
    </e>
    <e id="3039">
       <p id="1">ilmoittautua</p>
-      <p id="2">a'lmottâttâđ  a'lmottâđâm,  a'lmottiđ jiei'jâs    </p>
+      <p id="2">a'lmottâttâđ  a'lmottâđâm,  a'lmottiđ jiei'jâs  _N_  </p>
       <p id="3">a'lmottâttâđ</p>
       <p id="4">ilmoittautua</p>
       <p id="5">a'lmottiđ jiei'jâs</p>
@@ -6556,7 +6556,7 @@
    </e>
    <e id="3089">
       <p id="1" r1_par="(pitää rumana t. vastenmielisenä)">inhota</p>
-      <p id="2">fa'stašiđ  fastaaš  ~ va'stašiđ vastaaš, ilgâdin anneeđ, vye'stimieLâ kiäsnii    </p>
+      <p id="2">fa'stašiđ  fastaaš  ~ va'stašiđ vastaaš, ilgâdin anneeđ _N_ , vye'stimieLâ kiäsnii  _N_   </p>
       <p id="3">fa'stašiđ</p>
       <p id="4">inhota</p>
       <p id="5">~ va'stašiđ vastaaš, ilgâdin anneeđ, vye'stimieLâ kiäsnii</p>
@@ -6647,7 +6647,7 @@
    </e>
    <e id="3109">
       <p id="1">invalidi</p>
-      <p id="2">lammâšum olmooš,    invaliid    </p>
+      <p id="2">lammâšum olmooš _N_ ,    invaliid    </p>
       <p id="3">lammâšum </p>
       <p id="4">invalidi</p>
       <p id="5">invaliid</p>
@@ -6660,7 +6660,7 @@
    </e>
    <e id="3111">
       <p id="1">inventaario</p>
-      <p id="2">tävirij luuhâm,    inventaario    </p>
+      <p id="2">tävirij luuhâm _N_,    inventaario    </p>
       <p id="3">tävirij </p>
       <p id="4">inventaario</p>
       <p id="5">inventaario</p>
@@ -6868,7 +6868,7 @@
    </e>
    <e id="3265">
       <p id="1">itsenäistyä</p>
-      <p id="2">šoddâđ jie'čânâssân,    šoddâđ jiešmeRideijen    </p>
+      <p id="2">šoddâđ jie'čânâssân _N_ ,    šoddâđ jiešmeRideijen _N_   </p>
       <p id="3">šoddâđ </p>
       <p id="4">itsenäistyä</p>
       <p id="5">šoddâđ jiešmeRideijen</p>
@@ -7050,7 +7050,7 @@
    </e>
    <e id="3335">
       <p id="1">jaksottaa</p>
-      <p id="2">jyeHiđ  äigipoojijd,    áigáduvváid jyeHiđ    </p>
+      <p id="2">jyeHiđ  äigipoojijd _N_ ,    áigáduvváid jyeHiđ  _N_  </p>
       <p id="3">jyeHiđ  </p>
       <p id="4">jaksottaa</p>
       <p id="5">áigáduvváid jyeHiđ</p>
@@ -7284,7 +7284,7 @@
    </e>
    <e id="3465">
       <p id="1">jokamiehen oikeus</p>
-      <p id="2">jye'hiulmuu vuoi'gâdvuotâ  -vuoi'gâdvuođâ,  juáh'háá vuoi'gâdvuotâ -vuoi'gâdvuođâ    </p>
+      <p id="2">jye'hiulmuu vuoi'gâdvuotâ _N_ -vuoi'gâdvuođâ,  juáh'háá vuoi'gâdvuotâ _N_ -vuoi'gâdvuođâ    </p>
       <p id="3">jye'hiulmuu </p>
       <p id="4">jokamiehen </p>
       <p id="5">juáh'háá vuoi'gâdvuotâ -vuoi'gâdvuođâ</p>
@@ -7804,7 +7804,7 @@
    </e>
    <e id="3655">
       <p id="1">juovuksissa</p>
-      <p id="2">juhâlum,    leđe uáivist, vi'jnáttum    </p>
+      <p id="2">juhâlum,    leđe uáivist _N_ , vi'jnáttum    </p>
       <p id="3">juhâlum,</p>
       <p id="4">juovuksissa</p>
       <p id="5">leđe uáivist, vi'jnáttum</p>
@@ -7830,7 +7830,7 @@
    </e>
    <e id="3664">
       <p id="1">justiin</p>
-      <p id="2">e'idu,    e'idu nuuvt    </p>
+      <p id="2">e'idu,    e'idu nuuvt _N_   </p>
       <p id="3">e'idu,</p>
       <p id="4">justiin</p>
       <p id="5">e'idu nuuvt</p>
@@ -8025,7 +8025,7 @@
    </e>
    <e id="3730">
       <p id="1">jäljelle</p>
-      <p id="2">(jäädä jäljelle) pääcciđ väldihánnáá, pääcciđ tuálvuhánnáá, pääcciđ orroođ        </p>
+      <p id="2">(jäädä jäljelle) pääcciđ väldihánnáá _N_ , pääcciđ tuálvuhánnáá _N_ , pääcciđ orroođ   _N_ </p>
       <p id="3">(jäädä jäljelle) pääcciđ väldihánnáá, pääcciđ tuálvuhánnáá, pääcciđ orroođ</p>
       <p id="4">jäljelle</p>
       <p id="5"/>
@@ -8311,7 +8311,7 @@
    </e>
    <e id="3816">
       <p id="1">järkyttävä</p>
-      <p id="2">hi'rmástuttee,    vááimun čyec'cee    </p>
+      <p id="2">hi'rmástuttee,    vááimun čyec'cee  _N_  </p>
       <p id="3">hi'rmástuttee,</p>
       <p id="4">järkyttävä</p>
       <p id="5">vááimun čyec'cee</p>
@@ -8324,7 +8324,7 @@
    </e>
    <e id="3817">
       <p id="1">järkyttää</p>
-      <p id="2">hi'rmástuttiđ  hi'rmástutám,  čuoccâđ vááimun    </p>
+      <p id="2">hi'rmástuttiđ  hi'rmástutám,  čuoccâđ vááimun _N_   </p>
       <p id="3">hi'rmástuttiđ</p>
       <p id="4">järkyttää</p>
       <p id="5">čuoccâđ vááimun</p>
@@ -8948,7 +8948,7 @@
    </e>
    <e id="4178">
       <p id="1">kammo</p>
-      <p id="2">merettes  paLo  palo,  fobia    </p>
+      <p id="2">merettes  paLo  palo _N_ ,  fobia    </p>
       <p id="3">merettes  </p>
       <p id="4">kammo</p>
       <p id="5">fobia</p>
@@ -10989,7 +10989,7 @@
    </e>
    <e id="5318">
       <p id="1">kirjelmä</p>
-      <p id="2">čáálus  čáállus,  ääši kirjálâs čiel'gim    </p>
+      <p id="2">čáálus  čáállus,  ääši kirjálâs čiel'gim _N_   </p>
       <p id="3">čáálus</p>
       <p id="4">kirjelmä</p>
       <p id="5">ääši kirjálâs čiel'gim</p>
@@ -11431,7 +11431,7 @@
    </e>
    <e id="5533">
       <p id="1">kohtalaisesti</p>
-      <p id="2">vie'hâ pyereest,    šie'vnáál, tuđâttetteht, kuá'htulávt    </p>
+      <p id="2">vie'hâ pyereest _N_ ,    šie'vnáál, tuđâttetteht, kuá'htulávt    </p>
       <p id="3">vie'hâ </p>
       <p id="4">kohtalaisesti</p>
       <p id="5">šie'vnáál, tuđâttetteht, kuá'htulávt</p>
@@ -12822,7 +12822,7 @@
    </e>
    <e id="6223">
       <p id="1">kuolio</p>
-      <p id="2">nekroos,    kođđoos eellimtooimâi nuuhâm    </p>
+      <p id="2">nekroos,    kođđoos eellimtooimâi nuuhâm  _N_  </p>
       <p id="3">nekroos,</p>
       <p id="4">kuolio</p>
       <p id="5">kođđoos eellimtooimâi nuuhâm</p>
@@ -13849,7 +13849,7 @@
    </e>
    <e id="6685">
       <p id="1">käynnistää</p>
-      <p id="2">starttađ  starttaam,  pieijâđ joton    </p>
+      <p id="2">starttađ  starttaam,  pieijâđ joton  _N_  </p>
       <p id="3">starttađ</p>
       <p id="4">käynnistää</p>
       <p id="5">pieijâđ joton</p>
@@ -14031,7 +14031,7 @@
    </e>
    <e id="6811">
       <p id="1">laillistaa</p>
-      <p id="2">laVâlistiđ  laVâlistám,  tooHâđ la'Vâlâžžân    </p>
+      <p id="2">laVâlistiđ  laVâlistám,  tooHâđ la'Vâlâžžân  _N_  </p>
       <p id="3">laVâlistiđ</p>
       <p id="4">laillistaa</p>
       <p id="5">tooHâđ la'Vâlâžžân</p>
@@ -14265,7 +14265,7 @@
    </e>
    <e id="6917">
       <p id="1">lakisääteinen</p>
-      <p id="2">laaVâst meRidum,    lahâaasâtlâš -aasâtlii    </p>
+      <p id="2">laaVâst meRidum _N_ ,    lahâaasâtlâš -aasâtlii    </p>
       <p id="3">laaVâst </p>
       <p id="4">laki</p>
       <p id="5">lahâaasâtlâš -aasâtlii</p>
@@ -14954,7 +14954,7 @@
    </e>
    <e id="7325">
       <p id="1">levyttää</p>
-      <p id="2">skiäRu rähtiđ,    skiär'rudiđ    </p>
+      <p id="2">skiäRu rähtiđ _N_ ,    skiär'rudiđ    </p>
       <p id="3">skiäRu </p>
       <p id="4">levyttää</p>
       <p id="5">skiär'rudiđ</p>
@@ -15721,7 +15721,7 @@
    </e>
    <e id="7879">
       <p id="1">lähentyä</p>
-      <p id="2">aldaniđ  aldan,  šoddâđ kie'res koskâvuotâ    </p>
+      <p id="2">aldaniđ  aldan,  šoddâđ kie'res koskâvuotâ _N_   </p>
       <p id="3">aldaniđ</p>
       <p id="4">lähentyä</p>
       <p id="5">šoddâđ kie'res koskâvuotâ</p>
@@ -17346,7 +17346,7 @@
    </e>
    <e id="8769">
       <p id="1">myytävänä</p>
-      <p id="2">vye'bditteppen,    vyeb'dimed várás    </p>
+      <p id="2">vye'bditteppen,    vyeb'dimed várás _N_   </p>
       <p id="3">vye'bditteppen,</p>
       <p id="4">myytävänä</p>
       <p id="5">vyeb'dimed várás</p>
@@ -18373,7 +18373,7 @@
    </e>
    <e id="9396">
       <p id="1">näytelmä</p>
-      <p id="2">čaaitâlm,    ča'itâlmâs~čá'itálmâs</p>
+      <p id="2">čaaitâlm,    ča'itâlmâs ~ čá'itálmâs</p>
       <p id="3">čaaitâlm,</p>
       <p id="4">näytelmä</p>
       <p id="5">ča'itâlmâs~čá'itálmâs</p>
@@ -19855,7 +19855,7 @@
    </e>
    <e id="10372">
       <p id="1" r1_par="(mus.)">pianissimo</p>
-      <p id="2">uá'Li siijvost,    uá'Li joskâdávt    </p>
+      <p id="2">uá'Li siijvost _N_ ,    uá'Li joskâdávt _N_   </p>
       <p id="3">uá'Li </p>
       <p id="4">pianissimo</p>
       <p id="5">uá'Li joskâdávt</p>
@@ -20726,7 +20726,7 @@
    </e>
    <e id="10844">
       <p id="1" r1_par="(kannanotto)">ponsi</p>
-      <p id="2">tiä'duttâs,    tiä'duttum ciäl'kkámuš    </p>
+      <p id="2">tiä'duttâs,    tiä'duttum ciäl'kkámuš  _N_  </p>
       <p id="3">tiä'duttâs,</p>
       <p id="4">ponsi</p>
       <p id="5">tiä'duttum ciäl'kkámuš</p>
@@ -20882,7 +20882,7 @@
    </e>
    <e id="10919">
       <p id="1">postittaa</p>
-      <p id="2">pieijâđ poostân,    vuo'lgâttiđ poostâ fáárust, postiđ postiim    </p>
+      <p id="2">pieijâđ poostân _N_,    vuo'lgâttiđ poostâ fáárust _N_, postiđ postiim    </p>
       <p id="3">pieijâđ</p>
       <p id="4">postittaa</p>
       <p id="5">vuo'lgâttiđ poostâ fáárust, postiđ postiim</p>
@@ -20934,7 +20934,7 @@
    </e>
    <e id="10942">
       <p id="1" r1_par="(mus.)">presto</p>
-      <p id="2">uá'Li jotelávt,    uá'Li hoppuht    </p>
+      <p id="2">uá'Li jotelávt _N_,    uá'Li hoppuht  _N_  </p>
       <p id="3">uá'Li </p>
       <p id="4">presto</p>
       <p id="5">uá'Li hoppuht</p>
@@ -22663,7 +22663,7 @@
    </e>
    <e id="11972">
       <p id="1">riippuvuus</p>
-      <p id="2">so'rjolâšvuotâ  -vuođâ,  mastnii kiddâ    </p>
+      <p id="2">so'rjolâšvuotâ  -vuođâ,  mastnii kiddâ _N_ </p>
       <p id="3">so'rjolâš</p>
       <p id="4">riippuvuus</p>
       <p id="5">mastnii kiddâ</p>
@@ -23807,7 +23807,7 @@
    </e>
    <e id="12655">
       <p id="1">samaistua</p>
-      <p id="2">identifisistuđ  identifisistuum identifisistuVá,  identifisistiđ jiei'jâs    </p>
+      <p id="2">identifisistuđ  identifisistuum identifisistuVá,  identifisistiđ jiei'jâs _N_ </p>
       <p id="3">identifisistuđ</p>
       <p id="4">samaistua</p>
       <p id="5">identifisistiđ jiei'jâs</p>

@@ -24444,7 +24444,7 @@
    </e>
    <e id="13014">
       <p id="1">sienestys</p>
-      <p id="2">kuob'bârij čuág'gim,    kuo'bârdem    </p>
+      <p id="2">kuob'bârij čuág'gim _N_,    kuo'bârdem    </p>
       <p id="3">kuob'bârij </p>
       <p id="4">sienestys</p>
       <p id="5">kuo'bârdem</p>
@@ -24457,7 +24457,7 @@
    </e>
    <e id="13015">
       <p id="1">sienestää</p>
-      <p id="2">čuág'giđ kuob'bârijd,    kuo'bârdiđ kuobbârd    </p>
+      <p id="2">čuág'giđ kuob'bârijd  _N_ ,    kuo'bârdiđ kuobbârd    </p>
       <p id="3">čuág'giđ </p>
       <p id="4">sienestää</p>
       <p id="5">kuo'bârdiđ kuobbârd</p>
@@ -24665,7 +24665,7 @@
    </e>
    <e id="13116">
       <p id="1">sikin sokin</p>
-      <p id="2">hiloi,    hilui hálui    </p>
+      <p id="2">hiloi,    hilui hálui  _N_  </p>
       <p id="3">hiloi,</p>
       <p id="4">sikin </p>
       <p id="5">hilui hálui</p>
@@ -25159,7 +25159,7 @@
    </e>
    <e id="13337">
       <p id="1" r1_par="(huomaamatta toista)">sivuuttaa</p>
-      <p id="2">muullâđ  muulâm moLá,  mulâdâttâđ mulâdâđâm mulâdâđáin, suái'bulâs moonnâđ    </p>
+      <p id="2">muullâđ  muulâm moLá,  mulâdâttâđ mulâdâđâm mulâdâđáin, suái'bulâs moonnâđ _N_ </p>
       <p id="3">muullâđ</p>
       <p id="4">sivuuttaa</p>
       <p id="5">mulâdâttâđ mulâdâđâm mulâdâđáin, suái'bulâs moonnâđ</p>
@@ -26446,7 +26446,7 @@
    </e>
    <e id="13960">
       <p id="1">syytetty</p>
-      <p id="2">ášálâš  ášálii,  ášáskuttum olmooš    </p>
+      <p id="2">ášálâš  ášálii,  ášáskuttum olmooš _N_ </p>
       <p id="3">ášálâš</p>
       <p id="4">syytetty</p>
       <p id="5">ášáskuttum olmooš</p>
@@ -26615,7 +26615,7 @@
    </e>
    <e id="14054">
       <p id="1">säteittäinen</p>
-      <p id="2">radiaallâš  radiaallii,  jye'hikuávlun vyel'gee    </p>
+      <p id="2">radiaallâš  radiaallii,  jye'hikuávlun vyel'gee _N_ </p>
       <p id="3">radiaallâš</p>
       <p id="4">säteittäinen</p>
       <p id="5">jye'hikuávlun vyel'gee</p>
@@ -26732,7 +26732,7 @@
    </e>
    <e id="14083">
       <p id="1">sääntö</p>
-      <p id="2">njuo'lgâdus,    oordel, ki'rjálâš miä'Rádâs    </p>
+      <p id="2">njuo'lgâdus,    oordel, ki'rjálâš miä'Rádâs _N_ </p>
       <p id="3">njuo'lgâdus,</p>
       <p id="4">sääntö</p>
       <p id="5">oordel, ki'rjálâš miä'Rádâs</p>
@@ -26836,7 +26836,7 @@
    </e>
    <e id="14171">
       <p id="1">taimi</p>
-      <p id="2">vesa,    šado algâ~álgu    </p>
+      <p id="2">vesa,    šado algâ _N_ ~ šado álgu _N_ </p>
       <p id="3">vesa,</p>
       <p id="4">taimi</p>
       <p id="5">šado algâ~álgu</p>
@@ -27070,7 +27070,7 @@
    </e>
    <e id="14293">
       <p id="1">talkootyö</p>
-      <p id="2">pä'lhittes pargo  pa'rgo,  talgoopargo -pa'rgo    </p>
+      <p id="2">pä'lhittes pargo  pa'rgo _N2_ ,  talgoopargo -pa'rgo    </p>
       <p id="3">pä'lhittes </p>
       <p id="4">talkoo</p>
       <p id="5">talgoopargo -pa'rgo</p>
@@ -27473,7 +27473,7 @@
    </e>
    <e id="14555">
       <p id="1">tekoallas</p>
-      <p id="2">tulvâdemääldis  -áldá,  tulvâdum jävri    </p>
+      <p id="2">tulvâdemääldis  -áldá,  tulvâdum jävri _N_ </p>
       <p id="3">tulvâdem</p>
       <p id="4">teko</p>
       <p id="5">tulvâdum jävri</p>
@@ -27915,7 +27915,7 @@
    </e>
    <e id="14792">
       <p id="1">tilittää</p>
-      <p id="2">tilittiđ,    adeliđ čiel'giittâs tilijn    </p>
+      <p id="2">tilittiđ,    adeliđ čiel'giittâs tilijn _N_ </p>
       <p id="3">tilittiđ,</p>
       <p id="4">tilittää</p>
       <p id="5">adeliđ čiel'giittâs tilijn</p>
@@ -28084,7 +28084,7 @@
    </e>
    <e id="14847">
       <p id="1">todennäköinen</p>
-      <p id="2">o'skottettee,    vie'hâ vises    </p>
+      <p id="2">o'skottettee,    vie'hâ vises _N_ </p>
       <p id="3">o'skottettee,</p>
       <p id="4">toden</p>
       <p id="5">vie'hâ vises</p>
@@ -28240,7 +28240,7 @@
    </e>
    <e id="14923">
       <p id="1">toistaiseksi</p>
-      <p id="2">tuáistáážân,    täst oovdâs    </p>
+      <p id="2">tuáistáážân,    täst oovdâs _N_ </p>
       <p id="3">tuáistáážân,</p>
       <p id="4">toistaiseksi</p>
       <p id="5">täst oovdâs</p>
@@ -28331,7 +28331,7 @@
    </e>
    <e id="14983">
       <p id="1">tosite</p>
-      <p id="2">tuođâš,    ki'rjálâš kuittâ    </p>
+      <p id="2">tuođâš,    ki'rjálâš kuittâ _N_ </p>
       <p id="3">tuođâš,</p>
       <p id="4">tosite</p>
       <p id="5">ki'rjálâš kuittâ</p>
@@ -28630,7 +28630,7 @@
    </e>
    <e id="15107">
       <p id="1">tulokas</p>
-      <p id="2">puá'đulâš  puá'đulii,  esken puáttám    </p>
+      <p id="2">puá'đulâš  puá'đulii,  esken puáttám _N_ </p>
       <p id="3">puá'đulâš</p>
       <p id="4">tulokas</p>
       <p id="5">esken puáttám</p>
@@ -28916,7 +28916,7 @@
    </e>
    <e id="15234">
       <p id="1">tuoksu</p>
-      <p id="2">njaalgâ haaJâ  haajâ,  haaJâ haajâ    </p>
+      <p id="2">njaalgâ haaJâ  haajâ _N2_,  haaJâ haajâ    </p>
       <p id="3">njaalgâ </p>
       <p id="4">tuoksu</p>
       <p id="5">haaJâ haajâ</p>
@@ -29033,7 +29033,7 @@
    </e>
    <e id="15277">
       <p id="1">tupakoida</p>
-      <p id="2">po'rgottiđ  porgoot,  tubákkâššâđ tubákkâšâm, puál'diđ tubbáák    </p>
+      <p id="2">po'rgottiđ  porgoot,  tubákkâššâđ tubákkâšâm, puál'diđ tubbáák _N_ </p>
       <p id="3">po'rgottiđ</p>
       <p id="4">tupakoida</p>
       <p id="5">tubákkâššâđ tubákkâšâm, puál'diđ tubbáák</p>
@@ -30606,7 +30606,7 @@
    </e>
    <e id="16086">
       <p id="1">vakinaistaa</p>
-      <p id="2">tooHâđ piSovâžžân,    fastâdiđ    </p>
+      <p id="2">tooHâđ piSovâžžân _N_ ,    fastâdiđ    </p>
       <p id="3">tooHâđ </p>
       <p id="4">vakinaistaa</p>
       <p id="5">fastâdiđ</p>
@@ -31764,7 +31764,7 @@
    </e>
    <e id="16850">
       <p id="1">vihjaista</p>
-      <p id="2">adeliđ oonâ,    onnâdiđ    </p>
+      <p id="2">adeliđ oonâ _N_ ,    onnâdiđ    </p>
       <p id="3">adeliđ </p>
       <p id="4">vihjaista</p>
       <p id="5">onnâdiđ</p>
@@ -32934,7 +32934,7 @@
    </e>
    <e id="17543">
       <p id="1">yksilö</p>
-      <p id="2">ohtâgâs,    o'vtâskâs olmooš    </p>
+      <p id="2">ohtâgâs,    o'vtâskâs olmooš _N_ </p>
       <p id="3">ohtâgâs,</p>
       <p id="4">yksilö</p>
       <p id="5">o'vtâskâs olmooš</p>

@@ -80,7 +80,7 @@
    </e>
    <e id="36">
       <p id="1" syn="aarniometsä">aarnimetsä</p>
-      <p id="2">luánduviđá  vyev'di,  algâvyevdi ~álguvyev'di -vyevdi    </p>
+      <p id="2">luánduviđá  vyev'di _MWEy_,  algâvyevdi ~álguvyev'di -vyevdi    </p>
       <p id="3">luándu</p>
       <p id="4">aarni(o)</p>
       <p id="5">algâ-~álguvyev'di -vyevdi</p>
@@ -457,7 +457,7 @@
    </e>
    <e id="174">
       <p id="1">aikuistua</p>
-      <p id="2">rávásmuđ  rávásmuum rávásmuVá,  šoddâđ räävisin    </p>
+      <p id="2">rávásmuđ  rávásmuum rávásmuVá,  šoddâđ räävisin  _MWEy_  </p>
       <p id="3">rávásmuđ</p>
       <p id="4">aikuistua</p>
       <p id="5">šoddâđ räävisin</p>
@@ -704,7 +704,7 @@
    </e>
    <e id="275">
       <p id="1">ajoittaa</p>
-      <p id="2">äigidiđ,    miä'ruštâllâđ ääigi ~ aVe    </p>
+      <p id="2">äigidiđ,    miä'ruštâllâđ ääigi _MWEy_ ~ miä'ruštâllâđ aVe _MWEy_   </p>
       <p id="3">äigidiđ,</p>
       <p id="4">ajoittaa</p>
       <p id="5">miä'ruštâllâđ ääigi ~ aVe</p>
@@ -769,7 +769,7 @@
    </e>
    <e id="313">
       <p id="1">aktivoida</p>
-      <p id="2">aktivistiđ,    tooHâđ aktiivlâžžân    </p>
+      <p id="2">aktivistiđ,    tooHâđ aktiivlâžžân _MWEy_   </p>
       <p id="3">aktivistiđ,</p>
       <p id="4">aktivoida</p>
       <p id="5">tooHâđ aktiivlâžžân</p>
@@ -912,7 +912,7 @@
    </e>
    <e id="387">
       <p id="1">alittaa</p>
-      <p id="2">moonnâđ vye'le,    čaaŋŋâđ vye'le    </p>
+      <p id="2">moonnâđ vye'le _MWEy_,    čaaŋŋâđ vye'le _MWEy_   </p>
       <p id="3">moonnâđ</p>
       <p id="4">alittaa</p>
       <p id="5">čaaŋŋâđ vye'le</p>
@@ -1161,7 +1161,7 @@
    </e>
    <e id="528">
       <p id="1">amputoida</p>
-      <p id="2">amputistiđ,    čuoppâđ meddâl    </p>
+      <p id="2">amputistiđ,    čuoppâđ meddâl  _MWEy_  </p>
       <p id="3">amputistiđ,</p>
       <p id="4">amputoida</p>
       <p id="5">čuoppâđ meddâl</p>
@@ -1902,7 +1902,7 @@
    </e>
    <e id="855">
       <p id="1">aviollinen</p>
-      <p id="2">näimi-,    näimiliiton kullee    </p>
+      <p id="2">näimi-,    näimiliiton kullee _MWEy_   </p>
       <p id="3">näimi-,</p>
       <p id="4">aviollinen</p>
       <p id="5">näimiliiton kullee</p>
@@ -2045,7 +2045,7 @@
    </e>
    <e id="932">
       <p id="1">diagnoosi</p>
-      <p id="2">diagnoos,    taavdâ miä'ruštâllâm    </p>
+      <p id="2">diagnoos,    taavdâ miä'ruštâllâm  _MWEy_  </p>
       <p id="3">diagnoos,</p>
       <p id="4">diagnoosi</p>
       <p id="5">taavdâ miä'ruštâllâm</p>
@@ -2214,7 +2214,7 @@
    </e>
    <e id="1011">
       <p id="1">ehkä</p>
-      <p id="2">kenski,    kii tiätá    </p>
+      <p id="2">kenski,    kii tiätá  _MWEy_  </p>
       <p id="3">kenski,</p>
       <p id="4">ehkä</p>
       <p id="5">kii tiätá</p>
@@ -2383,7 +2383,7 @@
    </e>
    <e id="1086">
       <p id="1" r1_par="(jne.)" comma=", -et, -ei">ellen</p>
-      <p id="2">jis jie'm,    jis jie'h, jis ij (jna.)    </p>
+      <p id="2">jis jie'm _MWEy_,    jis jie'h _MWEy_, jis ij _MWEy_ (jna.)    </p>
       <p id="3">jis jie'm,</p>
       <p id="4">ellen, -et, -ei (jne.)</p>
       <p id="5">jis jie'h, jis ij (jna.)</p>
@@ -2552,7 +2552,7 @@
    </e>
    <e id="1171">
       <p id="1">ennenaikainen</p>
-      <p id="2">liijkás tooláás,    meendu aarrâd    </p>
+      <p id="2">liijkás tooláás _MWEy_ ,    meendu aarrâd _MWEy_ </p>
       <p id="3">liijkás </p>
       <p id="4">ennen</p>
       <p id="5">meendu aarrâd</p>
@@ -2708,7 +2708,7 @@
    </e>
    <e id="1230">
       <p id="1">epäröidä</p>
-      <p id="2">kuáv'dálistiđ,    (olla kahden vaiheilla) spohhiistâllâđ spohhiistâlâm, kuá'vtálistiđ, kyev't kooskâst leđe    </p>
+      <p id="2">kuáv'dálistiđ,    (olla kahden vaiheilla) spohhiistâllâđ spohhiistâlâm, kuá'vtálistiđ, kyev't kooskâst leđe  _MWEy_  </p>
       <p id="3">kuáv'dálistiđ,</p>
       <p id="4">epäröidä</p>
       <p id="5">(olla kahden vaiheilla) spohhiistâllâđ spohhiistâlâm, kuá'vtálistiđ, kyev't kooskâst leđe</p>
@@ -3254,7 +3254,7 @@
    </e>
    <e id="1488">
       <p id="1">fakta</p>
-      <p id="2">fakta,    tuo'tâ äšši ääši    </p>
+      <p id="2">fakta,    tuo'tâ äšši ääši _MWE2_   </p>
       <p id="3">fakta,</p>
       <p id="4">fakta</p>
       <p id="5">tuo'tâ äšši ääši</p>
@@ -3293,7 +3293,7 @@
    </e>
    <e id="1503">
       <p id="1">fiktio</p>
-      <p id="2">fiktio,    epituo'tâ äšši    </p>
+      <p id="2">fiktio,    epituo'tâ äšši  _MWEy_  </p>
       <p id="3">fiktio,</p>
       <p id="4">fiktio</p>
       <p id="5">epituo'tâ äšši</p>
@@ -3332,7 +3332,7 @@
    </e>
    <e id="1522">
       <p id="1" r1_par="(mus.)">fortissimo</p>
-      <p id="2">uá'Li vuá'imálávt,    uá'Li korrâsávt    </p>
+      <p id="2">uá'Li vuá'imálávt  _MWEy_ ,    uá'Li korrâsávt _MWEy_ </p>
       <p id="3">uá'Li </p>
       <p id="4">fortissimo</p>
       <p id="5">uá'Li korrâsávt</p>
@@ -3345,7 +3345,7 @@
    </e>
    <e id="1523">
       <p id="1">fossiili</p>
-      <p id="2">fossiil,    keđgilum pasâttâs    </p>
+      <p id="2">fossiil,    keđgilum pasâttâs _MWEy_   </p>
       <p id="3">fossiil,</p>
       <p id="4">fossiili</p>
       <p id="5">keđgilum pasâttâs</p>
@@ -3358,7 +3358,7 @@
    </e>
    <e id="1532">
       <p id="1">fysioterapia</p>
-      <p id="2">fysioterapia,    fysikaallâš terapia    </p>
+      <p id="2">fysioterapia,    fysikaallâš terapia  _MWEy_   </p>
       <p id="3">fysio</p>
       <p id="4">fysio</p>
       <p id="5">fysikaallâš terapia</p>
@@ -3410,7 +3410,7 @@
    </e>
    <e id="1558">
       <p id="1">grönlantilainen</p>
-      <p id="2">ruánááeennâmlâš  -eennâmlii,  kalaallit nunaatlâš -nunaatlii    </p>
+      <p id="2">ruánááeennâmlâš  -eennâmlii,  kalaallit nunaatlâš _MWEy_ -nunaatlii    </p>
       <p id="3">ruánáá</p>
       <p id="4">grönlantilainen</p>
       <p id="5">kalaallit nunaatlâš -nunaatlii</p>
@@ -4112,7 +4112,7 @@
    </e>
    <e id="1998">
       <p id="1">heikottaa</p>
-      <p id="2">vaijeeđ hiäjuht,    illávaijeeđ -vajam     </p>
+      <p id="2">vaijeeđ hiäjuht  _MWEy_,    illávaijeeđ -vajam     </p>
       <p id="3">vaijeeđ </p>
       <p id="4">heikottaa</p>
       <p id="5">illávaijeeđ -vajam </p>
@@ -5165,7 +5165,7 @@
    </e>
    <e id="2497">
       <p id="1">hujan hajan</p>
-      <p id="2">hiloi,    hilui hálui    </p>
+      <p id="2">hiloi,    hilui hálui  _MWEy_  </p>
       <p id="3">hiloi,</p>
       <p id="4">hujan</p>
       <p id="5">hilui hálui</p>
@@ -5399,7 +5399,7 @@
    </e>
    <e id="2604">
       <p id="1">huopua</p>
-      <p id="2">tuápán moonnâđ,    tuo'pâluđ tuo'pâluVá, tuo'pânjâššâđ tuo'pânjâšâm ~ tuo'pânâššâđ tuo'pânâšâm    </p>
+      <p id="2">tuápán moonnâđ _MWEy_ ,    tuo'pâluđ tuo'pâluVá, tuo'pânjâššâđ tuo'pânjâšâm ~ tuo'pânâššâđ tuo'pânâšâm    </p>
       <p id="3">tuápán </p>
       <p id="4">huopua</p>
       <p id="5">tuo'pâluđ tuo'pâluVá, tuo'pânjâššâđ tuo'pânjâšâm ~ tuo'pânâššâđ tuo'pânâšâm</p>
@@ -5789,7 +5789,7 @@
    </e>
    <e id="2748">
       <p id="1">hyödyntää</p>
-      <p id="2">á'vhástâllâđ  á'vhástâlâm,  anneeđ ävkkin    </p>
+      <p id="2">á'vhástâllâđ  á'vhástâlâm,  anneeđ ävkkin  _MWEy_  </p>
       <p id="3">á'vhástâllâđ</p>
       <p id="4">hyödyntää</p>
       <p id="5">anneeđ ävkkin</p>
@@ -5880,7 +5880,7 @@
    </e>
    <e id="2780">
       <p id="1">hälyttää</p>
-      <p id="2">(erit. varoittaaksen jstak) váruttiđ  váárut,  koččođ išán, hälyttiđ    </p>
+      <p id="2">(erit. varoittaaksen jstak) váruttiđ  váárut,  koččođ išán _MWEy_ , hälyttiđ    </p>
       <p id="3">(erit. varoittaaksen jstak) váruttiđ</p>
       <p id="4">hälyttää</p>
       <p id="5">koččođ išán, hälyttiđ</p>
@@ -6218,7 +6218,7 @@
    </e>
    <e id="2950">
       <p id="1">ikäihminen</p>
-      <p id="2">eLilâm olmooš  ulmuu,  aheolmooš -ulmuu    </p>
+      <p id="2">eLilâm olmooš  ulmuu _MWEy_ ,  aheolmooš -ulmuu    </p>
       <p id="3">eLilâm </p>
       <p id="4">ikä</p>
       <p id="5">aheolmooš -ulmuu</p>

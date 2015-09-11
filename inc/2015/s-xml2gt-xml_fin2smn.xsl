@@ -72,9 +72,9 @@
 </xsl:function>
 
 
-  <xsl:param name="flag" select="'a'"/>
+  <xsl:param name="flag" select="'b'"/>
   <xsl:param name="inDir" select="concat($flag,'_1_xml_input')"/>
-  <xsl:param name="outDir" select="concat('out_',$flag,'_2_gtxml')"/>
+  <xsl:param name="outDir" select="concat('out1_',$flag,'_2_gtxml')"/>
   <xsl:variable name="of" select="'xml'"/>
   <xsl:variable name="e" select="$of"/>
   <xsl:variable name="debug" select="false()"/>
@@ -297,6 +297,14 @@
 					      else ($r5)
 					      "/>
 
+			<!-- manual post-editing of _MWE2_ needed:
+			     1_xml>g mwe Suoma-saami_ERRATA_03072015_only_comma.xml|g -v 'mwe='|g -v 'MWEy'
+			     <p id="2">fakta,    tuo'tâ äšši ääši _MWE2_   </p>
+			     <p id="2">merettes  paLo  palo _MWE2_ ,  fobia    </p>
+			     <p id="2">pä'lhittes pargo  pa'rgo _MWE2_ ,  talgoopargo -pa'rgo    </p>
+			     <p id="2">njaalgâ haaJâ  haajâ _MWE2_,  haaJâ haajâ    </p>
+			     -->
+			
 			<xsl:variable name="mwe_word_form">
 			  <xsl:if test="$current_e/p[./@id='2'][./@mwe]
 					and not($current_e/p[./@id='2'][./@mwe='y'])">

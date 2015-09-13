@@ -1,0 +1,35 @@
+
+dash_c.txt
+
+čoođâ-čoođâ sävŋi säävŋi
+räđđejeijee jiešvuotâ -vuođâ
+mađe - tađe
+čoođâ-čoođâ čuog'giistâh čuog'giistuv
+čoođâ-čoođâ njoođâlm
+toppum virdepirrâdâh -pirrâduv
+sánálâš vie'hâväldi -vääldi
+stuor'râ raddetekki -teehi
+siäm'máá-áigásâš -áigásii
+puá'suiolmooš -ulmuu paJeolmooš -ulmuu
+oohtânservâđ -seervâm -siär'vá
+kale nuárvuinjuuneest-uv a'lmai puátá
+jieh-uv hepânâš!
+ergijn hästeea'lmai -almaa
+-arvoinen -árvusâš -árvusii
+====================================
+
+out_c_2_gtxml_01>g '\-' non-ws_c.txt |l
+
+säti-~setinááLá
+suddo-ollee
+čäcijehhee~-jieh'hee
+viđjân-kuđjân
+tävjit-távjá
+säti-~setioornig
+kuulmâi-kuulmâi
+aa-a
+
+
+
+
+

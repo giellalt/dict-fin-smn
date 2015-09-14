@@ -74,7 +74,7 @@
 
   <xsl:param name="flag" select="'b'"/>
   <xsl:param name="inDir" select="concat($flag,'_1_xml_input')"/>
-  <xsl:param name="outDir" select="concat('out1_',$flag,'_2_gtxml')"/>
+  <xsl:param name="outDir" select="concat('out_',$flag,'_2_gtxml')"/>
   <xsl:variable name="of" select="'xml'"/>
   <xsl:variable name="e" select="$of"/>
   <xsl:variable name="debug" select="false()"/>

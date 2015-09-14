@@ -18,7 +18,7 @@ ergijn hästeea'lmai -almaa
 -arvoinen -árvusâš -árvusii
 ====================================
 
-out_c_2_gtxml_01>g '\-' non-ws_c.txt |l
+out_c_2_gtxml_01>g '\-' non-ws_c.txt
 
 säti-~setinááLá
 suddo-ollee
@@ -45,4 +45,216 @@ kuástis kuás'tá # kuás'ti-
 jaamâs jaammâs # jaMâ-
 epičielgâs -čiel'gâs # epičiel'gâ
 cuurmâs curmâs # curmâ curme-
+
+====================================
+
+out_c_2_gtxml_01>vim tilde_c.txt
+
+
+nääLi nääli ~ näle
+moive mooive ~ mo'ive
+käVilâššâđ käVilâšâm ~ käViluššâđ käVilušâm
+jeeHiđ~jiehiđ jiäVám jiähá
+čiä'rgádâh~čiä'rgádoh~čiä'rgáduh čiä'rgáduv
+čahhiđ~čaahhiđ čahhiim čähhee
+ääbir ábbár~ábbâr
+álduduh~áldudoh~áldudâh álduduv
+pááRu pááru ~ páro
+njuneh láá toppum ~ toppâlum
+muáti muáđi ~ muá'đe
+kuáti kuáđi ~ kuá'đe
+kavrođ kaavrom ~ ka'vrom
+heeviittiđ heevitâm~heeviittâm
+cuskâsâst ~ suskâsâst orroođ
+cuskâm ~ suskâm leđe
+šoollâđ šoolâm šaLa ~ šuáLá
+čuá'littem čuá'littemes ~ čuá'littes
+čuo'pâttiđ čuopât~čuoppât
+čielgi ~ čiel'gi čielgi
+čie'pâstiđ čieppâst ~ čiepâst
+ča'skaldâh~ča'skaldoh~ča'skalduh ča'skalduv
+áppádiđ áppád~áppâd
+áhásiđ ááhás~ááhâs
+á'rgášiđ áárgáš~áárgâš
+vááimu kagâstiđ ~ kaggâđ
+tivre tiivre ~ ti'vre
+suvneđ suuvnám ~ su'vnám
+suvdeđ suuvdám ~ su'vdám
+suhčâduđ ~ čuhčâduđ čuhčâduum čuhčâduVá
+reettiđ~rettiđ rettiim rettee
+rađđiđ~raađđiđ rađđiim räđđee
+puánnjuđ puánjum ~ puá'njom
+puicce puuice ~ pu'ice
+pivdeđ pi'vdám ~ piivdám
+pahudiđ~pahhuudiđ paaHud
+njahče njaavče ~ nja'vče
+muádis muád'dás~muád'dâs
+moollâđ~muollâđ muáLá
+lohhiđ~loohhiđ lohhiim luáh'hee
+livđe li'vđe ~ liivđe
+lavkke la'vhe ~ laavhe
+kyevtis kuáh'tá~kuáh'tás
+kuá'dádâh~kuá'dádoh kuá'dáduv
+kukse kuuvse ~ ku'vse
+jursseđ~jurseđ ju'rsám
+jiäggáš~jiäggâš jiäg'gáá
+iä'rániđ iärrán~iärrân
+ivne iivne ~ i'vne
+hiä'jusmiđ hiäjuusm~hiäjusm
+harijdiđ haarijd ~ haridiđ haariid
+fiskáđ~viskáđ fiskájeh~viskájeh
+eres iärrás~iärrâs
+erduđ~iär'duđ iärdum iär'doo
+coohhuđ~cohhuđ ~ cuoh'huđ cuáh'hoo
+cie'gâstiđ ciegâst~cieggâst
+cie'gâdiđ ciegâd~cieggâd
+asâttiđ aassât ~ aasât
+
+šyei'ji šyeJi ~ šyeJi šye'je (cf.)
+šyei'ji šyeJi ~ šyeJi
+
+šuá'láttâh~šuá'láttoh~šuá'láttuh šuá'láttuv
+
+čuámmuđ~čuám'muđ čuámum
+čuám'muđ ~ čuámmuđ čuámum
+
+čuuvâstoh~čuuvâstuh~čuuvâstâh čuuvâstuv
+čuVâstâh~čuVâstoh~čuVâstuh čuVâstuv
+čonâstâh~čonâstoh~čonâstuh čonâstuv
+čonâstoh~čonâstuh~čonâstâh čonâstuv
+čie'pâstiđ čieppâst~čiepâst
+čeve čiäp'pát ~ čiäp'pât
+áŋás~ááŋáás ááŋás
+ánssu~ánsu áánsu
+áJániđ ááiján~ááijân
+á'nsášiđ áánsáš~áánsâš
+viälmá ~ viäl'má viälmá
+uáđđiđ háccá~háccud
+uápis uáp'pá~uáp'pás
+uMogâš uMogii~uMogáá
+tááLu táálu ~ tálo
+tust jiegah ~ vuo'iŋâstuvah opsiideh paan
+tovâldâh~tovâlduh~tovâldoh tovâlduv
+tovkkâđ toovhâm tuáv'kká ~ tavkka
+to'vkos tovkkos ~ to'vhos
+talvâsâš talvâsii~talvâsáá
+sääNi sääni ~ säne
+
+sá'lbuttiđ sáálbut ~sá'lvuttiđ sáálvut kieđâid
+sá'lbuttiđ sáálbut ~sá'lvuttiđ sáálvut (cf.)
+
+suálui ~ suá'loi suol'luu
+suá'Lágittiđ~suál'lágittiđ suá'Lágitám
+suvrođ suuvrom ~ su'vrom
+suvle su'vle ~ suuvle
+suvdeđ suuvdám~su'vdám
+sitkođ si'đhom ~ si'tkom
+si'đhes sitkás~sitká
+savo savvoon ~ savvoon
+ruáŋis ruáŋ'ŋás~ruáŋ'ŋá
+ruátu ruáđu ~ ruá'đo
+ruá'Sádiđ ruássád~ruásád
+ruumâš ruummâš~rummâš
+riäpu riävu ~ riä'vo
+riijkâ ~ rijkkâ riijhâ
+pääcciđ meddâl ~ ulguubel
+pääNi pääni ~ päne
+pääLi pääli ~ päle
+páárnáš~páárnâš párnáá
+puátu puáđu ~ puáđo
+puát'tee ~ puát'teš ~ čuá'Vuvâš ihe
+puájui ~ puá'joi poijuu
+purrâđ~puurrâđ puurâm poRá
+puo'vnjâgiđ~puo'vnjiidiđ puovnjâg
+puo'vnjâgiđ ~ puo'vnjiidiđ puovnjâg
+polsâ~polssâ poolsâ
+poVustiđ ~ povvâstiđ njálgásávt
+piäiváš~piäivâš ~ peivi paijaan
+piäiváš~piäivâš ~ peivi luáštá
+piäiváš~piäivâš piäi'váá
+pivdeđ ~ áánnuđ addâgâs ~ addâgâsân
+pivdeđ pi'vdám~piivdám
+piijnediđ~pijnediđ piijned
+pi'vdáskiđ piivdásk~pivdáásk
+peles piäl'lá~piäl'lás
+peessiđ~pessiđ pessiim pessee pessejeh
+peerbil piär'bál ~ piärbálm~piärbâlm
+nääpi näävi ~ näve
+nuá'rvádiđ nuár'vád~nuár'vâd
+njuálluđ njuálum ~ njuá'lom
+njuá'rgustiđ njuárgust ~ njuárgustittiđ
+njuvdeđ njuuvdám ~ nju'vdám
+njivle nji'vle ~ njiivle
+njavkke nja'vhe ~ njaavhe
+määlis máállás~máállâs
+máátu mááđu ~ máđo
+máttááttiđ máttát~máttât
+must vááimu kagâstij ~ must aalgij vááimu kaggâđ
+must uáivi kie'ssâš ~ keessâš
+must uái'vi kie'ssâš ~ keessâš
+must uái'vi keessâš ~ kie'ssâš
+moonâ siisâ amas njuos'kâđ ~ moonâ siisâ vâi jie'h njuoskâ
+moonnâđ piLán ~ piLás
+moigiđ moigiim muái'gee ~ maigee
+miel'di ~ mie'ld~mild
+magneetlâš nääpi ~ näve
+lye'me luámmán~luám'mán~luám'mân
+luátu luáđu~luá'đo
+loovnâ ~ lovnâ loovnâ
+liäpu liävu ~ liä'vo
+liivtes ~ li'vtes lihtás
+lam vaaibâs ~ vaibâm
+laigođ la'igom ~ laaigom
+lahteđ la'htam ~ la'vtam ~ laavtam
+käävcis káhcás ~ káhtsâs
+käädis káddás~káddá
+káđálduh~káđáldâh~káđáldoh káđálduv
+kááđus~káđus káttus
+ká'skástâh~ká'skástuh ká'skástuv
+kye'ver~kyeveer kye'Vereh
+kuárruđ kuárum~kuá'rum
+kuárruđ kuárum~kuá'rom
+kuárruđ kuárum ~ kuá'rom
+kuá'suttiđ kuássut~kuásut
+kuullâđ~kullâđ kuulâm koLá
+ko'škes koškás~košká
+ko'skâstuvvâi~ko'skâstuvâi ~ ko'skâttuvvâi~ko'skâttuvâi
+kiävááš~kiäváš kiäváá
+kiännii saajeest ~ saJan
+kiännii niähu ~ niäVust
+kiä'Sádâh~kiä'Sáduh kiä'Sáduv
+kihteđ ki'htám~kiivtám
+ki'rkes kirkkás~kirkká
+kalveđ su'vle ~ suuvle
+kaamâ~kaamuv kammuu
+järdiđ jáárdám~jáárdâm
+já'vrádâh~já'vrádoh~já'vráduh já'vráduv
+jieš ~ jie'š jieJah
+jiehiđ~jeeHiđ jiäVám jiähá
+ij vala kopšâm ~ koopšas
+hästiđ háástám~háástâm
+häcci hääci ~ äcci ääci ~ ääci
+hárjániđ hárján~hárjân
+háccá~háccud väzziđ
+há'lbášiđ háálbáš~háálbâš
+huánnuđ huá'num~huánum
+huánnuđ huá'num ~ huánum
+huá'mášiđ huám'máš~huám'mâš
+hiä'pášiđ hiäppáš~hiäp'pâš
+heeviittiđ heevitâm ~ heeviittâm
+fossiillâš puáldámuš~puáldámâš ~ puáldimaamnâs
+cuáŋui ~ cuá'ŋoi cuoŋ'ŋuu
+cohhuđ ~coohhuđ~cuoh'huđ cohhuum cuáh'hoo
+ceehi ceeVi ~ ciehi cieVi ~ ceeVi ceevi ~ ceve
+ceeVi ceevi ~ ceve
+ce'hittes ~ ce'hittemes stellim
+asodâh~asodoh~asoduh asoduv
+adeliđ~ addeliđ~ addliđ addel~addeel
+adde addâgâs ~ addâgâsân!
+adaldâh~adaldoh~adalduh adalduv
+
+====================================
+
+
+====================================
 

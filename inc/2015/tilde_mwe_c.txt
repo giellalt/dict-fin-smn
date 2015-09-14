@@ -255,6 +255,53 @@ adaldâh~adaldoh~adalduh adalduv
 
 ====================================
 
+out_c_2_gtxml_01>vim tilde_dash_c.txt
+
+njuNepuárui ~ -puá'roi -porruu
+čiä'hádettee ~ lovdâšuvvee jiešvuotâ -vuođâ
+säti-~setinááLá
+siä'hálâsmuáti -muáđi ~ -muá'đe
+pecimääLi -määli ~ -mäle
+lostâmáátu -mááđu ~ -máđo
+šoddâdemčääci -čääsi ~ -čääsih
+škuál'mi- ~škuám'minjuNe -njune
+čäcišuá'láttâh~-šuá'láttoh~-šuá'láttuh -šuá'láttuv
+čäcijehhee~-jieh'hee
+čááNá -čááná ~ -čáná
+čaalgâh-~čoolgâhvyeSi -vyesi ~ -vuásáš -vuás'sáá
+ärbisääNi -sääni ~ -säne
+áigápuátu -puáđu ~ -puáđo
+vye'ldi- ~ vyel'nihaŋgâ -haaŋgâ
+vuo'dâčeve -čiäp'pát~-čiäp'pât
+ullomáátu -mááđu ~ -máđo
+tuLâ-~tuulâ-~tullâpaaštâ -paštuu
+sääNi sääni ~ -säne
+säti-~setioornig
+säti-~setináLásâš -náLásii
+saivâ-~savjâčääci -čääsi
+puškosáággáš -sággáá ~ pušksáágáš~-sáágâš -sággáá
+puttâmäigi -ääigi ~ puttâmpääLi -pääli ~ -päle
+peljipel ~ peeLi -pele
+parnâmčääci -čääsi ~ -čääsih
+oovdân-~oovdâspyeh'tiđ -puávtám -puáh'tá
+noppânjavkke -nja'vhe ~ -njaavhe
+nijbesääNi -sääni ~ -säne
+liek'kičiel'gi~-čielgi -čielgi
+kä'rbisruátu -ruáđu ~ ruá'đo
+kye'vtpelij ~ -peelij
+kuá'LussääNi -sääni ~ -säne
+kuoh'tuipelij ~ -peelij
+kieš'kânjavkke -nja'vhe ~ -njaavhe
+iđedâs-~ iđedispeivi -peeivi
+iävtu- ~ rijjâtátulâš
+enâmispuájui ~ -puá'joi -poijuu
+algâ-~álgušuoŊâ -šuoŋâ
+algâ-~álgusaahâ -saaVâ
+algâ-~álgua'lgâlâš -a'lgâlii
+aalbâhvyeSi -vyesi ~ -vuásáš -vuás'sáá
+
+====================================
+
 
 ====================================
 

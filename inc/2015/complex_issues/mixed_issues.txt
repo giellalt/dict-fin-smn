@@ -1,6 +1,3 @@
-
-dash_c.txt
-
 čoođâ-čoođâ sävŋi säävŋi
 räđđejeijee jiešvuotâ -vuođâ
 mađe - tađe
@@ -16,9 +13,6 @@ kale nuárvuinjuuneest-uv a'lmai puátá
 jieh-uv hepânâš!
 ergijn hästeea'lmai -almaa
 -arvoinen -árvusâš -árvusii
-====================================
-
-out_c_2_gtxml_01>g '\-' non-ws_c.txt
 
 säti-~setinááLá
 suddo-ollee
@@ -28,10 +22,6 @@ tävjit-távjá
 säti-~setioornig
 kuulmâi-kuulmâi
 aa-a
-
-====================================
-
-out_c_2_gtxml_01>vim dash_hash_c.txt
 
 mo'skos moskos # mo'sko-
 saaibâs saibâs # saibâ-
@@ -45,11 +35,6 @@ kuástis kuás'tá # kuás'ti-
 jaamâs jaammâs # jaMâ-
 epičielgâs -čiel'gâs # epičiel'gâ
 cuurmâs curmâs # curmâ curme-
-
-====================================
-
-out_c_2_gtxml_01>vim tilde_c.txt
-
 
 nääLi nääli ~ näle
 moive mooive ~ mo'ive
@@ -109,15 +94,10 @@ coohhuđ~cohhuđ ~ cuoh'huđ cuáh'hoo
 cie'gâstiđ ciegâst~cieggâst
 cie'gâdiđ ciegâd~cieggâd
 asâttiđ aassât ~ aasât
-
-šyei'ji šyeJi ~ šyeJi šye'je (cf.)
 šyei'ji šyeJi ~ šyeJi
-
 šuá'láttâh~šuá'láttoh~šuá'láttuh šuá'láttuv
-
 čuámmuđ~čuám'muđ čuámum
 čuám'muđ ~ čuámmuđ čuámum
-
 čuuvâstoh~čuuvâstuh~čuuvâstâh čuuvâstuv
 čuVâstâh~čuVâstoh~čuVâstuh čuVâstuv
 čonâstâh~čonâstoh~čonâstuh čonâstuv
@@ -139,10 +119,7 @@ tovkkâđ toovhâm tuáv'kká ~ tavkka
 to'vkos tovkkos ~ to'vhos
 talvâsâš talvâsii~talvâsáá
 sääNi sääni ~ säne
-
 sá'lbuttiđ sáálbut ~sá'lvuttiđ sáálvut kieđâid
-sá'lbuttiđ sáálbut ~sá'lvuttiđ sáálvut (cf.)
-
 suálui ~ suá'loi suol'luu
 suá'Lágittiđ~suál'lágittiđ suá'Lágitám
 suvrođ suuvrom ~ su'vrom
@@ -253,10 +230,6 @@ adeliđ~ addeliđ~ addliđ addel~addeel
 adde addâgâs ~ addâgâsân!
 adaldâh~adaldoh~adalduh adalduv
 
-====================================
-
-out_c_2_gtxml_01>vim tilde_dash_c.txt
-
 njuNepuárui ~ -puá'roi -porruu
 čiä'hádettee ~ lovdâšuvvee jiešvuotâ -vuođâ
 säti-~setinááLá
@@ -299,9 +272,3 @@ algâ-~álgušuoŊâ -šuoŋâ
 algâ-~álgusaahâ -saaVâ
 algâ-~álgua'lgâlâš -a'lgâlii
 aalbâhvyeSi -vyesi ~ -vuásáš -vuás'sáá
-
-====================================
-
-
-====================================
-

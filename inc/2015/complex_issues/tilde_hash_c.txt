@@ -1,72 +1,72 @@
-10778 poikki|12482 rättiväsynyt|15794 umpiväsynyt|15898 uupunut|16561 veltto|17173 voimaton _ šliedâs šlied'dâs # šlied'dâ ~ šlieđâs šlieđ'đâs # šlieđ'đâ
-1781 hankala|8509 monimutkainen|8696 mutkikas|9555 ongelmallinen|11050 pulmallinen|16030 vaikea _ váádduh # váduhis~váduhâs
-5262 kipakka|5278 kireä|5930 kova|11778 raskas|14836 tiukka _ čovgâd # čovgâ ~ čo'vgis
-2727 hyvänmakuinen|8128 makea|8236 maukas _ njäälgis njálgá # njä'lgis ~ njaalgâ
-5168 kiinteä|13287 sitkeä|14836 tiukka _ kiddâd # kiddis ~ kiddâdâs
-5427 kitsas|9309 nuuka|10429 pihi _ häänis~hänes háánnás # hänis~hänes
-3236 itara|12616 saita|14095 säästäväinen _ häänis ~ hänes háánnás # hänis~hänes
-2555 huolimattomasti|8595 muodoton|15469 tyylitön _ hämittem # hämittes~hämittis ~ hämittimes
-6807 laihtunut|10403 pienivatsainen _ čuá'littem # čuá'littemes ~ čuá'littes
-5350 kirkas|7579 loistava _ čuovvâl # čuovvâlâs ~ čuoVâlâs
-10621 pirteä|17086 virkeä _ storgâd # storgâdis ~ sto'rgis
-6803 laiha|17325 vähäsuolainen _ kooidâs koidâs # koidâ ~ ko'idâs
-13125 sileä|14452 tasainen _ jolgâd # jo'lgis ~ jolgâ
-5930 kova|12361 rutikuiva _ iiŋâs iŋŋâs~iiŋŋâs # iŋŋâ
-16284 vanhuudenheikko|17173 voimaton _ fámuttim # fámuttis ~ fámuttemes
-1837 harjaantunut|14994 tottunut _ faantâs fanttâs # fanttâ ~ vaantâs vanttâs # vanttâ
-5350 kirkas _ šeellâd # šelis ~ šellis ~ šellâdâs
-6480 kylmä _ čuássid # čuá'sidâs~čuá'sidis
-14657 terävä _ čuuhâl # čuhâlâs ~ čuha
-2546 huolellinen _ čurgâd # ču'rgis~čurgâdis
-6171 kunnollinen _ čurgâd # ču'rgis ~ čurgâdis
-17173 voimaton _ äpittem # äpittemes ~ äpittes
-16030 vaikea _ väädis váddá~váddás # vädis
-1992 heikko _ vye'imittem # vye'imittemes ~ vye'imittes
-7306 leveä _ vuommâd # vuo'mis ~ vuommâdâs~vuommâdis
-17341 väkevä _ viehuv # vie'huvis ~ viehâv # vie'hâvis
-4979 ketterä _ veessil # veSilis~veSilâs
-4979 ketterä _ veeleeh # velehis~velehâs
-7837 lyhyt _ uáneeh # uá'nehis ~ uánih # uá'nihis ~ uá'nihâš uá'niháá # uá'nihâš ~ uá'nehâš uá'neháá # uá'nehâš
-9564 onneton _ uá'sittem # uá'sittes ~ uá'sittemes
-7430 likainen _ tuolvâs tuol'vâs # tuo'lvâs ~ tuol'vâ
-3864 jäykkä _ torgâd # torgis~torgâdis
-15158 tunnoton _ to'bdottem # to'bdottes ~ to'bdottemes
-1800 hapan _ suuvres~su'vres suvrás # su'vrâ
-13966 syytön _ sujâttem # sujâttes ~ sujâttemes
-9452 ohutkarvainen _ snavgâd # snavgâdis ~ sna'vgis
-10661 pitkä _ skurččuu # skurččuus ~ skurččo
-9750 pahatapainen _ skilottem # skilottemes ~ skilottes
-9037 neuvoton _ räđittem # räđittes ~ räđittemes
-11820 rauhaton _ rá'vhuttem # rá'vhuttes ~ rá'vhuttemes
-12130 rohkea _ ruok'kâd # ruok'kâdis ~ ruo'kis
-9105 nirso _ ranttu raantu # ranttuus ~ ra'ntus
-10029 paras _ pääris~päris páárrás~páárrâs # päris~päres
-1758 hampaaton _ pänittem # pänittemes ~ pänittes
-9742 pahanmakuinen _ poččâ # počis~počâs
-2728 hyvännäköinen _ perttis ~ peertis # perttisâs
-1245 epätosi _ perettem # perettes ~ perettemes
-4600 kaunis _ peertis~perttis # perttisâs
-13420 soma _ peertis ~ perttis # perttisâs
-9173 nopea _ paarooh # parohâs~parohis
-9737 paha _ paa # paas ~ paa'as
-15445 tylsä _ pa'stettem # pa'stettemes ~ pa'stettes
-11815 rauhallinen _ myessid # mye'Sidis ~ mye'Sidâs
-10860 poro _ međkki~metki meeđhi # me'đhis
-280 ajokas _ metki meeđhi # me'đhis ~ međkki meeđhi # me'đhis
-14751 tiivis _ lävvid~läävviđ # läVidis
-9564 onneton _ luhottem # luhottes ~ luhottemes
-4151 kalpea _ kuok'šâd # kuok'šâdis ~ kuok'šis
-2803 häpeämätön _ kunneettem # kunneettes ~ kunneettemes
-9173 nopea _ jotteel # jotelis~jotelâs
-791 aukea _ jolgâd # jo'lgis~jolgâ
-17810 äänetön _ jie'nâttem # jie'nâttes ~ jie'nâttemes
-102 ahne _ häänis ~ hänes ~ háánnás # hänis~hänes
-9173 nopea _ häppil # häppilis~häppilâs
-1992 heikko _ fámuttim # fámuttis~fámuttemes
-12228 ruma _ faste fa'ste # fa'stes ~ vaste va'ste # va'stes
-1487 eväätön _ evvisttem # evvisttemes ~ evvisttes
-10898 portaaton _ ce'hittem # ce'hittes ~ ce'hittemes
-9451 ohut _ asettem # asettes ~ asettemes
-17564 yksitoikkoinen _ ahheev # ahevâs~ahheevâs~ahevis
-1622 haikea _ ahheev # ahevâs~ahevis ~ ahheevâs
-2584 huonolaatuinen _ aVettem # aVettes~aVettâs
+10778 poikki|12482 rättiväsynyt|15794 umpiväsynyt|15898 uupunut|16561 veltto|17173 voimaton _ šliedâs šlied'dâs # šlied'dâ ~ šlieđâs šlieđ'đâs # šlieđ'đâ _ 
+1781 hankala|8509 monimutkainen|8696 mutkikas|9555 ongelmallinen|11050 pulmallinen|16030 vaikea _ váádduh # váduhis~váduhâs _ 
+5262 kipakka|5278 kireä|5930 kova|11778 raskas|14836 tiukka _ čovgâd # čovgâ ~ čo'vgis _ 
+2727 hyvänmakuinen|8128 makea|8236 maukas _ njäälgis njálgá # njä'lgis ~ njaalgâ _ 
+5168 kiinteä|13287 sitkeä|14836 tiukka _ kiddâd # kiddis ~ kiddâdâs _ 
+5427 kitsas|9309 nuuka|10429 pihi _ häänis~hänes háánnás # hänis~hänes _ 
+3236 itara|12616 saita|14095 säästäväinen _ häänis ~ hänes háánnás # hänis~hänes _ 
+2555 huolimattomasti|8595 muodoton|15469 tyylitön _ hämittem # hämittes~hämittis ~ hämittimes _ 
+6807 laihtunut|10403 pienivatsainen _ čuá'littem # čuá'littemes ~ čuá'littes _ 
+5350 kirkas|7579 loistava _ čuovvâl # čuovvâlâs ~ čuoVâlâs _ 
+10621 pirteä|17086 virkeä _ storgâd # storgâdis ~ sto'rgis _ 
+6803 laiha|17325 vähäsuolainen _ kooidâs koidâs # koidâ ~ ko'idâs _ 
+13125 sileä|14452 tasainen _ jolgâd # jo'lgis ~ jolgâ _ 
+5930 kova|12361 rutikuiva _ iiŋâs iŋŋâs~iiŋŋâs # iŋŋâ _ 
+16284 vanhuudenheikko|17173 voimaton _ fámuttim # fámuttis ~ fámuttemes _ 
+1837 harjaantunut|14994 tottunut _ faantâs fanttâs # fanttâ ~ vaantâs vanttâs # vanttâ _ 
+5350 kirkas _ šeellâd # šelis ~ šellis ~ šellâdâs _ 
+6480 kylmä _ čuássid # čuá'sidâs~čuá'sidis _ 
+14657 terävä _ čuuhâl # čuhâlâs ~ čuha _ 
+2546 huolellinen _ čurgâd # ču'rgis~čurgâdis _ 
+6171 kunnollinen _ čurgâd # ču'rgis ~ čurgâdis _ 
+17173 voimaton _ äpittem # äpittemes ~ äpittes _ 
+16030 vaikea _ väädis váddá~váddás # vädis _ 
+1992 heikko _ vye'imittem # vye'imittemes ~ vye'imittes _ 
+7306 leveä _ vuommâd # vuo'mis ~ vuommâdâs~vuommâdis _ 
+17341 väkevä _ viehuv # vie'huvis ~ viehâv # vie'hâvis _ 
+4979 ketterä _ veessil # veSilis~veSilâs _ 
+4979 ketterä _ veeleeh # velehis~velehâs _ 
+7837 lyhyt _ uáneeh # uá'nehis ~ uánih # uá'nihis ~ uá'nihâš uá'niháá # uá'nihâš ~ uá'nehâš uá'neháá # uá'nehâš _ 
+9564 onneton _ uá'sittem # uá'sittes ~ uá'sittemes _ 
+7430 likainen _ tuolvâs tuol'vâs # tuo'lvâs ~ tuol'vâ _ 
+3864 jäykkä _ torgâd # torgis~torgâdis _ 
+15158 tunnoton _ to'bdottem # to'bdottes ~ to'bdottemes _ 
+1800 hapan _ suuvres~su'vres suvrás # su'vrâ _ 
+13966 syytön _ sujâttem # sujâttes ~ sujâttemes _ 
+9452 ohutkarvainen _ snavgâd # snavgâdis ~ sna'vgis _ 
+10661 pitkä _ skurččuu # skurččuus ~ skurččo _ 
+9750 pahatapainen _ skilottem # skilottemes ~ skilottes _ 
+9037 neuvoton _ räđittem # räđittes ~ räđittemes _ 
+11820 rauhaton _ rá'vhuttem # rá'vhuttes ~ rá'vhuttemes _ 
+12130 rohkea _ ruok'kâd # ruok'kâdis ~ ruo'kis _ 
+9105 nirso _ ranttu raantu # ranttuus ~ ra'ntus _ 
+10029 paras _ pääris~päris páárrás~páárrâs # päris~päres _ 
+1758 hampaaton _ pänittem # pänittemes ~ pänittes _ 
+9742 pahanmakuinen _ poččâ # počis~počâs _ 
+2728 hyvännäköinen _ perttis ~ peertis # perttisâs _ 
+1245 epätosi _ perettem # perettes ~ perettemes _ 
+4600 kaunis _ peertis~perttis # perttisâs _ 
+13420 soma _ peertis ~ perttis # perttisâs _ 
+9173 nopea _ paarooh # parohâs~parohis _ 
+9737 paha _ paa # paas ~ paa'as _ 
+15445 tylsä _ pa'stettem # pa'stettemes ~ pa'stettes _ 
+11815 rauhallinen _ myessid # mye'Sidis ~ mye'Sidâs _ 
+10860 poro _ međkki~metki meeđhi # me'đhis _ 
+280 ajokas _ metki meeđhi # me'đhis ~ međkki meeđhi # me'đhis _ 
+14751 tiivis _ lävvid~läävviđ # läVidis _ 
+9564 onneton _ luhottem # luhottes ~ luhottemes _ 
+4151 kalpea _ kuok'šâd # kuok'šâdis ~ kuok'šis _ 
+2803 häpeämätön _ kunneettem # kunneettes ~ kunneettemes _ 
+9173 nopea _ jotteel # jotelis~jotelâs _ 
+791 aukea _ jolgâd # jo'lgis~jolgâ _ 
+17810 äänetön _ jie'nâttem # jie'nâttes ~ jie'nâttemes _ 
+102 ahne _ häänis ~ hänes ~ háánnás # hänis~hänes _ 
+9173 nopea _ häppil # häppilis~häppilâs _ 
+1992 heikko _ fámuttim # fámuttis~fámuttemes _ 
+12228 ruma _ faste fa'ste # fa'stes ~ vaste va'ste # va'stes _ 
+1487 eväätön _ evvisttem # evvisttemes ~ evvisttes _ 
+10898 portaaton _ ce'hittem # ce'hittes ~ ce'hittemes _ 
+9451 ohut _ asettem # asettes ~ asettemes _ 
+17564 yksitoikkoinen _ ahheev # ahevâs~ahheevâs~ahevis _ 
+1622 haikea _ ahheev # ahevâs~ahevis ~ ahheevâs _ 
+2584 huonolaatuinen _ aVettem # aVettes~aVettâs _ 

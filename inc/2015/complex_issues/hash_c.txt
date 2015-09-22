@@ -7,7 +7,7 @@
 1992 heikko|2061 hellä|5264 kipeä|7981 löyhä _ raŠe raše # rašes _ 
 2847 hävytön|7430 likainen|8242 mauton|13097 siivoton _ nyes'ki nyeski # nye'skis _ 
 6549 kyvytön|14185 taitamaton|15649 tökerö _ čyer'bi čyerbi # čye'rbis _ 
-8067 maha|10403 pienivatsainen|16465 vatsa _ čuá'vjittem # čuá'vjittes _ 
+8067 maha|10403 pienivatsainen|16465 vatsa _ čuá'vjittem # čuá'vjittes _ _fail_
 1098 eltaantunut|5151 kiimanhajuinen|11790 rasvainen _ čuovrâs čuov'râs # čuovrâ _ 
 1502 fiksu|9640 osaava|14188 taitava _ čeppi čeepi # čepis _ 
 16002 vahva|17165 voimakas|17341 väkevä _ viek'sâ vievsâ # vie'vsâs _ 
@@ -47,7 +47,7 @@
 7981 löyhä|7986 löysä _ loožâs ložžâs # ložžâ _ 
 2304 hiljainen|4949 kesy _ loJe loje # lojes _ 
 9451 ohut|10111 pehmeä _ lieđ'vi lieđvi # lie'đvis _ 
-7055 lastata|15630 täysi _ laađâs laađđâs # lađâs _ 
+7055 lastata|15630 täysi _ laađâs laađđâs # lađâs _ _fail_
 2579 huono|6549 kyvytön _ kiäh'nu kiähnu # kiä'hnus _ 
 2513 hullu|12874 sekopäinen _ jollâ jooLâ # joLâs _ 
 608 arka|9873 pakoileva _ iirâs irrâs # irâs _ 
@@ -71,7 +71,7 @@
 12228 ruma|16451 vastenmielinen _ vaste va'ste # va'stes _ 
 16190 valmis _ vaalmâš valmâš # va'lmâš _ 
 16268 vanha _ uámis uámmás # uá'mi _ 
-9404 näyttävä _ uáli fiijnes fijná # fiijnâ _ 
+9404 näyttävä _ uáli fiijnes _MWE2_ fijná # uáli fiijnâ _MWE2_ 
 15790 umpinainen _ uubâs ubbâs # ubbâ _ 
 15714 ujo _ uine uuine # u'ines _ 
 15299 turha _ tušše tuše # tušes _ 
@@ -85,11 +85,11 @@
 3864 jäykkä _ stoorgâs storgâs # storgâ _ 
 17316 vähäluminen _ spoonâs spoonnâs # spoNâ _ 
 17555 yksinäinen _ skuuiper skuipper # skuipperis _ 
-7705 lumi _ seeŋâs seeŋ'ŋâs # seŋes _ 
+7705 lumi _ seeŋâs seeŋ'ŋâs # seŋes _ _fail_
 9451 ohut _ seegis siäg'gás # segis _ 
 6192 kuohkea _ seeLi sele # seles _ 
 15631 täysikasvuinen _ räävis ráávvás # rävis _ 
-5468 kivikko _ rääpis ráppá # räpis _ 
+5468 kivikko _ rääpis ráppá # räpis _ _fail_ 
 1854 harmaa _ räänis ráánnás # ränis _ 
 6803 laiha _ ruoinâs ruoi'nâs # ruoi'nâ _ 
 9913 paljas _ pääljis páljás # päljis _ 
@@ -114,7 +114,7 @@
 8792 mädäntyvä _ laanâs laannâs # lanâs _ 
 4333 karhea _ käärgis kárgás # kä'rgis _ 
 83 ahdas _ kärži käärži # kä'ržis _ 
-12925 selvittää _ káálgus kálgus # ká'lgus _ 
+12925 selvittää _ káálgus kálgus # ká'lgus _ _fail_
 4369 karkea _ kyermis kuár'má # kye'rmis _ 
 15470 tyyni _ kuál'kki kuálhi # kuá'lhis _ 
 6803 laiha _ kuoirâs kuoi'râs # kuoi'râ _ 

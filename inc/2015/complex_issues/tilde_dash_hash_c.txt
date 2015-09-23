@@ -20,7 +20,7 @@
 608 arka _ piltto pi'lto # pi'ltos ~ pilttuu # pilttuus _ 
 14531 tehokas _ pehtil # pehtilis _AT_ pehtilâs _ 
 14657 terävä _ pastel # pastelis _AT_ pastelâs _ 
-4979 ketterä _ paarooh # -âs _AT_ parohis _ _MLO_
+4979 ketterä _ paarooh # parohâs _AT_ parohis _
 16770 viaton _ mä'inittem # mä'inittes _AT_ mä'inittemis _ 
 13966 syytön _ mä'inittem # mä'inittes _AT_ mä'inittemis _ 
 8163 malttamaton _ mášuttem # mášuttemes _AT_ mášuttes _ 

@@ -51,7 +51,7 @@
 9737 paha _ paa # paas _AT_ paa'as _ 
 15445 tylsä _ pa'stettem # pa'stettemes _AT_ pa'stettes _ 
 11815 rauhallinen _ myessid # mye'Sidis _AT_ mye'Sidâs _ 
-10860 poro _ međkki~metki meeđhi # me'đhis _ _fai_
+10860 poro _ međkki~metki meeđhi # me'đhis _ _fail_
 280 ajokas _ metki meeđhi # me'đhis ~ međkki meeđhi # me'đhis _ _fail_
 14751 tiivis _ lävvid~läävviđ # läVidis _ 
 9564 onneton _ luhottem # luhottes _AT_ luhottemes _ 

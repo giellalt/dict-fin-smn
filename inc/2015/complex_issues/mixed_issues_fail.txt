@@ -1,0 +1,48 @@
+9542 ominaisuus|16186 vallita _ räđđejeijee jiešvuotâ _MWE2_ -vuođâ _ _fail_
+13615 suljettu _ toppum virdepirrâdâh _MWE2_ -pirrâduv _ _fail_
+2124 henkinen _ sánálâš vie'hâväldi _MWE2_ -vääldi _ _fail_
+2811 härkä _ ergijn hästeea'lmai _MWE2_ -almaa _ _fail_
+15119 tulva|16500 vedenpaisumus _ suddo-ollee _MWE2_ _ _fail_
+5641 kolme _ kuulmâi-kuulmâi _MWE2_ _ _fail_
+271 ajo|2272 hiihtäjä|8445 mikä|16300 vapaa-aika _ aa-a _ _fail_
+2258 hihna|10860 poro _ läbžiloJe -loje # läbžilojes _ _fail_
+3017 ilmatiivis|16501 vedenpitävä|16684 vesi|16732 vesitiivis _ jeeHiđ~jiehiđ jiäVám jiähá _ _fail_
+13506 sovittaa|14529 tehdä|14771 tila _ čahhiđ~čaahhiđ čahhiim čähhee _ _fail_
+8902 nahka|14291 talja|15922 vaadin _ álduduh~áldudoh~áldudâh álduduv _ _fail_
+7467 lintuparvi|10073 parvi|14937 tokka _ muáti muáđi _WFT_ muá'đe _ _fail_
+6056 kulkea|6751 köyry-|15529 työskennellä _ kavrođ kaavrom _WFT_ ka'vrom _ _fail_
+7637 loukata|9676 osua|12788 satuttaa _ heeviittiđ heevitâm _WFT_ heeviittâm _ _fail_
+1029 ehtyä|7857 lypsävä|15783 umpi- _ cuskâsâst orroođ _MWE2_ ~ suskâsâst orroođ _MWE2_ _fail_
+1029 ehtyä|7857 lypsävä|15783 umpi- _ cuskâm leđe _MWE2_~ suskâm leđe _MWE2_ _fail_
+8067 maha|16465 vatsa _ čuá'littem # čuá'littemes _AT_ čuá'littes _ _fail_
+5081 kieppi|7717 lumikolo _ čie'pâstiđ čieppâst _WFT_ čiepâst _ _fail_
+608 arka|609 arkailla _ á'rgášiđ áárgáš_WFT_áárgâš _ _fail_
+9756 pahoinvointi|17155 voida _ vááimu kagâstiđ ~ vááimu kaggâđ _ _fail_
+6023 kuivua|12118 riuku _ suhčâduđ ~ čuhčâduđ čuhčâduum čuhčâduVá _ _fail_
+9953 palmikko _ čeve čiäp'pát _WFT_ čiäp'pât _ _fail_
+1577 haarallaan _ uáđđiđ háccá~uáđđiđ háccud _ _fail_
+3446 johtaja _ uápis uáp'pá _WFT_ uáp'pás _ _fail_
+2096 hengitys _ tust jiegah opsiideh paan ~ tust vuo'iŋâstuvah opsiideh paan _ _fail_
+14323 talvi _ talvâsâš talvâsii_WFT_talvâsáá _ _fail_
+12092 ristiin _ sá'lbuttiđ kieđâid _MWE2_ sáálbut ~sá'lvuttiđ kieđâid _MWE2_ sáálvut _ _fail_
+8129 makeasti _ poVustiđ njálgásávt _MWE2_~ povvâstiđ njálgásávt _MWE2_ _fail_
+810 aurinko _ piäiváš paijaan _MWE2_~piäivâš paijaan _MWE2_~ peivi paijaan _MWE2_ _fail_
+810 aurinko _ piäiváš luáštá _MWE2_~piäivâš luáštá _MWE2_~ peivi luáštá _MWE2_ _fail_
+566 anteeksi _ pivdeđ addâgâs~pivdeđ addâgâsân~ áánnuđ addâgâs ~áánnuđ addâgâsân _ _fail_
+10392 piena _ nuá'rvádiđ nuár'vád_WFT_nuár'vâd _ _fail_
+2035 heittää _ must uáivi kie'ssâš _MWE3_~ must uáivi keessâš_MWE3_ _fail_
+10557 pilalle _ moonnâđ piLán _MWE2_~ moonnâđ piLás _MWE2_ _fail_
+8932 napa _ magneetlâš nääpi ~ magneetlâš näve _ _fail_
+143 aika _ ko'skâstuvvâi~ko'skâstuvâi ~ ko'skâttuvvâi~ko'skâttuvâi _ _fail_
+695 asema _ kiännii saajeest _MWE2_~ kiännii saJan _MWE2_ _ _fail_
+14751 tiivis _ jiehiđ~jeeHiđ jiäVám jiähá _ _fail_
+1728 halpa _ há'lbášiđ háálbáš_WFT_háálbâš _ _fail_
+14505 tavata _ heeviittiđ heevitâm _WFT_ heeviittâm _ _fail_
+1524 fossiilinen _ fossiillâš puáldámuš _MWE2_~fossiillâš puáldámâš _MWE2_~ fossiillâš puáldimaamnâs _MWE2_ _fail_ 
+8211 matala _ cohhuđ ~coohhuđ~cuoh'huđ cohhuum cuáh'hoo _ _fail_
+10898 portaaton _ ce'hittes stellim _MWE2_~ ce'hittemes stellim _MWE2_ _fail_
+9009 nenäsaivartaja|10877 poron|12790 saulakka _ njuNepuárui ~ njuNepuá'roi -porruu _ _fail_
+9542 ominaisuus|10127 peittyvä _ čiä'hádettee jiešvuotâ _MWE2_~ lovdâšuvvee jiešvuotâ _MWE2_ -vuođâ _ _fail_
+7467 lintuparvi|10073 parvi _ siä'hálâsmuáti -muáđi _WFT_ -muá'đe _ _fail_
+10350 pettu|10352 pettuvelli _ pecimääLi -määli _WFT_ -mäle _ _fail_
+9004 nenä _ škuál'minjuNe ~škuám'minjuNe -njune _ _fail_

@@ -2,7 +2,7 @@
 <r>
    <e id="8">
       <p id="1">aalto</p>
-      <p id="2">pááRu  pááru ~ páro,  sijgâ siijgâ, nuvgâ nuuvgâ;  (aallota, lyödä rantaan) keerrâđ kiäRá; (lyödä rantaan erit. yksittäisistä aalloista) si'jgâdiđ sijgâd; (aallota äänekkäästi) skulččeđ skulččá  </p>
+      <p id="2">pááRu  pááru _FT_ páro,  sijgâ siijgâ, nuvgâ nuuvgâ;  (aallota, lyödä rantaan) keerrâđ kiäRá; (lyödä rantaan erit. yksittäisistä aalloista) si'jgâdiđ sijgâd; (aallota äänekkäästi) skulččeđ skulččá  </p>
       <p id="3">pááRu</p>
       <p id="4">aalto</p>
       <p id="5">sijgâ siijgâ, nuvgâ nuuvgâ;</p>
@@ -54,7 +54,7 @@
    </e>
    <e id="25">
       <p id="1">aamupäivä</p>
-      <p id="2">iđedâs-~ iđedispeivi  -peeivi;    (aamupäivällä) iđedâspeeivi  </p>
+      <p id="2">iđedâspeivi ~ iđedispeivi  -peeivi;    (aamupäivällä) iđedâspeeivi  </p>
       <p id="3">iđedâs-~ iđedis</p>
       <p id="4">aamu</p>
       <p id="5"/>
@@ -704,7 +704,7 @@
    </e>
    <e id="367">
       <p id="1">aliarvioida</p>
-      <p id="2">ucášiđ  uccááš;  (pitää huonona aiheetta, panna halvalla) huánnuđ huá'num~huánum; (pitää huonona) hálbášiđ; (ylenkatsoa) pajeluukeččâđ    </p>
+      <p id="2">ucášiđ  uccááš;  (pitää huonona aiheetta, panna halvalla) huánnuđ huá'num _FT_ huánum; (pitää huonona) hálbášiđ; (ylenkatsoa) pajeluukeččâđ    </p>
       <p id="3">ucášiđ</p>
       <p id="4">ali</p>
       <p id="5">(pitää huonona aiheetta, panna halvalla) huánnuđ huá'num~huánum; (pitää huonona) hálbášiđ; (ylenkatsoa) pajeluukeččâđ</p>
@@ -743,7 +743,7 @@
    </e>
    <e id="421">
       <p id="1">alkuperäinen</p>
-      <p id="2">algâ-~álgua'lgâlâš  -a'lgâlii;  (aito) puigâ puuigâ    </p>
+      <p id="2">algâa'lgâlâš ~ álgua'lgâlâš -a'lgâlii;  (aito) puigâ puuigâ    </p>
       <p id="3">algâ-~álgu</p>
       <p id="4">alku</p>
       <p id="5">(aito) puigâ puuigâ</p>
@@ -756,7 +756,7 @@
    </e>
    <e id="427">
       <p id="1">alkusäe</p>
-      <p id="2">(kuultava) algâ-~álgušuoŊâ  -šuoŋâ;  (tekstissä) algâraddalâs~álguraddalâs    </p>
+      <p id="2">(kuultava) algâšuoŊâ ~ álgušuoŊâ  -šuoŋâ;  (tekstissä) algâraddalâs~álguraddalâs    </p>
       <p id="3">(kuultava) algâ-~álgu</p>
       <p id="4">alku</p>
       <p id="5">(tekstissä) algâ-~álguraddalâs</p>
@@ -808,7 +808,7 @@
    </e>
    <e id="476">
       <p id="1">alustus</p>
-      <p id="2">(esim. puheenvuoro) vuá'Đusaahâ  -saaVâ,  algâ-~álgusaahâ -saaVâ; (taikinan) sotkâm, tussim, fiärrum    </p>
+      <p id="2">(esim. puheenvuoro) vuá'Đusaahâ  -saaVâ,  algâsaahâ ~ álgusaahâ -saaVâ; (taikinan) sotkâm, tussim, fiärrum    </p>
       <p id="3">(esim. puheenvuoro) vuá'Đu</p>
       <p id="4">alustus</p>
       <p id="5">algâ-~álgusaahâ -saaVâ; (taikinan) sotkâm, tussim, fiärrum</p>
@@ -925,7 +925,7 @@
    </e>
    <e id="553">
       <p id="1">ansaita</p>
-      <p id="2">á'nsášiđ  áánsáš~áánsâš;  (jknl kohtelua tms.) á'štášiđ ááštáš    </p>
+      <p id="2">á'nsášiđ  áánsáš _FT_ áánsâš;  (jknl kohtelua tms.) á'štášiđ ááštáš    </p>
       <p id="3">á'nsášiđ</p>
       <p id="4">ansaita</p>
       <p id="5">(jknl kohtelua tms.) á'štášiđ ááštáš</p>
@@ -977,7 +977,7 @@
    </e>
    <e id="566">
       <p id="1">anteeksi</p>
-      <p id="2">addâgâs;      (pyytää anteeksi) pivdeđ ~ áánnuđ addâgâs ~ addâgâsân; (anna anteeksi!) adde addâgâs ~ addâgâsân!  </p>
+      <p id="2">addâgâs;      (pyytää anteeksi) pivdeđ ~ áánnuđ addâgâs ~ addâgâsân; (anna anteeksi!) adde addâgâs _MWEy_ ~ adde addâgâsân _MWEy_</p>
       <p id="3">addâgâs;</p>
       <p id="4">anteeksi</p>
       <p id="5"/>
@@ -1172,7 +1172,7 @@
    </e>
    <e id="707">
       <p id="1">asettaa</p>
-      <p id="2">asâttiđ  aassât ~ aasât,  stelliđ stelliim stellee, tiäl'láđ tiäl'láám; (panna, pistää jhk) pieijâđ piejâm piäJá; (laittaa, kattaa, järjestää) läjidiđ lääjid; (kauniisti, istuvasti laskoksille vaatteesta pukiessa t. ommellessa) lonnjáđ lonnjáám    </p>
+      <p id="2">asâttiđ  aassât _FT_ aasât,  stelliđ stelliim stellee, tiäl'láđ tiäl'láám; (panna, pistää jhk) pieijâđ piejâm piäJá; (laittaa, kattaa, järjestää) läjidiđ lääjid; (kauniisti, istuvasti laskoksille vaatteesta pukiessa t. ommellessa) lonnjáđ lonnjáám    </p>
       <p id="3">asâttiđ</p>
       <p id="4">asettaa</p>
       <p id="5">stelliđ stelliim stellee, tiäl'láđ tiäl'láám; (panna, pistää jhk) pieijâđ piejâm piäJá; (laittaa, kattaa, järjestää) läjidiđ lääjid; (kauniisti, istuvasti laskoksille vaatteesta pukiessa t. ommellessa) lonnjáđ lonnjáám</p>
@@ -3525,7 +3525,7 @@
    </e>
    <e id="1774">
       <p id="1" r1_par="(korvamerkissä)">hanka</p>
-      <p id="2">haŋgâ  haaŋgâ;  (jyrkkä) kieš'kâ kieš'kâ; (lyhyt) noppânjavkke -nja'vhe ~ -njaavhe; (altahanka) skivŋe skiivŋe,  (hanka alla) vye'ldi- ~ vyel'nihaŋgâ -haaŋgâ, maajeeldhaŋgâ -haaŋgâ, skivŋe skiivŋe, kieš'kâskivŋe -skiivŋe; (hanka päällä) oovdeldhaŋgâ -haaŋgâ, paajeeldhaŋgâ -haaŋgâ, njavkke nja'vhe ~ njaavhe, kieš'kânjavkke -nja'vhe ~ -njaavhe; (pistohanka) peljipel ~ peeLi -pele  </p>
+      <p id="2">haŋgâ  haaŋgâ;  (jyrkkä) kieš'kâ kieš'kâ; (lyhyt) noppânjavkke -nja'vhe _FT_ -njaavhe; (altahanka) skivŋe skiivŋe,  (hanka alla) vye'ldihaŋgâ ~ vyel'nihaŋgâ -haaŋgâ, maajeeldhaŋgâ -haaŋgâ, skivŋe skiivŋe, kieš'kâskivŋe -skiivŋe; (hanka päällä) oovdeldhaŋgâ -haaŋgâ, paajeeldhaŋgâ -haaŋgâ, njavkke nja'vhe _FT_ njaavhe, kieš'kânjavkke -nja'vhe _FT_ -njaavhe; (pistohanka) peljipel _FT_ peeLi -pele  </p>
       <p id="3">haŋgâ</p>
       <p id="4">hanka</p>
       <p id="5">(jyrkkä) kieš'kâ kieš'kâ; (lyhyt) noppânjavkke -nja'vhe ~ -njaavhe; (altahanka) skivŋe skiivŋe</p>
@@ -3590,7 +3590,7 @@
    </e>
    <e id="1800">
       <p id="1" r1_par="(subst. ja adj.)">hapan</p>
-      <p id="2">(pilaantunut maitotuotteet) jie'sâ-,    jiesâs jiessâs; (happamen makuinen, esim. hapanleipä) suuvres~su'vres suvrás # su'vrâ, suvre su'vre # suvre, suvráá # -s; (eltaantunut, pilaantunut liha, kala, rasva) kuástis kuás'tá # kuás'ti-; (kitkerä, karvas) riičâs riččâs # riččâ;  (hapantunut maito) jie'sâmiel'kki -mielhi; (hapanmaitotuote) loppim-  </p>
+      <p id="2">(pilaantunut maitotuotteet) jie'sâ-,    jiesâs jiessâs; (happamen makuinen, esim. hapanleipä) suuvres~su'vres suvrás # su'vrâ, suvre su'vre # suvre, suvráá # -s; (eltaantunut, pilaantunut liha, kala, rasva) kuástis kuás'tá # kuás'ti; (kitkerä, karvas) riičâs riččâs # riččâ;  (hapantunut maito) jie'sâmiel'kki -mielhi; (hapanmaitotuote) loppim-  </p>
       <p id="3">(pilaantunut maitotuotteet) jie'sâ-,</p>
       <p id="4">hapan</p>
       <p id="5">jiesâs jiessâs; (happamen makuinen, esim. hapanleipä) suuvres~su'vres suvrás # su'vrâ, suvre su'vre # suvre, suvráá # -s; (eltaantunut, pilaantunut liha, kala, rasva) kuástis kuás'tá # kuás'ti-; (kitkerä, karvas) riičâs riččâs # riččâ;</p>
@@ -3603,7 +3603,7 @@
    </e>
    <e id="1805">
       <p id="1" comma=", hapata">hapantua</p>
-      <p id="2">(pilaantua lihasta, kalasta, rasvasta) ha'vrâgiđ  haavrâg,  kálágiđ kááláág,  kuás'tuđ kuástum; (pilaantua ruoasta) mu'igâgiđ muuigâg; (pilaantuen maitotuotteista) jie'sâluđ jie'sâluvá, jie'sâluvá, jie'sâgiđ jiessâg; (hapantua toivotusti, esim. viili) loppiđ loppiim luáp'pee; (piimittyä toivotusti) piMeluđ piMeluVá, pimmoođ piMo; (hapanleipätaikina) suvrođ suuvrom ~ su'vrom;  (hapantunut maito) jie'sâmiel'kki -mielhi  </p>
+      <p id="2">(pilaantua lihasta, kalasta, rasvasta) ha'vrâgiđ  haavrâg,  kálágiđ kááláág,  kuás'tuđ kuástum; (pilaantua ruoasta) mu'igâgiđ muuigâg; (pilaantuen maitotuotteista) jie'sâluđ jie'sâluvá, jie'sâluvá, jie'sâgiđ jiessâg; (hapantua toivotusti, esim. viili) loppiđ loppiim luáp'pee; (piimittyä toivotusti) piMeluđ piMeluVá, pimmoođ piMo; (hapanleipätaikina) suvrođ suuvrom _FT_ su'vrom;  (hapantunut maito) jie'sâmiel'kki -mielhi  </p>
       <p id="3">(pilaantua lihasta, kalasta, rasvasta) ha'vrâgiđ</p>
       <p id="4">hapantua, hapata</p>
       <p id="5">kálágiđ kááláág,  kuás'tuđ kuástum; (pilaantua ruoasta) mu'igâgiđ muuigâg; (pilaantuen maitotuotteista) jie'sâluđ jie'sâluvá, jie'sâluvá, jie'sâgiđ jiessâg; (hapantua toivotusti, esim. viili) loppiđ loppiim luáp'pee; (piimittyä toivotusti) piMeluđ piMeluVá, pimmoođ piMo; (hapanleipätaikina) suvrođ suuvrom ~ su'vrom;</p>
@@ -3993,7 +3993,7 @@
    </e>
    <e id="1924">
       <p id="1" tt_auto="Esox lucius">hauki</p>
-      <p id="2">puš'ko  puško;  (pieni) puškosáággáš -sággáá ~ pušksáágáš~-sáágâš -sággáá    </p>
+      <p id="2">puš'ko  puško;  (pieni) puškosáággáš -sággáá ~ pušksáágáš ~ pušksáágâš -sággáá    </p>
       <p id="3">puš'ko</p>
       <p id="4">hauki</p>
       <p id="5">(pieni) puškosáággáš -sággáá ~ pušksáágáš~-sáágâš -sággáá</p>
@@ -4201,7 +4201,7 @@
    </e>
    <e id="1989">
       <p id="1" comma=", heiketä">heikentyä</p>
-      <p id="2">hiä'juluđ  hiä'juluum hiä'juluVá,  hiä'juniđ hiäijun, hiä'jusmiđ hiäjuusm~hiäjusm; (menettää voimansa) vye'imittuđ vye'imittuum vye'imittuVá, na'vcâttuđ na'vcâttuum na'vcâttuVá, äpittuđ äpittuum äpittuVá; (nälän t. sairauden vuoksi) kuá'Rániđ kuárrán; (huonontua esim. potilaan tilanne, tie, saalis) niäv'rániđ; (tulla heiveröiseksi) njuorrâđ njuorâm, njuo'râsmiđ njuorâsm; (rikkoutuvasta esineestä) raššoođ rašom; (tuulesta) ložžiđ ložžiim luáž'žee; (vähän, tuulesta) ložžiistiđ ložžist    </p>
+      <p id="2">hiä'juluđ  hiä'juluum hiä'juluVá,  hiä'juniđ hiäijun, hiä'jusmiđ hiäjuusm _FT_ hiäjusm; (menettää voimansa) vye'imittuđ vye'imittuum vye'imittuVá, na'vcâttuđ na'vcâttuum na'vcâttuVá, äpittuđ äpittuum äpittuVá; (nälän t. sairauden vuoksi) kuá'Rániđ kuárrán; (huonontua esim. potilaan tilanne, tie, saalis) niäv'rániđ; (tulla heiveröiseksi) njuorrâđ njuorâm, njuo'râsmiđ njuorâsm; (rikkoutuvasta esineestä) raššoođ rašom; (tuulesta) ložžiđ ložžiim luáž'žee; (vähän, tuulesta) ložžiistiđ ložžist    </p>
       <p id="3">hiä'juluđ</p>
       <p id="4">heikentyä, heiketä</p>
       <p id="5">hiä'juniđ hiäijun, hiä'jusmiđ hiäjuusm~hiäjusm; (menettää voimansa) vye'imittuđ vye'imittuum vye'imittuVá, na'vcâttuđ na'vcâttuum na'vcâttuVá, äpittuđ äpittuum äpittuVá; (nälän t. sairauden vuoksi) kuá'Rániđ kuárrán; (huonontua esim. potilaan tilanne, tie, saalis) niäv'rániđ; (tulla heiveröiseksi) njuorrâđ njuorâm, njuo'râsmiđ njuorâsm; (rikkoutuvasta esineestä) raššoođ rašom; (tuulesta) ložžiđ ložžiim luáž'žee; (vähän, tuulesta) ložžiistiđ ložžist</p>
@@ -4786,7 +4786,7 @@
    </e>
    <e id="2192">
       <p id="1">hetki</p>
-      <p id="2">puddâ  puudâ;  (jnk tekemiseen) pääLi pääli ~ päle    </p>
+      <p id="2">puddâ  puudâ;  (jnk tekemiseen) pääLi pääli _FT_ päle    </p>
       <p id="3">puddâ</p>
       <p id="4">hetki</p>
       <p id="5">(jnk tekemiseen) pääLi pääli ~ päle</p>
@@ -5150,7 +5150,7 @@
    </e>
    <e id="2310">
       <p id="1" tt_auto="Rubus chamaemorus">hilla</p>
-      <p id="2">lye'me  luámmán~luám'mán~luám'mân;  (raakile) čoorooh čoroheh, čorohâš čoroháá; (kypsä) laaddâh    </p>
+      <p id="2">lye'me  luámmán _FT_ luám'mán _FT_ luám'mân;  (raakile) čoorooh čoroheh, čorohâš čoroháá; (kypsä) laaddâh    </p>
       <p id="3">lye'me</p>
       <p id="4">hilla</p>
       <p id="5">(raakile) čoorooh čoroheh, čorohâš čoroháá; (kypsä) laaddâh</p>
@@ -5657,7 +5657,7 @@
    </e>
    <e id="2487">
       <p id="1">huimata</p>
-      <p id="2">kesâččiđ  keessâč,  kie'sâččiđ kie'ssâš;  (minua huimaa) must uái'vi keessâš ~ kie'ssâš  </p>
+      <p id="2">kesâččiđ  keessâč,  kie'sâččiđ kie'ssâš;  (minua huimaa) must uái'vi keessâš _MWEy_ ~ must uái'vi kie'ssâš _MWEy_ </p>
       <p id="3">kesâččiđ</p>
       <p id="4">huimata</p>
       <p id="5">kie'sâččiđ kie'ssâš;</p>
@@ -5969,7 +5969,7 @@
    </e>
    <e id="2563">
       <p id="1">huomata</p>
-      <p id="2">huá'mášiđ  huám'máš~huám'mâš,  vuá'Mášiđ vuámmáš; (havaita) uá'inistiđ uáinist, ärvidiđ~ervidiđ; (panna merkille) merkkuđ merkkuum miär'kkoo;  (palauttaa mieleen) muštáđ muštáám  </p>
+      <p id="2">huá'mášiđ  huám'máš _FT_ huám'mâš,  vuá'Mášiđ vuámmáš; (havaita) uá'inistiđ uáinist, ärvidiđ~ervidiđ; (panna merkille) merkkuđ merkkuum miär'kkoo;  (palauttaa mieleen) muštáđ muštáám  </p>
       <p id="3">huá'mášiđ</p>
       <p id="4">huomata</p>
       <p id="5">vuá'Mášiđ vuámmáš; (havaita) uá'inistiđ uáinist, ärvidiđ~ervidiđ; (panna merkille) merkkuđ merkkuum miär'kkoo;</p>
@@ -6762,7 +6762,7 @@
    </e>
    <e id="2808">
       <p id="1" comma=", häväistä">häpäistä</p>
-      <p id="2">hiä'pášiđ  hiäppáš~hiäp'pâš;  (julkisesti, muiden silmissä) hiä'pášâttâđ;  (häpäisin itseni) mun hiäpášim jieččân; (häpäiset itsesi muiden silmissä) hiäpášâtah jieijjâd  </p>
+      <p id="2">hiä'pášiđ  hiäppáš _FT_ hiäp'pâš;  (julkisesti, muiden silmissä) hiä'pášâttâđ;  (häpäisin itseni) mun hiäpášim jieččân; (häpäiset itsesi muiden silmissä) hiäpášâtah jieijjâd  </p>
       <p id="3">hiä'pášiđ</p>
       <p id="4">häpäistä, häväistä</p>
       <p id="5">(julkisesti, muiden silmissä) hiä'pášâttâđ;</p>
@@ -7217,7 +7217,7 @@
    </e>
    <e id="2969">
       <p id="1">iljanne</p>
-      <p id="2">kaaljâ  kaljâm,  lavkke la'vhe ~ laavhe, viež'ži vieži, vyež'ži vyeži;  (tulla iljanteiseksi, liukkaaksi vetisen jään takia) vuáž'žuđ vuáž'žu  </p>
+      <p id="2">kaaljâ  kaljâm,  lavkke la'vhe _FT_ laavhe, viež'ži vieži, vyež'ži vyeži;  (tulla iljanteiseksi, liukkaaksi vetisen jään takia) vuáž'žuđ vuáž'žu  </p>
       <p id="3">kaaljâ</p>
       <p id="4">iljanne</p>
       <p id="5">lavkke la'vhe ~ laavhe, viež'ži vieži, vyež'ži vyeži;</p>
@@ -8426,7 +8426,7 @@
    </e>
    <e id="3461">
       <p id="1">joiku</p>
-      <p id="2">juáigus  juái'gus,  juoigâ juoi'guu; (hienostunut) livđe li'vđe ~ liivđe    </p>
+      <p id="2">juáigus  juái'gus,  juoigâ juoi'guu; (hienostunut) livđe li'vđe _FT_ liivđe    </p>
       <p id="3">juáigus</p>
       <p id="4">joiku</p>
       <p id="5">juoigâ juoi'guu; (hienostunut) livđe li'vđe ~ liivđe</p>
@@ -8725,7 +8725,7 @@
    </e>
    <e id="3603">
       <p id="1">jumittua</p>
-      <p id="2">áhásiđ  ááhás~ááhâs,  navliittuđ; (jk taakse t. varaan) nukkosiđ; (jäädä kiinni, juuttua, tarttua) tarvaniđ, vovdâđ voovdâm vavda; (hampaan rakoon) páNálistiđ; (pala kurkkuun) čáhániđ čáhháán, čiä'hániđ čiä'hánâm; (vene kiinni matalikkoon kun vesi on matalalla) coohhuđ~cohhuđ ~ cuoh'huđ cuáh'hoo, cuá'háduđ cuá'háduum cuá'háduVá    </p>
+      <p id="2">áhásiđ  ááhás _FT_ ááhâs,  navliittuđ; (jk taakse t. varaan) nukkosiđ; (jäädä kiinni, juuttua, tarttua) tarvaniđ, vovdâđ voovdâm vavda; (hampaan rakoon) páNálistiđ; (pala kurkkuun) čáhániđ čáhháán, čiä'hániđ čiä'hánâm; (vene kiinni matalikkoon kun vesi on matalalla) coohhuđ~cohhuđ ~ cuoh'huđ cuáh'hoo, cuá'háduđ cuá'háduum cuá'háduVá    </p>
       <p id="3">áhásiđ</p>
       <p id="4">jumittua</p>
       <p id="5">navliittuđ; (jk taakse t. varaan) nukkosiđ; (jäädä kiinni, juuttua, tarttua) tarvaniđ, vovdâđ voovdâm vavda; (hampaan rakoon) páNálistiđ; (pala kurkkuun) čáhániđ čáhháán, čiä'hániđ čiä'hánâm; (vene kiinni matalikkoon kun vesi on matalalla) coohhuđ~cohhuđ ~ cuoh'huđ cuáh'hoo, cuá'háduđ cuá'háduum cuá'háduVá</p>
@@ -8972,7 +8972,7 @@
    </e>
    <e id="3692">
       <p id="1">juuttua</p>
-      <p id="2">áhásiđ  ááhás~ááhâs,  navliittuđ; (jk taakse t. varaan) nukkosiđ; (jäädä kiinni, juuttua, tarttua) tarvaniđ, vovdâđ voovdâm vavda; (hampaan rakoon) páNálistiđ; (pala kurkkuun) čáhániđ čáhháán, čiä'hániđ čiä'hánâm; (vene kiinni matalikkoon kun vesi on matalalla) coohhuđ~cohhuđ ~ cuoh'huđ cuáh'hoo, cuá'háduđ cuá'háduum cuá'háduVá    </p>
+      <p id="2">áhásiđ  ááhás _FT_ ááhâs,  navliittuđ; (jk taakse t. varaan) nukkosiđ; (jäädä kiinni, juuttua, tarttua) tarvaniđ, vovdâđ voovdâm vavda; (hampaan rakoon) páNálistiđ; (pala kurkkuun) čáhániđ čáhháán, čiä'hániđ čiä'hánâm; (vene kiinni matalikkoon kun vesi on matalalla) coohhuđ~cohhuđ ~ cuoh'huđ cuáh'hoo, cuá'háduđ cuá'háduum cuá'háduVá    </p>
       <p id="3">áhásiđ</p>
       <p id="4">juuttua</p>
       <p id="5">navliittuđ; (jk taakse t. varaan) nukkosiđ; (jäädä kiinni, juuttua, tarttua) tarvaniđ, vovdâđ voovdâm vavda; (hampaan rakoon) páNálistiđ; (pala kurkkuun) čáhániđ čáhháán, čiä'hániđ čiä'hánâm; (vene kiinni matalikkoon kun vesi on matalalla) coohhuđ~cohhuđ ~ cuoh'huđ cuáh'hoo, cuá'háduđ cuá'háduum cuá'háduVá</p>
@@ -9115,7 +9115,7 @@
    </e>
    <e id="3725">
       <p id="1">jäinen</p>
-      <p id="2">kolmum;    jie'Ŋâkoolmâs -kolmâs # -kolmâ, jie'Ŋâ-    </p>
+      <p id="2">kolmum;    jie'Ŋâkoolmâs -kolmâs # jie'Ŋâkolmâ, jie'Ŋâ-    </p>
       <p id="3">kolmum;</p>
       <p id="4">jäinen</p>
       <p id="5">jie'Ŋâkoolmâs -kolmâs # -kolmâ, jie'Ŋâ-</p>
@@ -9206,7 +9206,7 @@
    </e>
    <e id="3744">
       <p id="1">jälki</p>
-      <p id="2">kieJâ  kiejâ;  (m. kulkujälki eli esim. tie) luod'dâ luodâ; (arpi tms. jälki ihossa) uddo udo; (porotokan t. muun eläimen lumella) ruáŋis ruáŋ'ŋás~ruáŋ'ŋá, ruá'njis ruán'njás; (hampaan) saJe saje;  (jättää jälkiä) luo'dâstiđ luodâst, (jättää seurattavia jälkiä) vuot'tuđ vuot'tuum vuát'too; (löytää jäljet) vyet'tiđ vuátám  </p>
+      <p id="2">kieJâ  kiejâ;  (m. kulkujälki eli esim. tie) luod'dâ luodâ; (arpi tms. jälki ihossa) uddo udo; (porotokan t. muun eläimen lumella) ruáŋis ruáŋ'ŋás _FT_ ruáŋ'ŋá, ruá'njis ruán'njás; (hampaan) saJe saje;  (jättää jälkiä) luo'dâstiđ luodâst, (jättää seurattavia jälkiä) vuot'tuđ vuot'tuum vuát'too; (löytää jäljet) vyet'tiđ vuátám  </p>
       <p id="3">kieJâ</p>
       <p id="4">jälki</p>
       <p id="5">(m. kulkujälki eli esim. tie) luod'dâ luodâ; (arpi tms. jälki ihossa) uddo udo; (porotokan t. muun eläimen lumella) ruáŋis ruáŋ'ŋás~ruáŋ'ŋá, ruá'njis ruán'njás; (hampaan) saJe saje;</p>
@@ -9427,7 +9427,7 @@
    </e>
    <e id="3856">
       <p id="1">jättäytyä</p>
-      <p id="2">(jälkeen) kuo'đâttâttâđ  kuo'đâttâđâm;  (pois jstak) kiä'sádâttâđ kiä'sádâđâm, pääcciđ meddâl ~ ulguubel    </p>
+      <p id="2">(jälkeen) kuo'đâttâttâđ  kuo'đâttâđâm;  (pois jstak) kiä'sádâttâđ kiä'sádâđâm, pääcciđ meddâl _MWEy_ ~ pääcciđ ulguubel _MWEy_ </p>
       <p id="3">(jälkeen) kuo'đâttâttâđ</p>
       <p id="4">jättäytyä</p>
       <p id="5">(pois jstak) kiä'sádâttâđ kiä'sádâđâm, pääcciđ meddâl ~ ulguubel</p>
@@ -9700,7 +9700,7 @@
    </e>
    <e id="3971">
       <p id="1">kaataa</p>
-      <p id="2">(nestettä useita kertoja ja/t. pitkään) liäš'kuđ  liäškum;  (nestettä pois kerran ja/t. nopeasti) leškiđ leškiim, tiškâliđ tiškâl; (nestettä vähän) leškiistiđ, liäš'kuliđ; (nestettä tiputtaen) tiškâliđ; (vesi pois astiasta) ripâstiđ riippâst; (kumoon) komettiđ koomeet, šavgâliđ, njeidiđ njiäidám; (esim. puita) virâttiđ viirât, järdiđ jáárdám~jáárdâm; (mätkäyttää) joŋgâliđ; (romauttaa) šargâliđ; (kurkkuunsa pohjia myöten) hu'rtádiđ    </p>
+      <p id="2">(nestettä useita kertoja ja/t. pitkään) liäš'kuđ  liäškum;  (nestettä pois kerran ja/t. nopeasti) leškiđ leškiim, tiškâliđ tiškâl; (nestettä vähän) leškiistiđ, liäš'kuliđ; (nestettä tiputtaen) tiškâliđ; (vesi pois astiasta) ripâstiđ riippâst; (kumoon) komettiđ koomeet, šavgâliđ, njeidiđ njiäidám; (esim. puita) virâttiđ viirât, järdiđ jáárdám _FT_ jáárdâm; (mätkäyttää) joŋgâliđ; (romauttaa) šargâliđ; (kurkkuunsa pohjia myöten) hu'rtádiđ    </p>
       <p id="3">(nestettä useita kertoja ja/t. pitkään) liäš'kuđ</p>
       <p id="4">kaataa</p>
       <p id="5">(nestettä pois kerran ja/t. nopeasti) leškiđ leškiim, tiškâliđ tiškâl; (nestettä vähän) leškiistiđ, liäš'kuliđ; (nestettä tiputtaen) tiškâliđ; (vesi pois astiasta) ripâstiđ riippâst; (kumoon) komettiđ koomeet, šavgâliđ, njeidiđ njiäidám; (esim. puita) virâttiđ viirât, järdiđ jáárdám~jáárdâm; (mätkäyttää) joŋgâliđ; (romauttaa) šargâliđ; (kurkkuunsa pohjia myöten) hu'rtádiđ</p>
@@ -9791,7 +9791,7 @@
    </e>
    <e id="3990">
       <p id="1">kahdeksan</p>
-      <p id="2">käävci;    (ihmistä) käävcis káhcás ~ káhtsâs;  (kahdeksan kertaa) kahcii  </p>
+      <p id="2">käävci;    (ihmistä) käävcis káhcás _FT_ káhtsâs;  (kahdeksan kertaa) kahcii  </p>
       <p id="3">käävci;</p>
       <p id="4">kahdeksan</p>
       <p id="5">(ihmistä) käävcis káhcás ~ káhtsâs;</p>
@@ -9921,7 +9921,7 @@
    </e>
    <e id="4058">
       <p id="1">kaivautua</p>
-      <p id="2">kuá'ivudâttâđ  kuá'ivudâđâm;  (lumeen linnusta) čie'pâstiđ čieppâst~čiepâst    </p>
+      <p id="2">kuá'ivudâttâđ  kuá'ivudâđâm;  (lumeen linnusta) čie'pâstiđ čieppâst _FT_ čiepâst    </p>
       <p id="3">kuá'ivudâttâđ</p>
       <p id="4">kaivautua</p>
       <p id="5">(lumeen linnusta) čie'pâstiđ čieppâst~čiepâst</p>
@@ -9999,7 +9999,7 @@
    </e>
    <e id="4075">
       <p id="1">kaksi</p>
-      <p id="2">kyeh'ti  kyevti;  (ihmistä) kyevtis kuáh'tá~kuáh'tás;  (kahdesti, kaksi kertaa) kuoh'tii  </p>
+      <p id="2">kyeh'ti  kyevti;  (ihmistä) kyevtis kuáh'tá _FT_ kuáh'tás;  (kahdesti, kaksi kertaa) kuoh'tii  </p>
       <p id="3">kyeh'ti</p>
       <p id="4">kaksi</p>
       <p id="5">(ihmistä) kyevtis kuáh'tá~kuáh'tás;</p>
@@ -10116,7 +10116,7 @@
    </e>
    <e id="4117">
       <p id="1">kaljama</p>
-      <p id="2">kaaljâ  kaljâm,  kaljâm, lavkke la'vhe ~ laavhe, vyež'ži vyeži;  (tulla kaljamalle) keerrâđ kiäRá  </p>
+      <p id="2">kaaljâ  kaljâm,  kaljâm, lavkke la'vhe _FT_ laavhe, vyež'ži vyeži;  (tulla kaljamalle) keerrâđ kiäRá  </p>
       <p id="3">kaaljâ</p>
       <p id="4">kaljama</p>
       <p id="5">kaljâm, lavkke la'vhe ~ laavhe, vyež'ži vyeži;</p>
@@ -10285,7 +10285,7 @@
    </e>
    <e id="4228">
       <p id="1">kankea</p>
-      <p id="2">tuáŋ'gi  tuáŋgi # tuá'ŋgis,  kaggâd # -is; (käsistä erit. kylmän takia) čuámis čuámmás # čuá'mi-    </p>
+      <p id="2">tuáŋ'gi  tuáŋgi # tuá'ŋgis,  kaggâd # -is; (käsistä erit. kylmän takia) čuámis čuámmás # čuá'mi</p>
       <p id="3">tuáŋ'gi</p>
       <p id="4">kankea</p>
       <p id="5">kaggâd # -is; (käsistä erit. kylmän takia) čuámis čuámmás # čuá'mi-</p>
@@ -10402,7 +10402,7 @@
    </e>
    <e id="4286">
       <p id="1">kanta</p>
-      <p id="2">(tyvi) maadâr  maddâr;  (eläinkanta) nääLi nääli ~ näle; (mielipide) uái'vil    </p>
+      <p id="2">(tyvi) maadâr  maddâr;  (eläinkanta) nääLi nääli _FT_ näle; (mielipide) uái'vil    </p>
       <p id="3">(tyvi) maadâr</p>
       <p id="4">kanta</p>
       <p id="5">(eläinkanta) nääLi nääli ~ näle; (mielipide) uái'vil</p>
@@ -10415,7 +10415,7 @@
    </e>
    <e id="4287">
       <p id="1">kantaa</p>
-      <p id="2">kyed'diđ  kuádám;  (nopeasti) kyed'diliđ; (taakkaa) kurppođ ku'rpom; (pientä taakkaa vähän matkaa) ku'rpostiđ kurppoost; (veneestä tms.) suvdeđ suuvdám~su'vdám; (olla tiineenä) čuávjist leđe, (sorkkaeläimistä) kyed'dee leđe    </p>
+      <p id="2">kyed'diđ  kuádám;  (nopeasti) kyed'diliđ; (taakkaa) kurppođ ku'rpom; (pientä taakkaa vähän matkaa) ku'rpostiđ kurppoost; (veneestä tms.) suvdeđ suuvdám _FT_ su'vdám; (olla tiineenä) čuávjist leđe, (sorkkaeläimistä) kyed'dee leđe    </p>
       <p id="3">kyed'diđ</p>
       <p id="4">kantaa</p>
       <p id="5">(nopeasti) kyed'diliđ; (taakkaa) kurppođ ku'rpom; (pientä taakkaa vähän matkaa) ku'rpostiđ kurppoost; (veneestä tms.) suvdeđ suuvdám~su'vdám; (olla tiineenä) čuávjist leđe, (sorkkaeläimistä) kyed'dee leđe</p>
@@ -10532,7 +10532,7 @@
    </e>
    <e id="4327">
       <p id="1">kapusta</p>
-      <p id="2">kye'Likietâ  -kieđâ,  (suuri _COMMA_ puinen) kukse kuuvse ~ ku'vse, muoRrâskoorig; (iso metallinen) skoorig    </p>
+      <p id="2">kye'Likietâ  -kieđâ,  (suuri _COMMA_ puinen) kukse kuuvse _FT_ ku'vse, muoRrâskoorig; (iso metallinen) skoorig    </p>
       <p id="3">kye'Li</p>
       <p id="4">kapusta</p>
       <p id="5">(suuri, puinen) kukse kuuvse ~ ku'vse, muoRrâskoorig; (iso metallinen) skoorig</p>
@@ -10753,7 +10753,7 @@
    </e>
    <e id="4404">
       <p id="1">karvainen</p>
-      <p id="2">soksii  # -s,  soksâmijguim;  (purkakarvainen poro) porgesoksâmijguim puásui; (tiheä- ja pitkäkarvainen) vuohâd # vuo'his; (sileäkarvainen) njuvgâd # nju'vgis; (ohutkarvainen) snavgâd # -is, sna'vgis; (ohutkarvainen uudesta karvasta) puurgâs purgâs # purgâ-  </p>
+      <p id="2">soksii  # -s,  soksâmijguim;  (purkakarvainen poro) porgesoksâmijguim puásui; (tiheä- ja pitkäkarvainen) vuohâd # vuo'his; (sileäkarvainen) njuvgâd # nju'vgis; (ohutkarvainen) snavgâd # -is, sna'vgis; (ohutkarvainen uudesta karvasta) puurgâs purgâs # purgâ</p>
       <p id="3">soksii</p>
       <p id="4">karvainen</p>
       <p id="5">soksâmijguim;</p>
@@ -11091,7 +11091,7 @@
    </e>
    <e id="4553">
       <p id="1">kauha</p>
-      <p id="2">(suuri, tav. puinen) kukse  kuuvse ~ ku'vse,  muoRâskoorig; (suuri metallinen) skoorig; (erit. kalakauha) kye'Likietâ -kieđâ    </p>
+      <p id="2">(suuri, tav. puinen) kukse  kuuvse _FT_ ku'vse,  muoRâskoorig; (suuri metallinen) skoorig; (erit. kalakauha) kye'Likietâ -kieđâ    </p>
       <p id="3">(suuri, tav. puinen) kukse</p>
       <p id="4">kauha</p>
       <p id="5">muoRâskoorig; (suuri metallinen) skoorig; (erit. kalakauha) kye'Likietâ -kieđâ</p>
@@ -11871,7 +11871,7 @@
    </e>
    <e id="4940">
       <p id="1">kestitä</p>
-      <p id="2">kestâdiđ;    (vieraita) kuá'suttiđ kuássut~kuásut; (pidemmän aikaa) kuá'suttâllâđ kuá'suttâlâm;  (olla kestittävänä jssak) kuás'suđ kuásum  </p>
+      <p id="2">kestâdiđ;    (vieraita) kuá'suttiđ kuássut _FT_ kuásut; (pidemmän aikaa) kuá'suttâllâđ kuá'suttâlâm;  (olla kestittävänä jssak) kuás'suđ kuásum  </p>
       <p id="3">kestâdiđ;</p>
       <p id="4">kestitä</p>
       <p id="5">(vieraita) kuá'suttiđ kuássut~kuásut; (pidemmän aikaa) kuá'suttâllâđ kuá'suttâlâm;</p>
@@ -12248,7 +12248,7 @@
    </e>
    <e id="5124">
       <p id="1">kiihottaa</p>
-      <p id="2">kihteđ  ki'htám~kiivtám;  (yllyttää jhk) iLâttiđ iillât, uá'lguttiđ uálgut    </p>
+      <p id="2">kihteđ  ki'htám _FT_ kiivtám;  (yllyttää jhk) iLâttiđ iillât, uá'lguttiđ uálgut    </p>
       <p id="3">kihteđ</p>
       <p id="4">kiihottaa</p>
       <p id="5">(yllyttää jhk) iLâttiđ iillât, uá'lguttiđ uálgut</p>
@@ -12781,7 +12781,7 @@
    </e>
    <e id="5350">
       <p id="1">kirkas</p>
-      <p id="2">ki'rkes  kirkkás~kirkká;  (loistava) čuovvâl # čuovvâlâs _AT_ čuoVâlâs; (vesi, lasi) šeellâd # šelis _AT_ šellis _AT_ šellâdâs; (äänestä) čuovvâd čuo'Vis, čyeijil # čye'Jilis; (väristä) šeris-;  (kirkas, selkeä sää) šiälgus šiäl'gus # šiä'lgus  </p>
+      <p id="2">ki'rkes  kirkkás _FT_ kirkká;  (loistava) čuovvâl # čuovvâlâs _AT_ čuoVâlâs; (vesi, lasi) šeellâd # šelis _AT_ šellis _AT_ šellâdâs; (äänestä) čuovvâd čuo'Vis, čyeijil # čye'Jilis; (väristä) šeris-;  (kirkas, selkeä sää) šiälgus šiäl'gus # šiä'lgus  </p>
       <p id="3">ki'rkes</p>
       <p id="4">kirkas</p>
       <p id="5">(loistava) čuovvâl # čuovvâlâs ~ čuoVâlâs; (vesi, lasi) šeellâd # šelis ~ šellis ~ šellâdâs; (äänestä) čuovvâd čuo'Vis, čyeijil # čye'Jilis; (väristä) šeris-;</p>
@@ -14055,7 +14055,7 @@
    </e>
    <e id="5875">
       <p id="1">kota</p>
-      <p id="2">kuáti  kuáđi ~ kuá'đe;    (asustella kodassa) kuá'đástâllâđ kuá'đástâlâm  </p>
+      <p id="2">kuáti  kuáđi _FT_ kuá'đe;    (asustella kodassa) kuá'đástâllâđ kuá'đástâlâm  </p>
       <p id="3">kuáti</p>
       <p id="4">kota</p>
       <p id="5"/>
@@ -14510,7 +14510,7 @@
    </e>
    <e id="6052">
       <p id="1">kuljettaa</p>
-      <p id="2">fie'vridiđ  fievrid,  jođettiđ joođeet; (hiihtämällä) čuo'igâttiđ čuoigât; (soutamalla) suvdeđ suuvdám ~ su'vdám;  (lähteä kuljettamaan jtak) fiäv'rásiđ; (saada kuljetetuksi) kostâdiđ kostâd  </p>
+      <p id="2">fie'vridiđ  fievrid,  jođettiđ joođeet; (hiihtämällä) čuo'igâttiđ čuoigât; (soutamalla) suvdeđ suuvdám _FT_ su'vdám;  (lähteä kuljettamaan jtak) fiäv'rásiđ; (saada kuljetetuksi) kostâdiđ kostâd  </p>
       <p id="3">fie'vridiđ</p>
       <p id="4">kuljettaa</p>
       <p id="5">jođettiđ joođeet; (hiihtämällä) čuo'igâttiđ čuoigât; (soutamalla) suvdeđ suuvdám ~ su'vdám;</p>
@@ -14874,7 +14874,7 @@
    </e>
    <e id="6227">
       <p id="1">kuollut</p>
-      <p id="2">(adjektiivi) jaMâ  # jaamâ,  jaamâs jaammâs # jaMâ-, jáámmám; (vainaja) jaammuš, jämmee; (sukupuuttoon) suVâttum    </p>
+      <p id="2">(adjektiivi) jaMâ  # jaamâ,  jaamâs jaammâs # jaMâ, jáámmám; (vainaja) jaammuš, jämmee; (sukupuuttoon) suVâttum    </p>
       <p id="3">(adjektiivi) jaMâ</p>
       <p id="4">kuollut</p>
       <p id="5">jaamâs jaammâs # jaMâ-, jáámmám; (vainaja) jaammuš, jämmee; (sukupuuttoon) suVâttum</p>
@@ -14952,7 +14952,7 @@
    </e>
    <e id="6239">
       <p id="1">kuoriainen</p>
-      <p id="2">tivre  tiivre ~ ti'vre,  kuorijâš kuorijáá;  (kuoriaisen toukka) vijlokiksâ -kiivsâ  </p>
+      <p id="2">tivre  tiivre _FT_ ti'vre,  kuorijâš kuorijáá;  (kuoriaisen toukka) vijlokiksâ -kiivsâ  </p>
       <p id="3">tivre</p>
       <p id="4">kuoriainen</p>
       <p id="5">kuorijâš kuorijáá;</p>
@@ -15394,7 +15394,7 @@
    </e>
    <e id="6457">
       <p id="1">kyetä</p>
-      <p id="2">áppádiđ  áppád~áppâd,  kikkâniđ, nahciđ nahciim nähcee, pasteđ pa'stam, pyeh'tiđ puávtám, (pärjätä) cevziđ ciävzám; (tekemään jtak) stondiđ stondiim; (olla malttia ja järkeä tehdä jtak) standiđ standiim ständee; (kulkemaan olosuhteista huolimatta) kostâđ koostâm kuás'tá; (tekemään kuumuudesta huolimatta) tarjâđ taarjâm tárjá    </p>
+      <p id="2">áppádiđ  áppád _FT_ áppâd,  kikkâniđ, nahciđ nahciim nähcee, pasteđ pa'stam, pyeh'tiđ puávtám, (pärjätä) cevziđ ciävzám; (tekemään jtak) stondiđ stondiim; (olla malttia ja järkeä tehdä jtak) standiđ standiim ständee; (kulkemaan olosuhteista huolimatta) kostâđ koostâm kuás'tá; (tekemään kuumuudesta huolimatta) tarjâđ taarjâm tárjá    </p>
       <p id="3">áppádiđ</p>
       <p id="4">kyetä</p>
       <p id="5">kikkâniđ, nahciđ nahciim nähcee, pasteđ pa'stam, pyeh'tiđ puávtám, (pärjätä) cevziđ ciävzám; (tekemään jtak) stondiđ stondiim; (olla malttia ja järkeä tehdä jtak) standiđ standiim ständee; (kulkemaan olosuhteista huolimatta) kostâđ koostâm kuás'tá; (tekemään kuumuudesta huolimatta) tarjâđ taarjâm tárjá</p>
@@ -15524,7 +15524,7 @@
    </e>
    <e id="6480">
       <p id="1">kylmä</p>
-      <p id="2">koolmâs  kolmâs # kolmâ;  (viileä) čuássid # čuá'sidâs _AT_ čuá'sidis; (jääkylmä) jie'Ŋâkoolmâs -kolmâs # -kolmâ; (erit. sää) čuáskis čuás'ká čuás'kásist, čuás'kim # -âs; (ihminen) ka'škos kaškos;  (huokua kylmää) šohhoođ šoVom; (tehdä kylmäksi) kalmeđ ka'lmam; (pitää jtak liian kylmänä esim. vaatetta) kolmâšiđ koolmâš; (purra kylmästä t. pakkasesta) paskiittiđ; (tulla kylmä sää keväällä t. kevättalvella) kuos'tâdiđ  </p>
+      <p id="2">koolmâs  kolmâs # kolmâ;  (viileä) čuássid # čuá'sidâs _AT_ čuá'sidis; (jääkylmä) jie'Ŋâkoolmâs -kolmâs # jie'Ŋâkolmâ; (erit. sää) čuáskis čuás'ká čuás'kásist, čuás'kim # -âs; (ihminen) ka'škos kaškos;  (huokua kylmää) šohhoođ šoVom; (tehdä kylmäksi) kalmeđ ka'lmam; (pitää jtak liian kylmänä esim. vaatetta) kolmâšiđ koolmâš; (purra kylmästä t. pakkasesta) paskiittiđ; (tulla kylmä sää keväällä t. kevättalvella) kuos'tâdiđ  </p>
       <p id="3">koolmâs</p>
       <p id="4">kylmä</p>
       <p id="5">(viileä) čuássid # čuá'sidâs~čuá'sidis; (jääkylmä) jie'Ŋâkoolmâs -kolmâs # -kolmâ; (erit. sää) čuáskis čuás'ká čuás'kásist, čuás'kim # -âs; (ihminen) ka'škos kaškos;</p>
@@ -16265,7 +16265,7 @@
    </e>
    <e id="6727">
       <p id="1">kääpä</p>
-      <p id="2">(lakillinen) čááNá  -čááná ~ -čáná,  spabbâ spaabâ;  (pakurikääpä) tyev'li tyevli  </p>
+      <p id="2">(lakillinen) čááNá  -čááná _FT_ -čáná,  spabbâ spaabâ;  (pakurikääpä) tyev'li tyevli  </p>
       <p id="3">(lakillinen) čááNá</p>
       <p id="4">kääpä</p>
       <p id="5">spabbâ spaabâ;</p>
@@ -16551,7 +16551,7 @@
    </e>
    <e id="6800">
       <p id="1">laidun</p>
-      <p id="2">kuáttumeennâm,    kuáttum, kuátu kuáđu, kuá'đuttâh kuá'đuttuv;  (käyttämätön, vapaa laidun) luátu luáđu~luá'đo; (talvilaidun) tälvikuáttum; (pitää laitumella) kuá'đuttiđ kuáđut; (olla laitumella) kuáttuđ kuáđum  </p>
+      <p id="2">kuáttumeennâm,    kuáttum, kuátu kuáđu, kuá'đuttâh kuá'đuttuv;  (käyttämätön, vapaa laidun) luátu luáđu _FT_ luá'đo; (talvilaidun) tälvikuáttum; (pitää laitumella) kuá'đuttiđ kuáđut; (olla laitumella) kuáttuđ kuáđum  </p>
       <p id="3">kuáttum</p>
       <p id="4">laidun</p>
       <p id="5">kuáttum, kuátu kuáđu, kuá'đuttâh kuá'đuttuv;</p>
@@ -16668,7 +16668,7 @@
    </e>
    <e id="6829">
       <p id="1">laine</p>
-      <p id="2">pááRu  pááru ~ páro;      </p>
+      <p id="2">pááRu  pááru _FT_ páro;      </p>
       <p id="3">pááRu</p>
       <p id="4">laine</p>
       <p id="5"/>
@@ -16876,7 +16876,7 @@
    </e>
    <e id="6966">
       <p id="1">lannoittaa</p>
-      <p id="2">(erit. lannalla) sondiđ  sondiim suán'dee;  kalveđ su'vle ~ suuvle    </p>
+      <p id="2">(erit. lannalla) sondiđ  sondiim suán'dee;  kalveđ su'vle _MWEy_ ~ kalveđ suuvle _MWEy_ </p>
       <p id="3">(erit. lannalla) sondiđ</p>
       <p id="4">lannoittaa</p>
       <p id="5">kalveđ su'vle ~ suuvle</p>
@@ -16967,7 +16967,7 @@
    </e>
    <e id="7023">
       <p id="1">lapsi</p>
-      <p id="2">páárnáš~páárnâš  párnáá,  pärni päärni; (imeväisikäinen, pieni vauva) njammeepärni -päärni, njuorâhpáárnáš -párnáá, uMogâš uMogii~uMogáá, uMolâš uMolii; (avioton) luo'vâspáárnáš, jyel'gipärni -päärni, näimilito ulguubeln šoddâm páárnáš; (lapsi isänsä kanssa) eejiš; (veljen lapsi tädille) siessâl; (sisaren lapsi äitiä vanhemmalle tädille) kuáskiv; (sisaren lapsi äitiä nuoremmalle tädille) muáđđâl    </p>
+      <p id="2">páárnáš~páárnâš  párnáá,  pärni päärni; (imeväisikäinen, pieni vauva) njammeepärni -päärni, njuorâhpáárnáš -párnáá, uMogâš uMogii _FT_ uMogáá, uMolâš uMolii; (avioton) luo'vâspáárnáš, jyel'gipärni -päärni, näimilito ulguubeln šoddâm páárnáš; (lapsi isänsä kanssa) eejiš; (veljen lapsi tädille) siessâl; (sisaren lapsi äitiä vanhemmalle tädille) kuáskiv; (sisaren lapsi äitiä nuoremmalle tädille) muáđđâl    </p>
       <p id="3">páárnáš~páárnâš</p>
       <p id="4">lapsi</p>
       <p id="5">pärni päärni; (imeväisikäinen, pieni vauva) njammeepärni -päärni, njuorâhpáárnáš -párnáá, uMogâš uMogii~uMogáá, uMolâš uMolii; (avioton) luo'vâspáárnáš, jyel'gipärni -päärni, näimilito ulguubeln šoddâm páárnáš; (lapsi isänsä kanssa) eejiš; (veljen lapsi tädille) siessâl; (sisaren lapsi äitiä vanhemmalle tädille) kuáskiv; (sisaren lapsi äitiä nuoremmalle tädille) muáđđâl</p>
@@ -16980,7 +16980,7 @@
    </e>
    <e id="7028">
       <p id="1">lapsivesi</p>
-      <p id="2">šoddâdemčääci  -čääsi ~ -čääsih (mon.),  parnâmčääci -čääsi ~ -čääsih (mon.); (eläimillä) kyed'dimčääci -čääsi    </p>
+      <p id="2">šoddâdemčääci  -čääsi _FT_ -čääsih (mon.),  parnâmčääci -čääsi ~ parnâmčääsih (mon.); (eläimillä) kyed'dimčääci -čääsi    </p>
       <p id="3">šoddâdem</p>
       <p id="4">lapsi</p>
       <p id="5">parnâmčääci -čääsi ~ -čääsih (mon.); (eläimillä) kyed'dimčääci -čääsi</p>
@@ -17201,7 +17201,7 @@
    </e>
    <e id="7099">
       <p id="1">laulu</p>
-      <p id="2">laavlâ  lavluu;  (joikulaulu) livđe li'vđe ~ liivđe    </p>
+      <p id="2">laavlâ  lavluu;  (joikulaulu) livđe li'vđe _FT_ liivđe    </p>
       <p id="3">laavlâ</p>
       <p id="4">laulu</p>
       <p id="5">(joikulaulu) livđe li'vđe ~ liivđe</p>
@@ -17396,7 +17396,7 @@
    </e>
    <e id="7202">
       <p id="1">leimahtaa</p>
-      <p id="2">(esim. tulesta) šleđgiđ  šleđgiim šleđgee,  ruá'Sádiđ ruássád~ruásád; (vihasta) ruá'Sigyet'tiđ ruá'Siguá'đám    </p>
+      <p id="2">(esim. tulesta) šleđgiđ  šleđgiim šleđgee,  ruá'Sádiđ ruássád _FT_ ruásád; (vihasta) ruá'Sigyet'tiđ ruá'Siguá'đám    </p>
       <p id="3">(esim. tulesta) šleđgiđ</p>
       <p id="4">leimahtaa</p>
       <p id="5">ruá'Sádiđ ruássád~ruásád; (vihasta) ruá'Sigyet'tiđ ruá'Siguá'đám</p>
@@ -18059,7 +18059,7 @@
    </e>
    <e id="7423">
       <p id="1">liittää</p>
-      <p id="2">(jhkin t. jkin kanssa) labdeđ  la'bdam,  lahteđ la'htam ~ la'vtam ~ laavtam; (verkkoja yhteen) jaammâđ jaamâm; (verkkoja limittäin jataan) lävvidiđ lävvid; (verkkoja limittäin t. nuottaan) meeđđiđ miä'đám; (jukolla vuottoraippaan) juhottiđ juhhoot    </p>
+      <p id="2">(jhkin t. jkin kanssa) labdeđ  la'bdam,  lahteđ la'htam _FT_ la'vtam _FT_ laavtam; (verkkoja yhteen) jaammâđ jaamâm; (verkkoja limittäin jataan) lävvidiđ lävvid; (verkkoja limittäin t. nuottaan) meeđđiđ miä'đám; (jukolla vuottoraippaan) juhottiđ juhhoot    </p>
       <p id="3">(jhkin t. jkin kanssa) labdeđ</p>
       <p id="4">liittää</p>
       <p id="5">lahteđ la'htam ~ la'vtam ~ laavtam; (verkkoja yhteen) jaammâđ jaamâm; (verkkoja limittäin jataan) lävvidiđ lävvid; (verkkoja limittäin t. nuottaan) meeđđiđ miä'đám; (jukolla vuottoraippaan) juhottiđ juhhoot</p>
@@ -18111,7 +18111,7 @@
    </e>
    <e id="7437">
       <p id="1">lima</p>
-      <p id="2">njivle  nji'vle ~ njiivle;  (erit. kalan) šlijve šliijve    </p>
+      <p id="2">njivle  nji'vle _FT_ njiivle;  (erit. kalan) šlijve šliijve    </p>
       <p id="3">njivle</p>
       <p id="4">lima</p>
       <p id="5">(erit. kalan) šlijve šliijve</p>
@@ -18410,7 +18410,7 @@
    </e>
    <e id="7556">
       <p id="1">lohkoa</p>
-      <p id="2">(m. maanmittauksessa) laigođ  la'igom ~ laaigom,  luák'kuđ luáhum; (lantaa) puág'guđ puágum    </p>
+      <p id="2">(m. maanmittauksessa) laigođ  la'igom _FT_ laaigom,  luák'kuđ luáhum; (lantaa) puág'guđ puágum    </p>
       <p id="3">(m. maanmittauksessa) laigođ</p>
       <p id="4">lohkoa</p>
       <p id="5">luák'kuđ luáhum; (lantaa) puág'guđ puágum</p>
@@ -18475,7 +18475,7 @@
    </e>
    <e id="7573">
       <p id="1">loiskia</p>
-      <p id="2">(aalloista, lyödä rantaa) šluák'kiđ  šluák'ká;  (räiskiä vettä, loiskuttaa) stuuččâđ stuuJâm, stulččeđ stu'lčám, šoollâđ šoolâm šaLa ~ šuáLá    </p>
+      <p id="2">(aalloista, lyödä rantaa) šluák'kiđ  šluák'ká;  (räiskiä vettä, loiskuttaa) stuuččâđ stuuJâm, stulččeđ stu'lčám, šoollâđ šoolâm šaLa _FT_ šuáLá    </p>
       <p id="3">(aalloista, lyödä rantaa) šluák'kiđ</p>
       <p id="4">loiskia</p>
       <p id="5">(räiskiä vettä, loiskuttaa) stuuččâđ stuuJâm, stulččeđ stu'lčám, šoollâđ šoolâm šaLa ~ šuáLá</p>
@@ -18488,7 +18488,7 @@
    </e>
    <e id="7578">
       <p id="1">loistaa</p>
-      <p id="2">(valaista) čuovvâđ  čuovâm čuáVá,  čuov'viđ čuov'viim čyev'vee; (paistaa) šiär'ráđ šiär'ráám; (kirkkaana) šiäl'láđ šiäl'láá; (valkoisena) viäl'gáđ viäl'gájeh; (ruskeana) ruškáđ ruškájeh; (keltaisena) fiskáđ~viskáđ fiskájeh~viskájeh; (sinisenä) čuáv'jáđ čuáv'jájeh    </p>
+      <p id="2">(valaista) čuovvâđ  čuovâm čuáVá,  čuov'viđ čuov'viim čyev'vee; (paistaa) šiär'ráđ šiär'ráám; (kirkkaana) šiäl'láđ šiäl'láá; (valkoisena) viäl'gáđ viäl'gájeh; (ruskeana) ruškáđ ruškájeh; (keltaisena) fiskáđ fiskájeh ~ viskáđ viskájeh; (sinisenä) čuáv'jáđ čuáv'jájeh    </p>
       <p id="3">(valaista) čuovvâđ</p>
       <p id="4">loistaa</p>
       <p id="5">čuov'viđ čuov'viim čyev'vee; (paistaa) šiär'ráđ šiär'ráám; (kirkkaana) šiäl'láđ šiäl'láá; (valkoisena) viäl'gáđ viäl'gájeh; (ruskeana) ruškáđ ruškájeh; (keltaisena) fiskáđ~viskáđ fiskájeh~viskájeh; (sinisenä) čuáv'jáđ čuáv'jájeh</p>
@@ -19476,7 +19476,7 @@
    </e>
    <e id="7932">
       <p id="1">lämpö</p>
-      <p id="2">lie'gâsvuotâ  lie'gâsvuođâ;  (tulen) tuLâ-~tuulâ-~tullâpaaštâ -paštuu    </p>
+      <p id="2">lie'gâsvuotâ  lie'gâsvuođâ;  (tulen) tuLâpaaštâ ~ tuulâpaaštâ ~ tullâpaaštâ -paštuu    </p>
       <p id="3">lie'gâsvuotâ</p>
       <p id="4">lämpö</p>
       <p id="5">(tulen) tuLâ-~tuulâ-~tullâpaaštâ -paštuu</p>
@@ -19736,7 +19736,7 @@
    </e>
    <e id="8092">
       <p id="1">maininki</p>
-      <p id="2">pááRu  pááru ~ páro,  sijgâ siijgâ, nuvgâ nuuvgâ;  (aallota, lyödä rantaan) keerrâđ kiäRá; (lyödä rantaan erit. yksittäisistä aalloista) si'jgâdiđ sijgâd; (aaltoilla äänekkäästi) skulččeđ skulččá;  </p>
+      <p id="2">pááRu  pááru _FT_ páro,  sijgâ siijgâ, nuvgâ nuuvgâ;  (aallota, lyödä rantaan) keerrâđ kiäRá; (lyödä rantaan erit. yksittäisistä aalloista) si'jgâdiđ sijgâd; (aaltoilla äänekkäästi) skulččeđ skulččá;  </p>
       <p id="3">pááRu</p>
       <p id="4">maininki</p>
       <p id="5">sijgâ siijgâ, nuvgâ nuuvgâ;</p>
@@ -20789,7 +20789,7 @@
    </e>
    <e id="8495">
       <p id="1">molskia</p>
-      <p id="2">stulččeđ  stu'lčám;  (tarpoimella) šoollâđ šoolâm šaLa ~ šuáLá    </p>
+      <p id="2">stulččeđ  stu'lčám;  (tarpoimella) šoollâđ šoolâm šaLa _FT_ šuáLá    </p>
       <p id="3">stulččeđ</p>
       <p id="4">molskia</p>
       <p id="5">(tarpoimella) šoollâđ šoolâm šaLa ~ šuáLá</p>
@@ -24442,7 +24442,7 @@
    </e>
    <e id="9824">
       <p id="1">paistaa</p>
-      <p id="2">(esim. ruokaa) passeeđ  pasam paSa;  (nopeasti) paSeliđ passeel; (pannussa) piđđeeđ piđám; (rasvassa) steikkiistiđ; (esim. auringosta ja kuusta) päštiđ páštá; (loistaa) šiär'ráđ šiär'ráám; (erit. auringosta) čuo'vâttiđ čuovât; (valkoisena) viäl'gáđ viäl'gájeh; (valkeana) čiäs'káđ čiäs'kájeh; (ruskeana) ruškáđ ruškájeh; (keltaisena) fiskáđ~viskáđ fiskájeh~viskájeh; (sinisenä) čuáv'jáđ čuáv'jájeh; (nahan läpi luista laihalla ihmisellä) párccáđ párccáám,  (sopia paistamiseen) pasettiđ passeet  </p>
+      <p id="2">(esim. ruokaa) passeeđ  pasam paSa;  (nopeasti) paSeliđ passeel; (pannussa) piđđeeđ piđám; (rasvassa) steikkiistiđ; (esim. auringosta ja kuusta) päštiđ páštá; (loistaa) šiär'ráđ šiär'ráám; (erit. auringosta) čuo'vâttiđ čuovât; (valkoisena) viäl'gáđ viäl'gájeh; (valkeana) čiäs'káđ čiäs'kájeh; (ruskeana) ruškáđ ruškájeh; (keltaisena) fiskáđ fiskájeh ~ viskáđ viskájeh; (sinisenä) čuáv'jáđ čuáv'jájeh; (nahan läpi luista laihalla ihmisellä) párccáđ párccáám,  (sopia paistamiseen) pasettiđ passeet  </p>
       <p id="3">(esim. ruokaa) passeeđ</p>
       <p id="4">paistaa</p>
       <p id="5">(nopeasti) paSeliđ passeel; (pannussa) piđđeeđ piđám; (rasvassa) steikkiistiđ; (esim. auringosta ja kuusta) päštiđ páštá; (loistaa) šiär'ráđ šiär'ráám; (erit. auringosta) čuo'vâttiđ čuovât; (valkoisena) viäl'gáđ viäl'gájeh; (valkeana) čiäs'káđ čiäs'kájeh; (ruskeana) ruškáđ ruškájeh; (keltaisena) fiskáđ~viskáđ fiskájeh~viskájeh; (sinisenä) čuáv'jáđ čuáv'jájeh; (nahan läpi luista laihalla ihmisellä) párccáđ párccáám</p>
@@ -25054,7 +25054,7 @@
    </e>
    <e id="10035">
       <p id="1" r1_par="(kaksi)">pari</p>
-      <p id="2">paaRâ  paarâ;    (kaksi ihmistä) kyevtis kuáh'tá~kuáh'tás  </p>
+      <p id="2">paaRâ  paarâ;    (kaksi ihmistä) kyevtis kuáh'tá _FT_ kuáh'tás  </p>
       <p id="3">paaRâ</p>
       <p id="4">pari</p>
       <p id="5"/>
@@ -25808,7 +25808,7 @@
    </e>
    <e id="10330">
       <p id="1">pesä</p>
-      <p id="2">(yleisnimitys _SEMIC_ m. kuolinpesä) peesi  peesi;  (erit. pesäluola) piäJu piäju; (karhun talvipesä) kuáti kuáđi ~ kuá'đe; (linnun) piervâl pier'vâl; (oravan) poorâ porruu;  (tehdä pesä) pier'vâl rähtiđ, pie'rvâldiđ piervâld  </p>
+      <p id="2">(yleisnimitys _SEMIC_ m. kuolinpesä) peesi  peesi;  (erit. pesäluola) piäJu piäju; (karhun talvipesä) kuáti kuáđi _FT_ kuá'đe; (linnun) piervâl pier'vâl; (oravan) poorâ porruu;  (tehdä pesä) pier'vâl rähtiđ, pie'rvâldiđ piervâld  </p>
       <p id="3">(yleisnimitys _SEMIC_ m. kuolinpesä) peesi</p>
       <p id="4">pesä</p>
       <p id="5">(erit. pesäluola) piäJu piäju; (karhun talvipesä) kuáti kuáđi ~ kuá'đe; (linnun) piervâl pier'vâl; (oravan) poorâ porruu;</p>
@@ -28357,7 +28357,7 @@
    </e>
    <e id="11319">
       <p id="1">pystyä</p>
-      <p id="2">áppádiđ  áppád~áppâd,  kikkâniđ, nahciđ nahciim nähcee, pasteđ pa'stam, pyeh'tiđ puávtám; (pärjätä) cevziđ ciävzám; (tekemään jtak) stondiđ stondiim; (olla malttia ja järkeä tehdä jtak) standiđ standiim ständee; (kulkemaan olosuhteista huolimatta) kostâđ koostâm kuás'tá; (tekemään kuumuudesta huolimatta) tarjâđ taarjâm tárjá    </p>
+      <p id="2">áppádiđ  áppád _FT_ áppâd,  kikkâniđ, nahciđ nahciim nähcee, pasteđ pa'stam, pyeh'tiđ puávtám; (pärjätä) cevziđ ciävzám; (tekemään jtak) stondiđ stondiim; (olla malttia ja järkeä tehdä jtak) standiđ standiim ständee; (kulkemaan olosuhteista huolimatta) kostâđ koostâm kuás'tá; (tekemään kuumuudesta huolimatta) tarjâđ taarjâm tárjá    </p>
       <p id="3">áppádiđ</p>
       <p id="4">pystyä</p>
       <p id="5">kikkâniđ, nahciđ nahciim nähcee, pasteđ pa'stam, pyeh'tiđ puávtám; (pärjätä) cevziđ ciävzám; (tekemään jtak) stondiđ stondiim; (olla malttia ja järkeä tehdä jtak) standiđ standiim ständee; (kulkemaan olosuhteista huolimatta) kostâđ koostâm kuás'tá; (tekemään kuumuudesta huolimatta) tarjâđ taarjâm tárjá</p>
@@ -33427,7 +33427,7 @@
    </e>
    <e id="13493">
       <p id="1">soutaa</p>
-      <p id="2">suuhâđ  suuVâm suhá,  suvdeđ suuvdám ~ su'vdám; (kovaan vastatuuleen) kacceđ kasam;  (lähteä soutamaan) suLádiđ sulláád  </p>
+      <p id="2">suuhâđ  suuVâm suhá,  suvdeđ suuvdám _FT_ su'vdám; (kovaan vastatuuleen) kacceđ kasam;  (lähteä soutamaan) suLádiđ sulláád  </p>
       <p id="3">suuhâđ</p>
       <p id="4">soutaa</p>
       <p id="5">suvdeđ suuvdám ~ su'vdám; (kovaan vastatuuleen) kacceđ kasam;</p>
@@ -33609,7 +33609,7 @@
    </e>
    <e id="13582">
       <p id="1">suku</p>
-      <p id="2">suuhâ  suuVâ,  hiäi'mu hiäimu; (jälkeläiset) nääLi nääli ~ näle    </p>
+      <p id="2">suuhâ  suuVâ,  hiäi'mu hiäimu; (jälkeläiset) nääLi nääli _FT_ näle    </p>
       <p id="3">suuhâ</p>
       <p id="4">suku</p>
       <p id="5">hiäi'mu hiäimu; (jälkeläiset) nääLi nääli ~ näle</p>
@@ -34935,7 +34935,7 @@
    </e>
    <e id="14105">
       <p id="1">säätää</p>
-      <p id="2">(tehdä säätöjä) stelliđ  stelliim;  (laki) asâttiđ aassât ~ aasât    </p>
+      <p id="2">(tehdä säätöjä) stelliđ  stelliim;  (laki) asâttiđ aassât _FT_ aasât    </p>
       <p id="3">(tehdä säätöjä) stelliđ</p>
       <p id="4">säätää</p>
       <p id="5">(laki) asâttiđ aassât ~ aasât</p>
@@ -35572,7 +35572,7 @@
    </e>
    <e id="14336">
       <p id="1">talvipesä</p>
-      <p id="2">tälvipiervâl  -pier'vâl,  tälvipiäJu -piäju; (karhun) kuáti kuáđi ~ kuá'đe    </p>
+      <p id="2">tälvipiervâl  -pier'vâl,  tälvipiäJu -piäju; (karhun) kuáti kuáđi _FT_ kuá'đe    </p>
       <p id="3">tälvi</p>
       <p id="4">talvi</p>
       <p id="5">tälvipiäJu -piäju; (karhun) kuáti kuáđi ~ kuá'đe</p>
@@ -35611,7 +35611,7 @@
    </e>
    <e id="14363">
       <p id="1">tapa</p>
-      <p id="2">tääpi  täävi,  utke u'đhe, vyehi vyeVi, nääLi nääli ~ näle;  (olla tapana) laaviđ läävee, täpidiđ tääppid; (parantaa tapansa) pye'redâttâđ pye'redâđâm; (meillä on tällainen tapa) mii koskâvuođast lii taggaar vyehi; (tällä tavoin) tánávt  </p>
+      <p id="2">tääpi  täävi,  utke u'đhe, vyehi vyeVi, nääLi nääli _FT_ näle;  (olla tapana) laaviđ läävee, täpidiđ tääppid; (parantaa tapansa) pye'redâttâđ pye'redâđâm; (meillä on tällainen tapa) mii koskâvuođast lii taggaar vyehi; (tällä tavoin) tánávt  </p>
       <p id="3">tääpi</p>
       <p id="4">tapa</p>
       <p id="5">utke u'đhe, vyehi vyeVi, nääLi nääli ~ näle;</p>
@@ -37977,7 +37977,7 @@
    </e>
    <e id="15467">
       <p id="1">tyyli</p>
-      <p id="2">(esim. kirjallisuuden t. muodin) stijlâ  stiijlâ;  (tapa tehdä t. olla) nääLi nääli ~ näle    </p>
+      <p id="2">(esim. kirjallisuuden t. muodin) stijlâ  stiijlâ;  (tapa tehdä t. olla) nääLi nääli _FT_ näle    </p>
       <p id="3">(esim. kirjallisuuden t. muodin) stijlâ</p>
       <p id="4">tyyli</p>
       <p id="5">(tapa tehdä t. olla) nääLi nääli ~ näle</p>
@@ -41734,7 +41734,7 @@
    </e>
    <e id="17173">
       <p id="1">voimaton</p>
-      <p id="2">(fyys. voiman osalta) äpittem  # äpittemes _AT_ äpittes,  na'vcâttem # na'vcâttes; (heikko) vye'imittem # vye'imittemes _AT_ vye'imittes; (heikko, vanhuudenheikko, heiveröinen) fámuttim # fámuttis _AT_ fámuttemes, nyeLi nye'le; (uupunut, veltto) šliedâs šlied'dâs # šlied'dâ ~ šlieđâs šlieđ'đâs # šlieđ'đâ; (hidas) njuáci njuási # njuá'sis;  (heikentyä, muuttua voimattomaksi) hiä'juluđ hiä'juluum hiä'juluVá, hiä'juniđ hiäijun, hiä'jusmiđ hiäjuusm~hiäjusm; (menettää voimansa, tulla voimattomaksi) vye'imittuđ vye'imittuum vye'imittuVá, na'vcâttuđ na'vcâttuum na'vcâttuVá, äpittuđ äpittuum äpittuVá; (nälän t. sairauden vuoksi) kuá'Rániđ kuárrán; (tulla heiveröiseksi) njuorrâđ njuorâm, njuo'râsmiđ njuorâsm; (tulla voimattomaksi ilman että on heikko) luos'kâniđ  </p>
+      <p id="2">(fyys. voiman osalta) äpittem  # äpittemes _AT_ äpittes,  na'vcâttem # na'vcâttes; (heikko) vye'imittem # vye'imittemes _AT_ vye'imittes; (heikko, vanhuudenheikko, heiveröinen) fámuttim # fámuttis _AT_ fámuttemes, nyeLi nye'le; (uupunut, veltto) šliedâs šlied'dâs # šlied'dâ ~ šlieđâs šlieđ'đâs # šlieđ'đâ; (hidas) njuáci njuási # njuá'sis;  (heikentyä, muuttua voimattomaksi) hiä'juluđ hiä'juluum hiä'juluVá, hiä'juniđ hiäijun, hiä'jusmiđ hiäjuusm _FT_ hiäjusm; (menettää voimansa, tulla voimattomaksi) vye'imittuđ vye'imittuum vye'imittuVá, na'vcâttuđ na'vcâttuum na'vcâttuVá, äpittuđ äpittuum äpittuVá; (nälän t. sairauden vuoksi) kuá'Rániđ kuárrán; (tulla heiveröiseksi) njuorrâđ njuorâm, njuo'râsmiđ njuorâsm; (tulla voimattomaksi ilman että on heikko) luos'kâniđ  </p>
       <p id="3">(fyys. voiman osalta) äpittem</p>
       <p id="4">voimaton</p>
       <p id="5">na'vcâttem # na'vcâttes; (heikko) vye'imittem # -es ~ vye'imittes; (heikko, vanhuudenheikko, heiveröinen) fámuttim # fámuttis ~ fámuttemes, nyeLi nye'le; (uupunut, veltto) šliedâs šlied'dâs # šlied'dâ ~ šlieđâs šlieđ'đâs # šlieđ'đâ; (hidas) njuáci njuási # njuá'sis;</p>
@@ -42371,7 +42371,7 @@
    </e>
    <e id="17485">
       <p id="1">yhdyssana</p>
-      <p id="2">kuá'LussääNi  -sääni ~ -säne;    (muodostaa yhdyssanoja) kuá'Lustiđ kuállust  </p>
+      <p id="2">kuá'LussääNi  -sääni _FT_ -säne;    (muodostaa yhdyssanoja) kuá'Lustiđ kuállust  </p>
       <p id="3">kuá'Lus</p>
       <p id="4">yhdys</p>
       <p id="5"/>
@@ -43060,7 +43060,7 @@
    </e>
    <e id="17849">
       <p id="1">ötökkä</p>
-      <p id="2">tivre  tiivre ~ ti'vre;  (pieni hyönteinen, joka lentää keväällä hangen t. veden päällä) ciissâg    </p>
+      <p id="2">tivre  tiivre _FT_ ti'vre;  (pieni hyönteinen, joka lentää keväällä hangen t. veden päällä) ciissâg    </p>
       <p id="3">tivre</p>
       <p id="4">ötökkä</p>
       <p id="5">(pieni hyönteinen, joka lentää keväällä hangen t. veden päällä) ciissâg</p>

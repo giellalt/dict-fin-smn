@@ -76,16 +76,19 @@
 		      <tg xml:lang="smn">
 			<xsl:for-each select="./tg/t[normalize-space(.)=doc($plFile)/r/e/lg/l]">
 			  <xsl:variable name="c_t" select="normalize-space(.)"/>
-			  <link fin="{$c_t}">
-			    <xsl:copy-of select="./@*"/>
-			    <xsl:copy-of select="doc($plFile)/r/e[./lg/l=$c_t]//t"/>
-			  </link>
+			  <xsl:variable name="c_t_pos" select="concat(normalize-space(.),'_',./@pos)"/>
+			  <xsl:for-each select="doc($plFile)/r/e[./lg/l=$c_t]//t">
+			    <t link="{$c_t_pos}">
+			      <xsl:copy-of select="./@*"/>
+			      <xsl:value-of select="."/>
+			    </t>
+			  </xsl:for-each>
 			</xsl:for-each>
 		      </tg>
 		    </mg>
 		  </xsl:variable>
 		  
-		  <xsl:if test="$c_mg/mg/tg/link/t">
+		  <xsl:if test="$c_mg/mg/tg/t">
 		    <xsl:copy-of select="$c_mg"/>
 		  </xsl:if>
 		  

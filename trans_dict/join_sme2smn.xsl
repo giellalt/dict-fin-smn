@@ -8,8 +8,8 @@
 		xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 		xmlns:xs="http://www.w3.org/2001/XMLSchema"
 		xmlns:xhtml="http://www.w3.org/1999/xhtml"
-		xmlns:local="nightbar"
-		exclude-result-prefixes="xs xhtml local">
+		xmlns:functx="http://www.functx.com"
+		exclude-result-prefixes="xs xhtml functx">
 
   <xsl:strip-space elements="*"/>
   <xsl:output method="xml" name="xml"
@@ -25,6 +25,31 @@
               version="4.0"
               indent="yes"/>
 
+<xsl:function name="functx:is-node-in-sequence-deep-equal" as="xs:boolean"
+              xmlns:functx="http://www.functx.com">
+  <xsl:param name="node" as="node()?"/>
+  <xsl:param name="seq" as="node()*"/>
+
+  <xsl:sequence select="
+   some $nodeInSeq in $seq satisfies deep-equal($nodeInSeq,$node)
+ "/>
+
+</xsl:function>
+
+<xsl:function name="functx:distinct-deep" as="node()*"
+              xmlns:functx="http://www.functx.com">
+  <xsl:param name="nodes" as="node()*"/>
+
+  <xsl:sequence select="
+    for $seq in (1 to count($nodes))
+    return $nodes[$seq][not(functx:is-node-in-sequence-deep-equal(
+                          .,$nodes[position() &lt; $seq]))]
+ "/>
+
+</xsl:function>
+
+
+  
   <xsl:param name="inDir" select="'sme2fin'"/>
   <xsl:param name="plFile" select="'fin2smn/all_fin2smn.xml'"/>
   
@@ -74,15 +99,19 @@
 		  <xsl:variable name="c_mg">
 		    <mg>
 		      <tg xml:lang="smn">
-			<xsl:for-each select="./tg/t[normalize-space(.)=doc($plFile)/r/e/lg/l]">
+			<xsl:for-each
+			    select="./tg/t[normalize-space(.)=doc($plFile)/r/e/lg/l],
+				     ./tg/t[normalize-space(.)=doc($plFile)/r/e/mg/tg/t/@l_par]">
 			  <xsl:variable name="c_t" select="normalize-space(.)"/>
 			  <xsl:variable name="c_t_pos" select="concat(normalize-space(.),'_',./@pos)"/>
-			  <xsl:for-each select="doc($plFile)/r/e[./lg/l=$c_t]//t">
-			    <t link="{$c_t_pos}">
-			      <xsl:copy-of select="./@*"/>
-			      <xsl:value-of select="."/>
-			    </t>
-			  </xsl:for-each>
+
+			    <xsl:for-each select="doc($plFile)/r/e[./lg/l=$c_t]//t">
+			      <t link="{$c_t_pos}">
+				<xsl:copy-of select="./@*"/>
+				<xsl:value-of select="."/>
+			      </t>
+			    </xsl:for-each>
+
 			</xsl:for-each>
 		      </tg>
 		    </mg>

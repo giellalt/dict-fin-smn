@@ -26,7 +26,8 @@
               indent="yes"/>
 
   <xsl:param name="inFile" select="'all_sme2smn_levenshtein_check.xml'"/>
-  <xsl:param name="filterFile" select="'u_pseudo_sme_t_list.txt'"/>
+  <xsl:param name="inFileName" select="substring-before($inFile, '.xml')"/>
+  <xsl:param name="filterFile" select="'smn2pseudo-sme_map.txt'"/>
   <xsl:variable name="ffParsed" select="unparsed-text($filterFile)"/>
   <xsl:variable name="ffLines" select="tokenize($ffParsed, '&#xa;')" as="xs:string+"/>
   <xsl:param name="outDir" select="'odir'"/>
@@ -41,7 +42,7 @@
   <xsl:variable name="vCaps" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'"/>
   
   <xsl:template match="/" name="main">
-    <xsl:result-document href="{$outDir}/{$filterFile}_xxx.{$of}" format="{$of}">
+    <xsl:result-document href="{$outDir}/{$inFileName}_v2.{$of}" format="{$of}">
       <r>
 	<xsl:for-each select="doc($inFile)/r/e">
 	  <e>

@@ -26,11 +26,12 @@
               indent="yes"/>
 
   <xsl:param name="inFile" select="'all_sme2smn_levenshtein_check.xml'"/>
-  <xsl:param name="inFileName" select="substring-before($inFile, '.xml')"/>
+  <xsl:param name="version" select="'v4'"/>
+  <xsl:param name="utFileName" select="concat('all_sme2smn_lsd_pseudo-sme_',$version)"/>
   <xsl:param name="filterFile" select="'smn2pseudo-sme_map.txt'"/>
   <xsl:variable name="ffParsed" select="unparsed-text($filterFile)"/>
   <xsl:variable name="ffLines" select="tokenize($ffParsed, '&#xa;')" as="xs:string+"/>
-  <xsl:param name="outDir" select="'odir'"/>
+  <xsl:param name="outDir" select="'.'"/>
   <xsl:variable name="of" select="'xml'"/>
   <xsl:variable name="e" select="$of"/>
   <xsl:variable name="debug" select="false()"/>

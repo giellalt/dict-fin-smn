@@ -16,8 +16,8 @@ mv smn2pseudo-sme_map.txt___ smn2pseudo-sme_map.txt
 6. calculate the Levenshtein distance between the sme lemma and the modified smn strings
 _six add_pseudo-sme2ls_xml.xsl
 
-TODO: -bash: _six: command not found
-
+trans_dict>alias _six
+alias _six='java -Xmx16800m -Dfile.encoding=UTF8 net.sf.saxon.Transform -it:main'
 
 7. add the latest version to the svn
 svn add all_sme2smn_lsd_pseudo-sme_v2.xml

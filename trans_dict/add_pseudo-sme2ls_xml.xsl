@@ -43,7 +43,7 @@
   <xsl:variable name="vCaps" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'"/>
   
   <xsl:template match="/" name="main">
-    <xsl:result-document href="{$outDir}/{$inFileName}_v2.{$of}" format="{$of}">
+    <xsl:result-document href="{$outDir}/{$utFileName}.{$of}" format="{$of}">
       <r>
 	<xsl:for-each select="doc($inFile)/r/e">
 	  <e>

@@ -28,7 +28,7 @@
   <xsl:param name="filterFile" select="'all_sme2smn.csv'"/>
   <xsl:variable name="ffParsed" select="unparsed-text($filterFile)"/>
   <xsl:variable name="ffLines" select="tokenize($ffParsed, '&#xa;')" as="xs:string+"/>
-  <xsl:param name="outDir" select="'odir'"/>
+  <xsl:param name="outDir" select="'___odir'"/>
   <xsl:variable name="of" select="'xml'"/>
   <xsl:variable name="e" select="$of"/>
   <xsl:variable name="debug" select="false()"/>
@@ -63,9 +63,9 @@
       </r>
     </xsl:variable>
     
-    <xsl:result-document href="{$outDir}/{$filterFile}_gt1.{$of}" format="{$of}">
+    <xsl:result-document href="{$outDir}/{$filterFile}_gt_EQ_1.{$of}" format="{$of}">
       <r>
-	<xsl:for-each select="$data/r/e[count(./t)&gt;1]">
+	<xsl:for-each select="$data/r/e[count(./t)=1]">
 	  <e>
 	    <xsl:copy-of select="./@*"/>
 	    <xsl:variable name="cs" select="./@s"/>

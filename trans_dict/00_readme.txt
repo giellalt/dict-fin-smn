@@ -1,3 +1,18 @@
+Task: constraining the (near-/pseudo-)synonyms of t-elements in the sme2smn dict
+1. 1:1 (mapping between l:t) ==> DONE
+all_sme2smn_levenshtein_check_tEQ1.xml 
+
+2. 1:many
+2.1  mld less than 4 ==> DONE
+all_sme2smn_lsd_pseudo-sme_LT4.xml
+
+2.2 mld greater than 3 ==> ongoing work
+
+
+=== 
+docu on the caluculation of mld, i.e., levenshtein distance of
+the modified smn string as pseudo-sme
+===
 1. compile fst file after Tronds last changes
 xfst -f ~/main/langs/smn/src/scripts/smn-sme-lemma.xfscript
 

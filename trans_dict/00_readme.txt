@@ -3,11 +3,18 @@ Task: constraining the (near-/pseudo-)synonyms of t-elements in the sme2smn dict
 all_sme2smn_levenshtein_check_tEQ1.xml 
 
 2. 1:many
+
 2.1  mld less than 4 ==> DONE
 all_sme2smn_lsd_pseudo-sme_LT4.xml
 
 2.2 mld greater than 3 ==> ongoing work
 
+2.2.1 with at least one t-element that have a corresponding
+      entry in the smn2fin (noisy!!!) data ==> DONE
+all_sme2smn_lsd_pseudo-sme_GT3_fin-link-filtered.xml
+
+2.2.2 with no t-element that have a corresponding
+      entry in the smn2fin (noisy!!!) data ==> TODO
 
 === 
 docu on the caluculation of mld, i.e., levenshtein distance of

@@ -29,9 +29,6 @@
    <e s="ahkitvuohta" p="N">
       <t mld="4" old="6" p_sme="ahheevvuohta" link="ikävyys_N">ahheevvuotâ</t>
    </e>
-   <e s="aiget" p="V"/>
-   <e s="aitto" p="Pcle"/>
-   <e s="akšuvdna" p="N"/>
    <e s="albmaduvvat" p="V">
       <t mld="6" old="8" p_sme="albmostut" link="ilmaantua_V">almostuđ</t>
       <t mld="10" old="11" p_sme="ihtteet" link="ilmaantua_V">itteeđ</t>
@@ -42,7 +39,6 @@
    <e s="alit" p="A">
       <t mld="6" old="7" p_sme="čuovjat" link="sininen_A">čuovjâd</t>
    </e>
-   <e s="alitrássi" p="N"/>
    <e s="alkoholista" p="N">
       <t mld="9" old="10" p_sme="juhhei" link="alkoholisti_N">juhhee</t>
       <t mld="10"
@@ -94,7 +90,6 @@
       <t mld="8" old="8" p_sme="dohálaš" link="kelvollinen_A">tohálâš</t>
       <t mld="9" old="10" p_sme="duhhiihttehttei" link="kelvollinen_A">tuhhiittettee</t>
    </e>
-   <e s="anonyma" p="A"/>
    <e s="aresteret" p="V">
       <t mld="8" old="9" p_sme="doavuštit" link="takavarikoida_V">tuávuštiđ</t>
       <t mld="10" old="12" p_sme="doahánváldit" link="takavarikoida_V">tuáhánväldiđ</t>
@@ -117,13 +112,10 @@
    <e s="arvvalaš" p="V">
       <t mld="7" old="8" p_sme="ealjár" link="tarmokas_V">iäljár</t>
    </e>
-   <e s="arvvašit" p="V"/>
    <e s="arvvuhuvvat" p="V">
       <t mld="7" old="8" p_sme="orvvattut" link="lannistua_V">orvâttuđ</t>
       <t mld="8" old="10" p_sme="dárbmuhttut" link="lannistua_V">tármuttuđ</t>
    </e>
-   <e s="asehaš" p="A"/>
-   <e s="aseheapme" p="A"/>
    <e s="asttuheapme" p="A">
       <t mld="9" old="9" p_sme="hohppu" link="kiireinen_A">hoppuu</t>
    </e>
@@ -136,7 +128,6 @@
       <t mld="9" old="11" p_sme="belkit" link="sättiä_V">pelkkiđ</t>
       <t mld="10" old="11" p_sme="moggedit" link="nahistella_V">moggediđ</t>
    </e>
-   <e s="badjelii" p="Adv"/>
    <e s="badjeolmmoš" p="N">
       <t mld="5" old="7" p_sme="boasuiolbmoš" link="poronhoitaja_N">puásuiolmooš</t>
    </e>
@@ -308,14 +299,9 @@
       <t mld="5" old="6" p_sme="raigit" link="puhkaista_V">raigiđ</t>
       <t mld="7" old="8" p_sme="ráigidit" link="puhkaista_V">räigidiđ</t>
    </e>
-   <e s="beaškkehit" p="V"/>
-   <e s="befeštuvvat" p="V"/>
-   <e s="bejot" p="N"/>
-   <e s="belá" p="N"/>
    <e s="beroštus" p="N">
       <t mld="7" old="7" p_sme="huola" link="huoli_N">huolâ</t>
    </e>
-   <e s="beštor" p="N"/>
    <e s="bidjet" p="N">
       <t mld="6" old="7" p_sme="áksion" link="huutokauppa_N">äksioon</t>
       <t mld="13" old="12" p_sme="čuorvvagávppi" link="huutokauppa_N">čuorvâkävppi</t>
@@ -323,9 +309,6 @@
    <e s="bieggat" p="V">
       <t mld="5" old="7" p_sme="bossot" link="puhaltaa_V">possoođ</t>
    </e>
-   <e s="biehtárguhkká" p="N"/>
-   <e s="biehtárrássi" p="N"/>
-   <e s="biellorássi" p="N"/>
    <e s="bierffas" p="A">
       <t mld="7" old="7" p_sme="hurvá" link="pörröinen_A">hurváá</t>
    </e>
@@ -379,7 +362,6 @@
       <t mld="4" old="5" p_sme="soaibut" link="horjua_V">suáibuđ</t>
       <t mld="9" old="9" p_sme="vardahččit" link="horjua_V">vardâččiđ</t>
    </e>
-   <e s="bileahtta" p="N"/>
    <e s="billahuvvat" p="V">
       <t mld="4" old="7" p_sme="billašut" link="pilaantua_V">pillâšuđ</t>
    </e>
@@ -416,7 +398,6 @@
       <t mld="7" old="8" p_sme="sulan" link="noin_Adv">suulân</t>
       <t mld="8" old="8" p_sme="nuovt" link="noin_Adv">nyevt</t>
    </e>
-   <e s="birračuohpahus" p="N"/>
    <e s="bissehit" p="V">
       <t mld="5" old="8" p_sme="orostihit" link="pysäyttää_V">orostittiđ</t>
    </e>
@@ -428,7 +409,6 @@
    <e s="bivaldit" p="V">
       <t mld="6" old="7" p_sme="liegganit" link="lämmetä_V">lieggâniđ</t>
    </e>
-   <e s="bivššas" p="A"/>
    <e s="biđus" p="N">
       <t mld="8" old="9" p_sme="beargumáli" link="lihakeitto_N">piärgumääli</t>
       <t mld="8" old="9" p_sme="beargumális" link="lihakeitto_N">piärgumäälis</t>
@@ -444,12 +424,10 @@
    <e s="boalbut" p="V">
       <t mld="6" old="7" p_sme="ruosadit" link="kompuroida_V">ruosâdiđ</t>
    </e>
-   <e s="boallooaivi" p="N"/>
    <e s="boalvár" p="N">
       <t mld="9" old="8" p_sme="gávppalbmai" link="kauppias_N">kävppalmai</t>
       <t mld="9" old="9" p_sme="gávppijas" link="kauppias_N">kävppijâs</t>
    </e>
-   <e s="boalčasit" p="V"/>
    <e s="boanddaiduvvat" p="V">
       <t mld="11" old="12" p_sme="jáváldut" link="vaurastua_V">jáválduđ</t>
       <t mld="11" old="12" p_sme="várádut" link="vaurastua_V">váráduđ</t>
@@ -510,7 +488,6 @@
       <t mld="7" old="8" p_sme="beatu" link="peto_N">piätu</t>
       <t mld="8" old="9" p_sme="beatuellei" link="petoeläin_N">piätuellee</t>
    </e>
-   <e s="borgalit" p="V"/>
    <e s="borgárvuohta" p="N">
       <t mld="11"
          old="14"
@@ -547,7 +524,6 @@
       <t mld="7" old="7" p_sme="lones" link="korvaus_N">lones</t>
       <t mld="9" old="9" p_sme="sajanmáksu" link="korvaus_N">sajanmáksu</t>
    </e>
-   <e s="buljagit" p="V"/>
    <e s="buljardahttit" p="V">
       <t mld="9" old="9" p_sme="škuráidihit" link="kurlata_V">škuráidittiđ</t>
    </e>
@@ -561,7 +537,6 @@
    <e s="bumbá" p="N">
       <t mld="5" old="5" p_sme="gisto" link="kirstu_N">kisto</t>
    </e>
-   <e s="bumpaloddi" p="N"/>
    <e s="buncarakkis" p="N">
       <t mld="9" old="10" p_sme="čuolbma" link="ongelma_N">čuolmâ</t>
    </e>
@@ -619,7 +594,6 @@
       <t mld="7" old="9" p_sme="skerčagit" link="kärventyä_V">skerčâgiđ</t>
       <t mld="9" old="10" p_sme="goasmut" link="kärventyä_V">kuásmuđ</t>
    </e>
-   <e s="buovnnjat" p="N"/>
    <e s="buozalmasvuohta" p="N">
       <t mld="9" old="11" p_sme="buocamuš" link="tauti_N">puocâmuš</t>
       <t mld="12" old="13" p_sme="davda" link="tauti_N tauti_N">tavdâ</t>
@@ -748,7 +722,6 @@
    <e s="bážan" p="N">
       <t mld="10" old="13" p_sme="báhččimvearju" link="ampuma-ase_N">pääččimviärju</t>
    </e>
-   <e s="bážáhat" p="N"/>
    <e s="cahkkát" p="V">
       <t mld="4" old="6" p_sme="cohkkanit" link="syttyä_V">cokkâniđ</t>
       <t mld="5" old="6" p_sme="boallát" link="syttyä_V">puálláđ</t>
@@ -763,12 +736,10 @@
    <e s="cibmut" p="V">
       <t mld="5" old="5" p_sme="cimostit" link="nitistää_V">cimostiđ</t>
    </e>
-   <e s="ciebat" p="N"/>
    <e s="cielkkistit" p="V">
       <t mld="7" old="8" p_sme="skalijdit" link="kalista_V">skalijdiđ</t>
       <t mld="7" old="8" p_sme="skolijdit" link="kalista_V">skolijdiđ</t>
    </e>
-   <e s="cihca" p="N"/>
    <e s="cimput" p="V">
       <t mld="5" old="6" p_sme="canccot" link="loikkia_V">canccođ</t>
    </e>
@@ -784,7 +755,6 @@
    <e s="cohkolat" p="N">
       <t mld="6" old="6" p_sme="goikes" link="matalikko_N">koškes</t>
    </e>
-   <e s="covdnašuvvat" p="V"/>
    <e s="cubistit" p="V">
       <t mld="6" old="7" p_sme="šlebbit" link="ryystää_V">šlebbiđ</t>
       <t mld="7" old="8" p_sme="srevžat" link="ryystää_V">srevžâđ</t>
@@ -896,7 +866,6 @@
       <t mld="5" old="7" p_sme="deikasit" link="litistyä_V">teškâsiđ</t>
       <t mld="7" old="8" p_sme="skučagit" link="litistyä_V">skučâgiđ</t>
    </e>
-   <e s="deaivvadeapmi" p="N"/>
    <e s="dearbastihkka" p="N">
       <t mld="10" old="11" p_sme="heailar" link="heiluri_N">heeilâr</t>
       <t mld="10" old="12" p_sme="heailo" link="heiluri_N">hiäiloo</t>
@@ -927,7 +896,6 @@
       <t mld="4" old="6" p_sme="dievadas" link="täyte_N">tievâdâs</t>
       <t mld="4" old="6" p_sme="dovadas" link="täyte_N">tovâdâs</t>
    </e>
-   <e s="deavut" p="N"/>
    <e s="deaššat" p="V">
       <t mld="5" old="7" p_sme="nuorbat" link="lipua_V">nuorbâđ</t>
    </e>
@@ -949,7 +917,6 @@
       <t mld="4" old="5" p_sme="dággár" link="tällainen_A">tággáár</t>
       <t mld="9" old="11" p_sme="dápmuđusaš" link="tällainen_A">taammuđusâš</t>
    </e>
-   <e s="diekkáraš" p="A"/>
    <e s="dielvvis" p="A">
       <t mld="5" old="6" p_sme="duolbas" link="tasainen_A">tuolbâs</t>
       <t mld="6" old="7" p_sme="dássiv" link="tasainen_A">täässiv</t>
@@ -1019,7 +986,6 @@
    <e s="dipmat" p="V">
       <t mld="4" old="6" p_sme="dimánit" link="pehmetä_V">timániđ</t>
    </e>
-   <e s="direktevra" p="N"/>
    <e s="divat" p="N">
       <t mld="5" old="5" p_sme="máksu" link="maksu_N">máksu</t>
       <t mld="5" old="6" p_sme="lovádas" link="kymmenys_N">lovádâs</t>
@@ -1029,8 +995,6 @@
       <t mld="6" old="8" p_sme="nágáhttallat" link="kinastella_V">nágáttâllâđ</t>
       <t mld="6" old="9" p_sme="sánádallat" link="kinastella_V">sánádâllâđ</t>
    </e>
-   <e s="divttásmit" p="V"/>
-   <e s="divttásmuvvat" p="V"/>
    <e s="doaimmahus" p="N">
       <t mld="5" old="6" p_sme="doibmattas" link="toimitus_N">toimâttâs</t>
    </e>
@@ -1051,8 +1015,6 @@
       <t mld="7" old="9" p_sme="duvda" link="tuki_N">tuuvdâ</t>
       <t mld="8" old="8" p_sme="caggi" link="tuki_N">cagge</t>
    </e>
-   <e s="doarostit" p="V"/>
-   <e s="doavhli" p="N"/>
    <e s="doavkkan" p="N">
       <t mld="8" old="8" p_sme="gáigá" link="houkka_N">káigá</t>
    </e>
@@ -1131,7 +1093,6 @@
       <t mld="4" old="4" p_sme="suvli" link="lannoite_N">suvle</t>
       <t mld="8" old="8" p_sme="išesoandi" link="lannoite_N">išesuándi</t>
    </e>
-   <e s="duktet" p="V"/>
    <e s="duogur" p="N">
       <t mld="5" old="5" p_sme="stoha" link="leikki_N">stoohâ</t>
       <t mld="6" old="6" p_sme="siera" link="leikki_N">sierâ</t>
@@ -1164,7 +1125,6 @@
       <t mld="8" old="8" p_sme="setitoho" link="sinne tänne_Adv">setitoho</t>
       <t mld="10" old="10" p_sme="doahunteehin" link="sinne tänne_Adv">tuáhunteehin</t>
    </e>
-   <e s="duokkáraš" p="Pron"/>
    <e s="duolbasii" p="Adv">
       <t mld="8" old="9" p_sme="leaddut" link="levälleen_Adv">liäddud</t>
       <t mld="8" old="9" p_sme="leapčut" link="levälleen_Adv">liäpčud</t>
@@ -1261,7 +1221,6 @@
    <e s="dápmašuvvat" p="V">
       <t mld="10" old="11" p_sme="loijot" link="kesyyntyä_V">loijoođ</t>
    </e>
-   <e s="dápmot" p="N"/>
    <e s="dárbahassii" p="Adv">
       <t mld="8" old="9" p_sme="doarvi" link="tarpeeksi_Adv">tuárvi</t>
       <t mld="9" old="10" p_sme="dopmit" link="tarpeeksi_Adv">tommit</t>
@@ -1341,7 +1300,6 @@
       <t mld="6" old="6" p_sme="siimpal" link="yksinkertainen_A">siimpâl</t>
       <t mld="9" old="10" p_sme="ovtageardán" link="yksinkertainen_A">oovtâkiärdán</t>
    </e>
-   <e s="eaškálit" p="V"/>
    <e s="erenoamáš" p="A">
       <t mld="8" old="8" p_sme="epitáválaš" link="erikoinen_A">epitáválâš</t>
    </e>
@@ -1403,7 +1361,6 @@
    <e s="fisku" p="N">
       <t mld="7" old="7" p_sme="goalástus" link="kalastus_N">kuálástus</t>
    </e>
-   <e s="fitnat" p="V"/>
    <e s="fitnet" p="N">
       <t mld="6" old="6" p_sme="jukso" link="saalis_N">jukso</t>
       <t mld="6" old="6" p_sme="sálas" link="saalis_N">saalâs</t>
@@ -1548,7 +1505,6 @@
    <e s="gaskavahkku" p="N">
       <t mld="5" old="7" p_sme="goskohkko" link="keskiviikko_N">koskokko</t>
    </e>
-   <e s="gaskkas" p="N"/>
    <e s="gaŋggo-" p="N">
       <t mld="7" old="7" p_sme="njuolgat" link="suora_N">njuolgâd</t>
       <t mld="7" old="7" p_sme="njuolgas" link="suora_N">njuolgâs</t>
@@ -1648,7 +1604,6 @@
       <t mld="8" old="9" p_sme="gávppijas" link="kauppias_N">kävppijâs</t>
       <t mld="9" old="9" p_sme="gávppalbmai" link="kauppias_N">kävppalmai</t>
    </e>
-   <e s="gielu" p="N"/>
    <e s="gierdat" p="V">
       <t mld="5" old="6" p_sme="cevzit" link="kestää_V">cevziđ</t>
    </e>
@@ -1672,12 +1627,10 @@
       <t mld="8" old="6" p_sme="dahkka" link="kiitos_N">takkâ</t>
       <t mld="8" old="8" p_sme="spássit" link="kiitos_N">spaassip</t>
    </e>
-   <e s="giljobaš" p="N"/>
    <e s="gillet" p="V">
       <t mld="4" old="5" p_sme="vaijeet" link="jaksaa_V">vaijeeđ</t>
       <t mld="5" old="6" p_sme="viiššat" link="viitsiä_V">viiššâđ</t>
    </e>
-   <e s="gilljon" p="N"/>
    <e s="gilvalit" p="V">
       <t mld="4" old="6" p_sme="gištodit" link="kilpailla_V">kištodiđ</t>
       <t mld="8" old="10" p_sme="gištohttallat" link="kilpailla_V">kištottâllâđ</t>
@@ -1728,7 +1681,6 @@
       <t mld="5" old="6" p_sme="gáđus" link="katos_N">kááđus</t>
       <t mld="6" old="6" p_sme="gáhttus" link="katos_N">káttus</t>
    </e>
-   <e s="goddesáhpán" p="N"/>
    <e s="goikket" p="N">
       <t mld="7" old="8" p_sme="njuhppat" link="nutukas_N">njuuppâh</t>
       <t mld="7" old="8" p_sme="sovskámuv" link="karvakenkä_N">sovskaamuv</t>
@@ -1762,7 +1714,6 @@
       <t mld="8" old="8" p_sme="liijká" link="kuitenkin_Pcle">liijká</t>
       <t mld="8" old="8" p_sme="deđet" link="kuitenkin_Pcle">teđet</t>
    </e>
-   <e s="gokčat" p="V"/>
    <e s="golláš" p="N">
       <t mld="5" old="5" p_sme="jiellat" link="silmäterä_N">jiellâh</t>
       <t mld="7" old="7" p_sme="čalbmekolláš" link="silmäterä_N">čalmekollááš</t>
@@ -1794,8 +1745,6 @@
       <t mld="4" old="6" p_sme="lovda" link="peitto_N peite_N">loovdâ</t>
       <t mld="7" old="7" p_sme="dehkki" link="peitto_N">tekki</t>
    </e>
-   <e s="gráda" p="N"/>
-   <e s="gráđđa" p="N"/>
    <e s="gudda" p="N">
       <t mld="4" old="5" p_sme="gávdni" link="hyöty_N">kävni</t>
       <t mld="5" old="5" p_sme="heatu" link="hyöty_N">hiätu</t>
@@ -1837,7 +1786,6 @@
       <t mld="6" old="6" p_sme="vašo" link="viima_N">vašo</t>
       <t mld="6" old="6" p_sme="vijmi" link="viima_N">vijme</t>
    </e>
-   <e s="guoleheapme" p="A"/>
    <e s="guolgái" p="A">
       <t mld="5" old="5" p_sme="soksii" link="karvainen_A">soksii</t>
       <t mld="10" old="10" p_sme="soksamijguin" link="karvainen_A">soksâmijguim</t>
@@ -1931,7 +1879,6 @@
    <e s="gáffal" p="N">
       <t mld="4" old="5" p_sme="gahvel" link="haarukka_N">kahvel</t>
    </e>
-   <e s="gáhkkor" p="N"/>
    <e s="gáhčču" p="N">
       <t mld="5" old="5" p_sme="hoahppu" link="kiire_N">huáppu</t>
       <t mld="5" old="6" p_sme="giiras" link="kiire_N">kiirâs</t>
@@ -1946,8 +1893,6 @@
       <t mld="6" old="7" p_sme="dávástat" link="kaiku_N">távástâh</t>
       <t mld="7" old="10" p_sme="bávtipajalas" link="kaiku_N">päävtipajalâs</t>
    </e>
-   <e s="gálojeatni" p="N"/>
-   <e s="gálojenežat" p="N"/>
    <e s="gámme" p="N">
       <t mld="9" old="9" p_sme="lavŋekoati" link="turvekammi_N">lavŋekuáti</t>
       <t mld="10" old="10" p_sme="lavnjekoati" link="turvekammi_N">lavnjekuáti</t>
@@ -1970,8 +1915,6 @@
    <e s="gárihuvvat" p="V">
       <t mld="8" old="8" p_sme="oaivádut" link="humaltua_V">uáiváduđ</t>
    </e>
-   <e s="gárkka" p="A"/>
-   <e s="gárrat" p="V"/>
    <e s="gárvodit" p="V">
       <t mld="6" old="6" p_sme="gárvvudattat" link="pukeutua_V">kárvudâttâđ</t>
    </e>
@@ -2012,7 +1955,6 @@
    <e s="haga" p="Po">
       <t mld="5" old="5" p_sme="nuhtán" link="ilman_Po">nuhtán</t>
    </e>
-   <e s="harret" p="V"/>
    <e s="havssiidit" p="V">
       <t mld="4" old="5" p_sme="hajijdit" link="haista_V">hajijdiđ</t>
       <t mld="5" old="6" p_sme="oksijdit" link="haista_V">opsijdiđ</t>
@@ -2032,8 +1974,6 @@
    <e s="heahpanit" p="V">
       <t mld="6" old="8" p_sme="hepanaššat" link="hävetä_V">hepânâššâđ</t>
    </e>
-   <e s="heahppášuhttit" p="V"/>
-   <e s="heahpu" p="N"/>
    <e s="heaibat" p="V">
       <t mld="6" old="6" p_sme="lahpput" link="viipyä_V">lappuđ</t>
       <t mld="6" old="7" p_sme="viihppat" link="viipyä_V">viippâđ</t>
@@ -2082,7 +2022,6 @@
    <e s="heaŋggu" p="N">
       <t mld="7" old="8" p_sme="gočattat" link="jyrkänne_N">kočâttâh</t>
    </e>
-   <e s="heaŋgát" p="V"/>
    <e s="hehttehus" p="N">
       <t mld="5" old="5" p_sme="háihttu" link="haitta_N">háittu</t>
       <t mld="6" old="6" p_sme="hemadas" link="haitta_N häiriö_N">hemâdâs</t>
@@ -2120,8 +2059,6 @@
       <t mld="6" old="6" p_sme="ranttu" link="nirso_A">ranttu</t>
       <t mld="6" old="7" p_sme="dolcci" link="nirso_A">tolcce</t>
    </e>
-   <e s="heŋget" p="V"/>
-   <e s="hihtat" p="N"/>
    <e s="hihttát" p="V">
       <t mld="6" old="7" p_sme="čuoigat" link="hiihtää_V hiihtää_V">čuoigâđ</t>
    </e>
@@ -2129,7 +2066,6 @@
       <t mld="4" old="4" p_sme="vildá" link="villi_A">vildáá</t>
       <t mld="4" old="5" p_sme="viildas" link="villi_A">viildâs</t>
    </e>
-   <e s="hiljážii" p="Adv"/>
    <e s="hillján" p="A">
       <t mld="5" old="5" p_sme="loji" link="hiljainen_A">loje</t>
       <t mld="7" old="7" p_sme="joskat" link="hiljainen_A">joskâd</t>
@@ -2155,7 +2091,6 @@
       <t mld="5" old="5" p_sme="čabbin" link="hyväkäs_N">čabbin</t>
       <t mld="7" old="7" p_sme="beaiválaš" link="hyväkäs_N">piäiválâš</t>
    </e>
-   <e s="hiđaš" p="N"/>
    <e s="hiđuid háđuid" p="Adv">
       <t mld="10" old="10" p_sme="hiloi" link="hujan hajan_Adv">hiloi</t>
    </e>
@@ -2234,8 +2169,6 @@
       <t mld="6" old="7" p_sme="bieđgit" link="hajottaa_V">pieđgiđ</t>
       <t mld="6" old="7" p_sme="rahččot" link="hajottaa_V">raččođ</t>
    </e>
-   <e s="hága" p="N"/>
-   <e s="háistit" p="V"/>
    <e s="hájilassii" p="Adv">
       <t mld="8" old="8" p_sme="beađgui" link="hajallaan_Adv">piäđgui</t>
       <t mld="9" old="9" p_sme="beađgut" link="hajallaan_Adv">piäđgud</t>
@@ -2294,8 +2227,6 @@
       <t mld="6" old="7" p_sme="giikodit" link="raadella_V">kiškodiđ</t>
       <t mld="6" old="7" p_sme="stajedit" link="raadella_V">stajediđ</t>
    </e>
-   <e s="hávga" p="N"/>
-   <e s="hávkkádit" p="V"/>
    <e s="hávvádahttit" p="V">
       <t mld="4" old="4" p_sme="háváduhit" link="haavoittaa_V">háváduttiđ</t>
       <t mld="6" old="6" p_sme="havvašuhit" link="haavoittaa_V">havvâšuttiđ</t>
@@ -2349,7 +2280,6 @@
    <e s="ikte" p="Adv">
       <t mld="4" old="4" p_sme="jieht" link="eilen_Adv">jieht</t>
    </e>
-   <e s="ilbmat" p="V"/>
    <e s="illudahttit" p="V">
       <t mld="6" old="6" p_sme="ilosmihit" link="ilahduttaa_V">ilosmittiđ</t>
       <t mld="6" old="6" p_sme="ilohit" link="ilahduttaa_V">ilottiđ</t>
@@ -2367,7 +2297,6 @@
       <t mld="4" old="5" p_sme="iššeet" link="aviomies_N">iššeed</t>
       <t mld="4" old="5" p_sme="gális" link="aviomies_N">käälis</t>
    </e>
-   <e s="iskor" p="Adv"/>
    <e s="issoras" p="A">
       <t mld="8" old="8" p_sme="hirbmadsaš" link="hirveä_A">hirmâdsâš</t>
    </e>
@@ -2397,7 +2326,6 @@
       <t mld="7" old="6" p_sme="jollavuohta" link="hulluus_N">jollâvuotâ</t>
       <t mld="8" old="9" p_sme="mielaváni" link="hulluus_N">mielâvääni</t>
    </e>
-   <e s="jaraidit" p="V"/>
    <e s="jeagadit" p="V">
       <t mld="6" old="7" p_sme="dohttalit" link="totella_V">tottâliđ</t>
       <t mld="7" old="7" p_sme="baihttut" link="totella_V">paittuđ</t>
@@ -2419,7 +2347,6 @@
       <t mld="5" old="8" p_sme="jienattemesvuohta" link="äänettömyys_N">jienâttemesvuotâ</t>
       <t mld="9" old="10" p_sme="jávuhttemesvuohta" link="äänettömyys_N">jávuttemesvuotâ</t>
    </e>
-   <e s="jievjaskuolfi" p="N"/>
    <e s="joahcat" p="V">
       <t mld="5" old="6" p_sme="boŋkket" link="jymistä_V">poŋkkeđ</t>
       <t mld="6" old="7" p_sme="jumijdit" link="jymistä_V">jumijdiđ</t>
@@ -2457,7 +2384,6 @@
       <t mld="6" old="7" p_sme="hoahppust" link="nopeasti_Adv">huáppust</t>
       <t mld="8" old="8" p_sme="girrasávt" link="nopeasti_Adv">kirrâsávt</t>
    </e>
-   <e s="joksege" p="Adv"/>
    <e s="jorbbasmuvvat" p="V">
       <t mld="6" old="8" p_sme="jurbasmit" link="pyöristyä_V">jurbâsmiđ</t>
    </e>
@@ -2472,7 +2398,6 @@
       <t mld="6" old="7" p_sme="mevristit" link="höpöttää_V">mevristiđ</t>
       <t mld="6" old="8" p_sme="šoambistit" link="höpöttää_V">šuámbistiđ</t>
    </e>
-   <e s="jođiheaddji" p="N"/>
    <e s="jođiheapme" p="A">
       <t mld="8" old="9" p_sme="sahppeet" link="luistamaton_A">sappeed</t>
    </e>
@@ -2634,12 +2559,10 @@
       <t mld="7" old="7" p_sme="duostil" link="rohkea_A">tyestil</t>
       <t mld="8" old="7" p_sme="ruohkkat" link="rohkea_A">ruokkâd</t>
    </e>
-   <e s="jálás" p="N"/>
    <e s="jánovár" p="N">
       <t mld="8" old="9" p_sme="dapmimánu" link="tammikuu_N">tammimáánu</t>
       <t mld="9" old="10" p_sme="uđđaivemánu" link="tammikuu_N">uđđâivemáánu</t>
    </e>
-   <e s="jápmemeahttun" p="A"/>
    <e s="jástit" p="V">
       <t mld="4" old="5" p_sme="šávgut" link="ahmia_V">šávguđ</t>
       <t mld="4" old="6" p_sme="hurtot" link="ahmia_V">hurttođ</t>
@@ -2668,7 +2591,6 @@
    <e s="klovkken" p="A">
       <t mld="8" old="8" p_sme="skelbma" link="ovela_A">skelmâ</t>
    </e>
-   <e s="klássa" p="N"/>
    <e s="koarra" p="N">
       <t mld="5" old="4" p_sme="guoro" link="kuoro_N">kuoro</t>
       <t mld="11" old="13" p_sme="lávlumjoavkku" link="kuoro_N">lávlumjuávkku</t>
@@ -2695,7 +2617,6 @@
    <e s="kritihkalaš" p="A">
       <t mld="4" old="5" p_sme="griihttalaš" link="kriittinen_A">kriittâlâš</t>
    </e>
-   <e s="kruvvá" p="N"/>
    <e s="krámpa" p="N">
       <t mld="6" old="6" p_sme="áhččan" link="kramppi_N">aaččân</t>
       <t mld="7" old="6" p_sme="ahččinj" link="kramppi_N">aččinj</t>
@@ -2792,7 +2713,6 @@
       <t mld="8" old="9" p_sme="dahkki" link="takki_N">takki</t>
       <t mld="10" old="11" p_sme="máhccut" link="takki_N">mááccuh</t>
    </e>
-   <e s="liidnelláš" p="N"/>
    <e s="liiggálaš" p="A">
       <t mld="5" old="6" p_sme="epitáválaš" link="erikoinen_A">epitáválâš</t>
    </e>
@@ -2852,8 +2772,6 @@
    <e s="loarffas" p="A">
       <t mld="7" old="7" p_sme="hurvá" link="pörröinen_A">hurváá</t>
    </e>
-   <e s="loavkašuvvat" p="V"/>
-   <e s="loađgu" p="N"/>
    <e s="logadit" p="V">
       <t mld="4" old="6" p_sme="luhat" link="lukea_V">luuhâđ</t>
       <t mld="7" old="9" p_sme="luhalakčat" link="lueskella_V">luhâlâhčâđ</t>
@@ -2875,7 +2793,6 @@
       <t mld="5" old="6" p_sme="čahhit" link="väistää_V">čahhiđ</t>
       <t mld="5" old="7" p_sme="doastut" link="torjua_V">tuástuđ</t>
    </e>
-   <e s="lottegazza" p="N"/>
    <e s="lottástit" p="V">
       <t mld="5" old="6" p_sme="loddit" link="linnustaa_V">loddiđ</t>
       <t mld="6" old="7" p_sme="luddit" link="linnustaa_V">luddiđ</t>
@@ -2884,7 +2801,6 @@
       <t mld="5" old="6" p_sme="gárgát" link="karata_V">kárgáđ</t>
       <t mld="5" old="6" p_sme="reitit" link="karata_V">reštiđ</t>
    </e>
-   <e s="luddat" p="V"/>
    <e s="luhtte" p="Po">
       <t mld="6" old="6" p_sme="gehččin" link="luona_Po">keččin</t>
    </e>
@@ -2912,7 +2828,6 @@
    <e s="luohčásit" p="V">
       <t mld="8" old="9" p_sme="njalahistit" link="liukastua_V">njalahistiđ</t>
    </e>
-   <e s="luoitit" p="V"/>
    <e s="luokti" p="N">
       <t mld="5" old="5" p_sme="gáhttu" link="katos_N">káttu</t>
       <t mld="6" old="6" p_sme="gáhttus" link="katos_N">káttus</t>
@@ -2926,7 +2841,6 @@
       <t mld="8" old="7" p_sme="luhččadavda" link="ripuli_N">luččâtavdâ</t>
       <t mld="10" old="9" p_sme="čoavjitavda" link="ripuli_N">čuávjitavdâ</t>
    </e>
-   <e s="láddet" p="V"/>
    <e s="láddjet" p="V">
       <t mld="5" old="6" p_sme="nijttet" link="niittää_V">nijtteđ</t>
    </e>
@@ -2988,8 +2902,6 @@
       <t mld="7" old="7" p_sme="njuoras" link="heikko_A">njuorâs</t>
       <t mld="10" old="8" p_sme="vuoibmihtten" link="heikko_A">vyeimittem</t>
    </e>
-   <e s="láseliidni" p="N"/>
-   <e s="lássaliidni" p="N"/>
    <e s="lávežat" p="N">
       <t mld="7" old="7" p_sme="buoriš" link="ystävykset_N">puoriš</t>
       <t mld="7" old="8" p_sme="veardižet" link="ystävykset_N">veerdižeh</t>
@@ -3046,7 +2958,6 @@
       <t mld="6" old="7" p_sme="lahttit" link="käyttäytyä_V">lattiđ</t>
       <t mld="8" old="9" p_sme="gevattattat" link="käyttäytyä_V">kevâttâttâđ</t>
    </e>
-   <e s="mearkkastat" p="N"/>
    <e s="mearkkašupmi" p="N">
       <t mld="4" old="6" p_sme="merhašumi" link="merkitys_N">merhâšume</t>
       <t mld="7" old="7" p_sme="merhašen" link="merkitys_N">merhâšem</t>
@@ -3105,7 +3016,6 @@
    <e s="miessi" p="N">
       <t mld="4" old="3" p_sme="vuosi" link="vasa_N">vyesi</t>
    </e>
-   <e s="mievkkis" p="A"/>
    <e s="militeara" p="N">
       <t mld="9" old="8" p_sme="soatialbmai" link="sotilas_N">suátialmai</t>
       <t mld="9" old="9" p_sme="soaldát" link="sotilas_N">suáldát</t>
@@ -3203,7 +3113,6 @@
       <t mld="6" old="6" p_sme="gii" link="joku_Pron">kii</t>
       <t mld="6" old="6" p_sme="giinii" link="joku_Pron">kiinii</t>
    </e>
-   <e s="mulččihit" p="V"/>
    <e s="munnet" p="V">
       <t mld="5" old="6" p_sme="cevzit" link="kyetä_V">cevziđ</t>
       <t mld="5" old="6" p_sme="nahcit" link="kyetä_V">nahciđ</t>
@@ -3266,7 +3175,6 @@
       <t mld="6" old="6" p_sme="sudes" link="sula_A">sudes</t>
       <t mld="7" old="7" p_sme="suddi" link="sula_A">sudde</t>
    </e>
-   <e s="mánáidmánná" p="N"/>
    <e s="márkanbáiki" p="N">
       <t mld="6" old="8" p_sme="markan" link="kirkonkylä_N">markkân</t>
       <t mld="9" old="9" p_sme="girkosijda" link="kirkonkylä_N">kirkkosijdâ</t>
@@ -3287,7 +3195,6 @@
    <e s="nahkehit" p="V">
       <t mld="6" old="7" p_sme="lájidit" link="laittaa_V">läjidiđ</t>
    </e>
-   <e s="namaheapme" p="A"/>
    <e s="namahus" p="N">
       <t mld="4" old="5" p_sme="nomattas" link="nimitys_N">nomâttâs</t>
    </e>
@@ -3305,7 +3212,6 @@
       <t mld="4" old="5" p_sme="nomattit" link="nimittää_V">nomâttiđ</t>
       <t mld="6" old="7" p_sme="gohččot" link="nimittää_V">koččođ</t>
    </e>
-   <e s="nappo" p="Adv"/>
    <e s="navddašit" p="V">
       <t mld="7" old="9" p_sme="nabdastallat" link="nimitellä_V">nabdastâllâđ</t>
    </e>
@@ -3350,11 +3256,9 @@
       <t mld="5" old="6" p_sme="njihinjistit" link="nikotella_V">njihinjistiđ</t>
       <t mld="5" old="6" p_sme="njihanjistit" link="nikotella_V">njihânjistiđ</t>
    </e>
-   <e s="njahppit" p="V"/>
    <e s="njalkkihit" p="V">
       <t mld="4" old="5" p_sme="njalahistit" link="liukastua_V">njalahistiđ</t>
    </e>
-   <e s="njeallje" p="Num"/>
    <e s="njeazzut" p="V">
       <t mld="5" old="7" p_sme="roaibut" link="irvistellä_V">ruáibuđ</t>
       <t mld="6" old="7" p_sme="nirvvot" link="irvistellä_V">nirvođ</t>
@@ -3368,7 +3272,6 @@
       <t mld="7" old="8" p_sme="behttei" link="petollinen_A">pettee</t>
       <t mld="9" old="9" p_sme="falskii" link="petollinen_A">falskii</t>
    </e>
-   <e s="njiđđat" p="V"/>
    <e s="njoahcudit" p="V">
       <t mld="5" old="7" p_sme="šeađudit" link="hidastaa_V">šiäđudiđ</t>
       <t mld="7" old="8" p_sme="hitodit" link="hidastaa_V">hitodiđ</t>
@@ -3440,7 +3343,6 @@
       <t mld="6" old="6" p_sme="njilkalit" link="hotkaista_V">njilkkâliđ</t>
       <t mld="6" old="7" p_sme="njalhostit" link="hotkaista_V">njalhostiđ</t>
    </e>
-   <e s="nohkkadit" p="V"/>
    <e s="nolliidit" p="V">
       <t mld="6" old="7" p_sme="nutagit" link="kyykistyä_V">nutâgiđ</t>
    </e>
@@ -3538,8 +3440,6 @@
       <t mld="4" old="5" p_sme="sáha" link="tieto_N">saahâ</t>
       <t mld="6" old="6" p_sme="deatu" link="tieto_N">tiätu</t>
    </e>
-   <e s="oahppameahttun" p="A"/>
-   <e s="oaidnaleapmái" p="Interj"/>
    <e s="oaidnalit" p="V">
       <t mld="6" old="8" p_sme="deivat" link="tavata_V">teivâđ</t>
    </e>
@@ -3558,7 +3458,6 @@
       <t mld="5" old="7" p_sme="omasteijei" link="omistaja_N">omâsteijee</t>
       <t mld="10" old="11" p_sme="eaigát" link="omistaja_N">iäigád</t>
    </e>
-   <e s="oambealle" p="N"/>
    <e s="oarjjabealde" p="Adv">
       <t mld="10" old="11" p_sme="viestarpeln" link="länsipuolella_Adv">viestârpeln</t>
    </e>
@@ -3570,7 +3469,6 @@
       <t mld="4" old="6" p_sme="oavŋilt" link="tuntumassa_Adv">uávŋild</t>
       <t mld="8" old="7" p_sme="májeelt" link="perässä_Adv">maajeeld</t>
    </e>
-   <e s="oađđáhit" p="V"/>
    <e s="obbalaš" p="A">
       <t mld="4" old="5" p_sme="albmolaš" link="yleinen_A yleinen_A">almolâš</t>
       <t mld="6" old="6" p_sme="albmos" link="yleinen_A">almos</t>
@@ -3729,7 +3627,6 @@
    <e s="rabas" p="A">
       <t mld="4" old="4" p_sme="ávus" link="auki_A">áávus</t>
    </e>
-   <e s="rabas" p="Adv"/>
    <e s="raddeleahppi" p="N">
       <t mld="10" old="10" p_sme="gaulur" link="kauluri_N">kaulur</t>
    </e>
@@ -3765,7 +3662,6 @@
       <t mld="10" old="10" p_sme="bargopiergas" link="työkalu_N">pargopiergâs</t>
       <t mld="11" old="10" p_sme="duojipiergas" link="työkalu_N">tyejipiergâs</t>
    </e>
-   <e s="reaská" p="N"/>
    <e s="reavgut" p="V">
       <t mld="8" old="9" p_sme="reaváhttallat" link="röyhtäillä_V">riäváttâllâđ</t>
       <t mld="9" old="9" p_sme="ráváhttallat" link="röyhtäillä_V">ráváttâllâđ</t>
@@ -3781,7 +3677,6 @@
    <e s="reguleret" p="V">
       <t mld="7" old="8" p_sme="stellit" link="säätää_V">stelliđ</t>
    </e>
-   <e s="rehkenuššat" p="V"/>
    <e s="rehkket" p="V">
       <t mld="5" old="6" p_sme="biitet" link="riittää_V">pišteđ</t>
       <t mld="6" old="7" p_sme="gelijdit" link="riittää_V">kelijdiđ</t>
@@ -3792,7 +3687,6 @@
       <t mld="8" old="8" p_sme="ravintola" link="ravintola_N">ravintola</t>
       <t mld="9" old="10" p_sme="rávadveasu" link="ravintola_N">raavâdviäsu</t>
    </e>
-   <e s="ribahit" p="V"/>
    <e s="ribahuvvat" p="V">
       <t mld="9" old="10" p_sme="loanáhttut" link="roskaantua_V">luánáttuđ</t>
    </e>
@@ -3821,8 +3715,6 @@
       <t mld="5" old="6" p_sme="biikot" link="kirkua_V">piškođ</t>
       <t mld="7" old="8" p_sme="snjirgot" link="kirkua_V">snjirgođ</t>
    </e>
-   <e s="rievssat" p="N"/>
-   <e s="rievssatfálli" p="N"/>
    <e s="rigeret" p="V">
       <t mld="7" old="8" p_sme="hulijdit" link="meluta_V">hulijdiđ</t>
       <t mld="7" old="8" p_sme="larbmadit" link="meluta_V">larmâdiđ</t>
@@ -3835,7 +3727,6 @@
    <e s="rihccut" p="V">
       <t mld="4" old="5" p_sme="canccot" link="loikkia_V">canccođ</t>
    </e>
-   <e s="rihkkun" p="N"/>
    <e s="rihpastit" p="V">
       <t mld="5" old="6" p_sme="leggistit" link="nakata_V">leggistiđ</t>
       <t mld="6" old="7" p_sme="siveldit" link="nakata_V">siveldiđ</t>
@@ -3848,7 +3739,6 @@
       <t mld="4" old="3" p_sme="rihppo" link="etana_N">rippo</t>
       <t mld="5" old="7" p_sme="háráv" link="harava_N">háárááv</t>
    </e>
-   <e s="rivdal" p="A"/>
    <e s="riđđu" p="N">
       <t mld="4" old="4" p_sme="vijmi" link="viima_N">vijme</t>
       <t mld="5" old="5" p_sme="biegga" link="tuuli_N">pieggâ</t>
@@ -3858,7 +3748,6 @@
       <t mld="7" old="9" p_sme="ruokasmit" link="rohkaistua_V">ruokâsmiđ</t>
       <t mld="7" old="11" p_sme="roakášattat" link="rohkaistua_V">ruákášâttâđ</t>
    </e>
-   <e s="roahkkut" p="Adv"/>
    <e s="roandit" p="V">
       <t mld="6" old="7" p_sme="sulgat" link="harsia_V">sulgâđ</t>
       <t mld="6" old="8" p_sme="salbastit" link="harsia_V">salbâstiđ</t>
@@ -3929,7 +3818,6 @@
       <t mld="6" old="7" p_sme="giessat" link="kääriä_V">kiessâđ</t>
       <t mld="8" old="9" p_sme="giemardit" link="kääriä_V">kiemârdiđ</t>
    </e>
-   <e s="rullit" p="N"/>
    <e s="rumašlahttu" p="N">
       <t mld="6" old="8" p_sme="rupmašoasi" link="ruumiinosa_N">rummâšuási</t>
       <t mld="11" old="9" p_sme="orgán" link="elin_N">orgaan</t>
@@ -3983,7 +3871,6 @@
    <e s="ruotku" p="N">
       <t mld="5" old="7" p_sme="suobdei" link="juurakko_N">syebdee</t>
    </e>
-   <e s="ruovrut" p="V"/>
    <e s="ruovttubargu" p="N">
       <t mld="9" old="9" p_sme="báihkkipargo" link="kotitehtävä_N">päikkipargo</t>
       <t mld="10" old="11" p_sme="leaksu" link="läksy_N">liäksu</t>
@@ -3993,7 +3880,6 @@
       <t mld="7" old="7" p_sme="gođijn" link="kotona_Adv">koođijn</t>
       <t mld="8" old="8" p_sme="báihist" link="kotona_Adv">pääihist</t>
    </e>
-   <e s="ruođat" p="N"/>
    <e s="ruoššačuolbma" p="N">
       <t mld="6" old="8" p_sme="čuolbma" link="solmu_N">čuolmâ</t>
    </e>
@@ -4052,7 +3938,6 @@
       <t mld="6" old="7" p_sme="ráhtádattat" link="valmistautua_V">ráhtádâttâđ</t>
       <t mld="7" old="8" p_sme="valbmit" link="valmentaa_V">valmiđ</t>
    </e>
-   <e s="ráhkku" p="N"/>
    <e s="ráidnet" p="V">
       <t mld="7" old="8" p_sme="butestit" link="puhdistaa_V">putestiđ</t>
    </e>
@@ -4070,7 +3955,6 @@
       <t mld="6" old="7" p_sme="gávppi" link="kauppa_N liike_N">kävppi</t>
       <t mld="7" old="8" p_sme="hándal" link="kauppa_N liike_N">haandâl</t>
    </e>
-   <e s="ránesskuolfi" p="N"/>
    <e s="rántet" p="N">
       <t mld="8" old="8" p_sme="muorasaji" link="halonhakkuupaikka_N">muorâsaje</t>
       <t mld="15"
@@ -4078,12 +3962,9 @@
          p_sme="muoraloaddumsaji"
          link="halonhakkuupaikka_N">muorâluáddumsaje</t>
    </e>
-   <e s="rássa" p="N"/>
    <e s="rásselohkku" p="N">
       <t mld="12" old="12" p_sme="suoiniahččinj" link="heinäsirkka_N">syeiniaččinj</t>
    </e>
-   <e s="rássut" p="V"/>
-   <e s="rátnut" p="V"/>
    <e s="ráttástuvvat" p="V">
       <t mld="8" old="9" p_sme="jierestut" link="hermostua_V">jierestuđ</t>
       <t mld="9" old="10" p_sme="heamáskit" link="häkeltyä_V">hiämáskiđ</t>
@@ -4120,7 +4001,6 @@
    <e s="sajádat" p="N">
       <t mld="4" old="5" p_sme="sajahttat" link="asema_N">sajattâh</t>
    </e>
-   <e s="sajáiduvvat" p="V"/>
    <e s="sakka" p="Adv">
       <t mld="5" old="5" p_sme="badnál" link="kovasti_Adv">pannaal</t>
       <t mld="6" old="7" p_sme="čuvtij" link="kovasti_Adv">čuuvtij</t>
@@ -4130,7 +4010,6 @@
       <t mld="8" old="9" p_sme="bozehttit" link="ravistaa_V">pozettiđ</t>
       <t mld="8" old="10" p_sme="buitet" link="ravistaa_V">pušteđ</t>
    </e>
-   <e s="savnnjašit" p="V"/>
    <e s="seahčat" p="A">
       <t mld="6" old="7" p_sme="čuvas" link="suippo_A">čuuvâs</t>
    </e>
@@ -4222,8 +4101,6 @@
    <e s="sivahit" p="V">
       <t mld="4" old="6" p_sme="sujattit" link="syyttää_V">sujâttiđ</t>
    </e>
-   <e s="siđasmit" p="V"/>
-   <e s="siđasmuvvat" p="V"/>
    <e s="skeaikit" p="V">
       <t mld="6" old="7" p_sme="bovustit" link="nauraa_V">povustiđ</t>
       <t mld="6" old="8" p_sme="bovvastit" link="nauraa_V">povvâstiđ</t>
@@ -4254,7 +4131,6 @@
       <t mld="7" old="7" p_sme="ustev" link="ystävä_N">ustev</t>
       <t mld="7" old="7" p_sme="veardi" link="ystävä_N">veerdi</t>
    </e>
-   <e s="skoađđi" p="N"/>
    <e s="skoddui" p="A">
       <t mld="7" old="8" p_sme="mearká-" link="sumuinen_A">miärkká-</t>
    </e>
@@ -4285,7 +4161,6 @@
       <t mld="6" old="8" p_sme="skođeruššat" link="kopeloida_V">skođeruššâđ</t>
       <t mld="8" old="10" p_sme="napalaššat" link="kopeloida_V">napâlâššâđ</t>
    </e>
-   <e s="skutnjat" p="V"/>
    <e s="skádja" p="N">
       <t mld="5" old="6" p_sme="dávis" link="kaiku_N">täävis</t>
       <t mld="6" old="7" p_sme="dávástat" link="kaiku_N">távástâh</t>
@@ -4415,9 +4290,6 @@
       <t mld="5" old="6" p_sme="rimški" link="rääsy_N">rimške</t>
       <t mld="6" old="6" p_sme="rimnjo" link="rääsy_N">rimnjo</t>
    </e>
-   <e s="soidadit" p="V"/>
-   <e s="sojaheapme" p="A"/>
-   <e s="soradit" p="V"/>
    <e s="sorjavaš" p="A">
       <t mld="6" old="8" p_sme="jiečanas" link="riippumaton_A">jiečânâs</t>
       <t mld="13" old="13" p_sme="heaŋgámehtton" link="riippumaton_A">hiäŋgáámettum</t>
@@ -4436,7 +4308,6 @@
       <t mld="6" old="6" p_sme="šohat" link="sokea_N">šoohâd</t>
       <t mld="9" old="8" p_sme="čalbmehtten" link="sokea_N">čalmettem</t>
    </e>
-   <e s="speanta" p="A"/>
    <e s="spierru" p="N">
       <t mld="7" old="7" p_sme="oaivádat" link="kalaparvi_N">uáivádâh</t>
    </e>
@@ -4490,7 +4361,6 @@
       <t mld="6" old="8" p_sme="skučagit" link="litistyä_V">skučâgiđ</t>
       <t mld="8" old="8" p_sme="depčut" link="litistyä_V">tepčuđ</t>
    </e>
-   <e s="stielka" p="N"/>
    <e s="stirrát" p="V">
       <t mld="5" old="6" p_sme="gaivat" link="tuijottaa_V">kaivađ</t>
       <t mld="5" old="6" p_sme="gávkkát" link="tuijottaa_V">kávkkáđ</t>
@@ -4652,7 +4522,6 @@
       <t mld="4" old="4" p_sme="soda" link="sooda_N">sooda</t>
       <t mld="13" old="15" p_sme="natriumgarbonát" link="sooda_N">natriumkarbonaat</t>
    </e>
-   <e s="suvdi" p="A"/>
    <e s="sykkel" p="N">
       <t mld="6" old="5" p_sme="buorá" link="polkupyörä_N">pyerá</t>
       <t mld="13" old="13" p_sme="duolbmapmášin" link="polkupyörä_N">tuolmâmmaašin</t>
@@ -4674,7 +4543,6 @@
       <t mld="5" old="7" p_sme="duoji" link="käsityö_N">tyeji</t>
       <t mld="6" old="8" p_sme="gietaduoji" link="käsityö_N">kietâtyeji</t>
    </e>
-   <e s="sámil" p="N"/>
    <e s="sáppat" p="N">
       <t mld="7" old="7" p_sme="steavvil" link="saapas_N">steevvil</t>
    </e>
@@ -4691,7 +4559,6 @@
    <e s="taga" p="Adv">
       <t mld="6" old="6" p_sme="nuhtán" link="ilman_Adv">nuhtán</t>
    </e>
-   <e s="teahtásmit" p="V"/>
    <e s="telefovdna" p="N">
       <t mld="4" old="3" p_sme="delefon" link="puhelin_N">telefon</t>
       <t mld="8" old="8" p_sme="buhelin" link="puhelin_N">puhelin</t>
@@ -4716,7 +4583,6 @@
    <e s="toassa" p="N">
       <t mld="5" old="6" p_sme="rasijaš" link="rasia_N">rasijâš</t>
    </e>
-   <e s="truvdnu" p="N"/>
    <e s="táhka" p="N">
       <t mld="5" old="5" p_sme="bihttá" link="ote_N">pittá</t>
    </e>
@@ -4755,7 +4621,6 @@
       <t mld="4" old="4" p_sme="váhá" link="vähän_Adv">váhá</t>
       <t mld="5" old="5" p_sme="ucánjii" link="vähän_Adv">ucánjii</t>
    </e>
-   <e s="upmolcizáš" p="N"/>
    <e s="uradas" p="N">
       <t mld="10" old="10" p_sme="billedeijei" link="tuholainen_N">pilledeijee</t>
       <t mld="10" old="10" p_sme="stájideijei" link="tuholainen_N">stäjideijee</t>
@@ -4778,7 +4643,6 @@
       <t mld="4" old="4" p_sme="vahagihit" link="vahingoittaa_V">vahâgittiđ</t>
       <t mld="5" old="5" p_sme="vahaduhit" link="vahingoittaa_V">vahaduttiđ</t>
    </e>
-   <e s="vajahas" p="N"/>
    <e s="vajáldahttit" p="V">
       <t mld="4" old="4" p_sme="vájáldihit" link="unohtaa_V">vájáldittiđ</t>
       <t mld="5" old="5" p_sme="váldáhit" link="unohtaa_V">váldáttiđ</t>
@@ -4851,12 +4715,9 @@
       <t mld="4" old="4" p_sme="verájaš" link="veräjä_N">verájâš</t>
       <t mld="8" old="8" p_sme="áiđiuksa" link="veräjä_N">äiđiuksâ</t>
    </e>
-   <e s="viegadit" p="V"/>
-   <e s="viegahit" p="V"/>
    <e s="viehkat" p="N">
       <t mld="9" old="10" p_sme="viehkkimpiergas" link="vaaka_N">viekkimpiergâs</t>
    </e>
-   <e s="viehkat" p="V"/>
    <e s="vierru" p="N">
       <t mld="5" old="4" p_sme="vuohi" link="tapa_N">vyehi</t>
       <t mld="6" old="6" p_sme="náli" link="tapa_N">nääli</t>
@@ -4903,7 +4764,6 @@
       <t mld="4" old="4" p_sme="vijđáht" link="laajalti_Adv">vijđáht</t>
       <t mld="4" old="4" p_sme="vijđásávt" link="laajalti_Adv">vijđásávt</t>
    </e>
-   <e s="vilgesskuolfi" p="N"/>
    <e s="vilgesvuostá" p="N">
       <t mld="8" old="7" p_sme="voastá" link="juusto_N">vuástá</t>
    </e>
@@ -4941,7 +4801,6 @@
       <t mld="7" old="8" p_sme="láihttit" link="moittia_V">läittiđ</t>
       <t mld="7" old="8" p_sme="verattit" link="moittia_V">verâttiđ</t>
    </e>
-   <e s="vuoktagoalsi" p="N"/>
    <e s="vuolggahit" p="V">
       <t mld="8" old="9" p_sme="startat" link="käynnistää_V">starttađ</t>
    </e>
@@ -4960,7 +4819,6 @@
    <e s="vuoras" p="N">
       <t mld="4" old="3" p_sme="boaris" link="vanha_N">puáris</t>
    </e>
-   <e s="vuorčámuorji" p="N"/>
    <e s="vuosehit" p="V">
       <t mld="6" old="7" p_sme="čáihttit" link="näyttää_V">čäittiđ</t>
    </e>
@@ -5055,7 +4913,6 @@
    <e s="vásedin" p="Adv">
       <t mld="5" old="5" p_sme="dátulis" link="tahallaan_Adv">tátulis</t>
    </e>
-   <e s="vásihit" p="V"/>
    <e s="vásihus" p="N">
       <t mld="7" old="7" p_sme="fearán" link="kokemus_N">fiäráán</t>
    </e>
@@ -5082,7 +4939,6 @@
       <t mld="4" old="5" p_sme="hihccit" link="hitsata_V">hicciđ</t>
       <t mld="4" old="6" p_sme="acattit" link="hitsata_V">acâttiđ</t>
    </e>
-   <e s="áhpedovtta" p="N"/>
    <e s="áhpeheapme" p="A">
       <t mld="7" old="8" p_sme="ápihtten" link="voimaton_A">äpittem</t>
       <t mld="8" old="9" p_sme="šliedas" link="voimaton_A">šliedâs</t>
@@ -5111,7 +4967,6 @@
       <t mld="7" old="7" p_sme="hoamášit" link="huomata_V">huámášiđ</t>
       <t mld="7" old="7" p_sme="voamášit" link="huomata_V">vuámášiđ</t>
    </e>
-   <e s="áiggegollu" p="N"/>
    <e s="áiggeájáhus" p="N">
       <t mld="4" old="5" p_sme="áigiájánas" link="ajanviete_N">äigiájánâs</t>
       <t mld="6" old="8" p_sme="áigeaáji" link="ajanviete_N">äigiääji</t>
@@ -5142,7 +4997,6 @@
    <e s="ákkilveaksi" p="N">
       <t mld="6" old="7" p_sme="ovdaveksi" link="rintaevä_N">ovdâvepsi</t>
    </e>
-   <e s="ákta" p="N"/>
    <e s="álbmotskuvla" p="N">
       <t mld="4" old="8" p_sme="álbmugškovla" link="kansakoulu_N">aalmugškovlâ</t>
    </e>
@@ -5165,7 +5019,6 @@
       <t mld="8" old="7" p_sme="vuohččin" link="ensin_Adv">vuoččin</t>
       <t mld="9" old="10" p_sme="vuosmuštá" link="ensin_Adv">vuosmuštáá</t>
    </e>
-   <e s="állanit" p="V"/>
    <e s="álohii" p="Adv">
       <t mld="5" old="5" p_sme="ain" link="aina_Adv">ain</t>
       <t mld="5" old="5" p_sme="eivi" link="aina_Adv aina_Adv aina_Adv">eivi</t>
@@ -5280,7 +5133,6 @@
    <e s="áššáiduhttit" p="V">
       <t mld="8" old="9" p_sme="sujattit" link="syyttää_V">sujâttiđ</t>
    </e>
-   <e s="čahrrat" p="V"/>
    <e s="čaibmat" p="V">
       <t mld="7" old="8" p_sme="bovustit" link="nauraa_V">povustiđ</t>
       <t mld="8" old="8" p_sme="bovvastit" link="nauraa_V">povvâstiđ</t>
@@ -5297,7 +5149,6 @@
    <e s="čalmmástuvvat" p="V">
       <t mld="10" old="12" p_sme="dulkat" link="kyllästyä_V">tulkkâđ</t>
    </e>
-   <e s="čarkkistit" p="V"/>
    <e s="čatnašuvvat" p="V">
       <t mld="6" old="9" p_sme="čonadattat" link="sitoutua_V">čonâdâttâđ</t>
       <t mld="7" old="9" p_sme="čonasit" link="sitoutua_V">čonâsiđ</t>
@@ -5347,7 +5198,6 @@
    <e s="čibbi" p="N">
       <t mld="4" old="4" p_sme="iida" link="polvi_N">iidâ</t>
    </e>
-   <e s="čiegadit" p="V"/>
    <e s="čiehkádit" p="V">
       <t mld="7"
          old="6"
@@ -5371,7 +5221,6 @@
    <e s="čieža" p="Num">
       <t mld="4" old="4" p_sme="čihččan" link="seitsemän_Num">čiččâm</t>
    </e>
-   <e s="čigŋát" p="V"/>
    <e s="čilgehus" p="N">
       <t mld="6" old="6" p_sme="selattas" link="selitys_N">selâttâs</t>
       <t mld="6" old="6" p_sme="čielgiihttas" link="selitys_N">čielgiittâs</t>
@@ -5454,7 +5303,6 @@
       <t mld="5" old="8" p_sme="skilehit" link="kilahtaa_V">skilettiđ</t>
       <t mld="7" old="8" p_sme="skilkát" link="kilahtaa_V">skilkkáđ</t>
    </e>
-   <e s="čuolus" p="N"/>
    <e s="čuovgadas" p="N">
       <t mld="7" old="7" p_sme="čuovvadvuohta" link="kirkkaus_N">čuovvâdvuotâ</t>
       <t mld="11" old="11" p_sme="girkesvuohta" link="kirkkaus_N">kirkesvuotâ</t>
@@ -5464,8 +5312,6 @@
       <t mld="8" old="10" p_sme="šohadvuohta" link="sokeus_N">šoohâdvuotâ</t>
       <t mld="9" old="10" p_sme="čalbmehttesvuohta" link="sokeus_N">čalmettesvuotâ</t>
    </e>
-   <e s="čuovus" p="N"/>
-   <e s="čuovža" p="N"/>
    <e s="čuoččahit" p="V">
       <t mld="4" old="5" p_sme="čuožastit" link="pysähtyä_V">čuožâstiđ</t>
       <t mld="6" old="7" p_sme="orostit" link="pysähtyä_V">orostiđ</t>
@@ -5521,7 +5367,6 @@
       <t mld="5" old="5" p_sme="geassil" link="tilava_A">keessil</t>
       <t mld="7" old="7" p_sme="gerimas" link="tilava_A">kerimâs</t>
    </e>
-   <e s="čáhppesmuorji" p="N"/>
    <e s="čájehit" p="V">
       <t mld="4" old="5" p_sme="čáihttit" link="näyttää_V">čäittiđ</t>
    </e>
@@ -5529,7 +5374,6 @@
       <t mld="7" old="8" p_sme="čaihttalen" link="näytteleminen_N">čaittâlem</t>
       <t mld="11" old="13" p_sme="ovdanpuohtin" link="esittely_N">oovdânpyehtim</t>
    </e>
-   <e s="čájáhalli" p="N"/>
    <e s="čájáhat" p="N">
       <t mld="12" old="11" p_sme="čaihttalemsaji" link="näyttämö_N">čaittâlemsaje</t>
       <t mld="13" old="13" p_sme="čaihttalemluovi" link="näyttämö_N">čaittâlemlyevi</t>
@@ -5681,5 +5525,4 @@
    <e s="šállja" p="N">
       <t mld="5" old="7" p_sme="sárgis" link="raita_N">säärgis</t>
    </e>
-   <e s="šávahit" p="V"/>
 </r>

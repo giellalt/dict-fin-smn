@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e s="abstrákta" p="A">
+      <t mld="1" old="2" p_sme="abstrakta">abstraktâ</t>
+   </e>
+   <e s="addálas" p="A">
+      <t mld="2" old="3" p_sme="addalaš">addalâš</t>
+   </e>
+   <e s="adjektiiva" p="N">
+      <t mld="0" old="1" p_sme="adjektiiva">adjektiiv</t>
+   </e>
+   <e s="almmenáhkki" p="N">
+      <t mld="1" old="3" p_sme="albmenáhkki">almenäkki</t>
+   </e>
+   <e s="bajimus" p="A">
+      <t mld="2" old="3" p_sme="bajemuš">pajemuš</t>
+   </e>
+   <e s="beaivásaš" p="A">
+      <t mld="2" old="5" p_sme="-peaivásaš">-piäivásâš</t>
+   </e>
+   <e s="beavdi" p="N">
+      <t mld="1" old="2" p_sme="bevdi">pevdi</t>
+   </e>
+   <e s="bierdni" p="N">
+      <t mld="1" old="2" p_sme="bierni">pierni</t>
+   </e>
+   <e s="bievla" p="N">
+      <t mld="0" old="2" p_sme="bievla">pievlâ</t>
+   </e>
+   <e s="bissovaš" p="A">
+      <t mld="1" old="3" p_sme="bisovaš">pisovâš</t>
+   </e>
+   <e s="boahkuhit" p="V">
+      <t mld="1" old="7" p_sme="boahuhit">puáhuttiđ</t>
+      <t mld="1" old="7" p_sme="boakuhit">puákuttiđ</t>
+   </e>
+   <e s="boahttevaš" p="A">
+      <t mld="2" old="6" p_sme="boahtteš">puátteš</t>
+   </e>
+   <e s="boallu" p="N">
+      <t mld="0" old="3" p_sme="boallu">puállu</t>
+   </e>
+   <e s="bohkat" p="V">
+      <t mld="2" old="6" p_sme="buhat">puuhâđ</t>
+   </e>
+   <e s="bonus" p="N">
+      <t mld="1" old="2" p_sme="bonos">ponos</t>
+   </e>
+   <e s="boret" p="V">
+      <t mld="1" old="4" p_sme="borát">pooráđ</t>
+   </e>
+   <e s="borga" p="N">
+      <t mld="1" old="3" p_sme="burga">purgâ</t>
+   </e>
+   <e s="buktit" p="V">
+      <t mld="2" old="5" p_sme="buohtit">pyehtiđ</t>
+   </e>
+   <e s="bustávva" p="N">
+      <t mld="3" old="5" p_sme="bustav">puustav</t>
+      <t mld="3" old="5" p_sme="bustuv">puustuv</t>
+   </e>
+   <e s="buškalit" p="V">
+      <t mld="2" old="5" p_sme="durkalit">turkkâliđ</t>
+   </e>
+   <e s="dalloš" p="A">
+      <t mld="1" old="3" p_sme="dalláš">tallaaš</t>
+   </e>
+   <e s="dalá" p="A">
+      <t mld="2" old="5" p_sme="dalláš">tallaaš</t>
+   </e>
+   <e s="diehko" p="Adv">
+      <t mld="2" old="3" p_sme="diehu">tiehu</t>
+   </e>
+   <e s="dii" p="Pron">
+      <t mld="1" old="2" p_sme="dij">tij</t>
+   </e>
+   <e s="dilla" p="N">
+      <t mld="0" old="2" p_sme="dilla">tillâ</t>
+   </e>
+   <e s="dolgi" p="N">
+      <t mld="0" old="2" p_sme="dolgi">tolge</t>
+   </e>
+   <e s="don" p="Pron">
+      <t mld="1" old="2" p_sme="dun">tun</t>
+   </e>
+   <e s="dumá" p="N">
+      <t mld="0" old="2" p_sme="dumá">tuumá</t>
+   </e>
+   <e s="duohta" p="A">
+      <t mld="1" old="3" p_sme="duota">tuotâ</t>
+   </e>
+   <e s="duohta" p="Adv">
+      <t mld="1" old="3" p_sme="duota">tuotâ</t>
+   </e>
+   <e s="duorastat" p="N">
+      <t mld="0" old="4" p_sme="duorastat">tuorâstâh</t>
+   </e>
+   <e s="duostil" p="A">
+      <t mld="0" old="3" p_sme="duostil">tyestil</t>
+   </e>
+   <e s="duđahit" p="V">
+      <t mld="2" old="5" p_sme="dutadit">tutâdiđ</t>
+      <t mld="2" old="5" p_sme="duđattit">tuđâttiđ</t>
+   </e>
+   <e s="dálkut" p="V">
+      <t mld="0" old="3" p_sme="dálkut">tálkkuđ</t>
+   </e>
+   <e s="dárbbašlaš" p="A">
+      <t mld="1" old="6" p_sme="dárbašlaš">taarbâšlâš</t>
+   </e>
+   <e s="ealli" p="N">
+      <t mld="2" old="3" p_sme="ellei">ellee</t>
+   </e>
+   <e s="eallin" p="N">
+      <t mld="0" old="2" p_sme="eallin">eellim</t>
+   </e>
+   <e s="eanáš" p="Adv">
+      <t mld="0" old="3" p_sme="eanáš">iänááš</t>
+   </e>
+   <e s="eassa" p="N">
+      <t mld="1" old="2" p_sme="essa">essâ</t>
+      <t mld="1" old="3" p_sme="eassá">iässá</t>
+   </e>
+   <e s="eatnálaš" p="A">
+      <t mld="1" old="4" p_sme="eadnálaš">iännálâš</t>
+   </e>
+   <e s="elefánta" p="N">
+      <t mld="2" old="2" p_sme="elefant">elefant</t>
+   </e>
+   <e s="fiilet" p="V">
+      <t mld="2" old="3" p_sme="fijlit">fijliđ</t>
+   </e>
+   <e s="fiskat" p="A">
+      <t mld="0" old="2" p_sme="fiskat">fiskâd</t>
+   </e>
+   <e s="fuos" p="Interj">
+      <t mld="2" old="2" p_sme="hos">hos</t>
+   </e>
+   <e s="galba" p="N">
+      <t mld="1" old="3" p_sme="golba">kolbâ</t>
+   </e>
+   <e s="gaskkas" p="Po">
+      <t mld="3" old="5" p_sme="goskal">koskâl</t>
+      <t mld="3" old="6" p_sme="goskai">kooskâi</t>
+      <t mld="3" old="6" p_sme="goskast">kooskâst</t>
+   </e>
+   <e s="geallir" p="N">
+      <t mld="1" old="4" p_sme="geallár">kiällár</t>
+      <t mld="1" old="4" p_sme="geallar">kiällâr</t>
+   </e>
+   <e s="geardduhit" p="V">
+      <t mld="1" old="7" p_sme="gearduhit">kiärduttiđ</t>
+   </e>
+   <e s="gihládit" p="V">
+      <t mld="3" old="5" p_sme="gihlot">kihlođ</t>
+      <t mld="3" old="5" p_sme="gihlut">kihluđ</t>
+   </e>
+   <e s="giitevaš" p="A">
+      <t mld="2" old="4" p_sme="gijttevaš">kijttevâš</t>
+   </e>
+   <e s="go" p="CS">
+      <t mld="0" old="1" p_sme="go">ko</t>
+   </e>
+   <e s="goabbá" p="Pron">
+      <t mld="1" old="4" p_sme="goabbáš">kuábbáš</t>
+   </e>
+   <e s="goahki" p="N">
+      <t mld="1" old="4" p_sme="goahi">kuáhi</t>
+   </e>
+   <e s="goarta" p="N">
+      <t mld="1" old="4" p_sme="gorta">korttâ</t>
+   </e>
+   <e s="gohpi" p="N">
+      <t mld="2" old="4" p_sme="guohppi">kyeppi</t>
+   </e>
+   <e s="gosa" p="Adv">
+      <t mld="2" old="4" p_sme="gus">kuus</t>
+   </e>
+   <e s="gosádit" p="V">
+      <t mld="0" old="2" p_sme="gosádit">kosádiđ</t>
+   </e>
+   <e s="gráfalaš" p="A">
+      <t mld="0" old="4" p_sme="gráfalaš">graafâlâš</t>
+   </e>
+   <e s="gulahit" p="V">
+      <t mld="2" old="7" p_sme="gulluhit">kulluuttiđ</t>
+   </e>
+   <e s="guokte" p="Num">
+      <t mld="2" old="5" p_sme="guohti">kyehti</t>
+   </e>
+   <e s="guovlat" p="V">
+      <t mld="0" old="3" p_sme="guovlat">kuovlâđ</t>
+   </e>
+   <e s="guovttáš" p="N">
+      <t mld="2" old="3" p_sme="guovtiš">kuovtiš</t>
+   </e>
+   <e s="gutna" p="N">
+      <t mld="1" old="3" p_sme="gudna">kunnâ</t>
+   </e>
+   <e s="gáhkku" p="N">
+      <t mld="0" old="2" p_sme="gáhkku">kákku</t>
+   </e>
+   <e s="gáhta" p="N">
+      <t mld="1" old="4" p_sme="gáta">kaatâ</t>
+   </e>
+   <e s="gáhtta" p="N">
+      <t mld="2" old="5" p_sme="gáta">kaatâ</t>
+   </e>
+   <e s="gálššas" p="A">
+      <t mld="3" old="5" p_sme="galšat">kalšâd</t>
+      <t mld="3" old="5" p_sme="gálus">káálus</t>
+   </e>
+   <e s="gávcci" p="Num">
+      <t mld="1" old="4" p_sme="gávci">käävci</t>
+   </e>
+   <e s="heavval" p="N">
+      <t mld="0" old="2" p_sme="heavval">heevvâl</t>
+   </e>
+   <e s="helvet" p="N">
+      <t mld="1" old="1" p_sme="helvit">helvit</t>
+   </e>
+   <e s="hálbi" p="A">
+      <t mld="0" old="1" p_sme="hálbi">hälbi</t>
+   </e>
+   <e s="hápmi" p="N">
+      <t mld="1" old="2" p_sme="hámi">häämi</t>
+   </e>
+   <e s="idja" p="N">
+      <t mld="1" old="2" p_sme="ijja">ijjâ</t>
+   </e>
+   <e s="illudit" p="V">
+      <t mld="3" old="4" p_sme="iloskit">iloskiđ</t>
+      <t mld="3" old="4" p_sme="ilosmit">ilosmiđ</t>
+   </e>
+   <e s="imašlaš" p="A">
+      <t mld="0" old="2" p_sme="imašlaš">imâšlâš</t>
+   </e>
+   <e s="imaštallat" p="V">
+      <t mld="0" old="4" p_sme="imaštallat">imâštâllâđ</t>
+   </e>
+   <e s="irgi" p="N">
+      <t mld="0" old="1" p_sme="irgi">irge</t>
+   </e>
+   <e s="italialaš" p="A">
+      <t mld="0" old="0" p_sme="italialaš">italialaš</t>
+   </e>
+   <e s="ja" p="CC">
+      <t mld="1" old="1" p_sme="já">já</t>
+   </e>
+   <e s="jienádit" p="V">
+      <t mld="1" old="2" p_sme="jienadit">jienâdiđ</t>
+   </e>
+   <e s="jo" p="Adv">
+      <t mld="0" old="0" p_sme="jo">jo</t>
+   </e>
+   <e s="jorbat" p="A">
+      <t mld="1" old="3" p_sme="jurbat">jurbâd</t>
+   </e>
+   <e s="jorbbas" p="A">
+      <t mld="2" old="4" p_sme="jurbas">juurbâs</t>
+   </e>
+   <e s="juohku" p="N">
+      <t mld="2" old="4" p_sme="juohin">jyehim</t>
+   </e>
+   <e s="juovllat" p="N">
+      <t mld="1" old="2" p_sme="juovlat">juovlah</t>
+   </e>
+   <e s="juvddálaš" p="A">
+      <t mld="1" old="3" p_sme="juvdálaš">juuvdálâš</t>
+   </e>
+   <e s="juvdálaš" p="A">
+      <t mld="0" old="2" p_sme="juvdálaš">juuvdálâš</t>
+   </e>
+   <e s="keallir" p="N">
+      <t mld="2" old="3" p_sme="geallár">kiällár</t>
+      <t mld="2" old="3" p_sme="geallar">kiällâr</t>
+   </e>
+   <e s="koarta" p="N">
+      <t mld="2" old="3" p_sme="gorta">korttâ</t>
+   </e>
+   <e s="korta" p="N">
+      <t mld="1" old="2" p_sme="gorta">korttâ</t>
+   </e>
+   <e s="lista" p="N">
+      <t mld="1" old="1" p_sme="listo">listo</t>
+      <t mld="1" old="1" p_sme="listá">listá</t>
+   </e>
+   <e s="lobálaš" p="A">
+      <t mld="1" old="2" p_sme="loválaš">loválâš</t>
+   </e>
+   <e s="lossat" p="A">
+      <t mld="1" old="3" p_sme="lossot">lossoođ</t>
+      <t mld="1" old="3" p_sme="lussat">lussâd</t>
+   </e>
+   <e s="lubma" p="N">
+      <t mld="1" old="2" p_sme="lupma">lummâ</t>
+   </e>
+   <e s="lumma" p="N">
+      <t mld="1" old="1" p_sme="lupma">lummâ</t>
+   </e>
+   <e s="luopmu" p="N">
+      <t mld="2" old="2" p_sme="loamu">luámu</t>
+   </e>
+   <e s="láiki" p="A">
+      <t mld="0" old="2" p_sme="láiki">läški</t>
+   </e>
+   <e s="lávvardat" p="N">
+      <t mld="2" old="4" p_sme="lávurdat">lávurdâh</t>
+      <t mld="2" old="4" p_sme="lávárdat">lávárdâh</t>
+   </e>
+   <e s="lávvordat" p="N">
+      <t mld="2" old="4" p_sme="lávurdat">lávurdâh</t>
+      <t mld="2" old="4" p_sme="lávárdat">lávárdâh</t>
+   </e>
+   <e s="maid" p="Adv">
+      <t mld="2" old="1" p_sme="meit">meid</t>
+   </e>
+   <e s="mannji" p="N">
+      <t mld="1" old="2" p_sme="manji">manje</t>
+   </e>
+   <e s="maŋidit" p="V">
+      <t mld="1" old="2" p_sme="maŋedit">maŋediđ</t>
+   </e>
+   <e s="maŋŋonit" p="V">
+      <t mld="2" old="3" p_sme="maŋanit">maŋaniđ</t>
+   </e>
+   <e s="maŋŋánit" p="V">
+      <t mld="2" old="3" p_sme="maŋanit">maŋaniđ</t>
+   </e>
+   <e s="merken" p="N">
+      <t mld="1" old="3" p_sme="merkin">merkkim</t>
+   </e>
+   <e s="missu" p="N">
+      <t mld="1" old="1" p_sme="misso">misso</t>
+   </e>
+   <e s="moadde" p="Num">
+      <t mld="1" old="3" p_sme="moaddi">muáddi</t>
+   </e>
+   <e s="moalla" p="N">
+      <t mld="1" old="2" p_sme="molla">mollâ</t>
+   </e>
+   <e s="moraš" p="N">
+      <t mld="1" old="3" p_sme="muraš">muurâš</t>
+   </e>
+   <e s="morašlaš" p="A">
+      <t mld="1" old="3" p_sme="murašlaš">murâšlâš</t>
+   </e>
+   <e s="morša" p="N">
+      <t mld="1" old="2" p_sme="murša">muršâ</t>
+   </e>
+   <e s="muollat" p="V">
+      <t mld="1" old="3" p_sme="mollat">moollâđ</t>
+      <t mld="1" old="4" p_sme="muollit">myelliđ</t>
+   </e>
+   <e s="máksit" p="V">
+      <t mld="0" old="2" p_sme="máksit">mäksiđ</t>
+   </e>
+   <e s="mála" p="N">
+      <t mld="0" old="3" p_sme="mála">maalâ</t>
+   </e>
+   <e s="mális" p="N">
+      <t mld="0" old="2" p_sme="mális">määlis</t>
+   </e>
+   <e s="málli" p="N">
+      <t mld="1" old="2" p_sme="máli">määli</t>
+   </e>
+   <e s="máltit" p="V">
+      <t mld="0" old="3" p_sme="máltit">mälttiđ</t>
+   </e>
+   <e s="márfi" p="N">
+      <t mld="0" old="1" p_sme="márfi">märfi</t>
+   </e>
+   <e s="máššil" p="A">
+      <t mld="0" old="2" p_sme="máššil">määššil</t>
+   </e>
+   <e s="na" p="Pcle">
+      <t mld="0" old="0" p_sme="na">na</t>
+   </e>
+   <e s="naba" p="Adv">
+      <t mld="0" old="0" p_sme="naba">naba</t>
+   </e>
+   <e s="nai" p="Pcle">
+      <t mld="2" old="3" p_sme="ši">še</t>
+   </e>
+   <e s="nas" p="Adv">
+      <t mld="2" old="2" p_sme="naba">naba</t>
+   </e>
+   <e s="njavvi" p="N">
+      <t mld="1" old="2" p_sme="njavi">njave</t>
+   </e>
+   <e s="njuolgga" p="Adv">
+      <t mld="1" old="2" p_sme="njuolga">njuolgâ</t>
+   </e>
+   <e s="njálggus" p="N">
+      <t mld="2" old="4" p_sme="njálgis">njäälgis</t>
+   </e>
+   <e s="njávgit" p="V">
+      <t mld="0" old="2" p_sme="njávgit">njävgiđ</t>
+   </e>
+   <e s="njávgut" p="V">
+      <t mld="0" old="1" p_sme="njávgut">njávguđ</t>
+   </e>
+   <e s="no" p="Pcle">
+      <t mld="0" old="0" p_sme="no">no</t>
+   </e>
+   <e s="nuktalit" p="V">
+      <t mld="2" old="3" p_sme="nuhttalit">nuttâliđ</t>
+   </e>
+   <e s="nuollat" p="V">
+      <t mld="0" old="2" p_sme="nuollat">nuollâđ</t>
+   </e>
+   <e s="nurssagit" p="V">
+      <t mld="3" old="4" p_sme="nursselut">nursseluđ</t>
+      <t mld="3" old="4" p_sme="nurssot">nurssođ</t>
+   </e>
+   <e s="ná" p="Adv">
+      <t mld="1" old="1" p_sme="na">na</t>
+      <t mld="1" old="1" p_sme="no">no</t>
+   </e>
+   <e s="oahpásmit" p="V">
+      <t mld="1" old="4" p_sme="oapásmit">uápásmiđ</t>
+   </e>
+   <e s="oanehaš" p="A">
+      <t mld="3" old="5" p_sme="oaneet">uáneeh</t>
+      <t mld="3" old="5" p_sme="oanihá">uániháá</t>
+   </e>
+   <e s="oastit" p="V">
+      <t mld="0" old="3" p_sme="oastit">uástiđ</t>
+   </e>
+   <e s="oastu" p="N">
+      <t mld="0" old="2" p_sme="oastu">uástu</t>
+   </e>
+   <e s="ovcci" p="Num">
+      <t mld="1" old="3" p_sme="ovci">oovce</t>
+   </e>
+   <e s="pumpa" p="N">
+      <t mld="2" old="2" p_sme="bumppa">pumppâ</t>
+   </e>
+   <e s="reantu" p="N">
+      <t mld="1" old="3" p_sme="reanttu">riänttu</t>
+   </e>
+   <e s="reatká" p="N">
+      <t mld="1" old="2" p_sme="reatgá">riätká</t>
+   </e>
+   <e s="roastil" p="A">
+      <t mld="0" old="2" p_sme="roastil">ruástil</t>
+   </e>
+   <e s="roavru" p="N">
+      <t mld="0" old="2" p_sme="roavru">ruávru</t>
+   </e>
+   <e s="ruhttet" p="V">
+      <t mld="2" old="3" p_sme="ruohttit">ruottiđ</t>
+   </e>
+   <e s="ruoná" p="A">
+      <t mld="2" old="2" p_sme="ruonas">ruonâs</t>
+      <t mld="2" old="2" p_sme="roaná">ruánáá</t>
+   </e>
+   <e s="ruošša" p="A">
+      <t mld="0" old="1" p_sme="ruošša">ruoššâ</t>
+   </e>
+   <e s="ruoššalaš" p="A">
+      <t mld="1" old="4" p_sme="ruoššilaš">ryeššilâš</t>
+   </e>
+   <e s="ruškat" p="A">
+      <t mld="1" old="2" p_sme="ruikat">ruškâd</t>
+   </e>
+   <e s="ráhket" p="V">
+      <t mld="2" old="5" p_sme="ráhit">raahiđ</t>
+   </e>
+   <e s="sealgi" p="N">
+      <t mld="1" old="1" p_sme="selgi">selgi</t>
+   </e>
+   <e s="seamul" p="N">
+      <t mld="3" old="4" p_sme="seavtil">seevtil</t>
+      <t mld="3" old="5" p_sme="seavŋál">siävŋál</t>
+   </e>
+   <e s="signála" p="N">
+      <t mld="1" old="3" p_sme="signál">signaal</t>
+   </e>
+   <e s="sihkor" p="N">
+      <t mld="3" old="3" p_sme="siigur">siigur</t>
+      <t mld="3" old="4" p_sme="siikur-">siikuur-</t>
+   </e>
+   <e s="sii" p="Pron">
+      <t mld="1" old="1" p_sme="sij">sij</t>
+   </e>
+   <e s="siste" p="Adv">
+      <t mld="1" old="0" p_sme="sisti">siste</t>
+   </e>
+   <e s="siste" p="Po">
+      <t mld="1" old="0" p_sme="sisti">siste</t>
+   </e>
+   <e s="sisti" p="Adv">
+      <t mld="0" old="1" p_sme="sisti">siste</t>
+   </e>
+   <e s="sisti" p="Po">
+      <t mld="0" old="1" p_sme="sisti">siste</t>
+   </e>
+   <e s="siđđut" p="V">
+      <t mld="2" old="2" p_sme="seađđut">siäđđuđ</t>
+   </e>
+   <e s="skilihit" p="V">
+      <t mld="1" old="4" p_sme="skilehit">skilettiđ</t>
+   </e>
+   <e s="skruvet" p="V">
+      <t mld="2" old="4" p_sme="sruvit">sruuviđ</t>
+      <t mld="2" old="4" p_sme="sruvát">sruuváđ</t>
+   </e>
+   <e s="snuđđat" p="V">
+      <t mld="2" old="3" p_sme="snuđget">snuđgeđ</t>
+      <t mld="2" old="3" p_sme="snuđgot">snuđgođ</t>
+   </e>
+   <e s="snuđđut" p="V">
+      <t mld="2" old="3" p_sme="snuđget">snuđgeđ</t>
+      <t mld="2" old="3" p_sme="snuđgot">snuđgođ</t>
+   </e>
+   <e s="soai" p="Pron">
+      <t mld="2" old="2" p_sme="suoi">suoi</t>
+   </e>
+   <e s="sorját" p="V">
+      <t mld="1" old="2" p_sme="sorjot">sorjođ</t>
+   </e>
+   <e s="spihčá" p="N">
+      <t mld="2" old="2" p_sme="spižá">spižá</t>
+   </e>
+   <e s="stállu" p="N">
+      <t mld="1" old="1" p_sme="stálu">stáálu</t>
+   </e>
+   <e s="suorgi" p="N">
+      <t mld="0" old="2" p_sme="suorgi">syergi</t>
+   </e>
+   <e s="surolaš" p="A">
+      <t mld="1" old="2" p_sme="sorolaš">sorolâš</t>
+   </e>
+   <e s="sáhtán" p="N">
+      <t mld="1" old="1" p_sme="sáhttán">sáttán</t>
+   </e>
+   <e s="sárgut" p="V">
+      <t mld="0" old="1" p_sme="sárgut">sárguđ</t>
+   </e>
+   <e s="ujostallat" p="V">
+      <t mld="0" old="3" p_sme="ujostallat">ujostâllâđ</t>
+   </e>
+   <e s="vai" p="CC">
+      <t mld="0" old="1" p_sme="vai">vâi</t>
+   </e>
+   <e s="valjit" p="Adv">
+      <t mld="3" old="3" p_sme="valjeeht">valjeeht</t>
+      <t mld="3" old="3" p_sme="valjeest">valjeest</t>
+   </e>
+   <e s="vanahit" p="V">
+      <t mld="3" old="4" p_sme="vanttet">vantteđ</t>
+      <t mld="3" old="5" p_sme="vonattit">vonâttiđ</t>
+   </e>
+   <e s="vealgáduvvat" p="V">
+      <t mld="3" old="6" p_sme="vealgádut">viälgáduđ</t>
+      <t mld="3" old="7" p_sme="vealgádattat">viälgádâttâđ</t>
+   </e>
+   <e s="vealtit" p="V">
+      <t mld="1" old="3" p_sme="veltit">velttiđ</t>
+   </e>
+   <e s="vilddas" p="A">
+      <t mld="2" old="3" p_sme="viildas">viildâs</t>
+   </e>
+   <e s="villas" p="A">
+      <t mld="2" old="3" p_sme="viildas">viildâs</t>
+   </e>
+   <e s="vuostá" p="N">
+      <t mld="2" old="1" p_sme="voastá">vuástá</t>
+      <t mld="2" old="2" p_sme="vuostit">vuostiđ</t>
+   </e>
+   <e s="válgabeaivi" p="N">
+      <t mld="3" old="5" p_sme="váljapeivi">vaaljapeivi</t>
+      <t mld="3" old="5" p_sme="valjabeivi">valjâpeivi</t>
+   </e>
+   <e s="áhkku" p="N">
+      <t mld="0" old="1" p_sme="áhkku">ákku</t>
+   </e>
+   <e s="ájihit" p="V">
+      <t mld="0" old="4" p_sme="ájihit">äjittiđ</t>
+   </e>
+   <e s="ákšu" p="N">
+      <t mld="0" old="0" p_sme="ákšu">ákšu</t>
+   </e>
+   <e s="ánssášit" p="V">
+      <t mld="1" old="2" p_sme="ánsášit">ánsášiđ</t>
+   </e>
+   <e s="átnut" p="V">
+      <t mld="1" old="3" p_sme="ádnut">áánnuđ</t>
+   </e>
+   <e s="ávdin" p="A">
+      <t mld="1" old="2" p_sme="ávđin">ävđin</t>
+   </e>
+   <e s="čearret" p="N">
+      <t mld="1" old="3" p_sme="čearrit">čeerrih</t>
+   </e>
+   <e s="čielgi" p="N">
+      <t mld="0" old="0" p_sme="čielgi">čielgi</t>
+   </e>
+   <e s="čuohti" p="Num">
+      <t mld="1" old="3" p_sme="čuoti">čyeti</t>
+   </e>
+   <e s="čuoigat" p="V">
+      <t mld="0" old="2" p_sme="čuoigat">čuoigâđ</t>
+   </e>
+   <e s="čuojanas" p="N">
+      <t mld="0" old="2" p_sme="čuojanas">čuojânâs</t>
+   </e>
+   <e s="čuolbma" p="N">
+      <t mld="0" old="2" p_sme="čuolbma">čuolmâ</t>
+   </e>
+   <e s="čuonjá" p="N">
+      <t mld="2" old="1" p_sme="čoanjá">čuánjá</t>
+   </e>
+   <e s="čuovgat" p="A">
+      <t mld="1" old="3" p_sme="guovgat">kuovgâd</t>
+      <t mld="1" old="3" p_sme="čuovvat">čuovvâd</t>
+   </e>
+   <e s="čurtet" p="V">
+      <t mld="1" old="3" p_sme="čurtit">čurttiđ</t>
+      <t mld="1" old="3" p_sme="čurtát">čurttáđ</t>
+   </e>
+   <e s="čála" p="N">
+      <t mld="0" old="3" p_sme="čála">čaalâ</t>
+   </e>
+   <e s="čállit" p="V">
+      <t mld="0" old="3" p_sme="čállit">čäälliđ</t>
+   </e>
+   <e s="čállu" p="N">
+      <t mld="2" old="3" p_sme="čála">čaalâ</t>
+      <t mld="2" old="4" p_sme="čállin">čäällim</t>
+   </e>
+   <e s="šaldi" p="N">
+      <t mld="0" old="1" p_sme="šaldi">šalde</t>
+   </e>
+   <e s="šleađgut" p="V">
+      <t mld="2" old="5" p_sme="šealgut">šiälguđ</t>
+   </e>
+</r>

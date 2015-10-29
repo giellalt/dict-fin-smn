@@ -11,6 +11,32 @@ trans_dict>awk -F '\t' '{print $1"      "$2}' all_sme2smn.csv |s|u|c
    2 Pron       gii
    2 N  vuovdi
    2 N  lohkki
+3.
+trans_dict>g '<e' all_sme2smn_levenshtein_check_tEQ1.xml|c
+    2653
+trans_dict>g '<e' all_sme2smn_levenshtein_check_tGT1.xml |c
+    3807
+
+2653+3807=6460
+4.
+trans_dict>g '<e' all_sme2smn_lsd_pseudo-sme_v1.xml|c
+    3807
+trans_dict>g '<e' all_sme2smn_lsd_pseudo-sme_v2.xml|c
+    3807
+trans_dict>g '<e' all_sme2smn_lsd_pseudo-sme_v3.xml|c
+    3807
+trans_dict>g '<e' all_sme2smn_lsd_pseudo-sme_v4.xml|c
+    3807
+
+trans_dict>g '<e' all_sme2smn_levenshtein_check_tGT1.xml|c
+    3807
+5.
+trans_dict>g '<e' all_sme2smn_lsd_pseudo-sme_LT4.xml |c
+    2333
+trans_dict>g '<e' all_sme2smn_lsd_pseudo-sme_GT3.xml |c
+    1474    
+
+2333+1474=3807
 
 
 

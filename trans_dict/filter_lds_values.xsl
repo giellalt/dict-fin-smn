@@ -51,7 +51,7 @@
 
     <xsl:result-document href="{$outDir}/{$utFileName}LT4.{$of}" format="{$of}">
       <r>
-	<xsl:for-each select="doc($inFile)/r/e[every $t in ./t
+	<xsl:for-each select="doc($inFile)/r/e[some $t in ./t
 			      satisfies  (number($t/@mld)&lt;4)]">
 	  <e>
 	    <xsl:copy-of select="./@*"/>

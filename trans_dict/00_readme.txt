@@ -37,7 +37,14 @@ trans_dict>g '<e' all_sme2smn_lsd_pseudo-sme_GT3.xml |c
     1474    
 
 2333+1474=3807
-
+6.
+trans_dict>g '<e' all_sme2smn_lsd_pseudo-sme_GT3_fin-link.xml |c
+    1474
+trans_dict>g '<e' all_sme2smn_lsd_pseudo-sme_GT3_fin-link-filtered.xml |c
+    1462
+trans_dict>g '<e' all_sme2smn_lsd_pseudo-sme_GT3_fin-link-filtered-n.xml |c
+      12
+1462+12=1474
 
 
 Task: constraining the (near-/pseudo-)synonyms of t-elements in the sme2smn dict
@@ -89,69 +96,15 @@ all_sme2smn_lsd_pseudo-sme_GT3_fin-link-filtered.xml
       entry in the smn2fin (noisy!!!) data ==> DONE
 all_sme2smn_lsd_pseudo-sme_GT3_fin-link-filtered-n.xml
 
-
-Statistics (just for testing that we haven't lost some entries during this
-extremely entangled process)
-trans_dict>g '<e' all_sme2smn.xml |c
-    6466
-trans_dict>g '</t>' all_sme2smn.xml |c
-   19388
-
-trans_dict>c all_sme2smn.csv
-   18724 all_sme2smn.csv
-
-
-(1) all_sme2smn_levenshtein_check_tEQ1.xml
-trans_dict>g '<e' all_sme2smn_levenshtein_check_tEQ1.xml|c
-    2653
-trans_dict>g '<t' all_sme2smn_levenshtein_check_tEQ1.xml|c
-    2653
-
-(2) all_sme2smn_lsd_pseudo-sme_LT4.xml
-trans_dict>g '<e' all_sme2smn_lsd_pseudo-sme_LT4.xml|c
-     201
-trans_dict>g '<t' all_sme2smn_lsd_pseudo-sme_LT4.xml|c
-     234
-
-(3) all_sme2smn_lsd_pseudo-sme_GT3_fin-link-filtered.xml
-trans_dict>g '<e' all_sme2smn_lsd_pseudo-sme_GT3_fin-link-filtered.xml|c
-    1462
-trans_dict>g '<t' all_sme2smn_lsd_pseudo-sme_GT3_fin-link-filtered.xml|c
-    4542
-
-(4) all_sme2smn_lsd_pseudo-sme_GT3_fin-link-filtered-n.xml
-trans_dict>g '<e' all_sme2smn_lsd_pseudo-sme_GT3_fin-link-filtered-n.xml|c
-      12
-trans_dict>g '<t' all_sme2smn_lsd_pseudo-sme_GT3_fin-link-filtered-n.xml|c
-      32
-<e> = 4328 (2138 missing)
-
-
 === 
-docu on the caluculation of mld, i.e., levenshtein distance of
+docu about the calculation of mld, i.e., levenshtein distance of
 the modified smn string as pseudo-sme
 ===
 1. compile fst file after Tronds last changes
 xfst -f ~/main/langs/smn/src/scripts/smn-sme-lemma.xfscript
 
 2. extract and unique the t-strings
-DONE: update, no file "all_sme2smn_levenshtein_check.xml"
-<svn-quote>
-Author: ciprian
-Date: 2015-10-28 11:07:54 +0100 (gask, 28 golg 2015)
-New Revision: 123838
-
-Added:
-  trunk/words/dicts/finsmn/trans_dict/all_sme2smn_levenshtein_check_tEQ1.xml
-  trunk/words/dicts/finsmn/trans_dict/all_sme2smn_levenshtein_check_tGT1.xml
-Removed:
-  trunk/words/dicts/finsmn/trans_dict/all_sme2smn_levenshtein_check.xml
-Modified:
-  trunk/words/dicts/finsmn/trans_dict/tsv2ls_tsv.xsl
-Log:
-added the generated file with LS-Distance for the entries with only one t; renamed the one with entries with more than one t
-</svn-quote>
-grep '<t ' all_sme2smn_levenshtein_check.xml |tr '<' '>'|cut -d">" -f3|sort|uniq > smn_t4pseudo-sme_t.txt
+grep '<t ' all_sme2smn_levenshtein_check_tGT1.xml |tr '<' '>'|cut -d">" -f3|sort|uniq > smn_t4pseudo-sme_t.txt
 
 3. map real smn strings into pseudo-sme strings 
 cat smn_t4pseudo-sme_t.txt |lookup smnsme.fst > smn2pseudo-sme_map.txt

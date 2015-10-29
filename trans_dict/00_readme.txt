@@ -9,6 +9,14 @@ all_sme2smn_lsd_pseudo-sme_LT4.xml
 
 2.2 mld greater than 3 ==> ongoing work
 
+   <e s="anonyma" p="A">
+      <t mld="6" old="7" p_sme="oarbaš" link="nimetön_A">uárbâš</t>
+      <t mld="6" old="8" p_sme="oarbišmaš" link="nimetön_A">uárbišmâš</t>
+      <t mld="7" old="7" p_sme="nomatten" link="nimetön_A">nomâttem</t>
+      <t mld="7" old="7" p_sme="oarbmušn" link="nimetön_A">uármušm</t>
+      <t mld="8" old="9" p_sme="oarbášnjaš" link="nimetön_A">uárbášnjâš</t>
+   </e>
+
 "nimetön" issue ==> use CONTAINS aka fuzzy matching
    <e id="26635">
       <lg>

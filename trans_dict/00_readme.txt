@@ -9,6 +9,29 @@ all_sme2smn_lsd_pseudo-sme_LT4.xml
 
 2.2 mld greater than 3 ==> ongoing work
 
+"nimetön" issue ==> use CONTAINS aka fuzzy matching
+   <e id="26635">
+      <lg>
+         <l pos="N" rest="">uárbâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t>nimetön (sormi)</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="26636">
+      <lg>
+         <l pos="A" rest="">uárbášnjâš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t>nimetön (sormi)</t>
+         </tg>
+      </mg>
+   </e>
+
+
 2.2.1 with at least one t-element that have a corresponding
       entry in the smn2fin (noisy!!!) data ==> DONE
 all_sme2smn_lsd_pseudo-sme_GT3_fin-link-filtered.xml

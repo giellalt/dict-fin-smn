@@ -109,7 +109,22 @@ the modified smn string as pseudo-sme
 xfst -f ~/main/langs/smn/src/scripts/smn-sme-lemma.xfscript
 
 2. extract and unique the t-strings
-TODO: update, no file "all_sme2smn_levenshtein_check.xml"
+DONE: update, no file "all_sme2smn_levenshtein_check.xml"
+<svn-quote>
+Author: ciprian
+Date: 2015-10-28 11:07:54 +0100 (gask, 28 golg 2015)
+New Revision: 123838
+
+Added:
+  trunk/words/dicts/finsmn/trans_dict/all_sme2smn_levenshtein_check_tEQ1.xml
+  trunk/words/dicts/finsmn/trans_dict/all_sme2smn_levenshtein_check_tGT1.xml
+Removed:
+  trunk/words/dicts/finsmn/trans_dict/all_sme2smn_levenshtein_check.xml
+Modified:
+  trunk/words/dicts/finsmn/trans_dict/tsv2ls_tsv.xsl
+Log:
+added the generated file with LS-Distance for the entries with only one t; renamed the one with entries with more than one t
+</svn-quote>
 grep '<t ' all_sme2smn_levenshtein_check.xml |tr '<' '>'|cut -d">" -f3|sort|uniq > smn_t4pseudo-sme_t.txt
 
 3. map real smn strings into pseudo-sme strings 

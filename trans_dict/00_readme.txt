@@ -5,7 +5,7 @@ input: all_sme2smn_levenshtein_check_tEQ1.xml
 output: bdx_out/apertium-sme-smn.sme-smn.dix
 Cofigure the parameters as wish.
 
-TODO: map the GT pos values onto the apertium ones
+DONE: map the GT pos values onto the apertium ones
 
 =========================
 Task: constraining the (near-/pseudo-)synonyms of t-elements in the sme2smn dict

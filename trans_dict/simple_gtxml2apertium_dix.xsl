@@ -44,17 +44,33 @@
   <xsl:variable name="tb" select="'&#x9;'"/>
   <xsl:variable name="apo">'</xsl:variable>
   <xsl:variable name="vCaps" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'"/>
-  
+
+  <!-- extend or change this mapping as needed -->
+  <xsl:variable name="pos_map">
+    <map gt="A" ap="adj"/>
+    <map gt="Adv" ap="adv"/>
+    <map gt="CC" ap="cnjcoo"/>
+    <map gt="CS" ap="cnjsub"/>
+    <map gt="Interj" ap="interj"/>
+    <map gt="N" ap="n"/>
+    <map gt="Num" ap="num"/>
+    <map gt="Po" ap="po"/>
+    <map gt="Pr" ap="pr"/>
+    <map gt="Pron" ap="prn"/>
+    <map gt="V" ap="vblex"/>
+    <map gt="mwe" ap="mwe"/>
+  </xsl:variable>
+ 
   <xsl:template match="/" name="main">
     <xsl:result-document href="{$outDir}/{$utFileName}.{$of}" format="{$of}">
       <dictionary>
 	<xsl:for-each-group select="doc($inFile)/r/e"  group-by="./@p">
-	  <xsl:sort select="current-grouping-key()" />
+	  <xsl:sort select="$pos_map/map[./@gt=current-grouping-key()]/@ap" />
 	  <!-- SECTION: Adverbs -->
 	  <xsl:value-of select="$nl"/>
 	  <xsl:value-of select="'    '"/>
 	  <xsl:comment>
-	    <xsl:value-of select="concat('    SECTION: ',current-grouping-key())"/>
+	    <xsl:value-of select="concat('    SECTION: ',$pos_map/map[./@gt=current-grouping-key()]/@ap)"/>
 	  </xsl:comment>
 	  <xsl:value-of select="$nl"/>
 	  <xsl:value-of select="$nl"/>
@@ -72,7 +88,7 @@
 	    <xsl:for-each select="./t">
 	      
 	      <xsl:value-of select="'    '"/>
-	      <e><p><l><xsl:value-of select="$current_lemma"/><s n="{$current_pos}"/></l><r><xsl:value-of select="."/><s n="{$current_pos}"/></r></p></e>
+	      <e><p><l><xsl:value-of select="$current_lemma"/><s n="{$pos_map/map[./@gt=$current_pos]/@ap}"/></l><r><xsl:value-of select="."/><s n="{$pos_map/map[./@gt=$current_pos]/@ap}"/></r></p></e>
 	      <xsl:value-of select="$nl"/>
 	    </xsl:for-each>
 	  </xsl:for-each>

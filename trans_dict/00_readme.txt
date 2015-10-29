@@ -1,3 +1,10 @@
+Generating apertium dix-format from the simple_gtxml format
+
+java -Xmx16800m -Dfile.encoding=UTF8 net.sf.saxon.Transform -it:main simple_gtxml2apertium_dix.xsl
+input: all_sme2smn_levenshtein_check_tEQ1.xml
+output: bdx_out/apertium-sme-smn.sme-smn.dix
+Cofigure the parameters as wish.
+
 Task: constraining the (near-/pseudo-)synonyms of t-elements in the sme2smn dict
 1. 1:1 (mapping between l:t) ==> DONE
  OUTPUT: all_sme2smn_levenshtein_check_tEQ1.xml 

@@ -55,6 +55,7 @@ the modified smn string as pseudo-sme
 xfst -f ~/main/langs/smn/src/scripts/smn-sme-lemma.xfscript
 
 2. extract and unique the t-strings
+TODO: update, no file "all_sme2smn_levenshtein_check.xml"
 grep '<t ' all_sme2smn_levenshtein_check.xml |tr '<' '>'|cut -d">" -f3|sort|uniq > smn_t4pseudo-sme_t.txt
 
 3. map real smn strings into pseudo-sme strings 

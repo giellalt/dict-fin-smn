@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e s="divttásmit" p="V">
+      <t mld="8" old="9" p_sme="sovđat" link="tiivistyä_V">sovđâđ</t>
+      <t mld="9" old="9" p_sme="soahut" link="tiivistyä_V">suáhuđ</t>
+   </e>
+   <e s="divttásmuvvat" p="V">
+      <t mld="9" old="11" p_sme="sovđat" link="tiivistyä_V">sovđâđ</t>
+      <t mld="11" old="11" p_sme="soahut" link="tiivistyä_V">suáhuđ</t>
+   </e>
+   <e s="heahppášuhttit" p="V">
+      <t mld="5" old="8" p_sme="heapášattat" link="häpäistä_V">hiäpášâttâđ</t>
+      <t mld="6" old="9" p_sme="heapášit" link="häpäistä_V">hiäpášiđ</t>
+      <t mld="7" old="9" p_sme="heapášadat" link="häpäistä_V">hiäpášâtah</t>
+      <t mld="13" old="13" p_sme="mun" link="häpäistä_V">mun</t>
+   </e>
+   <e s="hiljážii" p="Adv">
+      <t mld="7" old="8" p_sme="gulolt" link="hiljakseen_Adv">kuuloold</t>
+      <t mld="8" old="7" p_sme="šeađust" link="hiljakseen_Adv">šiäđust</t>
+   </e>
+   <e s="hága" p="N">
+      <t mld="6" old="6" p_sme="nijtto" link="haka_N">nijtto</t>
+      <t mld="10" old="11" p_sme="aiđumeednan" link="haka_N">aiđumeennâm</t>
+   </e>
+   <e s="joksege" p="Adv">
+      <t mld="6" old="6" p_sme="vieha" link="jokseenkin_Pcle">viehâ</t>
+      <t mld="7" old="6" p_sme="dili" link="jokseenkin_Pcle">tile</t>
+      <t mld="7" old="7" p_sme="sulan" link="jokseenkin_Pcle">suulân</t>
+      <t mld="7" old="7" p_sme="dubdan" link="jokseenkin_Pcle">tuubdâm</t>
+   </e>
+   <e s="nappo" p="Adv">
+      <t mld="4" old="4" p_sme="dalli" link="siis_Adv">talle</t>
+      <t mld="4" old="4" p_sme="dast" link="siis_Adv">tast</t>
+      <t mld="4" old="4" p_sme="dastgo" link="siis_Adv">tastko</t>
+   </e>
+   <e s="oaidnaleapmái" p="Interj">
+      <t mld="11" old="12" p_sme="báhccei" link="näkemiin_Interj">päccee</t>
+      <t mld="12" old="12" p_sme="bási" link="näkemiin_Interj">pääsi</t>
+      <t mld="13" old="13" p_sme="báhccit" link="näkemiin_Interj">pääccid</t>
+   </e>
+   <e s="teahtásmit" p="V">
+      <t mld="7" old="9" p_sme="soahut" link="tiivistyä_V">suáhuđ</t>
+      <t mld="9" old="10" p_sme="sovđat" link="tiivistyä_V">sovđâđ</t>
+   </e>
+   <e s="ákta" p="N">
+      <t mld="4" old="5" p_sme="čáitus" link="näytös_N">čááitus</t>
+      <t mld="9" old="11" p_sme="čáitalbmoasi" link="näytös_N">čaaitâlmuási</t>
+   </e>
+   <e s="čuolus" p="N">
+      <t mld="5" old="5" p_sme="bácis" link="veistos_N">pääcis</t>
+      <t mld="8" old="8" p_sme="verattat" link="veistos_N">verâttâh</t>
+      <t mld="9" old="11" p_sme="dáiđaduoji" link="veistos_N">taaiđâtyeji</t>
+   </e>
+   <e s="šávahit" p="V">
+      <t mld="5" old="6" p_sme="vuoijit" link="kaahata_V kaahata_V">vyeijiđ</t>
+      <t mld="10" old="11" p_sme="hurgáhttallat" link="kaahata_V">hurgáttâllâđ</t>
+      <t mld="12" old="12" p_sme="skirviihttallat" link="kaahata_V">skirviittâllâđ</t>
+   </e>
+</r>

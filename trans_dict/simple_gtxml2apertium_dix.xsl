@@ -31,8 +31,14 @@
               indent="yes"/>
 
   <!-- adjust to your needs -->
-  <xsl:param name="inFile" select="'all_sme2smn_levenshtein_check_tEQ1.xml'"/>
-  <xsl:param name="utFileName" select="'apertium-sme-smn.sme-smn'"/>
+<!--  <xsl:param name="inFile" select="'all_sme2smn_levenshtein_check_tEQ1.xml'"/> 
+      <xsl:param name="utFileName" select="'tEQ1-apertium-sme-smn.sme-smn'"/>-->
+<!--  <xsl:param name="inFile" select="'all_sme2smn_lsd_pseudo-sme_LT4.xml'"/>
+      <xsl:param name="utFileName" select="'LT4-apertium-sme-smn.sme-smn'"/>-->
+<!--  <xsl:param name="inFile" select="'all_sme2smn_lsd_pseudo-sme_GT3_fin-link-filtered.xml'"/>
+  <xsl:param name="utFileName" select="'finlinkfiltered-apertium-sme-smn.sme-smn'"/>-->
+  <xsl:param name="inFile" select="'all_sme2smn_lsd_pseudo-sme_GT3_fin-link-filtered-n.xml'"/>
+  <xsl:param name="utFileName" select="'finlinkfilteredn-apertium-sme-smn.sme-smn'"/>
   <!-- adjust to your needs -->
   <xsl:param name="outDir" select="'bdx_out'"/>
   <xsl:variable name="of" select="'dix'"/>

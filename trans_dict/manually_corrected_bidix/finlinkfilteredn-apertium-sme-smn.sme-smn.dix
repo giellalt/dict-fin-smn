@@ -11,11 +11,6 @@
     <e><p><l>nappo<s n="adv"/></l><r>tast<s n="adv"/></r></p></e>
     <e><p><l>nappo<s n="adv"/></l><r>tastko<s n="adv"/></r></p></e>
 
-    <!--    SECTION: interj-->
-
-    <e><p><l>oaidnaleapmái<s n="interj"/></l><r>päccee<s n="interj"/></r></p></e>
-    <e><p><l>oaidnaleapmái<s n="interj"/></l><r>pääsi<s n="interj"/></r></p></e>
-    <e><p><l>oaidnaleapmái<s n="interj"/></l><r>pääccid<s n="interj"/></r></p></e>
 
     <!--    SECTION: n-->
 
@@ -29,15 +24,13 @@
 
     <!--    SECTION: vblex-->
 
-    <e><p><l>divttásmit<s n="vblex"/></l><r>sovđâđ<s n="vblex"/></r></p></e>
-    <e><p><l>divttásmit<s n="vblex"/></l><r>suáhuđ<s n="vblex"/></r></p></e>
     <e><p><l>divttásmuvvat<s n="vblex"/></l><r>sovđâđ<s n="vblex"/></r></p></e>
     <e><p><l>divttásmuvvat<s n="vblex"/></l><r>suáhuđ<s n="vblex"/></r></p></e>
     <e><p><l>heahppášuhttit<s n="vblex"/></l><r>hiäpášâttâđ<s n="vblex"/></r></p></e>
     <e><p><l>heahppášuhttit<s n="vblex"/></l><r>hiäpášiđ<s n="vblex"/></r></p></e>
     <e><p><l>heahppášuhttit<s n="vblex"/></l><r>hiäpášâtah<s n="vblex"/></r></p></e>
-    <e><p><l>teahtásmit<s n="vblex"/></l><r>suáhuđ<s n="vblex"/></r></p></e>
-    <e><p><l>teahtásmit<s n="vblex"/></l><r>sovđâđ<s n="vblex"/></r></p></e>
+    <e><p><l>teahtásmuvvat<s n="vblex"/></l><r>suáhuđ<s n="vblex"/></r></p></e>
+    <e><p><l>teahtásmuvvat<s n="vblex"/></l><r>sovđâđ<s n="vblex"/></r></p></e>
     <e><p><l>šávahit<s n="vblex"/></l><r>vyeijiđ<s n="vblex"/></r></p></e>
     <e><p><l>šávahit<s n="vblex"/></l><r>hurgáttâllâđ<s n="vblex"/></r></p></e>
     <e><p><l>šávahit<s n="vblex"/></l><r>skirviittâllâđ<s n="vblex"/></r></p></e>

@@ -2,10 +2,6 @@
     <!--    SECTION: -->
 
     <e><p><l>aitto<s n=""/></l><r>tibi<s n=""/></r></p></e>
-    <e><p><l>aitto<s n=""/></l><r>-ban<s n=""/></r></p></e>
-    <e><p><l>aitto<s n=""/></l><r>-gân<s n=""/></r></p></e>
-    <e><p><l>aitto<s n=""/></l><r>-hân<s n=""/></r></p></e>
-    <e><p><l>aitto<s n=""/></l><r>-sun<s n=""/></r></p></e>
     <e><p><l>goit<s n=""/></l><r>teđet<s n=""/></r></p></e>
     <e><p><l>goit<s n=""/></l><r>aainâs<s n=""/></r></p></e>
     <e><p><l>goit<s n=""/></l><r>kuittâg<s n=""/></r></p></e>
@@ -365,7 +361,6 @@
     <e><p><l>lágan<s n="adj"/></l><r>tieggáár<s n="adj"/></r></p></e>
     <e><p><l>lágan<s n="adj"/></l><r>tommuđusâš<s n="adj"/></r></p></e>
     <e><p><l>láhkásaš<s n="adj"/></l><r>sullâsâš<s n="adj"/></r></p></e>
-    <e><p><l>láhkásaš<s n="adj"/></l><r>-lágán<s n="adj"/></r></p></e>
     <e><p><l>láhkásaš<s n="adj"/></l><r>sulâstittiđ<s n="adj"/></r></p></e>
     <e><p><l>láittas<s n="adj"/></l><r>tielâs<s n="adj"/></r></p></e>
     <e><p><l>láittas<s n="adj"/></l><r>tulcce<s n="adj"/></r></p></e>
@@ -739,7 +734,6 @@
     <e><p><l>dainna<s n="adv"/></l><r>tastko<s n="adv"/></r></p></e>
     <e><p><l>dainna<s n="adv"/></l><r>nuuvt<s n="adv"/></r></p></e>
     <e><p><l>dakka<s n="adv"/></l><r>tonnân<s n="adv"/></r></p></e>
-    <e><p><l>dakka<s n="adv"/></l><r>-gân<s n="adv"/></r></p></e>
     <e><p><l>dakka<s n="adv"/></l><r>eidu<s n="adv"/></r></p></e>
     <e><p><l>dakka<s n="adv"/></l><r>veddi<s n="adv"/></r></p></e>
     <e><p><l>dakka<s n="adv"/></l><r>viđá<s n="adv"/></r></p></e>
@@ -841,7 +835,6 @@
     <e><p><l>jođánit<s n="adv"/></l><r>huáppust<s n="adv"/></r></p></e>
     <e><p><l>jođánit<s n="adv"/></l><r>häppilávt<s n="adv"/></r></p></e>
     <e><p><l>jođánit<s n="adv"/></l><r>kirrâsávt<s n="adv"/></r></p></e>
-    <e><p><l>jur<s n="adv"/></l><r>-gân<s n="adv"/></r></p></e>
     <e><p><l>jur<s n="adv"/></l><r>eidu<s n="adv"/></r></p></e>
     <e><p><l>jur<s n="adv"/></l><r>viđá<s n="adv"/></r></p></e>
     <e><p><l>jur<s n="adv"/></l><r>ruotâs<s n="adv"/></r></p></e>
@@ -856,7 +849,6 @@
     <e><p><l>jur<s n="adv"/></l><r>loppiittâs<s n="adv"/></r></p></e>
     <e><p><l>juste<s n="adv"/></l><r>ruotâs<s n="adv"/></r></p></e>
     <e><p><l>juste<s n="adv"/></l><r>tástán<s n="adv"/></r></p></e>
-    <e><p><l>juste<s n="adv"/></l><r>-gân<s n="adv"/></r></p></e>
     <e><p><l>juste<s n="adv"/></l><r>eidu<s n="adv"/></r></p></e>
     <e><p><l>juste<s n="adv"/></l><r>veddi<s n="adv"/></r></p></e>
     <e><p><l>juste<s n="adv"/></l><r>viđá<s n="adv"/></r></p></e>
@@ -910,7 +902,6 @@
     <e><p><l>olu<s n="adv"/></l><r>eenâs<s n="adv"/></r></p></e>
     <e><p><l>olu<s n="adv"/></l><r>iänášiđ<s n="adv"/></r></p></e>
     <e><p><l>olu<s n="adv"/></l><r>čuuvtijsiähá<s n="adv"/></r></p></e>
-    <e><p><l>olus<s n="adv"/></l><r>-gân<s n="adv"/></r></p></e>
     <e><p><l>olus<s n="adv"/></l><r>eenâs<s n="adv"/></r></p></e>
     <e><p><l>olus<s n="adv"/></l><r>eidu<s n="adv"/></r></p></e>
     <e><p><l>olus<s n="adv"/></l><r>ennuv<s n="adv"/></r></p></e>
@@ -2044,7 +2035,6 @@
     <e><p><l>olggosgollu<s n="n"/></l><r>kolo<s n="n"/></r></p></e>
     <e><p><l>olggosgollu<s n="n"/></l><r>sote<s n="n"/></r></p></e>
     <e><p><l>olggosgollu<s n="n"/></l><r>ruášku<s n="n"/></r></p></e>
-    <e><p><l>olggosgollu<s n="n"/></l><r>-tiepsi<s n="n"/></r></p></e>
     <e><p><l>olggosgollu<s n="n"/></l><r>siđâruđ<s n="n"/></r></p></e>
     <e><p><l>olggosgollu<s n="n"/></l><r>tolkker<s n="n"/></r></p></e>
     <e><p><l>olggosgollu<s n="n"/></l><r>ruámčči<s n="n"/></r></p></e>
@@ -2346,8 +2336,6 @@
     <e><p><l>stáđđi<s n="n"/></l><r>terppâmvuálááš<s n="n"/></r></p></e>
     <e><p><l>sundi<s n="n"/></l><r>kirkveerdi<s n="n"/></r></p></e>
     <e><p><l>sundi<s n="n"/></l><r>kirkkoveerdi<s n="n"/></r></p></e>
-    <e><p><l>suohkan<s n="n"/></l><r>-kodde<s n="n"/></r></p></e>
-    <e><p><l>suohkan<s n="n"/></l><r>-mat<s n="n"/></r></p></e>
     <e><p><l>suohkan<s n="n"/></l><r>kundá<s n="n"/></r></p></e>
     <e><p><l>suohkan<s n="n"/></l><r>kieldâ<s n="n"/></r></p></e>
     <e><p><l>suohkan<s n="n"/></l><r>pitejâš<s n="n"/></r></p></e>

@@ -1,3 +1,4 @@
+<dictionary>
     <e><p> <l>abstrákta<s n="adj"/></l> <r>abstraktâ<s n="adj"/></r> </p></e>
     <e><p> <l>addes<s n="adj"/></l> <r>adelâš<s n="adj"/></r> </p></e>
     <e><p> <l>addi<s n="adj"/></l> <r>adelâš<s n="adj"/></r> </p></e>
@@ -198,3 +199,4 @@
     <e><p><l>čállit<s n="vblex"/><s n="tv"/></l><r>čäälliđ<s n="vblex"/><s n="tv"/></r></p></e>
     <e><re>[.\?:;]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
     <e><re>[0-9]+</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+  </dictionary>

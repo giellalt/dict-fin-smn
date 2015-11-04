@@ -1,3 +1,12 @@
+The file l_par_entries/all_sme2smn_l_par.xml
+contains all entries that have at least a t-element with
+an l_par-attribute that contains at least a whitespace.
+
+These entries have been extracted to be checked then manually for
+possible Finnish mwe.
+
+=========================
+
 Generating apertium dix-format from the simple_gtxml format
 
 java -Xmx16800m -Dfile.encoding=UTF8 net.sf.saxon.Transform -it:main simple_gtxml2apertium_dix.xsl

@@ -1,0 +1,2560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<e>
+      <lg>
+         <l pos="A">beanttis</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="suora_A" pos="" l_par="esim. tiessä">njuolgâdâs</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">davrras</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="kurttuinen_A" pos="" l_par="erit. vaatteesta" attr="# -s">juármáá</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">duskái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="ärtyisä_A" pos="" l_par="olla ärtyisä" wf="kyeccist">kyecistiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">duđaheapme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="tyytymätön_A"
+               pos=""
+               l_par="olla kärttyinen _COMMA_ tyytymätön _COMMA_ pahantuulinen"
+               wf="niirâm niRá">niirrâđ</t>
+            <t link="tyytymätön_A"
+               pos=""
+               l_par="olla tyytymätön jhk"
+               wf="laitâččâđâm">laitâččâttâđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">dáidduheapme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="taitamaton_A"
+               pos=""
+               l_par="pitää taitamattomana"
+               wf="čuárbáš">čuárbášiđ</t>
+            <t link="taitamaton_A"
+               pos=""
+               l_par="tulla taitamattomaksi"
+               wf="čuárbum">čuárbuđ</t>
+            <t link="taitamaton_A"
+               pos=""
+               l_par="tehdä jk taitamattomaksi"
+               wf="čuárbud">čuárbudiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">geasoheapme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="pieni_A" pos="" l_par="pienen pieni">siemin</t>
+            <t link="pieni_A" pos="" l_par="liian pieni" wf="cibináá">cibináš</t>
+            <t link="pieni_A" pos="" l_par="jäädä pieneksi">uccániđ</t>
+            <t link="pieni_A" pos="" l_par="pitää liian pienenä" wf="uccááš">ucášiđ</t>
+            <t link="pieni_A"
+               pos=""
+               l_par="pitää jak määrää liian pienenä"
+               wf="váánnáš">váNášiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">gulccas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="huono_A" pos="" l_par="pitää huonona" wf="huánááš">huánášiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">gálššas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="kolea_A" pos="" l_par="erit. sää" wf="káállus káLuseh">káálus</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">herskui</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="nirso_A"
+               pos=""
+               l_par="raskaana olevasta naisesta _COMMA_ jolla ei ole ruokahalua esim. pahoinvoinnin takia"
+               wf="vuásvá">vyesvis</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">klovkken</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="ovela_A" pos="" l_par="olla ovela" wf="skelmuš">skelmušiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">luktui</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="oikukas_A"
+               pos=""
+               l_par="erit. lapsi"
+               attr="# pasnikkâs"
+               wf="paasnikeh">paasnik</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">meađggus</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="raskas_A"
+               pos=""
+               l_par="vaativa _COMMA_ tiukka esim. työ"
+               attr="# čovgâ _AT_ čovgis">čovgâd</t>
+            <t link="raskas_A" pos="" l_par="tulla painavammaksi" wf="losom">lossoođ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">mievkkis</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="pehmeä_A"
+               pos=""
+               l_par="kokonaisuutena _COMMA_ ainekseltaan"
+               attr="# timmâ"
+               wf="timmáás">times</t>
+            <t link="pehmeä_A"
+               pos=""
+               l_par="pinnaltaan pehmeäntuntuinen _COMMA_ hieno _COMMA_ m. aikaisempaa lämpimämpi ilma"
+               attr="# linnâ"
+               wf="linnáás">lines</t>
+            <t link="pehmeä_A"
+               pos=""
+               l_par="lämmin ja pehmeä vaatteesta"
+               attr="# -s">tuávŋáá</t>
+            <t link="pehmeä_A"
+               pos=""
+               l_par="ohut ja pehmeä parkitusta nahasta"
+               attr="# lieđvis"
+               wf="lieđvi">lieđvi</t>
+            <t link="pehmeä_A"
+               pos=""
+               l_par="mureneva _COMMA_ löysä puuaines t. leipä"
+               attr="# smiärus"
+               wf="smiäru">smiäRu</t>
+            <t link="pehmeä_A"
+               pos=""
+               l_par="kuohkea _COMMA_ irtonainen esim. lumesta _COMMA_ heinistä _COMMA_ puuaineksesta"
+               attr="# hablâ"
+               wf="hablâs">haablâs</t>
+            <t link="pehmeä_A"
+               pos=""
+               l_par="ilma on lämpimämpi kuin eilen"
+               wf="lii ennuv linásub ko jieht">áimu</t>
+            <t link="pehmeä_A"
+               pos=""
+               l_par="tauti lievittyy kun olen tulen ääressä"
+               wf="šadda linásubbon ko tullâpiällást orom">tavdâ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">moiddas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="pahoinvoiva_A"
+               pos=""
+               l_par="tulla pahoinvoivaksi ylensyönnistä">pallađ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">mosttas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="samea_A"
+               pos=""
+               l_par="vedestä _COMMA_ johon sekoittuu kiintoainesta liikkeen seurauksena">muivâšum</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">nearas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="tylsä_A" pos="" l_par="tylppä esim. lyijykynä">nurssom</t>
+            <t link="tylsä_A" pos="" l_par="terästä t. asiasta" wf="tiellâs">tielâs</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">rivdal</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="väkevä_A" pos="" l_par="fyys. vahva" attr="# -s">áppáá</t>
+            <t link="väkevä_A"
+               pos=""
+               l_par="voimakas eläimestä"
+               attr="# korrâ"
+               wf="korrâs">koorâs</t>
+            <t link="väkevä_A"
+               pos=""
+               l_par="voimakas _COMMA_ puristusvoimainen esim. käsistä"
+               attr="# čovgâ"
+               wf="čovgâs">čoovgâs</t>
+            <t link="väkevä_A" pos="" l_par="väkevä ja kykenevä" attr="# -s">nahcii</t>
+            <t link="väkevä_A"
+               pos=""
+               l_par="kahvista _COMMA_ suolaisuudesta tms."
+               attr="# -âs">časkel</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">sajiheapme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="ahdas_A"
+               pos=""
+               l_par="vaatteesta _COMMA_ putkesta _COMMA_ kujasta tms."
+               attr="# poskâdis _AT_ poskis">poskâd</t>
+            <t link="ahdas_A"
+               pos=""
+               l_par="olla ahdas tila _COMMA_ ahtaalla esim. porot aidassa">naggâ</t>
+            <t link="ahdas_A"
+               pos=""
+               l_par="olla ahtaasti esim. jalka kengässä"
+               t_tld="~naggâsist">naggâsávt</t>
+            <t link="ahdas_A"
+               pos=""
+               l_par="käydä ahtaaksi tilasta"
+               wf="kááržum">káržuđ</t>
+            <t link="ahdas_A"
+               pos=""
+               l_par="käydä ahtaaksi t. tiukaksi vaatteesta _COMMA_ putkesta tms.">poskâniđ</t>
+            <t link="ahdas_A"
+               pos=""
+               l_par="tehdä ahtaaksi t. ahtaammaksi"
+               wf="kááržud">káržudiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">seastevaš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="säästäväinen_A"
+               pos=""
+               l_par="liian _COMMA_ saita"
+               t_tld="~ hänes háánnás # hänis _AT_ hänes">häänis</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">sesttolaš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="säästäväinen_A"
+               pos=""
+               l_par="liian _COMMA_ saita"
+               t_tld="~ hänes háánnás # hänis _AT_ hänes">häänis</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">snorras</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="kurttuinen_A" pos="" l_par="erit. vaatteesta" attr="# -s">juármáá</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">stroaŋggis</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="ankara_A"
+               pos=""
+               l_par="muuttua ankarammaksi tuulesta _COMMA_ säästä _COMMA_ kylmyydestä">čuáhtuđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">suoldnái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="kasteinen_A" pos="" l_par="sateen jäljiltä">lapsum</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">suosttas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="laho_A"
+               pos=""
+               l_par="vettyneestä puusta"
+               attr="# njiecâ"
+               wf="njiecâseh">njiesâs</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="A">vuovssaheapme</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="matala_A"
+               pos=""
+               l_par="joutua t. juuttua matalaan veteen"
+               t_tld="~coohhuđ~cuohhuđ cohhuum cuáhhoo">cohhuđ</t>
+            <t link="matala_A"
+               pos=""
+               l_par="tasamatala vesi _COMMA_ hyvä verkkopaikka"
+               wf="laavđâ">lavđâ</t>
+            <t link="matala_A"
+               pos=""
+               l_par="rantamatala _COMMA_ laskuveden paljastama"
+               wf="fiärvá">fiärvá</t>
+            <t link="matala_A" pos="" l_par="matalan veden aika" wf="cuáVi">cuáhi</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="Adv">ferot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="valmis_A" pos="" l_par="tekemään jtak" wf="kiärgus">kiärgus</t>
+            <t link="valmis_A"
+               pos=""
+               l_par="saada jk valmiiksi _COMMA_ saada jk ajoissa valmiiksi"
+               wf="kiergât">kiergâttiđ</t>
+            <t link="valmis_A" pos="" l_par="saada valmiiksi määräaikaan mennessä">juovdâdiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="Adv">hirril</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="harallaan_Adv" pos="" l_par="jalat harallaan">háccá</t>
+            <t link="harallaan_Adv"
+               pos=""
+               l_par="istua _COMMA_ seistä t. maata jalat harallaan"
+               wf="háccáám">háccáđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="Adv">láhppagasas</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="kadoksissa_Adv"
+               pos=""
+               l_par="kadoksissa ollut _COMMA_ tav. poro"
+               wf="lappâs">laapâs</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="Interj">oaidnaleapmái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="näkemiin_Interj"
+               pos=""
+               l_par="yksi hyvästeltävä"
+               wf="tiervân">pääsi</t>
+            <t link="näkemiin_Interj"
+               pos=""
+               l_par="kaksi hyvästeltävää"
+               wf="tiervân">päccee</t>
+            <t link="näkemiin_Interj"
+               pos=""
+               l_par="enemmän kuin kaksi hyvästeltävää"
+               wf="tiervân">pääccid</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="mwe">duollet dálle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="silloin tällöin_mwe" pos="" l_par="kerran _COMMA_ harvoin">ohtii</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="mwe">olbmo láhkái</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="kunnolla_mwe"
+               pos=""
+               l_par="käyttäydy kunnolla!"
+               wf="sijvuht!">oRo</t>
+            <t link="kunnolla_mwe"
+               pos=""
+               l_par="teidän pitää olla kunnolla"
+               wf="leđe sijvuht">kolgâvetteđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="N">arvi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="sade_N" pos="" l_par="sateinen sää" wf="njuáskáduv">njuáskáduh</t>
+            <t link="sade_N" pos="" l_par="sateella _COMMA_ sateen aikana">arven</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="N">boazu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="poro_N"
+               pos=""
+               l_par="kermikkä _COMMA_ poro 1. ja 2. syksyn välillä">čiermih</t>
+            <t link="poro_N"
+               pos=""
+               l_par="vuonelo _COMMA_ naarasporo 2. vuotena"
+               wf="vuonnjâl">vuonjâl</t>
+            <t link="poro_N" pos="" l_par="urakka _COMMA_ urosporo 2. vuotena">vaareeh</t>
+            <t link="poro_N" pos="" l_par="vuorso _COMMA_ urosporo 3. vuotena">vyeveers</t>
+            <t link="poro_N"
+               pos=""
+               l_par="kunteus _COMMA_ urosporo 4. vuotena"
+               wf="koddoos">kodos</t>
+            <t link="poro_N" pos="" l_par="kosatus _COMMA_ urosporo 5. vuotena">koistâs</t>
+            <t link="poro_N" pos="" l_par="maakkana _COMMA_ urosporo 6. vuotena">maakkan</t>
+            <t link="poro_N"
+               pos=""
+               l_par="nimiloppu _COMMA_ urosporo 7. vuotena"
+               syn_dash="-loopâ">nommâloppâ</t>
+            <t link="poro_N"
+               pos=""
+               l_par="sairauden takia laihtunut"
+               syn_dash="-poccuu">skuirepuásui</t>
+            <t link="poro_N" pos="" l_par="kisura _COMMA_ huonokuntoinen">kiisur</t>
+            <t link="poro_N"
+               pos=""
+               l_par="livikko _COMMA_ väsyksiin ajettu"
+               wf="livvâh">liivâh</t>
+            <t link="poro_N" pos="" l_par="kusikas _COMMA_ virtsalle perso">kužžii</t>
+            <t link="poro_N" pos="" l_par="hihnaa pelkäävä ajoporo">läbžipallee</t>
+            <t link="poro_N"
+               pos=""
+               l_par="hihnaa pelkäämätön ajoporo"
+               syn_dash="-loje"
+               attr="# -lojes">läbžiloJe</t>
+            <t link="poro_N" pos="" l_par="utami _COMMA_ opettamoton">uđamâg</t>
+            <t link="poro_N"
+               pos=""
+               l_par="hidasjalkainen ajoporo"
+               t_tld="~metki meeđhi # međhis">međkki</t>
+            <t link="poro_N"
+               pos=""
+               l_par="kellokas _COMMA_ kelloporo"
+               syn_dash="-poccuu">kiällupuásui</t>
+            <t link="poro_N" pos="" l_par="osaa seurata vanhaa jälkeä">tuáLikyerree</t>
+            <t link="poro_N"
+               pos=""
+               l_par="ahkiolla ajavan perässä hihnassa ensimmäisen kulkeva">kieđâlohlááiđuh</t>
+            <t link="poro_N" pos="" l_par="sarveton poro" wf="juLe">julle</t>
+            <t link="poro_N" pos="" l_par="sarvet katkaistu" wf="naallâh">naalâh</t>
+            <t link="poro_N" pos="" l_par="luonnostaan sarvipuoli">äämmil</t>
+            <t link="poro_N"
+               pos=""
+               l_par="toinen sarvi sojottaa eteenpäin"
+               wf="skuuibâ">skuibâ</t>
+            <t link="poro_N"
+               pos=""
+               l_par="vain sarvenkärjissä haarat"
+               syn_dash="-čuárvi">pielâsčuárvi</t>
+            <t link="poro_N"
+               pos=""
+               l_par="sarvissa haaroja harvassa"
+               syn_dash="-uáivi">njarbisuáivi</t>
+            <t link="poro_N"
+               pos=""
+               l_par="sakeasarvinen _COMMA_ sarvissa paljon haaroja"
+               syn_dash="-uáivi">suohisuáivi</t>
+            <t link="poro_N"
+               pos=""
+               l_par="sarvet muodostavat renkaan"
+               syn_dash="-uáivi">kielâuáivi</t>
+            <t link="poro_N"
+               pos=""
+               l_par="taipuneet _COMMA_ sanganmuotoiset sarvet"
+               syn_dash="-čuárvi">kevličuárvi</t>
+            <t link="poro_N"
+               pos=""
+               l_par="takakenosarvinen poro"
+               t_tld="~ njäidi njääidi"
+               wf="nääidi">näidi</t>
+            <t link="poro_N"
+               pos=""
+               l_par="sarvet hyvin takakenossa"
+               wf="njaavče _FT_ njavče">njahče</t>
+            <t link="poro_N" pos="" l_par="tulla pienisarviseksi porosta">čuárvittuđ</t>
+            <t link="poro_N"
+               pos=""
+               l_par="valkko _COMMA_ erit. albiinoporo"
+               wf="koobâ">kobbâ</t>
+            <t link="poro_N" pos="" l_par="harmahtava vaaleakylkinen">viälguh</t>
+            <t link="poro_N"
+               pos=""
+               l_par="luostakka _COMMA_ kyljissä valkeat juovat">luostâg</t>
+            <t link="poro_N" pos="" l_par="suivakko _COMMA_ harmaa">čuoivâg</t>
+            <t link="poro_N"
+               pos=""
+               l_par="musikki _COMMA_ vatsaa myöten tummanruskea poro">muuzzig</t>
+            <t link="poro_N"
+               pos=""
+               l_par="musikkivalkko _COMMA_ vatsanalus tummanruskea _COMMA_ muuten vaalea"
+               syn_dash="-jievjâ">muuzzigjievjâ</t>
+            <t link="poro_N"
+               pos=""
+               l_par="mutsikkisuivakko _COMMA_ vatsanalus tummanruskea _COMMA_ muuten kellanharmahtava">muuzzigčuoivâg</t>
+            <t link="poro_N"
+               pos=""
+               l_par="koivet eriväriset kuin muu ruumis"
+               syn_dash="-jyelgi">piddojyelgi</t>
+            <t link="poro_N"
+               pos=""
+               l_par="jalan alaosat eriväriset kuin muu ruumis"
+               syn_dash="-jyelgi">sukkájyelgi</t>
+            <t link="poro_N"
+               pos=""
+               l_par="silmän ympärillä rengas"
+               syn_dash="-čalme">kiärdučalme</t>
+            <t link="poro_N"
+               pos=""
+               l_par="keväällä kuohittu kelomaton"
+               syn_dash="-uáivi">stokkeuáivi</t>
+            <t link="poro_N" pos="" l_par="liikaa kuohittu" syn_dash="-čuárvi">pokkečuárvi</t>
+            <t link="poro_N"
+               pos=""
+               l_par="pailakka _COMMA_ kuohittu opettamaton urosporo">spääilih</t>
+            <t link="poro_N"
+               pos=""
+               l_par="härkä _COMMA_ kuohittu opetettu urosporo"
+               wf="eergi">ergi</t>
+            <t link="poro_N" pos="" l_par="tainakka _COMMA_ ikimaho vaadin">staainâh</t>
+            <t link="poro_N"
+               pos=""
+               l_par="runo _COMMA_ jonakin vuonna mahoksi jäänyt vaadin"
+               wf="roNo">ronno</t>
+            <t link="poro_N"
+               pos=""
+               l_par="usein vasatta jäävä poro _COMMA_ likimaho"
+               syn_dash="-ááldu">ruáNuáldu</t>
+            <t link="poro_N" pos="" l_par="menettää poroja" wf="puásuittuVá">puásuittuđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="N">bárbmu</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="etelä_N" pos="" l_par="etelässä _COMMA_ etelästä">mäddin</t>
+            <t link="etelä_N" pos="" l_par="eteläisempi _COMMA_ etelämpi">määddib</t>
+            <t link="etelä_N" pos="" l_par="vähän eteläisempi">mädibâš</t>
+            <t link="parvi_N"
+               pos=""
+               l_par="iso lintuparvi"
+               t_tld="~ muáđe"
+               wf="muáđi">muáti</t>
+            <t link="parvi_N"
+               pos=""
+               l_par="ihmisiä _COMMA_ lintuja"
+               wf="tuáki">tuákki</t>
+            <t link="parvi_N"
+               pos=""
+               l_par="sekaparvi lintuja"
+               syn_dash="-muáđi"
+               t_tld="~ -muáđe">siähálâsmuáti</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="N">duollji</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="talja_N" pos="" l_par="porohärän talja" wf="iärgáduv">iärgádâh</t>
+            <t link="talja_N" pos="" l_par="pailakan talja" wf="späilihâđâ">späilihât</t>
+            <t link="talja_N"
+               pos=""
+               l_par="runon _COMMA_ ei-kantavan vaatimen talja"
+               wf="ronnoduv">ronnodâh</t>
+            <t link="talja_N"
+               pos=""
+               l_par="vaatimen talja"
+               t_tld="~áldudoh~áldudâh álduduv">álduduh</t>
+            <t link="talja_N"
+               pos=""
+               l_par="kermikän _COMMA_ yksivuotiaan poron talja"
+               wf="čiermihâđâ">čiermihât</t>
+            <t link="talja_N"
+               pos=""
+               l_par="otsontalja _COMMA_ kiertoilmaus"
+               wf="njobžâduv">njobžâdâh</t>
+            <t link="talja_N" pos="" l_par="sarvien välissä" wf="cyezi">cyezzi</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="N">guolli</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="kala_N"
+               pos=""
+               l_par="laiha _COMMA_ pitkä _COMMA_ vanha"
+               wf="ruánti">ruántti</t>
+            <t link="kala_N" pos="" l_par="mädistä pullea" syn_dash="-kyele">ubbâraddekyeLi</t>
+            <t link="kala_N"
+               pos=""
+               l_par="sivuilta kerran t. kahdesti halkaistu kuivattu">koskâm</t>
+            <t link="kala_N"
+               pos=""
+               l_par="tav. pieni siika _COMMA_ halkaisematon _COMMA_ kiduksista vartaaseen t. naruun pujotettu kuivattu"
+               wf="kuškâdiämáá">kuškâdiämááš</t>
+            <t link="kala_N"
+               pos=""
+               l_par="saada muutamia kaloja verkolla"
+               wf="rippáát">ripáttiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="N">gurká</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="kurkku_N" pos="" l_par="saada jtak väärään kurkkuun">pahčániđ</t>
+            <t link="kurkku_N"
+               pos=""
+               l_par="joutua väärään kurkkuun"
+               wf="čuolmâduum čuolmâduVá">čuolmâduđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="N">liibma</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="liima_N" pos="" l_par="erit. sarviliima" wf="tame">taMe</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="N">noarvi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="piena_N"
+               pos=""
+               l_par="tukipiena ahmanloukussa"
+               wf="nuhostuv">nuhostâh</t>
+            <t link="piena_N"
+               pos=""
+               l_par="varustaa pienalla"
+               t_tld="~nuárvâd"
+               wf="nuárvád">nuárvádiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="N">náhkki</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="nahka_N"
+               pos=""
+               l_par="nahka _COMMA_ josta karvat on poistettu _COMMA_ nahan kesi- eli sisäpuoli"
+               wf="čeevđi">čevđi</t>
+            <t link="nahka_N"
+               pos=""
+               l_par="josta karvat kuluneet pois"
+               wf="skiNe">skinne</t>
+            <t link="nahka_N" pos="" l_par="ihmisen _COMMA_ iho" wf="liške">liške</t>
+            <t link="nahka_N" pos="" l_par="sarvien välissä" wf="cyezi">cyezzi</t>
+            <t link="nahka_N"
+               pos=""
+               l_par="nahat nutukkaan ruojuksia ja ilttiä varten"
+               r_par="mon.">pááJáseh</t>
+            <t link="nahka_N" pos="" l_par="porohärän talja" wf="iärgáduv">iärgádâh</t>
+            <t link="nahka_N" pos="" l_par="pailakan talja" wf="späilihâđâ">späilihât</t>
+            <t link="nahka_N"
+               pos=""
+               l_par="runon _COMMA_ sinä vuonna vasatta jääneen vaatimen talja"
+               wf="ronnoduv">ronnodâh</t>
+            <t link="nahka_N"
+               pos=""
+               l_par="vaatimen talja"
+               t_tld="~áldudoh~áldudâh álduduv">álduduh</t>
+            <t link="nahka_N"
+               pos=""
+               l_par="kermikän _COMMA_ yksivuotiaan poron talja"
+               wf="čiermihâđâ">čiermihât</t>
+            <t link="nahka_N" pos="" l_par="vasan talja" wf="vuáSáduv">vuáSádâh</t>
+            <t link="nahka_N"
+               pos=""
+               l_par="otsontalja _COMMA_ kiertoilmaus"
+               wf="njobžâduv">njobžâdâh</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="N">ruotkkuš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="juurakko_N"
+               pos=""
+               l_par="pieni kantoineen"
+               wf="kuodduužii">kuodduš</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="N">čoarvi</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="sarvi_N"
+               pos=""
+               l_par="naisen vanhanmallisessa lakissa"
+               wf="lááju">lááJu</t>
+            <t link="sarvi_N"
+               pos=""
+               l_par="poro _COMMA_ jolta sarvet katkaistu"
+               wf="naallâh">naalâh</t>
+            <t link="sarvi_N" pos="" l_par="luonnostaan sarvipuoli poro">äämmil</t>
+            <t link="sarvi_N"
+               pos=""
+               l_par="suorasarvinen poro"
+               syn_dash="-čuárvi">njuolgâčuárvi</t>
+            <t link="sarvi_N"
+               pos=""
+               l_par="poro _COMMA_ jolla toinen sarvi sojottaa eteenpäin"
+               wf="skuuibâ">skuibâ</t>
+            <t link="sarvi_N"
+               pos=""
+               l_par="poro _COMMA_ olla vain sarvenkärjissä haarat"
+               syn_dash="-čuárvi">pielâsčuárvi</t>
+            <t link="sarvi_N"
+               pos=""
+               l_par="poro _COMMA_ jolla sarvissa haaroja harvassa"
+               syn_dash="-uáivi">njarbisuáivi</t>
+            <t link="sarvi_N"
+               pos=""
+               l_par="sakeasarvinen poro _COMMA_ sarvissa paljon haaroja"
+               syn_dash="-uáivi">suohisuáivi</t>
+            <t link="sarvi_N" pos="" l_par="piikkisarvinen poro" wf="säägi">säggi</t>
+            <t link="sarvi_N"
+               pos=""
+               l_par="poro _COMMA_ jonka sarvet muodostavat renkaan"
+               syn_dash="-uáivi">kielâuáivi</t>
+            <t link="sarvi_N"
+               pos=""
+               l_par="poro _COMMA_ jolla taipuneet _COMMA_ sanganmuotoiset sarvet"
+               syn_dash="-čuárvi">kevličuárvi</t>
+            <t link="sarvi_N"
+               pos=""
+               l_par="poro _COMMA_ jolla sarvet hyvin takakenossa"
+               t_tld="~ njavče"
+               wf="njaavče">njahče</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="Po">hahttá</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="ilman_Po"
+               pos=""
+               l_par="ilman aikojaan _COMMA_ ilman muuta"
+               t_tld="~setinááLá">sätinááLá</t>
+            <t link="ilman_Po" pos="" l_par="ilman ainoaakaan">ovtâttem</t>
+            <t link="ilman_Po"
+               pos=""
+               l_par="olla ilman _COMMA_ jäädä ilman jtk _COMMA_ loppua kokonaan"
+               wf="nuhhuum nohhoo">nuhhuđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">boaldit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="polttaa_V"
+               pos=""
+               l_par="iho punaiseksi auringosta"
+               wf="rušmosmitám">rušmosmittiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">dekoreret</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="koristella_V"
+               pos=""
+               l_par="koristella tupsulla t. tupsuilla"
+               wf="tiäpum">tiäppuđ</t>
+            <t link="koristella_V"
+               pos=""
+               l_par="koristaa lapinvaate verkakoristeilla"
+               wf="teereest">terestiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">dárbbahit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="tarvita_V"
+               pos=""
+               l_par="olla tarpeen"
+               wf="tarbâšuum tarbâšuVá">tarbâšuđ</t>
+            <t link="tarvita_V"
+               pos=""
+               l_par="olla tarpeen jklle"
+               wf="siäđám siätá">seettiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">dárbbašit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="tarvita_V"
+               pos=""
+               l_par="olla tarpeen"
+               wf="tarbâšuum tarbâšuVá">tarbâšuđ</t>
+            <t link="tarvita_V"
+               pos=""
+               l_par="olla tarpeen jklle"
+               wf="siäđám siätá">seettiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">fidnet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="saada_V"
+               pos=""
+               l_par="esim. tehdyksi _COMMA_ olla saatavilla"
+               wf="finniim finnee">finniđ</t>
+            <t link="saada_V"
+               pos=""
+               l_par="voida _COMMA_ pystyä tekemään jtak"
+               wf="puáđám">puáttiđ</t>
+            <t link="saada_V" pos="" l_par="yrittää saada jtak" wf="uážžud">uážudiđ</t>
+            <t link="saada_V" pos="" l_par="tulla saaduksi" wf="finnâšuVá">finnâšuđ</t>
+            <t link="saada_V"
+               pos=""
+               l_par="onnistua saamaan jtak harvinaista"
+               wf="koVom">kovvoođ</t>
+            <t link="saada_V" pos="" l_par="saada aikaan" wf="áigá">uážžuđ</t>
+            <t link="saada_V" pos="" l_par="erit. jtk">nakkaniđ</t>
+            <t link="saada_V"
+               pos=""
+               l_par="tehdä todeksi _COMMA_ panna toimeksi"
+               wf="áimud">áimudiđ</t>
+            <t link="saada_V"
+               pos=""
+               l_par="saada oikeutetusti osakseen"
+               wf="ááštáš">áštášiđ</t>
+            <t link="saada_V" pos="" l_par="saada käsiinsä" wf="fattiim">fattiđ</t>
+            <t link="saada_V"
+               pos=""
+               l_par="saada alkunsa _COMMA_ sietä _COMMA_ lisääntyä"
+               wf="šooHân">šohâniđ</t>
+            <t link="saada_V"
+               pos=""
+               l_par="saada muutamia kaloja verkolla"
+               wf="rippáát">ripáttiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">garvit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="kiertää_V" pos="" l_par="jk ympärillä" wf="punjâttâlâm">punjâttâllâđ</t>
+            <t link="kiertää_V"
+               pos=""
+               l_par="syöttiä t. pyyntivälinettä joutumatta saaliiksi kalasta"
+               wf="suáldám suáldá">syeldiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">giksat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="kypsyä_V"
+               pos=""
+               l_par="keitettäessä _COMMA_ suolattaessa"
+               wf="kapša">kopšâđ</t>
+            <t link="kypsyä_V"
+               pos=""
+               l_par="marjoista yms. ja esim. hilloista"
+               wf="láddá">laddâđ</t>
+            <t link="kypsyä_V"
+               pos=""
+               l_par="erit. mustikasta _COMMA_ variksenmarjasta _COMMA_ puolukasta ja karviaismarjasta"
+               wf="njiäpcum">njiäpcuđ</t>
+            <t link="kypsyä_V"
+               pos=""
+               l_par="mehukkaaksi puolukasta _COMMA_ mustikasta _COMMA_ juolukasta ja variksenmarjasta"
+               wf="sáppoo">sáppuđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">gollat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="kulua_V"
+               pos=""
+               l_par="esim. aika"
+               t_tld="~kullâđ kuulâm koLá">kuullâđ</t>
+            <t link="kulua_V"
+               pos=""
+               l_par="loppuun esim. vaatteet t. esineet"
+               wf="nuuvâm nohá">nuuhâđ</t>
+            <t link="kulua_V" pos="" l_par="vaatteesta ohentua _COMMA_ hiutua">hivgâniđ</t>
+            <t link="kulua_V" pos="" l_par="vaatteista rispaantua">hilppániđ</t>
+            <t link="kulua_V"
+               pos=""
+               l_par="kulua hiertymällä"
+               wf="kohhuum kahhoo">kohhuđ</t>
+            <t link="kulua_V"
+               pos=""
+               l_par="saamenpuku t. oik. puvun kangas on menettänyt ryhtinsä kulumisen takia"
+               wf="lii čalmastum">mááccuh</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">oažžut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="saada_V"
+               pos=""
+               l_par="esim. tehdyksi _COMMA_ olla saatavilla"
+               wf="finniim finnee">finniđ</t>
+            <t link="saada_V"
+               pos=""
+               l_par="voida _COMMA_ pystyä tekemään jtak"
+               wf="puáđám">puáttiđ</t>
+            <t link="saada_V" pos="" l_par="yrittää saada jtak" wf="uážžud">uážudiđ</t>
+            <t link="saada_V" pos="" l_par="tulla saaduksi" wf="finnâšuVá">finnâšuđ</t>
+            <t link="saada_V"
+               pos=""
+               l_par="onnistua saamaan jtak harvinaista"
+               wf="koVom">kovvoođ</t>
+            <t link="saada_V" pos="" l_par="saada aikaan" wf="áigá">uážžuđ</t>
+            <t link="saada_V" pos="" l_par="erit. jtk">nakkaniđ</t>
+            <t link="saada_V"
+               pos=""
+               l_par="tehdä todeksi _COMMA_ panna toimeksi"
+               wf="áimud">áimudiđ</t>
+            <t link="saada_V"
+               pos=""
+               l_par="saada oikeutetusti osakseen"
+               wf="ááštáš">áštášiđ</t>
+            <t link="saada_V" pos="" l_par="saada käsiinsä" wf="fattiim">fattiđ</t>
+            <t link="saada_V"
+               pos=""
+               l_par="saada alkunsa _COMMA_ sietä _COMMA_ lisääntyä"
+               wf="šooHân">šohâniđ</t>
+            <t link="saada_V"
+               pos=""
+               l_par="saada muutamia kaloja verkolla"
+               wf="rippáát">ripáttiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">árvvoštallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="arvioida_V"
+               pos=""
+               l_par="m. antaa arvosana"
+               wf="árvuštâlâm">árvuštâllâđ</t>
+            <t link="arvioida_V"
+               pos=""
+               l_par="antaa arvio _COMMA_ määritellä"
+               wf="miäruštâlâm">miäruštâllâđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">čorgestallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="siivota_V"
+               pos=""
+               l_par="raivata tavarat pois jstak _COMMA_ oksat yms. pois esim. kentästä"
+               wf="raajâm rááJá">raaijâđ</t>
+            <t link="siivota_V"
+               pos=""
+               l_par="kaloja _COMMA_ perata _COMMA_ pestä ja suolata"
+               wf="raajâm rááJá">raaijâđ</t>
+            <t link="järjestää_V"
+               pos=""
+               l_par="esim. tapahtuma _COMMA_ tavaroita"
+               wf="orniim uárnee">orniđ</t>
+            <t link="järjestää_V"
+               pos=""
+               l_par="vähän _COMMA_ m. esim. tavaroita"
+               wf="orniistâlâm">orniistâllâđ</t>
+            <t link="järjestää_V"
+               pos=""
+               l_par="siistiä _COMMA_ siivota"
+               wf="kaađvâm">kađvâđ</t>
+            <t link="järjestää_V" pos="" l_par="siivoilla vähän" wf="čurgist">čurgiistiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">čárvut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="puristaa_V"
+               pos=""
+               l_par="olla puristettavissa"
+               wf="čarvit">čarviittiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">arvvalaš</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="tarmokas_V"
+               pos=""
+               l_par="tehdä jtak tarmokkaasti"
+               wf="rannjeest">ranjestiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">buhtistit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="puhdistaa_V"
+               pos=""
+               l_par="kimpiastia kalanhajusta katajaliemellä"
+               wf="retkiim retkee">retkiđ</t>
+            <t link="puhdistaa_V"
+               pos=""
+               l_par="kaivamalla esim. piippua"
+               wf="skuážžurd">skuážurdiđ</t>
+            <t link="puhdistaa_V"
+               pos=""
+               l_par="pohjaanpalanutta ruokaa kattilasta tms."
+               wf="skarttiim skärttee">skarttiđ</t>
+            <t link="puhdistaa_V"
+               pos=""
+               l_par="suolet ulosteesta makkarantekoa varten"
+               wf="sapâristám">sapâristiđ</t>
+            <t link="puhdistaa_V"
+               pos=""
+               l_par="lumesta kopistamalla"
+               wf="loskám">loskeđ</t>
+            <t link="puhdistaa_V"
+               pos=""
+               l_par="tulla puhdistetuksi lumesta kopistelemalla">luskuđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">buljagit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="pullistua_V" pos="" l_par="esim. purjeesta" wf="saddaa">saddađ</t>
+            <t link="pullistua_V"
+               pos=""
+               l_par="esim. vatsasta täytenä"
+               wf="pogâštuVá">pogâštuđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">bunžáhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="hotkia_V"
+               pos=""
+               l_par="tav. koirasta _COMMA_ mutta m. ihmisestä"
+               wf="šlohom šlokko">šlokkođ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">bunžžuhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="hotkia_V"
+               pos=""
+               l_par="tav. koirasta _COMMA_ mutta m. ihmisestä"
+               wf="šlohom šlokko">šlokkođ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">buovnnjagit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="kärventyä_V"
+               pos=""
+               l_par="palaa pohjaan _COMMA_ hiiltyä"
+               wf="skeerčâg">skerčâgiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">cahppát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="häämöttää_V"
+               pos=""
+               l_par="näkyä _COMMA_ kajastaa _COMMA_ kuultaa"
+               wf="kuávváám">kuávváđ</t>
+            <t link="häämöttää_V"
+               pos=""
+               l_par="epäselvänä kuin savun läpi"
+               wf="kurráá">kurráđ</t>
+            <t link="häämöttää_V" pos="" l_par="näkyvillä oleva">kuástusist</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">cimput</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="loikkia_V"
+               pos=""
+               l_par="hyppiä eläimestä"
+               wf="čuáskudâđâm čuáskudât">čuáskudâttâđ</t>
+            <t link="loikkia_V" pos="" l_par="hyppiä kaloista" wf="paaŋâm">paaŋŋâđ</t>
+            <t link="loikkia_V"
+               pos=""
+               l_par="puusta toiseen erit. oravasta"
+               wf="puittá">puitteđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">cuiláhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="viilettää_V" pos="" l_par="m. ääntä pitäen" wf="tuurâšt">turâštiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">davkkildit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="näpistellä_V" pos="" l_par="nappailla jtak" wf="njiskom">njiskođ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">deaššat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="lipua_V"
+               pos=""
+               l_par="liikkua hitaasti erit. vedessä"
+               wf="nuárbá">nuorbâđ</t>
+            <t link="lipua_V"
+               pos=""
+               l_par="erit. yksittäisistä aalloista"
+               wf="sijgâd">sijgâdiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">dugordallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="leikkiä_V"
+               pos=""
+               l_par="jk kanssa _COMMA_ kisailla erit. lapsista"
+               wf="kiškodât">kiškodâttâđ</t>
+            <t link="leikkiä_V" pos="" l_par="koiran kanssa" wf="vuorâm vuáRá">vuorrâđ</t>
+            <t link="leikkiä_V"
+               pos=""
+               l_par="vedellä _COMMA_ läträtä"
+               wf="stuljiim stuljee">stuljiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">duvhllidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="tuhlata_V"
+               pos=""
+               l_par="erit. rahaa t. omaisuutta"
+               t_tld="~ skiđerdiđ skiiđerd"
+               wf="skiiđârd">skiđârdiđ</t>
+            <t link="tuhlata_V" pos="" l_par="toisen omaisuutta" wf="kuuhâšt">kuhâštiđ</t>
+            <t link="tuhlata_V"
+               pos=""
+               l_par="esim. elintarvikkeita heittämällä tähteet pois"
+               wf="skulliim skullee">skulliđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">dápmasit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="kesyyntyä_V"
+               pos=""
+               l_par="erit. koirasta"
+               wf="miestâm miästá">miestâđ</t>
+            <t link="kesyyntyä_V"
+               pos=""
+               l_par="ajoporosta kouluksen aikana"
+               wf="taMâšuVá">taMâšuđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">guolljut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="puskea_V"
+               pos=""
+               l_par="erit. eläimistä"
+               wf="tuárum toorrum">tuárruđ</t>
+            <t link="puskea_V" pos="" l_par="erit. pässistä">puhkâliđ</t>
+            <t link="puskea_V"
+               pos=""
+               l_par="toisiaan tav. eläimistä"
+               wf="nurvodâđâm">nurvodâttâđ</t>
+            <t link="puskea_V"
+               pos=""
+               l_par="joutua pusketuksi"
+               wf="nurvottâđâm">nurvottâttâđ</t>
+            <t link="puskea_V"
+               pos=""
+               l_par="joutua poron puskemaksi"
+               wf="skájuttâđâm">skájuttâttâđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">guostát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="häämöttää_V"
+               pos=""
+               l_par="näkyä _COMMA_ kajastaa _COMMA_ kuultaa"
+               wf="kuávváám">kuávváđ</t>
+            <t link="häämöttää_V"
+               pos=""
+               l_par="epäselvänä kuin savun läpi"
+               wf="kurráá">kurráđ</t>
+            <t link="häämöttää_V" pos="" l_par="näkyvillä oleva">kuástusist</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">havssiidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="haista_V"
+               pos=""
+               l_par="pahalle _COMMA_ löyhkätä"
+               wf="šliäMu">šliämmuđ</t>
+            <t link="haista_V"
+               pos=""
+               l_par="hielle _COMMA_ erit. vaatteista"
+               wf="liškáduVá">liškáduđ</t>
+            <t link="haista_V"
+               pos=""
+               l_par="palaneelta t. kärventyneeltä"
+               wf="haavdârd">havdârdiđ</t>
+            <t link="haista_V"
+               pos=""
+               l_par="alkaa haista ummehtuneelta"
+               wf="muugâg">mugâgiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">háistit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="haistaa_V" pos="" l_par="havaita haju" wf="apsam">apseđ</t>
+            <t link="haistaa_V"
+               pos=""
+               l_par="haistaa selvittääkseen miltä jk haisee"
+               wf="suuvnám _FT_ suvnám">suvneđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">hávkkádit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="haukahtaa_V" pos="" l_par="haukahdella silloin tällöin">uládâddâđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">jahlidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="jyrsiä_V"
+               pos=""
+               l_par="itseään _COMMA_ esim. porosta"
+               wf="purâdâđâm">purâdâttâđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">jaraidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="narista_V"
+               pos=""
+               l_par="lumesta _COMMA_ saranoista tms."
+               wf="skiičijd">skičijdiđ</t>
+            <t link="narista_V"
+               pos=""
+               l_par="saranasta _COMMA_ pöydästä _COMMA_ sängystä"
+               wf="kiská">kiskeđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">jozzidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="höpöttää_V" pos="" l_par="puhua sekavia" wf="meevrist">mevristiđ</t>
+            <t link="höpöttää_V"
+               pos=""
+               l_par="lörpöttää _COMMA_ höpistä"
+               wf="šuámbist">šuámbistiđ</t>
+            <t link="höpöttää_V"
+               pos=""
+               l_par="itsekseen _COMMA_ mutista"
+               wf="topsástitám">topsástittiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">juleštit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="ahnehtia_V"
+               pos=""
+               l_par="töitä _COMMA_ työnteossa"
+               wf="áhčááttâlâm">áhčááttâllâđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">juskkuhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="jyskyttää_V"
+               pos=""
+               l_par="m. tömistää"
+               wf="poŋkám poŋkká">poŋkkeđ</t>
+            <t link="jyskyttää_V"
+               pos=""
+               l_par="m. hakata"
+               wf="skalmiim skälmee">skalmiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">jussut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="piereskellä_V" pos="" l_par="useista ihmisistä">puáskudiđ</t>
+            <t link="piereskellä_V" pos="" l_par="usein t. jatkuvasti">puáskustâllâđ</t>
+            <t link="piereskellä_V"
+               pos=""
+               l_par="usein piereskelevä"
+               wf="puáskulii">puáskulâs</t>
+            <t link="piereskellä_V"
+               pos=""
+               l_par="jatkuvasti piereskelevä ihminen _COMMA_ haukkumasana"
+               syn_dash="-seehâ">puoskâsekkâ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">logget</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="irrottaa_V"
+               pos=""
+               l_par="vapauttaa jstak"
+               wf="luovviim lyevvee">luovviđ</t>
+            <t link="irrottaa_V"
+               pos=""
+               l_par="esim. solmu"
+               wf="čuávdám čoovdij">čuávdiđ</t>
+            <t link="irrottaa_V"
+               pos=""
+               l_par="päästää irti esim. eläin"
+               wf="piästám">pestiđ</t>
+            <t link="irrottaa_V"
+               pos=""
+               l_par="repiä irti esim. etikettiä _COMMA_ rupea haavasta _COMMA_ turvetta maasta _SEMIC_ kuoria keitetystä perunasta"
+               wf="njizám">njizzeđ</t>
+            <t link="irrottaa_V"
+               pos=""
+               l_par="nopeasti _COMMA_ nuljauttaa irti"
+               wf="njooveeld">njoveldiđ</t>
+            <t link="irrottaa_V" pos="" l_par="nopeasti solmu tms.">čuávdiliđ</t>
+            <t link="irrottaa_V"
+               pos=""
+               l_par="otsaluu sarvineen teuraalta"
+               wf="čergit">čergiittiđ</t>
+            <t link="irrottaa_V"
+               pos=""
+               l_par="paistin t. lavan luut lihoista"
+               wf="luuvâm lopá">luuppâđ</t>
+            <t link="irrottaa_V"
+               pos=""
+               l_par="paistit toisistaan"
+               wf="luuvvâst">luvâstiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">luohčásit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="liukastua_V"
+               pos=""
+               l_par="erit. iljanteella"
+               wf="vuážžásk">vuážáskiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">luvvet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="irrottaa_V"
+               pos=""
+               l_par="vapauttaa jstak"
+               wf="luovviim lyevvee">luovviđ</t>
+            <t link="irrottaa_V"
+               pos=""
+               l_par="esim. solmu"
+               wf="čuávdám čoovdij">čuávdiđ</t>
+            <t link="irrottaa_V"
+               pos=""
+               l_par="päästää irti esim. eläin"
+               wf="piästám">pestiđ</t>
+            <t link="irrottaa_V"
+               pos=""
+               l_par="repiä irti esim. etikettiä _COMMA_ rupea haavasta _COMMA_ turvetta maasta _SEMIC_ kuoria keitetystä perunasta"
+               wf="njizám">njizzeđ</t>
+            <t link="irrottaa_V"
+               pos=""
+               l_par="nopeasti _COMMA_ nuljauttaa irti"
+               wf="njooveeld">njoveldiđ</t>
+            <t link="irrottaa_V" pos="" l_par="nopeasti solmu tms.">čuávdiliđ</t>
+            <t link="irrottaa_V"
+               pos=""
+               l_par="otsaluu sarvineen teuraalta"
+               wf="čergit">čergiittiđ</t>
+            <t link="irrottaa_V"
+               pos=""
+               l_par="paistin t. lavan luut lihoista"
+               wf="luuvâm lopá">luuppâđ</t>
+            <t link="irrottaa_V"
+               pos=""
+               l_par="paistit toisistaan"
+               wf="luuvvâst">luvâstiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">moarrasit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="murtua_V"
+               pos=""
+               l_par="kasvavasta poronsarvesta _COMMA_ huonosti merkitystä korvasta"
+               wf="muájum">muáijuđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">mozzasit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="taittua_V"
+               pos=""
+               l_par="kasvavasta poronsarvesta _COMMA_ huonosti merkitystä korvasta"
+               wf="muájum">muáijuđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">mulččihit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="lipsahtaa_V" pos="" l_par="esim. käsi" wf="njuordâm">njuordâđ</t>
+            <t link="lipsahtaa_V" pos="" l_par="esim. veitsi leikattaessa">njulččáđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">njahppit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="nykiä_V"
+               pos=""
+               l_par="esim. narua t. siimaa pass."
+               wf="nivkko">nivkkođ</t>
+            <t link="nykiä_V"
+               pos=""
+               l_par="esim. narusta t. siimasta akt."
+               wf="nivkká">nivkkeđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">nolliidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="kyykistyä_V" pos="" l_par="mennä kyykkyyn" wf="nuuttâg">nutâgiđ</t>
+            <t link="kyykistyä_V"
+               pos=""
+               l_par="esim. tarpeilleen"
+               wf="huuttâg">hutâgiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">návrruhit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="pilkata_V"
+               pos=""
+               l_par="panna halvalla"
+               wf="huánum _FT_ huánum">huánnuđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">onnestuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="onnistua_V"
+               pos=""
+               l_par="onnistua saamaan jtak harvinaista"
+               wf="koVom">kovvoođ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">reaggánit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="uupua_V"
+               pos=""
+               l_par="hirvas rykimäajan jälkeen"
+               wf="kolgood">kolgodiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">rehkket</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="riittää_V" pos="" l_par="olla tarpeeksi" wf="pijssáám">pijssáđ</t>
+            <t link="riittää_V"
+               pos=""
+               l_par="olla tarpeeksi jhk _COMMA_ kestää"
+               wf="pištám">pišteđ</t>
+            <t link="riittää_V"
+               pos=""
+               l_par="olla varaa t. tarpeeksi"
+               wf="suittuum suittoo">suittuđ</t>
+            <t link="riittää_V"
+               pos=""
+               l_par="yltää _COMMA_ olla esim. tarpeeksi pitkä"
+               wf="keelijd">kelijdiđ</t>
+            <t link="riittää_V"
+               pos=""
+               l_par="olla annettavaa jltak jllek"
+               wf="liijgom">lijgođ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">roandit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="harsia_V"
+               pos=""
+               l_par="m.ommella jotain pientä"
+               wf="suulgâm solgá">sulgâđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">rožagit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="kaventua_V"
+               pos=""
+               l_par="liian äkkiä t. väärästä kohdin"
+               wf="skuurčâg">skurčâgiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">ruvaštit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="puhaltaa_V" pos="" l_par="m. tuulesta" wf="posom">possoođ</t>
+            <t link="puhaltaa_V"
+               pos=""
+               l_par="maa paljaaksi t. vähälumiseksi tuulesta"
+               wf="veeđâm">veeđđâđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">seŋket</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="myöhästyä_V"
+               pos=""
+               l_par="ilman omaa syytä"
+               wf="maŊanuum">maŊanuđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">skuolljut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="puskea_V"
+               pos=""
+               l_par="erit. eläimistä"
+               wf="tuárum toorrum">tuárruđ</t>
+            <t link="puskea_V" pos="" l_par="erit. pässistä">puhkâliđ</t>
+            <t link="puskea_V"
+               pos=""
+               l_par="toisiaan tav. eläimistä"
+               wf="nurvodâđâm">nurvodâttâđ</t>
+            <t link="puskea_V"
+               pos=""
+               l_par="joutua pusketuksi"
+               wf="nurvottâđâm">nurvottâttâđ</t>
+            <t link="puskea_V"
+               pos=""
+               l_par="joutua poron puskemaksi"
+               wf="skájuttâđâm">skájuttâttâđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">smáhkiidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="maistua_V"
+               pos=""
+               l_par="olla hyvää _COMMA_ tehdä kauppansa ruoasta"
+               wf="njadda">njaddeđ</t>
+            <t link="maistua_V" pos="" l_par="kelvata syötäväks">purâttiđ</t>
+            <t link="maistua_V" pos="" l_par="jltak vähän" wf="njaddeest">njadestiđ</t>
+            <t link="maistua_V"
+               pos=""
+               l_par="vanhalta ja kitkerältä t. härskiltä"
+               syn_dash="-njadam -njadda">kuástinjaddeđ</t>
+            <t link="maistua_V"
+               pos=""
+               l_par="sokeriselta _COMMA_ makealta"
+               syn_dash="-njadam -njadda">sukkârnjaddeđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">snuđđat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="niiskuttaa_V" pos="" l_par="pidemmän aikaa" wf="snuđgom">snuđgođ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">soaikut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="harsia_V"
+               pos=""
+               l_par="m.ommella jotain pientä"
+               wf="suulgâm solgá">sulgâđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">soradit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="sotkeutua_V"
+               pos=""
+               l_par="jhk t. toisiinsa"
+               wf="surruum sorroo">surruđ</t>
+            <t link="sotkeutua_V"
+               pos=""
+               l_par="liekaan _COMMA_ naruun"
+               wf="surâdât">surâdâttâđ</t>
+            <t link="sotkeutua_V"
+               pos=""
+               l_par="joutua jk sekaan vahingossa"
+               wf="sotkâšuum sotkâšuVá">sotkâšuđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">stohppet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="pysähtyä_V"
+               pos=""
+               l_par="vähäksi aikaa"
+               t_tld="~ orostistiđ orostistám"
+               wf="orosistám">orosistiđ</t>
+            <t link="pysähtyä_V"
+               pos=""
+               l_par="hetkeksi erit. ahkiolla ajettaessa"
+               wf="toLânistám toLânist">toLânistiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">stágget</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="harsia_V"
+               pos=""
+               l_par="m.ommella jotain pientä"
+               wf="suulgâm solgá">sulgâđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">urddistit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="uurtaa_V"
+               pos=""
+               l_par="useita uria _COMMA_ urittaa"
+               wf="juormiim">juormiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">vuonjasmuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="kesyyntyä_V"
+               pos=""
+               l_par="erit. koirasta"
+               wf="miestâm miästá">miestâđ</t>
+            <t link="kesyyntyä_V"
+               pos=""
+               l_par="ajoporosta kouluksen aikana"
+               wf="taMâšuVá">taMâšuđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">vurderet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="arvioida_V"
+               pos=""
+               l_par="m. antaa arvosana"
+               wf="árvuštâlâm">árvuštâllâđ</t>
+            <t link="arvioida_V"
+               pos=""
+               l_par="antaa arvio _COMMA_ määritellä"
+               wf="miäruštâlâm">miäruštâllâđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">áđđet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="matkia_V" pos="" l_par="m. toistella" wf="pájálistám">pájálistiđ</t>
+            <t link="matkia_V"
+               pos=""
+               l_par="koppelon ääntä _COMMA_ kotkottaa"
+               wf="ookkât">okâttiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">čahrrat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="räkättää_V"
+               pos=""
+               l_par="tav. riekosta"
+               wf="skiäikám skiäikká">skeikkiđ</t>
+            <t link="räkättää_V"
+               pos=""
+               l_par="riekosta _COMMA_ ihmisestä"
+               wf="riäškám riäšká">reškiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">čarkkistit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="räkättää_V"
+               pos=""
+               l_par="tav. riekosta"
+               wf="skiäikám skiäikká">skeikkiđ</t>
+            <t link="räkättää_V"
+               pos=""
+               l_par="riekosta _COMMA_ ihmisestä"
+               wf="riäškám riäšká">reškiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">čeakŋagit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="kyykistyä_V" pos="" l_par="mennä kyykkyyn" wf="nuuttâg">nutâgiđ</t>
+            <t link="kyykistyä_V"
+               pos=""
+               l_par="esim. tarpeilleen"
+               wf="huuttâg">hutâgiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">čovvát</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="siepata_V" pos="" l_par="napata nopeasti ja huomaamattomasti">livkkâliđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">šaluiduvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="vettyä_V" pos="" l_par="kastua läpeensä" wf="čáásum">čááccuđ</t>
+            <t link="vettyä_V"
+               pos=""
+               l_par="jäästä talvella _COMMA_ paantaa"
+               wf="ooškâst">oškâstiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">šleambit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="hotkia_V"
+               pos=""
+               l_par="tav. koirasta _COMMA_ mutta m. ihmisestä"
+               wf="šlohom šlokko">šlokkođ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">šleambut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="hotkia_V"
+               pos=""
+               l_par="tav. koirasta _COMMA_ mutta m. ihmisestä"
+               wf="šlohom šlokko">šlokkođ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">šlinzzagit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="pehmetä_V"
+               pos=""
+               l_par="kenkäheinistä _COMMA_ joita pehmitetty kurikalla"
+               wf="caimâšuVá">caimâšuđ</t>
+            <t link="pehmetä_V"
+               pos=""
+               l_par="rakenteeltaan hauraaksi t. murenevaksi t. löysäksi puu t. leipä"
+               wf="smiäRu">smiärruđ</t>
+            <t link="pehmetä_V" pos="" l_par="kala t. liha" wf="silloo">silluđ</t>
+            <t link="pehmetä_V" pos="" l_par="tulla vetiseksi" wf="miähát">miäháttiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">šloaŋkkistit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="lonksua_V" pos="" l_par="airot hankaimissa">luávkkiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">šlávehit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="luovia_V"
+               pos=""
+               l_par="vaihtaa halssin kiinnitystä laidasta toiseen _COMMA_ jotta vene vaihtaa suuntaa"
+               wf="halssiim hälssee">halssiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">šnjoaraidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="liristä_V" pos="" l_par="erit. purosta" wf="liirijd">lirijdiđ</t>
+            <t link="liristä_V"
+               pos=""
+               l_par="purosta _COMMA_ vesi katolta tms."
+               t_tld="~ šaridiđ šaarid"
+               wf="šaarijd">šarijdiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">šnjoargut</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="liristä_V" pos="" l_par="erit. purosta" wf="liirijd">lirijdiđ</t>
+            <t link="liristä_V"
+               pos=""
+               l_par="purosta _COMMA_ vesi katolta tms."
+               t_tld="~ šaridiđ šaarid"
+               wf="šaarijd">šarijdiđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">aresteret</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="pidättää_V"
+               pos=""
+               l_par="esim. rikollinen"
+               wf="tolliittâm">tolliittiđ</t>
+            <t link="pidättää_V"
+               pos=""
+               l_par="pitää kiinni _COMMA_ paikoillaan"
+               wf="copciim">copciđ</t>
+            <t link="pidättää_V"
+               pos=""
+               l_par="ennakkoveroa tms."
+               wf="tolliim tuállee">tolliđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">arestet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="pidättää_V"
+               pos=""
+               l_par="esim. rikollinen"
+               wf="tolliittâm">tolliittiđ</t>
+            <t link="pidättää_V"
+               pos=""
+               l_par="pitää kiinni _COMMA_ paikoillaan"
+               wf="copciim">copciđ</t>
+            <t link="pidättää_V"
+               pos=""
+               l_par="ennakkoveroa tms."
+               wf="tolliim tuállee">tolliđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">davkasit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="peittyä_V"
+               pos=""
+               l_par="peittyä karvoihin"
+               wf="soovsâluum soovsâluVá">soovsâluđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">fáškalit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="sivaltaa_V" pos="" l_par="erit. piiskalla" wf="spaaihâst">spaihâstiđ</t>
+            <t link="sivaltaa_V" pos="" l_par="lyödä sivaltaa">vuođgâliđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">hásket</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="raadella_V"
+               pos=""
+               l_par="tärvellä _COMMA_ rikkoa"
+               wf="staajeed">stajediđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">meroštallat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="arvioida_V"
+               pos=""
+               l_par="m. antaa arvosana"
+               wf="árvuštâlâm">árvuštâllâđ</t>
+            <t link="arvioida_V"
+               pos=""
+               l_par="antaa arvio _COMMA_ määritellä"
+               wf="miäruštâlâm">miäruštâllâđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">čurvvodit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="huudella_V"
+               pos=""
+               l_par="toinen toisilleen"
+               wf="čuárvuđâđâm">čuárvuđâttâđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">šelget</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="kirkastaa_V"
+               pos=""
+               l_par="tulla kirkastetuksi"
+               wf="šelgâsmittuum">šelgâsmittuđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">njovggiidit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="lisääntyä_V"
+               pos=""
+               l_par="kovasti _COMMA_ ilmestyä suurin määrin"
+               wf="looskâm">loskâđ</t>
+            <t link="lisääntyä_V"
+               pos=""
+               l_par="hyvin _COMMA_ olla hedelmällinen"
+               wf="šoovvât">šoVâttiđ</t>
+            <t link="lisääntyä_V"
+               pos=""
+               l_par="erit. poroelosta _COMMA_ sietä"
+               wf="šooHân">šohâniđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">lihkostuvvat</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="onnistua_V"
+               pos=""
+               l_par="onnistua saamaan jtak harvinaista"
+               wf="koVom">kovvoođ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">evalueret</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="arvioida_V"
+               pos=""
+               l_par="m. antaa arvosana"
+               wf="árvuštâlâm">árvuštâllâđ</t>
+            <t link="arvioida_V"
+               pos=""
+               l_par="antaa arvio _COMMA_ määritellä"
+               wf="miäruštâlâm">miäruštâllâđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">ráđđet</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="neuvoa_V"
+               pos=""
+               l_par="osoittaa _COMMA_ ohjata jhk"
+               wf="povvâd">povvâdiđ</t>
+            <t link="neuvoa_V"
+               pos=""
+               l_par="kuvailla jk sijainti"
+               wf="valdâttâlâm">valdâttâllâđ</t>
+         </tg>
+      </mg>
+   </e>
+   
+<e>
+      <lg>
+         <l pos="V">čuovvolit</l>
+      </lg>
+      <mg>
+         <tg>
+            <t link="seurata_V"
+               pos=""
+               l_par="perässä _COMMA_ tavoitella"
+               wf="tuárrid">tuáRidiđ</t>
+            <t link="seurata_V" pos="" l_par="liittyä joukkoon" wf="servid">servidiđ</t>
+            <t link="seurata_V" pos="" l_par="erit. jälkiä" wf="kuorâm">kuorrâđ</t>
+            <t link="seurata_V"
+               pos=""
+               l_par="ohjeita _COMMA_ noudattaa"
+               wf="paittuum páittoo">paittuđ</t>
+            <t link="seurata_V" pos="" l_par="lähteä seuraamaan" wf="čuávvul">čuáVuliđ</t>
+            <t link="seurata_V"
+               pos=""
+               l_par="lähteä seuramaan jtak"
+               wf="taabžâm tábžá">tabžâđ</t>
+            <t link="seurata_V"
+               pos=""
+               l_par="helposti seuraava eläin t. ihminen"
+               t_tld="~ čuávudijjee">čuávudeijee</t>
+         </tg>
+      </mg>
+   </e>
+ </r>
+  

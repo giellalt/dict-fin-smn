@@ -2,7 +2,7 @@
 @trond: Important question: where do these data sets (fin_* and smn_* files) stem from?
 
 
-Work plan for improving the finsmn dictionary.
+Work plan for improving the finsmn*) dictionary.
 
 
 PROGRAMMER WORK:
@@ -62,3 +62,12 @@ Dictionary lemmas missing in fst:
 Assume Finnish words are written correctly 
 Add missing Finnish words to langs/fin/src/morphology/stems (not high priority)
 
+
+
+----
+
+*)
+The original source file is described in 
+finsmn/inc/2015/00_readme.txt
+
+Later additions have come via Giellatekno / Giellagáldu work with FST and dictionary.

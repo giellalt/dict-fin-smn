@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="fin">
+   <e id="3501">
+      <lg>
+         <l pos="CC-CS">jos</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CC-CS" t_tld="~jos">jis</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5993">
+      <lg>
+         <l pos="CC-CS">kuin</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Adv-CS" t_tld="~kuo">ko</t>
+            <t pos="Adv" t_tld="~tegu">tego</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15950">
+      <lg>
+         <l pos="CC-CS">vaan</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CC">pic</t>
+            <t pos="Adv">váá</t>
+            <t pos="CC-CS" t_tld="~mutâ">mut</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16038">
+      <lg>
+         <l pos="CC-CS">vaikka</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Adv-CS" t_tld="~veik">vâik</t>
+            <t pos="CS">jos</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1430">
+      <lg>
+         <l pos="CC-CS">että</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Adv-CC-CS">et</t>
+            <t pos="CS">ete</t>
+            <t pos="">it</t>
+            <t pos="Adv">asun</t>
+            <t pos="" t_tld="~ensun">ansun</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="CC-CS" l_par="syytä ilmoittamassa">vâi</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="" l_par="lue läksyt _COMMA_ että opit" wf="liävsuid">luuvâ</t>
+            <t pos="CC-CS" wf="oopah">vâi</t>
+         </tg>
+      </mg>
+   </e>
+</r>

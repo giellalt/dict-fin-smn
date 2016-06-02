@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="fin">
+   <e id="12879">
+      <lg>
+         <l pos="CC">sekä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Adv-CC">sehe</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1065">
+      <lg>
+         <l pos="CC" comma=", elikkä">eli</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Adv-CC">ađai</t>
+            <t pos="CC">adai</t>
+            <t pos="">taihe</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8704">
+      <lg>
+         <l pos="CC">mutta</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CC-CS" t_tld="~mutâ">mut</t>
+            <t pos="CC">pic</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1032">
+      <lg>
+         <l pos="CC">eikä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CC" t_tld="~ege">ige</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="" l_par="eivätkä">iäge</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3303">
+      <lg>
+         <l pos="CC">ja</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CC" t_tld="~ja">já</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="CC" l_par="ja niin">jeđe</t>
+         </tg>
+      </mg>
+   </e>
+</r>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="fin">
+   <e id="3489">
+      <lg>
+         <l pos="CS">jollen</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="" t_tld="~jos jiem" mwe="y">jis jiem</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3512">
+      <lg>
+         <l pos="CS">jottei</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CS" t_tld="~emas">amas</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1086">
+      <lg>
+         <l pos="CS" r1_par="(jne.)" comma=", -et, -ei">ellen</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="" mwe="y">jis jiem</t>
+            <t pos="" mwe="y">jis jieh</t>
+            <t pos="" r_par="jna." mwe="y">jis ij</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6176">
+      <lg>
+         <l pos="CS">kunpa</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Adv-CS">kuo</t>
+            <t pos="Adv">väri</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1427">
+      <lg>
+         <l pos="CS" comma=", -en, -et">ettei</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CS" t_tld="~ emas">amas</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="CC-CS" l_par="syytä ilmoittamassa">vâi</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos=""
+               l_par="mene sisälle ettet kastu"
+               t_tld="~ moonâ siisâ vâi jieh njuoskâ _MWEy_"
+               mwe="y">moonâ siisâ amas njuoskâđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6148">
+      <lg>
+         <l pos="CS">kun</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Adv-CS">ko</t>
+            <t pos="Pron">kođe</t>
+            <t pos="Adv-CS">kuo</t>
+            <t pos="Adv">jo</t>
+            <t pos="" t_tld="~-ko">-go</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Adv-CS" l_par="ajasta">kuás</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="Pron" l_par="kun sitten">kođe</t>
+         </tg>
+      </mg>
+   </e>
+</r>

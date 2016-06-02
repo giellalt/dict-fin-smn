@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="fin">
+   <e id="3511">
+      <lg>
+         <l pos="CS-Pron">jotta</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CC-CS">vâi</t>
+            <t pos="">vuoi</t>
+            <t pos="" t_tld="~ensun">ansun</t>
+            <t pos="Adv">asun</t>
+         </tg>
+      </mg>
+   </e>
+</r>

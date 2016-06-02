@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="fin">
+   <e id="9051">
+      <lg>
+         <l pos="Adv-CC-Pron">niin</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Adv-CC">naa</t>
+            <t pos="Adv">nuuvt</t>
+            <t pos="Adv-CS">te</t>
+            <t pos="">jite</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="niinhän">tehân</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="niin kuin">tego</t>
+            <t pos="CS">tegu</t>
+         </tg>
+      </mg>
+      <mg id="4">
+         <tg xml:lang="smn">
+            <t pos="" l_par="niin vain" t_tld="~ setinááLá">sätináálá</t>
+         </tg>
+      </mg>
+   </e>
+</r>

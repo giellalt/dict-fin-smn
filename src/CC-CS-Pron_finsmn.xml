@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="fin">
+   <e id="13143">
+      <lg>
+         <l pos="CC-CS-Pron">sillä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CC-CS">tastko</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Pron" l_par="sillä aikaa kun" wf="aaigij ko">toi</t>
+            <t pos="Adv" wf="ko">talle</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="sillä lailla">nuuvt</t>
+         </tg>
+      </mg>
+   </e>
+</r>

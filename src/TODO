@@ -27,6 +27,16 @@ In case of more than one POS, one may
 a. take the pos from the opposite member of the pair
 b. take both, and leave the decision for manual inspection
 
+src>cat fin_*|s|uc|snr|g ' 3 '|c
+       8
+src>cat fin_*|s|uc|snr|g ' 2 '|c
+     815
+
+src>cat smn_*|s|uc|snr|g ' 2 '|c
+     328
+src>cat smn_*|s|uc|snr|g ' 3 '|c
+       8
+
 
 Split the all_finsmn.xml according to fin POS.
 ==============================================

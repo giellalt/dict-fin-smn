@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="fin">
+   <e id="453">
+      <lg>
+         <l pos="Adv">alta päin</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Po">vyeleeld</t>
+         </tg>
+      </mg>
+   </e>
    <e id="103">
       <lg>
          <l pos="Adv">ahneesti</l>

@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="fin">
-   <e id="3">
+   <e id="839">
+      <lg>
+         <l pos="V" r1_par="(solmuja tms.)">availla</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="V" wf="čoovdâš">čovdâččiđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6875">
+      <lg>
+         <l pos="V" r1_par="(johdattaa tokkaa porolla)">laitistaa</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="V" wf="laiđist">laiđiistiđ</t>
+         </tg>
+      </mg>
+   </e>
+  <e id="3">
       <lg>
          <l pos="V">aakkostaa</l>
       </lg>

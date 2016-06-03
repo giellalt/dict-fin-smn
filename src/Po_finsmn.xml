@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="fin">
+   <e id="632">
+      <lg>
+         <l pos="Po" r1_par="(jk)">armoilla</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="">viäštust</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="752">
+      <lg>
+         <l pos="Po" r1_par="(jstak, jssak)">asti</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Po">rääjist</t>
+         </tg>
+      </mg>
+   </e>
+</r>

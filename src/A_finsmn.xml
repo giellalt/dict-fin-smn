@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="fin">
+   <e id="105">
+      <lg>
+         <l pos="A">ahnehtiva</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="A" wf="vuovnâlii">vuovnâlâš</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="126">
+      <lg>
+         <l pos="A">ahvenanmaalainen</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="A" wf="ålandlii">ålandlâš</t>
+         </tg>
+      </mg>
+   </e>
    <e id="9">
       <lg>
          <l pos="A">aaltoileva</l>

@@ -2,7 +2,7 @@
 <r xml:lang="fin">
    <e id="7613">
       <lg>
-         <l pos="A-Adv-N">loppu</l>
+         <l pos="N">loppu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -17,11 +17,21 @@
    </e>
    <e id="14980">
       <lg>
-         <l pos="A-Adv-N">tosi</l>
+         <l pos="N">tosi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Adv-N" wf="tuođâ">tuotâ</t>
+            <t pos="N" wf="tuođâ">tuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14980">
+      <lg>
+         <l pos="Adv">tosi</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Adv" wf="tuođâ">tuotâ</t>
          </tg>
       </mg>
       <mg id="2">

@@ -2,7 +2,7 @@
 <r xml:lang="fin">
    <e id="6083">
       <lg>
-         <l pos="A-N-Pron">kulta</l>
+         <l pos="N">kulta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -12,7 +12,7 @@
    </e>
    <e id="8641">
       <lg>
-         <l pos="A-N-Pron">musta</l>
+         <l pos="A">musta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">

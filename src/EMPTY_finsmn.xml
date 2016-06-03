@@ -2,7 +2,7 @@
 <r xml:lang="fin">
    <e id="42">
       <lg>
-         <l pos="" r1_par="(arttukatos)">aarto</l>
+         <l pos="N" r1_par="(arttukatos)">aarto</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -12,17 +12,17 @@
    </e>
    <e id="80">
       <lg>
-         <l pos="">ah</l>
+         <l pos="Interj">ah</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kah</t>
+            <t pos="Interj">kah</t>
          </tg>
       </mg>
    </e>
    <e id="105">
       <lg>
-         <l pos="">ahnehtiva</l>
+         <l pos="A">ahnehtiva</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -32,17 +32,27 @@
    </e>
    <e id="126">
       <lg>
-         <l pos="">ahvenanmaalainen</l>
+         <l pos="N">ahvenanmaalainen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="ålandlii">ålandlâš</t>
+            <t pos="N" wf="ålandlii">ålandlâš</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="126">
+      <lg>
+         <l pos="A">ahvenanmaalainen</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="A" wf="ålandlii">ålandlâš</t>
          </tg>
       </mg>
    </e>
    <e id="141">
       <lg>
-         <l pos="" r1_par="(mänty)">aihki</l>
+         <l pos="N" r1_par="(mänty)">aihki</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -50,19 +60,9 @@
          </tg>
       </mg>
    </e>
-   <e id="156">
-      <lg>
-         <l pos="">aikaistettu</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="">toledum</t>
-         </tg>
-      </mg>
-   </e>
    <e id="214">
       <lg>
-         <l pos="">aitokulta</l>
+         <l pos="N">aitokulta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -72,7 +72,7 @@
    </e>
    <e id="220">
       <lg>
-         <l pos="">aivastelu</l>
+         <l pos="N">aivastelu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -80,19 +80,9 @@
          </tg>
       </mg>
    </e>
-   <e id="237">
-      <lg>
-         <l pos="">ajaen</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="">vyejen</t>
-         </tg>
-      </mg>
-   </e>
    <e id="270">
       <lg>
-         <l pos="">ajettuminen</l>
+         <l pos="N">ajettuminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -102,7 +92,7 @@
    </e>
    <e id="363">
       <lg>
-         <l pos="">alfanumerinen</l>
+         <l pos="N">alfanumerinen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -110,19 +100,9 @@
          </tg>
       </mg>
    </e>
-   <e id="375">
-      <lg>
-         <l pos="" comma=", alimpana">alimmaisena</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="Adv">vyelemustáá</t>
-         </tg>
-      </mg>
-   </e>
    <e id="396">
       <lg>
-         <l pos="">alju</l>
+         <l pos="N">alju</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -132,7 +112,7 @@
    </e>
    <e id="400">
       <lg>
-         <l pos="" r1_par="(mon.)">alkeet</l>
+         <l pos="N" r1_par="(mon.)">alkeet</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -140,19 +120,9 @@
          </tg>
       </mg>
    </e>
-   <e id="401">
-      <lg>
-         <l pos="">alkeis-</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="" t_tld="~álgu-">algâ-</t>
-         </tg>
-      </mg>
-   </e>
    <e id="453">
       <lg>
-         <l pos="">alta päin</l>
+         <l pos="Adv">alta päin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -162,17 +132,17 @@
    </e>
    <e id="477">
       <lg>
-         <l pos="" tt_auto="Dryopteris">alvejuuret</l>
+         <l pos="N" tt_auto="Dryopteris">alvejuuri</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kaaicârääsih</t>
+            <t pos="">kaaicârääsi</t>
          </tg>
       </mg>
    </e>
    <e id="480">
       <lg>
-         <l pos="" tt_auto="Gavia immer">amerikanjääkuikka</l>
+         <l pos="N" tt_auto="Gavia immer">amerikanjääkuikka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -182,7 +152,7 @@
    </e>
    <e id="483">
       <lg>
-         <l pos="" tt_auto="Aythya collaris">amerikantukkasotka</l>
+         <l pos="N" tt_auto="Aythya collaris">amerikantukkasotka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -190,19 +160,9 @@
          </tg>
       </mg>
    </e>
-   <e id="516">
-      <lg>
-         <l pos="">ammuttava</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="">päjittep</t>
-         </tg>
-      </mg>
-   </e>
    <e id="521">
       <lg>
-         <l pos="">ampuma-ansa</l>
+         <l pos="N">ampuma-ansa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -212,7 +172,7 @@
    </e>
    <e id="632">
       <lg>
-         <l pos="" r1_par="(jk)">armoilla</l>
+         <l pos="Po" r1_par="(jk)">armoilla</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -222,7 +182,7 @@
    </e>
    <e id="648">
       <lg>
-         <l pos="" r1_par="(mon.)">arpajaiset</l>
+         <l pos="N" r1_par="(mon.)">arpajaiset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -232,7 +192,7 @@
    </e>
    <e id="752">
       <lg>
-         <l pos="" r1_par="(jstak, jssak)">asti</l>
+         <l pos="Po" r1_par="(jstak, jssak)">asti</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -242,17 +202,17 @@
    </e>
    <e id="784">
       <lg>
-         <l pos="" r1_par="(automaattinen tietojenkäsittely)">ATK</l>
+         <l pos="N" r1_par="(automaattinen tietojenkäsittely)">ATK</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="automaatlâš tiätukietâdâllâm">ATK</t>
+            <t pos="N" r_par="automaatlâš tiätukietâdâllâm">ATK</t>
          </tg>
       </mg>
    </e>
    <e id="839">
       <lg>
-         <l pos="" r1_par="(solmuja tms.)">availla</l>
+         <l pos="V" r1_par="(solmuja tms.)">availla</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -262,7 +222,7 @@
    </e>
    <e id="853">
       <lg>
-         <l pos="">avioituminen</l>
+         <l pos="N">avioituminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -270,19 +230,9 @@
          </tg>
       </mg>
    </e>
-   <e id="865">
-      <lg>
-         <l pos="">avo-</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="">ávus-</t>
-         </tg>
-      </mg>
-   </e>
    <e id="880">
       <lg>
-         <l pos="">avosuhde</l>
+         <l pos="N">avosuhde</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -290,19 +240,9 @@
          </tg>
       </mg>
    </e>
-   <e id="885">
-      <lg>
-         <l pos="">avulla</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="">vievâst</t>
-         </tg>
-      </mg>
-   </e>
    <e id="895">
       <lg>
-         <l pos="" tt_auto="Phylloscopus orientalis">balkaninuunilintu</l>
+         <l pos="N" tt_auto="Phylloscopus orientalis">balkaninuunilintu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -312,7 +252,7 @@
    </e>
    <e id="929">
       <lg>
-         <l pos="">diabaasi</l>
+         <l pos="N">diabaasi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -322,31 +262,31 @@
    </e>
    <e id="955">
       <lg>
-         <l pos="">DvD-asema</l>
+         <l pos="N">DvD-asema</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" syn_dash="-sajattuv">DvD-sajattâh</t>
+            <t pos="N" syn_dash="-sajattuv">DvD-sajattâh</t>
          </tg>
       </mg>
    </e>
    <e id="956">
       <lg>
-         <l pos="">DvD-levy</l>
+         <l pos="N">DvD-levy</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" syn_dash="-skiäRu">DvD-skiärru</t>
+            <t pos="N" syn_dash="-skiäRu">DvD-skiärru</t>
          </tg>
       </mg>
    </e>
    <e id="957">
       <lg>
-         <l pos="">DvD-soitin</l>
+         <l pos="N">DvD-soitin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">DvD-čuojânâs</t>
+            <t pos="N">DvD-čuojânâs</t>
          </tg>
       </mg>
    </e>
@@ -372,7 +312,7 @@
    </e>
    <e id="1060">
       <lg>
-         <l pos="">elektroniikka-asentaja</l>
+         <l pos="N">elektroniikka-asentaja</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -382,7 +322,7 @@
    </e>
    <e id="1100">
       <lg>
-         <l pos="">ElY-keskus</l>
+         <l pos="N">ElY-keskus</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -502,7 +442,7 @@
    </e>
    <e id="1429">
       <lg>
-         <l pos="">ettomies</l>
+         <l pos="N">ettomies</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -512,7 +452,7 @@
    </e>
    <e id="1513">
       <lg>
-         <l pos="" syn="~fleece">fleece</l>
+         <l pos="N" syn="~fleece">fleece</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -522,7 +462,7 @@
    </e>
    <e id="1514">
       <lg>
-         <l pos="">fleece-takki</l>
+         <l pos="N">fleece-takki</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -542,7 +482,7 @@
    </e>
    <e id="1581">
       <lg>
-         <l pos="" r1_par="(mon.)">haarat</l>
+         <l pos="N" r1_par="(mon.)">haarat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -562,7 +502,7 @@
    </e>
    <e id="1586">
       <lg>
-         <l pos="" r1_par="(laavupuolen pääruode)">haaru</l>
+         <l pos="N" r1_par="(laavupuolen pääruode)">haaru</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -632,7 +572,7 @@
    </e>
    <e id="1820">
       <lg>
-         <l pos="" r1_par="(huivissa)" r2_par="(mon.)">hapsut</l>
+         <l pos="N" r1_par="(huivissa)" r2_par="(mon.)">hapsut</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -642,7 +582,7 @@
    </e>
    <e id="1893">
       <lg>
-         <l pos="">harsuuntuminen</l>
+         <l pos="N">harsuuntuminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -662,7 +602,7 @@
    </e>
    <e id="1907">
       <lg>
-         <l pos="" r1_par="(karvojen)">harventuminen</l>
+         <l pos="N" r1_par="(karvojen)">harventuminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -672,7 +612,7 @@
    </e>
    <e id="1912">
       <lg>
-         <l pos="">hassuttelija</l>
+         <l pos="N">hassuttelija</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -682,7 +622,7 @@
    </e>
    <e id="1943">
       <lg>
-         <l pos="">hautaansiunaaminen</l>
+         <l pos="N">hautaansiunaaminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -722,7 +662,7 @@
    </e>
    <e id="2017">
       <lg>
-         <l pos="">heinäpuura</l>
+         <l pos="N">heinäpuura</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -732,7 +672,7 @@
    </e>
    <e id="2022">
       <lg>
-         <l pos="" r1_par="(kengässä)">heinät</l>
+         <l pos="N" r1_par="(kengässä)">heinät</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -752,17 +692,17 @@
    </e>
    <e id="2071">
       <lg>
-         <l pos="" tt_auto="Pholiota">helokat</l>
+         <l pos="N" tt_auto="Pholiota">helokat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">šiäráneh</t>
+            <t pos="N">šiäráneh</t>
          </tg>
       </mg>
    </e>
    <e id="2135">
       <lg>
-         <l pos="" tt_auto="Equisetum scirpoides">hentokorte</l>
+         <l pos="N" tt_auto="Equisetum scirpoides">hentokorte</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -772,11 +712,11 @@
    </e>
    <e id="2136">
       <lg>
-         <l pos="" tt_auto="Chenopodium polyspermum">hentosavikka</l>
+         <l pos="N" tt_auto="Chenopodium polyspermum">hentosavikka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">šiervisnjaajâg</t>
+            <t pos="N">šiervisnjaajâg</t>
          </tg>
       </mg>
    </e>
@@ -792,7 +732,7 @@
    </e>
    <e id="2262">
       <lg>
-         <l pos="">hiihdättäjä</l>
+         <l pos="N">hiihdättäjä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -812,11 +752,11 @@
    </e>
    <e id="2288">
       <lg>
-         <l pos="" tt_auto="Athyrium">hiirenportaat</l>
+         <l pos="N" tt_auto="Athyrium">hiirenportaat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">säpligporttááh</t>
+            <t pos="N">säpligporttááh</t>
          </tg>
       </mg>
    </e>
@@ -832,7 +772,7 @@
    </e>
    <e id="2341">
       <lg>
-         <l pos="">hiomaviila</l>
+         <l pos="N">hiomaviila</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -852,11 +792,11 @@
    </e>
    <e id="2399">
       <lg>
-         <l pos="" r1_par="(mon.)">hohtimet</l>
+         <l pos="N" r1_par="(mon.)">hohtimet</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">poostah</t>
+            <t pos="N" r_par="mon.">poostah</t>
          </tg>
       </mg>
    </e>
@@ -872,7 +812,7 @@
    </e>
    <e id="2406">
       <lg>
-         <l pos="" tt_auto="Poa angustifolia">hoikkanurmikka</l>
+         <l pos="N" tt_auto="Poa angustifolia">hoikkanurmikka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -882,7 +822,7 @@
    </e>
    <e id="2407">
       <lg>
-         <l pos="" tt_auto="Thalictrum simplex">hoikkaängelmä</l>
+         <l pos="N" tt_auto="Thalictrum simplex">hoikkaängelmä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -902,11 +842,11 @@
    </e>
    <e id="2482">
       <lg>
-         <l pos="">huidonta</l>
+         <l pos="N">huidonta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="faškâs">faaškâs</t>
+            <t pos="N" wf="faškâs">faaškâs</t>
          </tg>
       </mg>
    </e>
@@ -922,7 +862,7 @@
    </e>
    <e id="2589">
       <lg>
-         <l pos="">huononäköisyys</l>
+         <l pos="N">huononäköisyys</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -962,7 +902,7 @@
    </e>
    <e id="2703">
       <lg>
-         <l pos="" r1_par="(iholle laitettava)">hyttyskarkoite</l>
+         <l pos="N" r1_par="(iholle laitettava)">hyttyskarkoite</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1002,11 +942,11 @@
    </e>
    <e id="2810">
       <lg>
-         <l pos="" tt_auto="Cerastium">härkit</l>
+         <l pos="N" tt_auto="Cerastium">härkit</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">säpligrääsih</t>
+            <t pos="N">säpligrääsih</t>
          </tg>
       </mg>
    </e>
@@ -1022,17 +962,17 @@
    </e>
    <e id="2854">
       <lg>
-         <l pos="" r1_par="(mon.)">häät</l>
+         <l pos="N" r1_par="(mon.)">häät</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">heejah</t>
+            <t pos="N" r_par="mon.">heejah</t>
          </tg>
       </mg>
    </e>
    <e id="2866">
       <lg>
-         <l pos="">hölskyntä</l>
+         <l pos="N">hölskyntä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1052,11 +992,11 @@
    </e>
    <e id="2922">
       <lg>
-         <l pos="" r1_par="(mon.)">ihmissuhteet</l>
+         <l pos="N" r1_par="(mon.)">ihmissuhteet</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">olmooškoskâvuođah</t>
+            <t pos="N" r_par="mon.">olmooškoskâvuođah</t>
          </tg>
       </mg>
    </e>
@@ -1082,7 +1022,7 @@
    </e>
    <e id="3115">
       <lg>
-         <l pos="">irrallaan olo</l>
+         <l pos="N">irrallaan olo</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1102,11 +1042,11 @@
    </e>
    <e id="3137">
       <lg>
-         <l pos="">irvinaama</l>
+         <l pos="N">irvinaama</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="ruže">ružže</t>
+            <t pos="N" wf="ruže">ružže</t>
          </tg>
       </mg>
    </e>
@@ -1152,7 +1092,7 @@
    </e>
    <e id="3297">
       <lg>
-         <l pos="">ivalolainen</l>
+         <l pos="N">ivalolainen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1182,7 +1122,7 @@
    </e>
    <e id="3306">
       <lg>
-         <l pos="">jaakonpäivä</l>
+         <l pos="N">jaakonpäivä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1202,7 +1142,7 @@
    </e>
    <e id="3377">
       <lg>
-         <l pos="" r1_par="(kova puuaines)">janhus</l>
+         <l pos="N" r1_par="(kova puuaines)">janhus</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1212,7 +1152,7 @@
    </e>
    <e id="3422">
       <lg>
-         <l pos="">jigi</l>
+         <l pos="N">jigi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1272,7 +1212,7 @@
    </e>
    <e id="3466">
       <lg>
-         <l pos="" tt_auto="Carex nigra">jokapaikansara</l>
+         <l pos="N" tt_auto="Carex nigra">jokapaikansara</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1322,7 +1262,7 @@
    </e>
    <e id="3543">
       <lg>
-         <l pos="">joutamattomuus</l>
+         <l pos="N">joutamattomuus</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1332,11 +1272,11 @@
    </e>
    <e id="3559">
       <lg>
-         <l pos="" r1_par="(mon.)">juhlallisuudet</l>
+         <l pos="N" r1_par="(mon.)">juhlallisuudet</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">ávutuáluh</t>
+            <t pos="N" r_par="mon.">ávutuáluh</t>
          </tg>
       </mg>
    </e>
@@ -1372,17 +1312,17 @@
    </e>
    <e id="3631">
       <lg>
-         <l pos="" r1_par="(mon.)">juomingit</l>
+         <l pos="N" r1_par="(mon.)">juomingit</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">juvâlmâsah</t>
+            <t pos="N" r_par="mon.">juvâlmâsah</t>
          </tg>
       </mg>
    </e>
    <e id="3632">
       <lg>
-         <l pos="">juomus</l>
+         <l pos="N">juomus</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1402,21 +1342,21 @@
    </e>
    <e id="3656">
       <lg>
-         <l pos="" r1_par="(vastahakoinen ajokas)">jurakko</l>
+         <l pos="N" r1_par="(vastahakoinen ajokas)">jurakko</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">luobdâh</t>
+            <t pos="N">luobdâh</t>
          </tg>
       </mg>
    </e>
    <e id="3660">
       <lg>
-         <l pos="" r1_par="(syvänne kosken alla)">jurmu</l>
+         <l pos="N" r1_par="(syvänne kosken alla)">jurmu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="jormo">jormo</t>
+            <t pos="N" wf="jormo">jormo</t>
          </tg>
       </mg>
    </e>
@@ -1432,7 +1372,7 @@
    </e>
    <e id="3666">
       <lg>
-         <l pos="">jutaminen</l>
+         <l pos="N">jutaminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1442,37 +1382,37 @@
    </e>
    <e id="3667">
       <lg>
-         <l pos="">jutamispolku</l>
+         <l pos="N">jutamispolku</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="jođáttuv">jođáttâh</t>
+            <t pos="N" wf="jođáttuv">jođáttâh</t>
          </tg>
       </mg>
    </e>
    <e id="3673">
       <lg>
-         <l pos="" tt_auto="Collybia">juurekkaat</l>
+         <l pos="N" tt_auto="Collybia">juurekkaat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ruottâsiih</t>
+            <t pos="N">ruottâsiih</t>
          </tg>
       </mg>
    </e>
    <e id="3685">
       <lg>
-         <l pos="" r1_par="(mon.)">juurtumahapset</l>
+         <l pos="N" r1_par="(mon.)">juurtumahapset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">ruotâsmumsoksâmeh</t>
+            <t pos="N" r_par="mon.">ruotâsmumsoksâmeh</t>
          </tg>
       </mg>
    </e>
    <e id="3763">
       <lg>
-         <l pos="" r1_par="(mon.)">jämät</l>
+         <l pos="N" r1_par="(mon.)">jämät</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1492,17 +1432,17 @@
    </e>
    <e id="3861">
       <lg>
-         <l pos="">jäykistäminen</l>
+         <l pos="N">jäykistäminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">storgâsmittim</t>
+            <t pos="N">storgâsmittim</t>
          </tg>
       </mg>
    </e>
    <e id="3866">
       <lg>
-         <l pos="" tt_auto="Festuca trachyphylla">jäykkänata</l>
+         <l pos="N" tt_auto="Festuca trachyphylla">jäykkänata</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1512,7 +1452,7 @@
    </e>
    <e id="3867">
       <lg>
-         <l pos="" tt_auto="Agrostis vinealis">jäykkärölli</l>
+         <l pos="N" tt_auto="Agrostis vinealis">jäykkärölli</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1542,7 +1482,7 @@
    </e>
    <e id="3960">
       <lg>
-         <l pos="">kaariste</l>
+         <l pos="N">kaariste</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1552,7 +1492,7 @@
    </e>
    <e id="3963">
       <lg>
-         <l pos="" tt_auto="Pedicularis sceptrum-carolinum">kaarlenvaltikka</l>
+         <l pos="N" tt_auto="Pedicularis sceptrum-carolinum">kaarlenvaltikka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1562,11 +1502,11 @@
    </e>
    <e id="3972">
       <lg>
-         <l pos="" r1_par="(mon.)">kaatiosäpäkkeet</l>
+         <l pos="N" r1_par="(mon.)">kaatiosäpäkkeet</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">stiváh</t>
+            <t pos="N" r_par="mon.">stiváh</t>
          </tg>
       </mg>
    </e>
@@ -1632,7 +1572,7 @@
    </e>
    <e id="4022">
       <lg>
-         <l pos="" tt_auto="Viola selkirkii">kaiheorvokki</l>
+         <l pos="N" tt_auto="Viola selkirkii">kaiheorvokki</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1662,7 +1602,7 @@
    </e>
    <e id="4036">
       <lg>
-         <l pos="" r1_par="(mon.)">kaimakset</l>
+         <l pos="N" r1_par="(mon.)">kaimakset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1682,11 +1622,11 @@
    </e>
    <e id="4044">
       <lg>
-         <l pos="" r1_par="(lumihuippuinen vaara)">kaisa</l>
+         <l pos="N" r1_par="(lumihuippuinen vaara)">kaisa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="kááisá">káisá</t>
+            <t pos="N" wf="kááisá">káisá</t>
          </tg>
       </mg>
    </e>
@@ -1722,7 +1662,7 @@
    </e>
    <e id="4088">
       <lg>
-         <l pos="">kaksoisklikkaus</l>
+         <l pos="N">kaksoisklikkaus</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1732,7 +1672,7 @@
    </e>
    <e id="4100">
       <lg>
-         <l pos="" r1_par="(mon.)">kalanperkeet</l>
+         <l pos="N" r1_par="(mon.)">kalanperkeet</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1752,7 +1692,7 @@
    </e>
    <e id="4149">
       <lg>
-         <l pos="" r1_par="(kenkä)">kallokas</l>
+         <l pos="N" r1_par="(kenkä)">kallokas</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1762,7 +1702,7 @@
    </e>
    <e id="4152">
       <lg>
-         <l pos="" tt_auto="Collybia dryophila">kalpeajuurekas</l>
+         <l pos="N" tt_auto="Collybia dryophila">kalpeajuurekas</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1772,27 +1712,27 @@
    </e>
    <e id="4153">
       <lg>
-         <l pos="" r1_par="(mon.)">kalsarit</l>
+         <l pos="N" r1_par="(mon.)">kalsarit</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">kalsareh</t>
+            <t pos="N" r_par="mon.">kalsareh</t>
          </tg>
       </mg>
    </e>
    <e id="4155">
       <lg>
-         <l pos="" r1_par="(naisen poronkoipinahkasäärystin)">kalsu</l>
+         <l pos="N" r1_par="(naisen poronkoipinahkasäärystin)">kalsu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="pido">piddo</t>
+            <t pos="N" wf="pido">piddo</t>
          </tg>
       </mg>
    </e>
    <e id="4162">
       <lg>
-         <l pos="" tt_auto="Lactarius utilis">kalvashaaparousku</l>
+         <l pos="N" tt_auto="Lactarius utilis">kalvashaaparousku</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1802,7 +1742,7 @@
    </e>
    <e id="4163">
       <lg>
-         <l pos="" tt_auto="Salix hastata">kalvaspaju</l>
+         <l pos="N" tt_auto="Salix hastata">kalvaspaju</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1812,7 +1752,7 @@
    </e>
    <e id="4164">
       <lg>
-         <l pos="" tt_auto="Utricularia ochroleuca">kalvasvesiherne</l>
+         <l pos="N" tt_auto="Utricularia ochroleuca">kalvasvesiherne</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1822,17 +1762,17 @@
    </e>
    <e id="4174">
       <lg>
-         <l pos="">kamina</l>
+         <l pos="N">kamina</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kaamiin</t>
+            <t pos="N">kaamiin</t>
          </tg>
       </mg>
    </e>
    <e id="4203">
       <lg>
-         <l pos="" tt_auto="Carex ericetorum">kanervisara</l>
+         <l pos="N" tt_auto="Carex ericetorum">kanervisara</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1842,7 +1782,7 @@
    </e>
    <e id="4253">
       <lg>
-         <l pos="">kansalliskieli</l>
+         <l pos="N">kansalliskieli</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1852,7 +1792,7 @@
    </e>
    <e id="4255">
       <lg>
-         <l pos="">kansallislintu</l>
+         <l pos="N">kansallislintu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1892,7 +1832,7 @@
    </e>
    <e id="4334">
       <lg>
-         <l pos="" tt_auto="Poa trivalis">karheanurmikka</l>
+         <l pos="N" tt_auto="Poa trivalis">karheanurmikka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1912,7 +1852,7 @@
    </e>
    <e id="4374">
       <lg>
-         <l pos="">karkottaja</l>
+         <l pos="N">karkottaja</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1922,7 +1862,7 @@
    </e>
    <e id="4388">
       <lg>
-         <l pos="" r1_par="(villan karstaamiseen)" r2_par="(mon.)">karstat</l>
+         <l pos="N" r1_par="(villan karstaamiseen)" r2_par="(mon.)">karstat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1952,7 +1892,7 @@
    </e>
    <e id="4405">
       <lg>
-         <l pos="" tt_auto="Sedum villosum">karvainenmaksaruoho</l>
+         <l pos="N" tt_auto="Sedum villosum">karvainenmaksaruoho</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1972,7 +1912,7 @@
    </e>
    <e id="4426">
       <lg>
-         <l pos="" tt_auto="Phylloscopus humei">kashmirinuunilintu</l>
+         <l pos="N" tt_auto="Phylloscopus humei">kashmirinuunilintu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1992,17 +1932,17 @@
    </e>
    <e id="4446">
       <lg>
-         <l pos="" tt_auto="Calamagrostis">kastikat</l>
+         <l pos="N" tt_auto="Calamagrostis">kastikat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">lahtâsyeinih</t>
+            <t pos="N">lahtâsyeinih</t>
          </tg>
       </mg>
    </e>
    <e id="4500">
       <lg>
-         <l pos="" tt_auto="Polygonum hydropiper">katkeratatar</l>
+         <l pos="N" tt_auto="Polygonum hydropiper">katkeratatar</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2052,21 +1992,21 @@
    </e>
    <e id="4568">
       <lg>
-         <l pos="" r1_par="(mon.)">kaukolasit</l>
+         <l pos="N" r1_par="(mon.)">kaukolasit</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">káiduslaasah</t>
+            <t pos="N">káiduslaasah</t>
          </tg>
       </mg>
    </e>
    <e id="4575">
       <lg>
-         <l pos="" r1_par="(mon.)">kaukovalot</l>
+         <l pos="N" r1_par="(mon.)">kaukovalot</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">kuhesčuovah</t>
+            <t pos="N" r_par="mon.">kuhesčuovah</t>
          </tg>
       </mg>
    </e>
@@ -2082,7 +2022,7 @@
    </e>
    <e id="4610">
       <lg>
-         <l pos="">kaupaksikäynti</l>
+         <l pos="N">kaupaksikäynti</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2092,7 +2032,7 @@
    </e>
    <e id="4645">
       <lg>
-         <l pos="" tt_auto="Amanita phalloides">kavalakärpässieni</l>
+         <l pos="N" tt_auto="Amanita phalloides">kavalakärpässieni</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2102,7 +2042,7 @@
    </e>
    <e id="4723">
       <lg>
-         <l pos="" r1_par="(keittokerrallinen)">keitollinen</l>
+         <l pos="N" r1_par="(keittokerrallinen)">keitollinen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2112,27 +2052,27 @@
    </e>
    <e id="4732">
       <lg>
-         <l pos="" r1_par="(mon.)">kekkerit</l>
+         <l pos="N" r1_par="(mon.)">kekkerit</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">čogâlmâsah</t>
+            <t pos="N" r_par="mon.">čogâlmâsah</t>
          </tg>
       </mg>
    </e>
    <e id="4766">
       <lg>
-         <l pos="" r1_par="(mon.)">kelluslehtiset</l>
+         <l pos="N" r1_par="(mon.)">kelluslehtiset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">kobđoolostâsiih</t>
+            <t pos="N" r_par="mon.">kobđoolostâsiih</t>
          </tg>
       </mg>
    </e>
    <e id="4798">
       <lg>
-         <l pos="" tt_auto="Calocera viscosa">keltasarvikka</l>
+         <l pos="N" tt_auto="Calocera viscosa">keltasarvikka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2142,7 +2082,7 @@
    </e>
    <e id="4819">
       <lg>
-         <l pos="" tt_auto="Thalictrum kemense">keminängelmä</l>
+         <l pos="N" tt_auto="Thalictrum kemense">keminängelmä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2162,7 +2102,7 @@
    </e>
    <e id="4839">
       <lg>
-         <l pos="">kenttämittarin toukka</l>
+         <l pos="N">kenttämittarin toukka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2172,17 +2112,17 @@
    </e>
    <e id="4856">
       <lg>
-         <l pos="">kermikäntalja</l>
+         <l pos="N">kermikäntalja</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="čiermihâđâ">čiermihât</t>
+            <t pos="N" wf="čiermihâđâ">čiermihât</t>
          </tg>
       </mg>
    </e>
    <e id="4871">
       <lg>
-         <l pos="">kerrostuneisuus</l>
+         <l pos="N">kerrostuneisuus</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2202,17 +2142,17 @@
    </e>
    <e id="4899">
       <lg>
-         <l pos="">kerääntymä</l>
+         <l pos="N">kerääntymä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čuákki</t>
+            <t pos="N">čuákki</t>
          </tg>
       </mg>
    </e>
    <e id="4901">
       <lg>
-         <l pos="">kesi</l>
+         <l pos="N">kesi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2222,11 +2162,11 @@
    </e>
    <e id="4913">
       <lg>
-         <l pos="" r1_par="(mon.)">keskiaivot</l>
+         <l pos="N" r1_par="(mon.)">keskiaivot</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">kuávdášvuoiŋâšeh</t>
+            <t pos="N" r_par="mon.">kuávdášvuoiŋâšeh</t>
          </tg>
       </mg>
    </e>
@@ -2242,7 +2182,7 @@
    </e>
    <e id="4939">
       <lg>
-         <l pos="" r1_par="(mon.)">kestit</l>
+         <l pos="N" r1_par="(mon.)">kestit</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2262,11 +2202,11 @@
    </e>
    <e id="4967">
       <lg>
-         <l pos="" r1_par="(mon.)">kesättivaljaat</l>
+         <l pos="N" r1_par="(mon.)">kesättivaljaat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="kiässá">keesis</t>
+            <t pos="N" wf="kiässá">keesis</t>
          </tg>
       </mg>
    </e>
@@ -2292,17 +2232,17 @@
    </e>
    <e id="5033">
       <lg>
-         <l pos="">kiehinen</l>
+         <l pos="N">kiehinen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kuáskinjâs</t>
+            <t pos="N">kuáskinjâs</t>
          </tg>
       </mg>
    </e>
    <e id="5039">
       <lg>
-         <l pos="">kiekerö</l>
+         <l pos="N">kiekerö</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2312,7 +2252,7 @@
    </e>
    <e id="5042">
       <lg>
-         <l pos="">kiela</l>
+         <l pos="N">kiela</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2342,11 +2282,11 @@
    </e>
    <e id="5107">
       <lg>
-         <l pos="" r1_par="(mon.)">kihlajaiset</l>
+         <l pos="N" r1_par="(mon.)">kihlajaiset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">kihlájááh</t>
+            <t pos="N" r_par="mon.">kihlájááh</t>
          </tg>
       </mg>
    </e>
@@ -2362,7 +2302,7 @@
    </e>
    <e id="5139">
       <lg>
-         <l pos="" tt_auto="Betula forma apressa">kiilopäänkoivu</l>
+         <l pos="N" tt_auto="Betula forma apressa">kiilopäänkoivu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2412,7 +2352,7 @@
    </e>
    <e id="5182">
       <lg>
-         <l pos="">kiisa</l>
+         <l pos="N">kiisa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2422,7 +2362,7 @@
    </e>
    <e id="5212">
       <lg>
-         <l pos="">kilkura</l>
+         <l pos="N">kilkura</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2442,11 +2382,11 @@
    </e>
    <e id="5252">
       <lg>
-         <l pos="" r1_par="(mon.)">kinkerit</l>
+         <l pos="N" r1_par="(mon.)">kinkerit</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">kiŋgâreh</t>
+            <t pos="N" r_par="mon.">kiŋgâreh</t>
          </tg>
       </mg>
    </e>
@@ -2482,11 +2422,11 @@
    </e>
    <e id="5290">
       <lg>
-         <l pos="" r1_par="(mon.)">kirjaimet</l>
+         <l pos="N" r1_par="(mon.)">kirjaimet</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">puustaveh</t>
+            <t pos="N" r_par="mon.">puustaveh</t>
          </tg>
       </mg>
    </e>
@@ -2502,11 +2442,11 @@
    </e>
    <e id="5389">
       <lg>
-         <l pos="" tt_auto="Apodiformes">kirskulinnut</l>
+         <l pos="N" tt_auto="Apodiformes">kirskulinnut</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">piškoolodeh</t>
+            <t pos="N">piškoolodeh</t>
          </tg>
       </mg>
    </e>
@@ -2522,7 +2462,7 @@
    </e>
    <e id="5411">
       <lg>
-         <l pos="">kisura</l>
+         <l pos="N">kisura</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2532,7 +2472,7 @@
    </e>
    <e id="5425">
       <lg>
-         <l pos="" tt_auto="Hypholoma fasciculare">kitkerälahokka</l>
+         <l pos="N" tt_auto="Hypholoma fasciculare">kitkerälahokka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2542,7 +2482,7 @@
    </e>
    <e id="5490">
       <lg>
-         <l pos="">klikkaus</l>
+         <l pos="N">klikkaus</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2572,7 +2512,7 @@
    </e>
    <e id="5577">
       <lg>
-         <l pos="" r1_par="(iso uroslohi)">kojamo</l>
+         <l pos="N" r1_par="(iso uroslohi)">kojamo</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2592,17 +2532,17 @@
    </e>
    <e id="5587">
       <lg>
-         <l pos="" r1_par="(nuotatessa)">kokemaväli</l>
+         <l pos="N" r1_par="(nuotatessa)">kokemaväli</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="kuáđfi">kuáđfi</t>
+            <t pos="N" wf="kuáđfi">kuáđfi</t>
          </tg>
       </mg>
    </e>
    <e id="5615">
       <lg>
-         <l pos="" r1_par="(juomustettaessa)">kokuköysi</l>
+         <l pos="N" r1_par="(juomustettaessa)">kokuköysi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2612,7 +2552,7 @@
    </e>
    <e id="5628">
       <lg>
-         <l pos="">kolistelu</l>
+         <l pos="N">kolistelu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2622,7 +2562,7 @@
    </e>
    <e id="5636">
       <lg>
-         <l pos="" r1_par="(peräkkäin sidottujen porojen jono)">kollos</l>
+         <l pos="N" r1_par="(peräkkäin sidottujen porojen jono)">kollos</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2682,11 +2622,11 @@
    </e>
    <e id="5670">
       <lg>
-         <l pos="" tt_auto="Lupinus polyphyllus">komealupiini</l>
+         <l pos="N" tt_auto="Lupinus polyphyllus">komealupiini</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">mučisluupiin</t>
+            <t pos="N">mučisluupiin</t>
          </tg>
       </mg>
    </e>
@@ -2712,7 +2652,7 @@
    </e>
    <e id="5729">
       <lg>
-         <l pos="">kopara</l>
+         <l pos="N">kopara</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2722,7 +2662,7 @@
    </e>
    <e id="5730">
       <lg>
-         <l pos="">koparajänne</l>
+         <l pos="N">koparajänne</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2732,7 +2672,7 @@
    </e>
    <e id="5752">
       <lg>
-         <l pos="" r1_par="(koipinahkaa)">korinki</l>
+         <l pos="N" r1_par="(koipinahkaa)">korinki</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2752,7 +2692,7 @@
    </e>
    <e id="5820">
       <lg>
-         <l pos="">korvakko</l>
+         <l pos="N">korvakko</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2762,7 +2702,7 @@
    </e>
    <e id="5821">
       <lg>
-         <l pos="">korvakkokota</l>
+         <l pos="N">korvakkokota</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2772,7 +2712,7 @@
    </e>
    <e id="5840">
       <lg>
-         <l pos="" r1_par="(urosporo 5. vuodellaan)">kosatus</l>
+         <l pos="N" r1_par="(urosporo 5. vuodellaan)">kosatus</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2792,17 +2732,17 @@
    </e>
    <e id="5932">
       <lg>
-         <l pos="" tt_auto="Coleoptera">kovakuoriaiset</l>
+         <l pos="N" tt_auto="Coleoptera">kovakuoriaiset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kirdeekiivsah</t>
+            <t pos="N">kirdeekiivsah</t>
          </tg>
       </mg>
    </e>
    <e id="5940">
       <lg>
-         <l pos="">koveli</l>
+         <l pos="N">koveli</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2822,17 +2762,17 @@
    </e>
    <e id="5970">
       <lg>
-         <l pos="" r1_par="(mon.)">kruunajaiset</l>
+         <l pos="N" r1_par="(mon.)">kruunajaiset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">ruvnájááh</t>
+            <t pos="N" r_par="mon.">ruvnájááh</t>
          </tg>
       </mg>
    </e>
    <e id="5981">
       <lg>
-         <l pos="">kufittar</l>
+         <l pos="N">kufittar</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2852,7 +2792,7 @@
    </e>
    <e id="6010">
       <lg>
-         <l pos="">kuivahorros</l>
+         <l pos="N">kuivahorros</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2862,7 +2802,7 @@
    </e>
    <e id="6064">
       <lg>
-         <l pos="">kulkutusverkko</l>
+         <l pos="N">kulkutusverkko</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2872,7 +2812,7 @@
    </e>
    <e id="6065">
       <lg>
-         <l pos="">kulkutusverkon ohjain</l>
+         <l pos="N">kulkutusverkon ohjain</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2882,7 +2822,7 @@
    </e>
    <e id="6080">
       <lg>
-         <l pos="" r1_par="(petun irrottamiseen kuoresta)">kuloin</l>
+         <l pos="N" r1_par="(petun irrottamiseen kuoresta)">kuloin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2892,11 +2832,11 @@
    </e>
    <e id="6082">
       <lg>
-         <l pos="" r1_par="(kaulassa roikkuva juoksueste)">kulppo</l>
+         <l pos="N" r1_par="(kaulassa roikkuva juoksueste)">kulppo</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="čulho">čulkko</t>
+            <t pos="N" wf="čulho">čulkko</t>
          </tg>
       </mg>
    </e>
@@ -2912,7 +2852,7 @@
    </e>
    <e id="6106">
       <lg>
-         <l pos="" r1_par="(uupunut hirvas rykimäajan jälkeen)">kulvakko</l>
+         <l pos="N" r1_par="(uupunut hirvas rykimäajan jälkeen)">kulvakko</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2932,7 +2872,7 @@
    </e>
    <e id="6144">
       <lg>
-         <l pos="" r1_par="(mon.)">kumppanukset</l>
+         <l pos="N" r1_par="(mon.)">kumppanukset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2942,7 +2882,7 @@
    </e>
    <e id="6146">
       <lg>
-         <l pos="">kumpus</l>
+         <l pos="N">kumpus</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2952,7 +2892,7 @@
    </e>
    <e id="6147">
       <lg>
-         <l pos="" r1_par="(etuviistosarvinen poro)">kumurasarvi</l>
+         <l pos="N" r1_par="(etuviistosarvinen poro)">kumurasarvi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2972,17 +2912,17 @@
    </e>
    <e id="6180">
       <lg>
-         <l pos="" r1_par="(urosporo 4. vuodellaan)">kunteus</l>
+         <l pos="N" r1_par="(urosporo 4. vuodellaan)">kunteus</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="koddoos">kodos</t>
+            <t pos="N" wf="koddoos">kodos</t>
          </tg>
       </mg>
    </e>
    <e id="6188">
       <lg>
-         <l pos="">kuntura</l>
+         <l pos="N">kuntura</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3012,11 +2952,11 @@
    </e>
    <e id="6203">
       <lg>
-         <l pos="" r1_par="(mon.)">kuolaimet</l>
+         <l pos="N" r1_par="(mon.)">kuolaimet</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">njälmiryevdih</t>
+            <t pos="N" r_par="mon.">njälmiryevdih</t>
          </tg>
       </mg>
    </e>
@@ -3062,7 +3002,7 @@
    </e>
    <e id="6222">
       <lg>
-         <l pos="">kuolinuutinen</l>
+         <l pos="N">kuolinuutinen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3082,7 +3022,7 @@
    </e>
    <e id="6228">
       <lg>
-         <l pos="">kuolpuna</l>
+         <l pos="N">kuolpuna</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3092,7 +3032,7 @@
    </e>
    <e id="6306">
       <lg>
-         <l pos="" tt_auto="Hypoderma tarandi">kurmu</l>
+         <l pos="N" tt_auto="Hypoderma tarandi">kurmu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3102,7 +3042,7 @@
    </e>
    <e id="6307">
       <lg>
-         <l pos="" tt_auto="Hypoderma tarandi">kurmupaarma</l>
+         <l pos="N" tt_auto="Hypoderma tarandi">kurmupaarma</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3112,7 +3052,7 @@
    </e>
    <e id="6322">
       <lg>
-         <l pos="" r1_par="(kaulaliha)">kurtta</l>
+         <l pos="N" r1_par="(kaulaliha)">kurtta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3122,21 +3062,21 @@
    </e>
    <e id="6331">
       <lg>
-         <l pos="" r1_par="(poro)">kusikas</l>
+         <l pos="N" r1_par="(poro)">kusikas</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kužžii</t>
+            <t pos="N">kužžii</t>
          </tg>
       </mg>
    </e>
    <e id="6355">
       <lg>
-         <l pos="" r1_par="(mon.)">kutsunnat</l>
+         <l pos="N" r1_par="(mon.)">kutsunnat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">koččomeh</t>
+            <t pos="N" r_par="mon.">koččomeh</t>
          </tg>
       </mg>
    </e>
@@ -3182,7 +3122,7 @@
    </e>
    <e id="6400">
       <lg>
-         <l pos="">kuumalähde</l>
+         <l pos="N">kuumalähde</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3192,7 +3132,7 @@
    </e>
    <e id="6401">
       <lg>
-         <l pos="">kuumavyöhyke</l>
+         <l pos="N">kuumavyöhyke</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3202,7 +3142,7 @@
    </e>
    <e id="6411">
       <lg>
-         <l pos="" r1_par="(rahko)">kuuntervaaja</l>
+         <l pos="N" r1_par="(rahko)">kuuntervaaja</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3242,11 +3182,11 @@
    </e>
    <e id="6524">
       <lg>
-         <l pos="">kyntynen</l>
+         <l pos="N">kyntynen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="kozzii">koozzâš</t>
+            <t pos="N" wf="kozzii">koozzâš</t>
          </tg>
       </mg>
    </e>
@@ -3262,7 +3202,7 @@
    </e>
    <e id="6567">
       <lg>
-         <l pos="">kyytiläinen</l>
+         <l pos="N">kyytiläinen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3282,17 +3222,17 @@
    </e>
    <e id="6576">
       <lg>
-         <l pos="">käestyspaikka</l>
+         <l pos="N">käestyspaikka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="viháluv">vihálâh</t>
+            <t pos="N" wf="viháluv">vihálâh</t>
          </tg>
       </mg>
    </e>
    <e id="6577">
       <lg>
-         <l pos="">käestysverkko</l>
+         <l pos="N">käestysverkko</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3322,31 +3262,31 @@
    </e>
    <e id="6614">
       <lg>
-         <l pos="">kärnäiitti</l>
+         <l pos="N">kärnäiitti</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kárnáiit</t>
+            <t pos="N">kárnáiit</t>
          </tg>
       </mg>
    </e>
    <e id="6618">
       <lg>
-         <l pos="" tt_auto="Amanita">kärpässienet</l>
+         <l pos="N" tt_auto="Amanita">kärpässienet</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kiärppáákuobbâreh</t>
+            <t pos="N">kiärppáákuobbâreh</t>
          </tg>
       </mg>
    </e>
    <e id="6620">
       <lg>
-         <l pos="" r1_par="(mon.)">kärryt</l>
+         <l pos="N" r1_par="(mon.)">kärryt</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">jorreeh</t>
+            <t pos="N" r_par="mon.">jorreeh</t>
          </tg>
       </mg>
    </e>
@@ -3382,7 +3322,7 @@
    </e>
    <e id="6721">
       <lg>
-         <l pos="" tt_auto="Porzana pusilla">kääpiöhuitti</l>
+         <l pos="N" tt_auto="Porzana pusilla">kääpiöhuitti</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3392,21 +3332,21 @@
    </e>
    <e id="6729">
       <lg>
-         <l pos="" r1_par="(mon.)">käärinliinat</l>
+         <l pos="N" r1_par="(mon.)">käärinliinat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">ahevattuuh</t>
+            <t pos="N" r_par="mon.">ahevattuuh</t>
          </tg>
       </mg>
    </e>
    <e id="6737">
       <lg>
-         <l pos="" tt_auto="Aphyllophorales">kääväkkäät</l>
+         <l pos="N" tt_auto="Aphyllophorales">kääväkkäät</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čánásiih</t>
+            <t pos="N">čánásiih</t>
          </tg>
       </mg>
    </e>
@@ -3422,11 +3362,11 @@
    </e>
    <e id="6765">
       <lg>
-         <l pos="" r1_par="(poro, jolla lyhyet vinot sarvet)">laakkosarvi</l>
+         <l pos="N" r1_par="(poro, jolla lyhyet vinot sarvet)">laakkosarvi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="leenzi">lenzi</t>
+            <t pos="N" wf="leenzi">lenzi</t>
          </tg>
       </mg>
    </e>
@@ -3442,37 +3382,37 @@
    </e>
    <e id="6779">
       <lg>
-         <l pos="">laavuloude</l>
+         <l pos="N">laavuloude</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="váárju">várju</t>
+            <t pos="N" wf="váárju">várju</t>
          </tg>
       </mg>
    </e>
    <e id="6788">
       <lg>
-         <l pos="" tt_auto="Isoëtes">lahnanruohot</l>
+         <l pos="N" tt_auto="Isoëtes">lahnanruohot</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">tieppimadduuh</t>
+            <t pos="N">tieppimadduuh</t>
          </tg>
       </mg>
    </e>
    <e id="6792">
       <lg>
-         <l pos="" tt_auto="Hypholoma">lahokat</l>
+         <l pos="N" tt_auto="Hypholoma">lahokat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">mieskâduvah</t>
+            <t pos="N">mieskâduvah</t>
          </tg>
       </mg>
    </e>
    <e id="6805">
       <lg>
-         <l pos="">laiheliiini</l>
+         <l pos="N">laiheliiini</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3482,7 +3422,7 @@
    </e>
    <e id="6866">
       <lg>
-         <l pos="">laipoitus</l>
+         <l pos="N">laipoitus</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3492,7 +3432,7 @@
    </e>
    <e id="6875">
       <lg>
-         <l pos="" r1_par="(johdattaa tokkaa porolla)">laitistaa</l>
+         <l pos="V" r1_par="(johdattaa tokkaa porolla)">laitistaa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3502,7 +3442,7 @@
    </e>
    <e id="6941">
       <lg>
-         <l pos="">lammaspuura</l>
+         <l pos="N">lammaspuura</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3512,7 +3452,7 @@
    </e>
    <e id="6957">
       <lg>
-         <l pos="" r1_par="(mon.)">langokset</l>
+         <l pos="N" r1_par="(mon.)">langokset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3522,31 +3462,31 @@
    </e>
    <e id="6971">
       <lg>
-         <l pos="" r1_par="(mon.)">lantalaiskengät</l>
+         <l pos="N" r1_par="(mon.)">lantalaiskengät</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">lädikammuuh</t>
+            <t pos="N" r_par="mon.">lädikammuuh</t>
          </tg>
       </mg>
    </e>
    <e id="7033">
       <lg>
-         <l pos="" r1_par="(mus.)">larghetto</l>
+         <l pos="N" r1_par="(mus.)">larghetto</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="muus." mwe="y">viehâ hitásávt</t>
+            <t pos="N" r_par="muus." mwe="y">viehâ hitásávt</t>
          </tg>
       </mg>
    </e>
    <e id="7059">
       <lg>
-         <l pos="" r1_par="(mon.)">lastenvaunut</l>
+         <l pos="N" r1_par="(mon.)">lastenvaunut</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">párnáiráttáh</t>
+            <t pos="N" r_par="mon.">párnáiráttáh</t>
          </tg>
       </mg>
    </e>
@@ -3562,11 +3502,11 @@
    </e>
    <e id="7083">
       <lg>
-         <l pos="" tt_auto="Deschamsia">lauhat</l>
+         <l pos="N" tt_auto="Deschamsia">lauhat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">njuámmilrääsih</t>
+            <t pos="N">njuámmilrääsih</t>
          </tg>
       </mg>
    </e>
@@ -3582,11 +3522,11 @@
    </e>
    <e id="7090">
       <lg>
-         <l pos="" tt_auto="Marasmius scorodonius">laukkanahikas</l>
+         <l pos="N" tt_auto="Marasmius scorodonius">laukkanahikas</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" syn_dash="-čevđâstuv">siipuulčevđâstâh</t>
+            <t pos="N" syn_dash="-čevđâstuv">siipuulčevđâstâh</t>
          </tg>
       </mg>
    </e>
@@ -3622,31 +3562,31 @@
    </e>
    <e id="7118">
       <lg>
-         <l pos="" r1_par="(mon.)" r2_par="(mus.)">lautaset</l>
+         <l pos="N" r1_par="(mon.)" r2_par="(mus.)">lautaset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">taldrikeh</t>
+            <t pos="N" r_par="mon.">taldrikeh</t>
          </tg>
       </mg>
    </e>
    <e id="7121">
       <lg>
-         <l pos="" r1_par="(mon.)">lauteet</l>
+         <l pos="N" r1_par="(mon.)">lauteet</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">lavdhááh</t>
+            <t pos="N" r_par="mon.">lavdhááh</t>
          </tg>
       </mg>
    </e>
    <e id="7127">
       <lg>
-         <l pos="" r1_par="(mon.)">legginsit</l>
+         <l pos="N" r1_par="(mon.)">legginsit</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">leggiŋspuuvsah</t>
+            <t pos="N" r_par="mon.">leggiŋspuuvsah</t>
          </tg>
       </mg>
    </e>
@@ -3662,21 +3602,21 @@
    </e>
    <e id="7278">
       <lg>
-         <l pos="" tt_auto="Pholiota alnicola">leppähelokka</l>
+         <l pos="N" tt_auto="Pholiota alnicola">leppähelokka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" syn_dash="-šiäráneh">leibišiäráán</t>
+            <t pos="N" syn_dash="-šiäráneh">leibišiäráán</t>
          </tg>
       </mg>
    </e>
    <e id="7302">
       <lg>
-         <l pos="" r1_par="(joessa)">leventymä</l>
+         <l pos="N" r1_par="(joessa)">leventymä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">lieveeh</t>
+            <t pos="N">lieveeh</t>
          </tg>
       </mg>
    </e>
@@ -3692,17 +3632,17 @@
    </e>
    <e id="7308">
       <lg>
-         <l pos="" tt_auto="Stercorarius pomarinus">leveäpyrstökihu</l>
+         <l pos="N" tt_auto="Stercorarius pomarinus">leveäpyrstökihu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">kubdâpođâšäskil</t>
+            <t pos="N">kubdâpođâšäskil</t>
          </tg>
       </mg>
    </e>
    <e id="7346">
       <lg>
-         <l pos="">liemus</l>
+         <l pos="N">liemus</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3742,7 +3682,7 @@
    </e>
    <e id="7487">
       <lg>
-         <l pos="" r1_par="(ansa)">lisku</l>
+         <l pos="N" r1_par="(ansa)">lisku</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3752,17 +3692,17 @@
    </e>
    <e id="7516">
       <lg>
-         <l pos="" r1_par="(mon.)">lisääntymiselimet</l>
+         <l pos="N" r1_par="(mon.)">lisääntymiselimet</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">lasanemorgaaneh</t>
+            <t pos="N" r_par="mon.">lasanemorgaaneh</t>
          </tg>
       </mg>
    </e>
    <e id="7524">
       <lg>
-         <l pos="" tt_auto="Poa compressa">litteänurmikka</l>
+         <l pos="N" tt_auto="Poa compressa">litteänurmikka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3772,17 +3712,17 @@
    </e>
    <e id="7539">
       <lg>
-         <l pos="" r1_par="(loppuunajettu poro)">livikko</l>
+         <l pos="N" r1_par="(loppuunajettu poro)">livikko</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">liivâh</t>
+            <t pos="N">liivâh</t>
          </tg>
       </mg>
    </e>
    <e id="7582">
       <lg>
-         <l pos="">loito</l>
+         <l pos="N">loito</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3802,7 +3742,7 @@
    </e>
    <e id="7605">
       <lg>
-         <l pos="" syn="~lompola">lompolo</l>
+         <l pos="N" syn="~lompola">lompolo</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3822,7 +3762,7 @@
    </e>
    <e id="7617">
       <lg>
-         <l pos="">loppumattomuus</l>
+         <l pos="N">loppumattomuus</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3832,21 +3772,21 @@
    </e>
    <e id="7680">
       <lg>
-         <l pos="" r1_par="(mon.)">luistimet</l>
+         <l pos="N" r1_par="(mon.)">luistimet</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">luistimeh</t>
+            <t pos="N" r_par="mon.">luistimeh</t>
          </tg>
       </mg>
    </e>
    <e id="7683">
       <lg>
-         <l pos="">luisupaikka</l>
+         <l pos="N">luisupaikka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="skirviittuv">skirviittâh</t>
+            <t pos="N" wf="skirviittuv">skirviittâh</t>
          </tg>
       </mg>
    </e>
@@ -3862,7 +3802,7 @@
    </e>
    <e id="7715">
       <lg>
-         <l pos="">lumikenkäily</l>
+         <l pos="N">lumikenkäily</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3872,17 +3812,17 @@
    </e>
    <e id="7769">
       <lg>
-         <l pos="" r1_par="(mon.)">luonnonvarat</l>
+         <l pos="N" r1_par="(mon.)">luonnonvarat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">luánduriggoduvvah</t>
+            <t pos="N" r_par="mon.">luánduriggoduvvah</t>
          </tg>
       </mg>
    </e>
    <e id="7778">
       <lg>
-         <l pos="" r1_par="(kyljistään vaaleajuovainen poro)">luostakka</l>
+         <l pos="N" r1_par="(kyljistään vaaleajuovainen poro)">luostakka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3892,7 +3832,7 @@
    </e>
    <e id="7803">
       <lg>
-         <l pos="" r1_par="(petun irrottamiseen kuoresta)">luta</l>
+         <l pos="N" r1_par="(petun irrottamiseen kuoresta)">luta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3902,7 +3842,7 @@
    </e>
    <e id="7826">
       <lg>
-         <l pos="" syn="~luuttu" r1_par="(siivousväline)">luutu</l>
+         <l pos="N" syn="~luuttu" r1_par="(siivousväline)">luutu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3912,7 +3852,7 @@
    </e>
    <e id="7842">
       <lg>
-         <l pos="" tt_auto="Anser brachyrhynchus">lyhytnokkahanhi</l>
+         <l pos="N" tt_auto="Anser brachyrhynchus">lyhytnokkahanhi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3922,17 +3862,17 @@
    </e>
    <e id="7843">
       <lg>
-         <l pos="" tt_auto="Staphylinidae">lyhytsiipiset</l>
+         <l pos="N" tt_auto="Staphylinidae">lyhytsiipiset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">uánihissuájásâškirdeekiivsah</t>
+            <t pos="N">uánihissuájásâškirdeekiivsah</t>
          </tg>
       </mg>
    </e>
    <e id="7844">
       <lg>
-         <l pos="" tt_auto="Calandrella brachydactyla">lyhytvarvaskiuru</l>
+         <l pos="N" tt_auto="Calandrella brachydactyla">lyhytvarvaskiuru</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3982,7 +3922,7 @@
    </e>
    <e id="7897">
       <lg>
-         <l pos="" tt_auto="Alchemilla glabra">lähteikköpoimulehti</l>
+         <l pos="N" tt_auto="Alchemilla glabra">lähteikköpoimulehti</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3992,7 +3932,7 @@
    </e>
    <e id="7908">
       <lg>
-         <l pos="">läikäytys</l>
+         <l pos="N">läikäytys</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4002,7 +3942,7 @@
    </e>
    <e id="7925">
       <lg>
-         <l pos="">lämmin vyöhyke</l>
+         <l pos="N">lämmin vyöhyke</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4012,17 +3952,17 @@
    </e>
    <e id="7934">
       <lg>
-         <l pos="" r1_par="(mon.)">länget</l>
+         <l pos="N" r1_par="(mon.)">länget</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">leeŋgih</t>
+            <t pos="N" r_par="mon.">leeŋgih</t>
          </tg>
       </mg>
    </e>
    <e id="7969">
       <lg>
-         <l pos="" r1_par="(roikkuu housujen päällä)">lököpaita</l>
+         <l pos="N" r1_par="(roikkuu housujen päällä)">lököpaita</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4032,11 +3972,11 @@
    </e>
    <e id="8007">
       <lg>
-         <l pos="" r1_par="(urosporo 6. vuodellaan)">maakkana</l>
+         <l pos="N" r1_par="(urosporo 6. vuodellaan)">maakkana</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">maakkan</t>
+            <t pos="N">maakkan</t>
          </tg>
       </mg>
    </e>
@@ -4052,7 +3992,7 @@
    </e>
    <e id="8126">
       <lg>
-         <l pos="">makaaminen</l>
+         <l pos="N">makaaminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4062,21 +4002,21 @@
    </e>
    <e id="8151">
       <lg>
-         <l pos="" tt_auto="Clitocybe">malikat</l>
+         <l pos="N" tt_auto="Clitocybe">malikat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">maalikeh</t>
+            <t pos="N">maalikeh</t>
          </tg>
       </mg>
    </e>
    <e id="8153">
       <lg>
-         <l pos="" tt_auto="Pezizales">maljakkaat</l>
+         <l pos="N" tt_auto="Pezizales">maljakkaat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">näpihááh</t>
+            <t pos="N">näpihááh</t>
          </tg>
       </mg>
    </e>
@@ -4092,11 +4032,11 @@
    </e>
    <e id="8179">
       <lg>
-         <l pos="" r1_par="(korkeahko koivukangas)">marasto</l>
+         <l pos="N" r1_par="(korkeahko koivukangas)">marasto</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">moorâst</t>
+            <t pos="N">moorâst</t>
          </tg>
       </mg>
    </e>
@@ -4132,17 +4072,17 @@
    </e>
    <e id="8219">
       <lg>
-         <l pos="" tt_auto="Galium">matarat</l>
+         <l pos="N" tt_auto="Galium">matarat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">mäđireh</t>
+            <t pos="N">mäđireh</t>
          </tg>
       </mg>
    </e>
    <e id="8267">
       <lg>
-         <l pos="" r1_par="(hiekkatörmä)">mella</l>
+         <l pos="N" r1_par="(hiekkatörmä)">mella</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4172,7 +4112,7 @@
    </e>
    <e id="8491">
       <lg>
-         <l pos="">moksa</l>
+         <l pos="N">moksa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4182,7 +4122,7 @@
    </e>
    <e id="8496">
       <lg>
-         <l pos="">molskiminen</l>
+         <l pos="N">molskiminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4192,7 +4132,7 @@
    </e>
    <e id="8502">
       <lg>
-         <l pos="" tt_auto="Anthus godlewskii">mongoliankirvinen</l>
+         <l pos="N" tt_auto="Anthus godlewskii">mongoliankirvinen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4202,21 +4142,21 @@
    </e>
    <e id="8531">
       <lg>
-         <l pos="" r1_par="(korkeahko koivukangas)">morosto</l>
+         <l pos="N" r1_par="(korkeahko koivukangas)">morosto</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">moorâst</t>
+            <t pos="N">moorâst</t>
          </tg>
       </mg>
    </e>
    <e id="8536">
       <lg>
-         <l pos="">mP3-soitin</l>
+         <l pos="N">mP3-soitin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">mP3-čuojânâs</t>
+            <t pos="N">mP3-čuojânâs</t>
          </tg>
       </mg>
    </e>
@@ -4232,7 +4172,7 @@
    </e>
    <e id="8611">
       <lg>
-         <l pos="">mureneminen</l>
+         <l pos="N">mureneminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4252,7 +4192,7 @@
    </e>
    <e id="8684">
       <lg>
-         <l pos="" tt_auto="Salix myrsinifolia subsp. myrsinifolia">mustuvapaju</l>
+         <l pos="N" tt_auto="Salix myrsinifolia subsp. myrsinifolia">mustuvapaju</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4282,7 +4222,7 @@
    </e>
    <e id="8701">
       <lg>
-         <l pos="" r1_par="(vatsaa myöten tummanruskea poro)">mutsikki</l>
+         <l pos="N" r1_par="(vatsaa myöten tummanruskea poro)">mutsikki</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4292,7 +4232,7 @@
    </e>
    <e id="8702">
       <lg>
-         <l pos="" r1_par="(kellanharmaa poro, jolla tummanruskea vatsanalus)">mutsikkisuivakko</l>
+         <l pos="N" r1_par="(kellanharmaa poro, jolla tummanruskea vatsanalus)">mutsikkisuivakko</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4302,7 +4242,7 @@
    </e>
    <e id="8703">
       <lg>
-         <l pos="" r1_par="(vaalea poro, jonka vatsanalus tummanruskea)">mutsikkivalkko</l>
+         <l pos="N" r1_par="(vaalea poro, jonka vatsanalus tummanruskea)">mutsikkivalkko</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4312,7 +4252,7 @@
    </e>
    <e id="8751">
       <lg>
-         <l pos="" tt_auto="Galerina marginata">myrkkynääpikkä</l>
+         <l pos="N" tt_auto="Galerina marginata">myrkkynääpikkä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4332,7 +4272,7 @@
    </e>
    <e id="8774">
       <lg>
-         <l pos="">myöhäiskevät</l>
+         <l pos="N">myöhäiskevät</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4362,11 +4302,11 @@
    </e>
    <e id="8798">
       <lg>
-         <l pos="">mäiskis</l>
+         <l pos="N">mäiskis</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" t_tld="~ruomčči">ruomččâ</t>
+            <t pos="N" t_tld="~ruomčči">ruomččâ</t>
          </tg>
       </mg>
    </e>
@@ -4392,7 +4332,7 @@
    </e>
    <e id="8887">
       <lg>
-         <l pos="">naappu</l>
+         <l pos="N">naappu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4402,27 +4342,27 @@
    </e>
    <e id="8899">
       <lg>
-         <l pos="" tt_auto="Marasmius">nahikkaat</l>
+         <l pos="N" tt_auto="Marasmius">nahikkaat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">čevđâstuvah</t>
+            <t pos="N">čevđâstuvah</t>
          </tg>
       </mg>
    </e>
    <e id="8915">
       <lg>
-         <l pos="" r1_par="(takakenosarvinen poro)">naiti</l>
+         <l pos="N" r1_par="(takakenosarvinen poro)">naiti</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" t_tld="~ njäidi njääidi" wf="nääidi">näidi</t>
+            <t pos="N" t_tld="~ njäidi njääidi" wf="nääidi">näidi</t>
          </tg>
       </mg>
    </e>
    <e id="8917">
       <lg>
-         <l pos="" r1_par="(hääpari)" r2_par="(mon.)">naittilaat</l>
+         <l pos="N" r1_par="(hääpari)" r2_par="(mon.)">naittilaat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4502,11 +4442,11 @@
    </e>
    <e id="9077">
       <lg>
-         <l pos="">niliaitta</l>
+         <l pos="N">niliaitta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="njoolâ">njollâ</t>
+            <t pos="N" wf="njoolâ">njollâ</t>
          </tg>
       </mg>
    </e>
@@ -4542,7 +4482,7 @@
    </e>
    <e id="9154">
       <lg>
-         <l pos="" tt_auto="Puffinus griseus">nokiliitäjä</l>
+         <l pos="N" tt_auto="Puffinus griseus">nokiliitäjä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4572,7 +4512,7 @@
    </e>
    <e id="9205">
       <lg>
-         <l pos="">nousemus</l>
+         <l pos="N">nousemus</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4582,7 +4522,7 @@
    </e>
    <e id="9224">
       <lg>
-         <l pos="">nuijinta</l>
+         <l pos="N">nuijinta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4592,7 +4532,7 @@
    </e>
    <e id="9231">
       <lg>
-         <l pos="" r1_par="(väliaikaismajoite)">nukkumateltta</l>
+         <l pos="N" r1_par="(väliaikaismajoite)">nukkumateltta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4602,27 +4542,27 @@
    </e>
    <e id="9235">
       <lg>
-         <l pos="" tt_auto="Gomphidiaceae">nuljaskat</l>
+         <l pos="N" tt_auto="Gomphidiaceae">nuljaskat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">njulčâheh</t>
+            <t pos="N">njulčâheh</t>
          </tg>
       </mg>
    </e>
    <e id="9240">
       <lg>
-         <l pos="">nulppo</l>
+         <l pos="N">nulppo</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="nolpo">nolppo</t>
+            <t pos="N" wf="nolpo">nolppo</t>
          </tg>
       </mg>
    </e>
    <e id="9252">
       <lg>
-         <l pos="" tt_auto="Saxifraga cernua">nuokkurikko</l>
+         <l pos="N" tt_auto="Saxifraga cernua">nuokkurikko</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4632,7 +4572,7 @@
    </e>
    <e id="9276">
       <lg>
-         <l pos="">nuottaaja</l>
+         <l pos="N">nuottaaja</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4642,7 +4582,7 @@
    </e>
    <e id="9277">
       <lg>
-         <l pos="">nuottaaminen</l>
+         <l pos="N">nuottaaminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4652,7 +4592,7 @@
    </e>
    <e id="9281">
       <lg>
-         <l pos="">nuottaulku</l>
+         <l pos="N">nuottaulku</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4672,7 +4612,7 @@
    </e>
    <e id="9324">
       <lg>
-         <l pos="">nylkijä</l>
+         <l pos="N">nylkijä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4682,7 +4622,7 @@
    </e>
    <e id="9325">
       <lg>
-         <l pos="" r1_par="(subst.)" r2_par="(sormilla)">nypittävä</l>
+         <l pos="N" r1_par="(subst.)" r2_par="(sormilla)">nypittävä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4702,7 +4642,7 @@
    </e>
    <e id="9385">
       <lg>
-         <l pos="">näskäin</l>
+         <l pos="N">näskäin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4732,7 +4672,7 @@
    </e>
    <e id="9427">
       <lg>
-         <l pos="" r1_par="(ostajalle)">oheislahja</l>
+         <l pos="N" r1_par="(ostajalle)">oheislahja</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4792,7 +4732,7 @@
    </e>
    <e id="9460">
       <lg>
-         <l pos="" r1_par="(suoraan kulkeva)">oijushärkä</l>
+         <l pos="N" r1_par="(suoraan kulkeva)">oijushärkä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4832,11 +4772,11 @@
    </e>
    <e id="9490">
       <lg>
-         <l pos="">oikosarvinen</l>
+         <l pos="N">oikosarvinen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" syn_dash="-čuárvág">kiäigučuárvág</t>
+            <t pos="N" syn_dash="-čuárvág">kiäigučuárvág</t>
          </tg>
       </mg>
    </e>
@@ -4852,7 +4792,7 @@
    </e>
    <e id="9550">
       <lg>
-         <l pos="" r1_par="(subst.)">ommeltava</l>
+         <l pos="N" r1_par="(subst.)">ommeltava</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4862,7 +4802,7 @@
    </e>
    <e id="9570">
       <lg>
-         <l pos="">onsi</l>
+         <l pos="N">onsi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4882,7 +4822,7 @@
    </e>
    <e id="9636">
       <lg>
-         <l pos="" tt_auto="Veronica serpyllifolia">orvontähdyke</l>
+         <l pos="N" tt_auto="Veronica serpyllifolia">orvontähdyke</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4912,11 +4852,11 @@
    </e>
    <e id="9673">
       <lg>
-         <l pos="" r1_par="(mon.)">ostokset</l>
+         <l pos="N" r1_par="(mon.)">ostokset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">váálduh</t>
+            <t pos="N" r_par="mon.">váálduh</t>
          </tg>
       </mg>
    </e>
@@ -4942,11 +4882,11 @@
    </e>
    <e id="9722">
       <lg>
-         <l pos="" r1_par="(mon.)">paarit</l>
+         <l pos="N" r1_par="(mon.)">paarit</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">kyeddimmuorah</t>
+            <t pos="N" r_par="mon.">kyeddimmuorah</t>
          </tg>
       </mg>
    </e>
@@ -4972,17 +4912,17 @@
    </e>
    <e id="9856">
       <lg>
-         <l pos="" r1_par="(kantosatulan puolisko)">pakatus</l>
+         <l pos="N" r1_par="(kantosatulan puolisko)">pakatus</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="spaVâ">spahâ</t>
+            <t pos="N" wf="spaVâ">spahâ</t>
          </tg>
       </mg>
    </e>
    <e id="9890">
       <lg>
-         <l pos="" tt_auto="Acrocephalus aedon">paksunokkakerttunen</l>
+         <l pos="N" tt_auto="Acrocephalus aedon">paksunokkakerttunen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4992,7 +4932,7 @@
    </e>
    <e id="9894">
       <lg>
-         <l pos="" tt_auto="Inonotus obliquus">pakurikääpä</l>
+         <l pos="N" tt_auto="Inonotus obliquus">pakurikääpä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5032,11 +4972,11 @@
    </e>
    <e id="9915">
       <lg>
-         <l pos="" tt_auto="Pinophytina">paljassiemenkasvit</l>
+         <l pos="N" tt_auto="Pinophytina">paljassiemenkasvit</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">päljissiemâšadoh</t>
+            <t pos="N">päljissiemâšadoh</t>
          </tg>
       </mg>
    </e>
@@ -5062,7 +5002,7 @@
    </e>
    <e id="9931">
       <lg>
-         <l pos="" r1_par="(mon.)">palkeet</l>
+         <l pos="N" r1_par="(mon.)">palkeet</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5082,7 +5022,7 @@
    </e>
    <e id="9933">
       <lg>
-         <l pos="">palkimahelle</l>
+         <l pos="N">palkimahelle</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5092,7 +5032,7 @@
    </e>
    <e id="9934">
       <lg>
-         <l pos="">palkinen</l>
+         <l pos="N">palkinen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5102,7 +5042,7 @@
    </e>
    <e id="9937">
       <lg>
-         <l pos="">palkkakustannus</l>
+         <l pos="N">palkkakustannus</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5112,17 +5052,17 @@
    </e>
    <e id="9965">
       <lg>
-         <l pos="" tt_auto="Sparganium">palpakot</l>
+         <l pos="N" tt_auto="Sparganium">palpakot</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">puškorääsih</t>
+            <t pos="N">puškorääsih</t>
          </tg>
       </mg>
    </e>
    <e id="9972">
       <lg>
-         <l pos="" tt_auto="Russula vesca">palterohapero</l>
+         <l pos="N" tt_auto="Russula vesca">palterohapero</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5132,7 +5072,7 @@
    </e>
    <e id="9993">
       <lg>
-         <l pos="">paneli</l>
+         <l pos="N">paneli</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5152,27 +5092,27 @@
    </e>
    <e id="10048">
       <lg>
-         <l pos="">pariutuminen</l>
+         <l pos="N">pariutuminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">parâlum</t>
+            <t pos="N">parâlum</t>
          </tg>
       </mg>
    </e>
    <e id="10078">
       <lg>
-         <l pos="" r1_par="(tahriutua paskaan)">paskaantua</l>
+         <l pos="N" r1_par="(tahriutua paskaan)">paskaantua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="poškâttuum poškâttuVá">poškâttuđ</t>
+            <t pos="N" wf="poškâttuum poškâttuVá">poškâttuđ</t>
          </tg>
       </mg>
    </e>
    <e id="10092">
       <lg>
-         <l pos="">patoaminen</l>
+         <l pos="N">patoaminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5182,27 +5122,27 @@
    </e>
    <e id="10108">
       <lg>
-         <l pos="" r1_par="(kalasta)">pehmennyt</l>
+         <l pos="N" r1_par="(kalasta)">pehmennyt</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" attr="# siles" wf="sile">sile</t>
+            <t pos="N" attr="# siles" wf="sile">sile</t>
          </tg>
       </mg>
    </e>
    <e id="10116">
       <lg>
-         <l pos="" r1_par="(mon.)">peijaiset</l>
+         <l pos="N" r1_par="(mon.)">peijaiset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">ravijááh</t>
+            <t pos="N" r_par="mon.">ravijááh</t>
          </tg>
       </mg>
    </e>
    <e id="10150">
       <lg>
-         <l pos="">peloke</l>
+         <l pos="N">peloke</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5212,7 +5152,7 @@
    </e>
    <e id="10177">
       <lg>
-         <l pos="">pelästyminen</l>
+         <l pos="N">pelästyminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5222,7 +5162,7 @@
    </e>
    <e id="10197">
       <lg>
-         <l pos="" tt_auto="Locustella naevia">pensassirkkalintu</l>
+         <l pos="N" tt_auto="Locustella naevia">pensassirkkalintu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5232,7 +5172,7 @@
    </e>
    <e id="10243">
       <lg>
-         <l pos="" r1_par="(kodan lattiatilaa jakava puu)">permikkä</l>
+         <l pos="N" r1_par="(kodan lattiatilaa jakava puu)">permikkä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5242,11 +5182,11 @@
    </e>
    <e id="10249">
       <lg>
-         <l pos="" r1_par="(lievä voimasana)">perskele</l>
+         <l pos="N" r1_par="(lievä voimasana)">perskele</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="peŋgâluv">peŋgâluh</t>
+            <t pos="N" wf="peŋgâluv">peŋgâluh</t>
          </tg>
       </mg>
    </e>
@@ -5272,11 +5212,11 @@
    </e>
    <e id="10379">
       <lg>
-         <l pos="" r1_par="(mon.)">pidot</l>
+         <l pos="N" r1_par="(mon.)">pidot</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">piđoh</t>
+            <t pos="N" r_par="mon.">piđoh</t>
          </tg>
       </mg>
    </e>
@@ -5292,7 +5232,7 @@
    </e>
    <e id="10418">
       <lg>
-         <l pos="" r1_par="(huonosti salvettu poro)">piettiö</l>
+         <l pos="N" r1_par="(huonosti salvettu poro)">piettiö</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5302,7 +5242,7 @@
    </e>
    <e id="10445">
       <lg>
-         <l pos="">piileskely</l>
+         <l pos="N">piileskely</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5342,17 +5282,17 @@
    </e>
    <e id="10504">
       <lg>
-         <l pos="" r1_par="(mon.)">pikkuhousut</l>
+         <l pos="N" r1_par="(mon.)">pikkuhousut</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">uccpuvssiih</t>
+            <t pos="N" r_par="mon.">uccpuvssiih</t>
          </tg>
       </mg>
    </e>
    <e id="10505">
       <lg>
-         <l pos="" tt_auto="Porzana parva">pikkuhuitti</l>
+         <l pos="N" tt_auto="Porzana parva">pikkuhuitti</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5362,7 +5302,7 @@
    </e>
    <e id="10523">
       <lg>
-         <l pos="" tt_auto="Puffinus puffinus">pikkuliitäjä</l>
+         <l pos="N" tt_auto="Puffinus puffinus">pikkuliitäjä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5372,7 +5312,7 @@
    </e>
    <e id="10559">
       <lg>
-         <l pos="">pili</l>
+         <l pos="N">pili</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5382,11 +5322,11 @@
    </e>
    <e id="10573">
       <lg>
-         <l pos="" tt_auto="Galeopsisceae">pillikkeet</l>
+         <l pos="N" tt_auto="Galeopsisceae">pillikkeet</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">puoidâmâsšadoh</t>
+            <t pos="N">puoidâmâsšadoh</t>
          </tg>
       </mg>
    </e>
@@ -5402,11 +5342,11 @@
    </e>
    <e id="10598">
       <lg>
-         <l pos="" r1_par="(mon.)">pinsetit</l>
+         <l pos="N" r1_par="(mon.)">pinsetit</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">pinseteh</t>
+            <t pos="N" r_par="mon.">pinseteh</t>
          </tg>
       </mg>
    </e>
@@ -5432,7 +5372,7 @@
    </e>
    <e id="10669">
       <lg>
-         <l pos="" tt_auto="Drosera anglica">pitkälehtikihokki</l>
+         <l pos="N" tt_auto="Drosera anglica">pitkälehtikihokki</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5442,7 +5382,7 @@
    </e>
    <e id="10675">
       <lg>
-         <l pos="" r1_par="(hirsisalvos)">pitkänurkka</l>
+         <l pos="N" r1_par="(hirsisalvos)">pitkänurkka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5482,7 +5422,7 @@
    </e>
    <e id="10712">
       <lg>
-         <l pos="" tt_auto="Thalictrum simplex ssp. boreale">pohjanhoikkaängelmä</l>
+         <l pos="N" tt_auto="Thalictrum simplex ssp. boreale">pohjanhoikkaängelmä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5492,7 +5432,7 @@
    </e>
    <e id="10736">
       <lg>
-         <l pos="" tt_auto="Anthoxanthum odoratum">pohjansimake</l>
+         <l pos="N" tt_auto="Anthoxanthum odoratum">pohjansimake</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5522,7 +5462,7 @@
    </e>
    <e id="10773">
       <lg>
-         <l pos="" r1_par="(sorkkaeläimistä)">poikiva</l>
+         <l pos="N" r1_par="(sorkkaeläimistä)">poikiva</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5532,7 +5472,7 @@
    </e>
    <e id="10779">
       <lg>
-         <l pos="">poikkiparru</l>
+         <l pos="N">poikkiparru</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5552,7 +5492,7 @@
    </e>
    <e id="10813">
       <lg>
-         <l pos="">polskutus</l>
+         <l pos="N">polskutus</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5582,37 +5522,37 @@
    </e>
    <e id="10882">
       <lg>
-         <l pos="" tt_auto="Cladina">poronjäkälät</l>
+         <l pos="N" tt_auto="Cladina">poronjäkälät</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">poccuujáháleh</t>
+            <t pos="N">poccuujáháleh</t>
          </tg>
       </mg>
    </e>
    <e id="10890">
       <lg>
-         <l pos="" r1_par="(kahvin)" r2_par="(mon.)">porot</l>
+         <l pos="N" r1_par="(kahvin)" r2_par="(mon.)">porot</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">poneh</t>
+            <t pos="N" r_par="mon.">poneh</t>
          </tg>
       </mg>
    </e>
    <e id="10897">
       <lg>
-         <l pos="" r1_par="(mon.)">portaat</l>
+         <l pos="N" r1_par="(mon.)">portaat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">porthááh</t>
+            <t pos="N" r_par="mon.">porthááh</t>
          </tg>
       </mg>
    </e>
    <e id="10901">
       <lg>
-         <l pos="" r1_par="(kodan peräosa)">posio</l>
+         <l pos="N" r1_par="(kodan peräosa)">posio</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5632,7 +5572,7 @@
    </e>
    <e id="10931">
       <lg>
-         <l pos="" r1_par="(pieni routamätäs)">pounu</l>
+         <l pos="N" r1_par="(pieni routamätäs)">pounu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5642,7 +5582,7 @@
    </e>
    <e id="10953">
       <lg>
-         <l pos="">promilli</l>
+         <l pos="N">promilli</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5662,11 +5602,11 @@
    </e>
    <e id="11039">
       <lg>
-         <l pos="" tt_auto="Paxillus">pulkkosienet</l>
+         <l pos="N" tt_auto="Paxillus">pulkkosienet</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">puolikkuobbâreh</t>
+            <t pos="N">puolikkuobbâreh</t>
          </tg>
       </mg>
    </e>
@@ -5702,7 +5642,7 @@
    </e>
    <e id="11128">
       <lg>
-         <l pos="">puolikko</l>
+         <l pos="N">puolikko</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5712,7 +5652,7 @@
    </e>
    <e id="11175">
       <lg>
-         <l pos="">purka</l>
+         <l pos="N">purka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5782,7 +5722,7 @@
    </e>
    <e id="11247">
       <lg>
-         <l pos="">puura</l>
+         <l pos="N">puura</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5792,7 +5732,7 @@
    </e>
    <e id="11282">
       <lg>
-         <l pos="">pykälys</l>
+         <l pos="N">pykälys</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5834,27 +5774,27 @@
    </e>
    <e id="11344">
       <lg>
-         <l pos="">pyyntikotus</l>
+         <l pos="N">pyyntikotus</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="čiilâ">čillâ</t>
+            <t pos="N" wf="čiilâ">čillâ</t>
          </tg>
       </mg>
    </e>
    <e id="11347">
       <lg>
-         <l pos="" r1_par="(airon t. melan kädensija)">pyyry</l>
+         <l pos="N" r1_par="(airon t. melan kädensija)">pyyry</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">puddorâs</t>
+            <t pos="N">puddorâs</t>
          </tg>
       </mg>
    </e>
    <e id="11352">
       <lg>
-         <l pos="" tt_auto="Drosera rotundifolia">pyöreälehtikihokki</l>
+         <l pos="N" tt_auto="Drosera rotundifolia">pyöreälehtikihokki</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5874,7 +5814,7 @@
    </e>
    <e id="11386">
       <lg>
-         <l pos="" r1_par="(hampun t. pellavan)">päistär</l>
+         <l pos="N" r1_par="(hampun t. pellavan)">päistär</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5884,7 +5824,7 @@
    </e>
    <e id="11419">
       <lg>
-         <l pos="">pärskiminen</l>
+         <l pos="N">pärskiminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5894,7 +5834,7 @@
    </e>
    <e id="11425">
       <lg>
-         <l pos="" r1_par="(pärttylin päivä)">pärttyli</l>
+         <l pos="N" r1_par="(pärttylin päivä)">pärttyli</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5904,7 +5844,7 @@
    </e>
    <e id="11456">
       <lg>
-         <l pos="">pääläri</l>
+         <l pos="N">pääläri</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5924,7 +5864,7 @@
    </e>
    <e id="11520">
       <lg>
-         <l pos="">pörhistynyt</l>
+         <l pos="N">pörhistynyt</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5944,7 +5884,7 @@
    </e>
    <e id="11537">
       <lg>
-         <l pos="">pöykkyripeski</l>
+         <l pos="N">pöykkyripeski</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5994,7 +5934,7 @@
    </e>
    <e id="11708">
       <lg>
-         <l pos="">rankinen</l>
+         <l pos="N">rankinen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6004,7 +5944,7 @@
    </e>
    <e id="11739">
       <lg>
-         <l pos="" tt_auto="Phoxinus phoxinus">rantarautunen</l>
+         <l pos="N" tt_auto="Phoxinus phoxinus">rantarautunen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6024,37 +5964,37 @@
    </e>
    <e id="11764">
       <lg>
-         <l pos="" r1_par="(mon.)">rappuset</l>
+         <l pos="N" r1_par="(mon.)">rappuset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">porthááh</t>
+            <t pos="N" r_par="mon.">porthááh</t>
          </tg>
       </mg>
    </e>
    <e id="11810">
       <lg>
-         <l pos="" r1_par="(mon.)">rattaat</l>
+         <l pos="N" r1_par="(mon.)">rattaat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">ráttáh</t>
+            <t pos="N" r_par="mon.">ráttáh</t>
          </tg>
       </mg>
    </e>
    <e id="11824">
       <lg>
-         <l pos="" r1_par="(rauhallisuuden tuoja)">rauhoittaja</l>
+         <l pos="N" r1_par="(rauhallisuuden tuoja)">rauhoittaja</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="uási">uáci</t>
+            <t pos="N" wf="uási">uáci</t>
          </tg>
       </mg>
    </e>
    <e id="11862">
       <lg>
-         <l pos="" syn="(kääpiösiika)" tt="Coregonus lavaretus f. wartmanni">reeska</l>
+         <l pos="N" syn="(kääpiösiika)" tt="Coregonus lavaretus f. wartmanni">reeska</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6064,7 +6004,7 @@
    </e>
    <e id="11875">
       <lg>
-         <l pos="">reiitin</l>
+         <l pos="N">reiitin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6084,7 +6024,7 @@
    </e>
    <e id="11904">
       <lg>
-         <l pos="" r1_par="(renkinä olo)">renkiys</l>
+         <l pos="N" r1_par="(renkinä olo)">renkiys</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6094,7 +6034,7 @@
    </e>
    <e id="11905">
       <lg>
-         <l pos="">renkku</l>
+         <l pos="N">renkku</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6104,7 +6044,7 @@
    </e>
    <e id="11907">
       <lg>
-         <l pos="" tt_auto="Trifolium campestre">rentoapila</l>
+         <l pos="N" tt_auto="Trifolium campestre">rentoapila</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6114,7 +6054,7 @@
    </e>
    <e id="11908">
       <lg>
-         <l pos="" tt_auto="Sagina procumbens">rentohaarikko</l>
+         <l pos="N" tt_auto="Sagina procumbens">rentohaarikko</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6124,7 +6064,7 @@
    </e>
    <e id="11953">
       <lg>
-         <l pos="">rihlakko</l>
+         <l pos="N">rihlakko</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6134,17 +6074,17 @@
    </e>
    <e id="11956">
       <lg>
-         <l pos="">riiari</l>
+         <l pos="N">riiari</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">irgástellee</t>
+            <t pos="N">irgástellee</t>
          </tg>
       </mg>
    </e>
    <e id="11958">
       <lg>
-         <l pos="">riiaus</l>
+         <l pos="N">riiaus</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6174,17 +6114,17 @@
    </e>
    <e id="11999">
       <lg>
-         <l pos="" r1_par="(mon.)">rikkakasvit</l>
+         <l pos="N" r1_par="(mon.)">rikkakasvit</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">iilâskšadoh</t>
+            <t pos="N" r_par="mon.">iilâskšadoh</t>
          </tg>
       </mg>
    </e>
    <e id="12003">
       <lg>
-         <l pos="" tt_auto="Taraxacum officinale">rikkavoikukka</l>
+         <l pos="N" tt_auto="Taraxacum officinale">rikkavoikukka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6194,7 +6134,7 @@
    </e>
    <e id="12012">
       <lg>
-         <l pos="" r1_par="(hajanaisuus)">rikkonaisyys</l>
+         <l pos="N" r1_par="(hajanaisuus)">rikkonaisyys</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6204,17 +6144,17 @@
    </e>
    <e id="12076">
       <lg>
-         <l pos="" tt_auto="Inocybe">risakkaat</l>
+         <l pos="N" tt_auto="Inocybe">risakkaat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">loccâkuobbâreh</t>
+            <t pos="N">loccâkuobbâreh</t>
          </tg>
       </mg>
    </e>
    <e id="12079">
       <lg>
-         <l pos="">riskiys</l>
+         <l pos="N">riskiys</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6224,7 +6164,7 @@
    </e>
    <e id="12080">
       <lg>
-         <l pos="">risku</l>
+         <l pos="N">risku</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6244,11 +6184,11 @@
    </e>
    <e id="12114">
       <lg>
-         <l pos="">ritsi</l>
+         <l pos="N">ritsi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="riici">ricci</t>
+            <t pos="N" wf="riici">ricci</t>
          </tg>
       </mg>
    </e>
@@ -6264,7 +6204,7 @@
    </e>
    <e id="12151">
       <lg>
-         <l pos="" r1_par="(riuku jolla venettä ohjataan koskea ylös kiskottaessa)">rompsi</l>
+         <l pos="N" r1_par="(riuku jolla venettä ohjataan koskea ylös kiskottaessa)">rompsi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6274,7 +6214,7 @@
    </e>
    <e id="12173">
       <lg>
-         <l pos="">rouko</l>
+         <l pos="N">rouko</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6294,17 +6234,17 @@
    </e>
    <e id="12176">
       <lg>
-         <l pos="" tt_auto="Lactarius">rouskut</l>
+         <l pos="N" tt_auto="Lactarius">rouskut</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ruávskuh</t>
+            <t pos="N">ruávskuh</t>
          </tg>
       </mg>
    </e>
    <e id="12180">
       <lg>
-         <l pos="">rouunta</l>
+         <l pos="N">rouunta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6314,7 +6254,7 @@
    </e>
    <e id="12192">
       <lg>
-         <l pos="" tt_auto="Antennaria nordhageniana">ruijankissankäpälä</l>
+         <l pos="N" tt_auto="Antennaria nordhageniana">ruijankissankäpälä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6324,7 +6264,7 @@
    </e>
    <e id="12193">
       <lg>
-         <l pos="" tt_auto="Cochlearia fenestrata">ruijankuirimo</l>
+         <l pos="N" tt_auto="Cochlearia fenestrata">ruijankuirimo</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6334,7 +6274,7 @@
    </e>
    <e id="12194">
       <lg>
-         <l pos="" tt_auto="Potentilla chamissonis">ruijanpahtahanhikki</l>
+         <l pos="N" tt_auto="Potentilla chamissonis">ruijanpahtahanhikki</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6344,7 +6284,7 @@
    </e>
    <e id="12197">
       <lg>
-         <l pos="">ruikku</l>
+         <l pos="N">ruikku</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6364,7 +6304,7 @@
    </e>
    <e id="12206">
       <lg>
-         <l pos="">ruiskiminen</l>
+         <l pos="N">ruiskiminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6384,17 +6324,17 @@
    </e>
    <e id="12217">
       <lg>
-         <l pos="" r1_par="(mon.)">rukkaset</l>
+         <l pos="N" r1_par="(mon.)">rukkaset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">kistuuh</t>
+            <t pos="N" r_par="mon.">kistuuh</t>
          </tg>
       </mg>
    </e>
    <e id="12219">
       <lg>
-         <l pos="">rukoileminen</l>
+         <l pos="N">rukoileminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6404,7 +6344,7 @@
    </e>
    <e id="12229">
       <lg>
-         <l pos="">rumahinen</l>
+         <l pos="N">rumahinen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6444,7 +6384,7 @@
    </e>
    <e id="12286">
       <lg>
-         <l pos="">ruokkija</l>
+         <l pos="N">ruokkija</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6454,7 +6394,7 @@
    </e>
    <e id="12290">
       <lg>
-         <l pos="" tt_auto="Locustella luscinioides">ruokosirkkalintu</l>
+         <l pos="N" tt_auto="Locustella luscinioides">ruokosirkkalintu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6464,37 +6404,37 @@
    </e>
    <e id="12291">
       <lg>
-         <l pos="" r1_par="(vetohihna valjaissa)">ruoma</l>
+         <l pos="N" r1_par="(vetohihna valjaissa)">ruoma</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" t_tld="~ ruáMá ruámá" wf="ruomâ">ruomâ</t>
+            <t pos="N" t_tld="~ ruáMá ruámá" wf="ruomâ">ruomâ</t>
          </tg>
       </mg>
    </e>
    <e id="12292">
       <lg>
-         <l pos="">ruomarengas</l>
+         <l pos="N">ruomarengas</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" syn_dash="-riäggá">ruámáriegis</t>
+            <t pos="N" syn_dash="-riäggá">ruámáriegis</t>
          </tg>
       </mg>
    </e>
    <e id="12348">
       <lg>
-         <l pos="" tt_auto="Entoloma">rusokkaat</l>
+         <l pos="N" tt_auto="Entoloma">rusokkaat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ruáđiheh</t>
+            <t pos="N">ruáđiheh</t>
          </tg>
       </mg>
    </e>
    <e id="12363">
       <lg>
-         <l pos="">ruto</l>
+         <l pos="N">ruto</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6514,37 +6454,37 @@
    </e>
    <e id="12422">
       <lg>
-         <l pos="">ryskis</l>
+         <l pos="N">ryskis</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ruoški</t>
+            <t pos="N">ruoški</t>
          </tg>
       </mg>
    </e>
    <e id="12446">
       <lg>
-         <l pos="">räiskis</l>
+         <l pos="N">räiskis</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" t_tld="~ruomčči">ruomččâ</t>
+            <t pos="N" t_tld="~ruomčči">ruomččâ</t>
          </tg>
       </mg>
    </e>
    <e id="12454">
       <lg>
-         <l pos="" r1_par="(erit. poroilla)">räkkäaika</l>
+         <l pos="N" r1_par="(erit. poroilla)">räkkäaika</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">paalgâd</t>
+            <t pos="N">paalgâd</t>
          </tg>
       </mg>
    </e>
    <e id="12492">
       <lg>
-         <l pos="" syn="(kääpiösiika)" tt="Coregonus lavaretus">rääpys</l>
+         <l pos="N" syn="(kääpiösiika)" tt="Coregonus lavaretus">rääpys</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6554,7 +6494,7 @@
    </e>
    <e id="12494">
       <lg>
-         <l pos=""
+         <l pos="N"
             r1_par="(kohotettu vehnäleipä, jota tuotiin rannikolta herkkutuliaisena)">räätileipä</l>
       </lg>
       <mg id="1">
@@ -6565,7 +6505,7 @@
    </e>
    <e id="12497">
       <lg>
-         <l pos="">röhkintä</l>
+         <l pos="N">röhkintä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6575,7 +6515,7 @@
    </e>
    <e id="12514">
       <lg>
-         <l pos="" r1_par="(kirosana)">saakutti</l>
+         <l pos="N" r1_par="(kirosana)">saakutti</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6585,7 +6525,7 @@
    </e>
    <e id="12524">
       <lg>
-         <l pos="" r1_par="(mon.)">saamelaiskäräjät</l>
+         <l pos="N" r1_par="(mon.)">saamelaiskäräjät</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6595,7 +6535,7 @@
    </e>
    <e id="12526">
       <lg>
-         <l pos="">saamelaispappi</l>
+         <l pos="N">saamelaispappi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6615,7 +6555,7 @@
    </e>
    <e id="12528">
       <lg>
-         <l pos="">saamelaistalo</l>
+         <l pos="N">saamelaistalo</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6635,7 +6575,7 @@
    </e>
    <e id="12622">
       <lg>
-         <l pos="">sakeneminen</l>
+         <l pos="N">sakeneminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6645,17 +6585,17 @@
    </e>
    <e id="12630">
       <lg>
-         <l pos="" r1_par="(mon.)">sakset</l>
+         <l pos="N" r1_par="(mon.)">sakset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">skerreeh</t>
+            <t pos="N" r_par="mon.">skerreeh</t>
          </tg>
       </mg>
    </e>
    <e id="12643">
       <lg>
-         <l pos="">salkkari</l>
+         <l pos="N">salkkari</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6665,11 +6605,11 @@
    </e>
    <e id="12695">
       <lg>
-         <l pos="" tt_auto="Pteridophyta">sanikkaiset</l>
+         <l pos="N" tt_auto="Pteridophyta">sanikkaiset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">sanikkááh</t>
+            <t pos="N">sanikkááh</t>
          </tg>
       </mg>
    </e>
@@ -6685,17 +6625,17 @@
    </e>
    <e id="12720">
       <lg>
-         <l pos="" r1_par="(mon.)">sapilaat</l>
+         <l pos="N" r1_par="(mon.)">sapilaat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">sapilâsah</t>
+            <t pos="N" r_par="mon.">sapilâsah</t>
          </tg>
       </mg>
    </e>
    <e id="12721">
       <lg>
-         <l pos="">sapilas</l>
+         <l pos="N">sapilas</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6705,7 +6645,7 @@
    </e>
    <e id="12743">
       <lg>
-         <l pos="" r1_par="(eläimen lonkkaluu)">sarvento</l>
+         <l pos="N" r1_par="(eläimen lonkkaluu)">sarvento</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6715,7 +6655,7 @@
    </e>
    <e id="12751">
       <lg>
-         <l pos="" r1_par="(sarvekas lehmä)">sarvikko</l>
+         <l pos="N" r1_par="(sarvekas lehmä)">sarvikko</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6725,7 +6665,7 @@
    </e>
    <e id="12787">
       <lg>
-         <l pos="">satunnaislaji</l>
+         <l pos="N">satunnaislaji</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6785,17 +6725,17 @@
    </e>
    <e id="12878">
       <lg>
-         <l pos="">sekuntti</l>
+         <l pos="N">sekuntti</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">seekunt</t>
+            <t pos="N">seekunt</t>
          </tg>
       </mg>
    </e>
    <e id="12896">
       <lg>
-         <l pos="" r1_par="(selkäsiimassa)">selkoin</l>
+         <l pos="N" r1_par="(selkäsiimassa)">selkoin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6845,7 +6785,7 @@
    </e>
    <e id="12953">
       <lg>
-         <l pos="">sepel</l>
+         <l pos="N">sepel</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6855,7 +6795,7 @@
    </e>
    <e id="12957">
       <lg>
-         <l pos="" tt_auto="Ficedula albicollis">sepelsieppo</l>
+         <l pos="N" tt_auto="Ficedula albicollis">sepelsieppo</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6865,21 +6805,21 @@
    </e>
    <e id="12980">
       <lg>
-         <l pos="" r1_par="(mon.)">seurat</l>
+         <l pos="N" r1_par="(mon.)">seurat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">čogâlmâsah</t>
+            <t pos="N" r_par="mon.">čogâlmâsah</t>
          </tg>
       </mg>
    </e>
    <e id="12988">
       <lg>
-         <l pos="" r1_par="(kova lumi)">sevä</l>
+         <l pos="N" r1_par="(kova lumi)">sevä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos=""
+            <t pos="N"
                t_tld="~ ciehi cieVi ~ ceeVi ceevi ~ ceeVi ceve ~ seeVi seevi"
                wf="ceeVi">ceehi</t>
          </tg>
@@ -6887,17 +6827,17 @@
    </e>
    <e id="12990">
       <lg>
-         <l pos="" r1_par="(mon.)">shortsit</l>
+         <l pos="N" r1_par="(mon.)">shortsit</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">šoorcih</t>
+            <t pos="N" r_par="mon.">šoorcih</t>
          </tg>
       </mg>
    </e>
    <e id="12991">
       <lg>
-         <l pos="">shoutbox</l>
+         <l pos="N">shoutbox</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6917,7 +6857,7 @@
    </e>
    <e id="13022">
       <lg>
-         <l pos="">sieppuri</l>
+         <l pos="N">sieppuri</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6927,17 +6867,17 @@
    </e>
    <e id="13026">
       <lg>
-         <l pos="" r1_par="(veneen keulassa)">siestin</l>
+         <l pos="N" r1_par="(veneen keulassa)">siestin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="piitâ">pittâ</t>
+            <t pos="N" wf="piitâ">pittâ</t>
          </tg>
       </mg>
    </e>
    <e id="13039">
       <lg>
-         <l pos="">siida</l>
+         <l pos="N">siida</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7017,7 +6957,7 @@
    </e>
    <e id="13131">
       <lg>
-         <l pos="">siljo</l>
+         <l pos="N">siljo</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7037,7 +6977,7 @@
    </e>
    <e id="13222">
       <lg>
-         <l pos="">sinni</l>
+         <l pos="N">sinni</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7047,7 +6987,7 @@
    </e>
    <e id="13232">
       <lg>
-         <l pos="" tt_auto="Phylloscopus scwartzi">siperianuunilintu</l>
+         <l pos="N" tt_auto="Phylloscopus scwartzi">siperianuunilintu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7077,7 +7017,7 @@
    </e>
    <e id="13252">
       <lg>
-         <l pos="">sisnakka</l>
+         <l pos="N">sisnakka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7087,7 +7027,7 @@
    </e>
    <e id="13253">
       <lg>
-         <l pos="">sisnasäärystin</l>
+         <l pos="N">sisnasäärystin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7097,7 +7037,7 @@
    </e>
    <e id="13254">
       <lg>
-         <l pos="">sisnatakki</l>
+         <l pos="N">sisnatakki</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7107,7 +7047,7 @@
    </e>
    <e id="13269">
       <lg>
-         <l pos="">sisäkkäisyys</l>
+         <l pos="N">sisäkkäisyys</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7127,7 +7067,7 @@
    </e>
    <e id="13310">
       <lg>
-         <l pos="">siula</l>
+         <l pos="N">siula</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7137,7 +7077,7 @@
    </e>
    <e id="13333">
       <lg>
-         <l pos="">sivuttaisspagaatti</l>
+         <l pos="N">sivuttaisspagaatti</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7157,7 +7097,7 @@
    </e>
    <e id="13368">
       <lg>
-         <l pos="">soinnuttaminen</l>
+         <l pos="N">soinnuttaminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7167,27 +7107,27 @@
    </e>
    <e id="13371">
       <lg>
-         <l pos="">soistuminen</l>
+         <l pos="N">soistuminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" t_tld="~jeggilum">jieggilum</t>
+            <t pos="N" t_tld="~jeggilum">jieggilum</t>
          </tg>
       </mg>
    </e>
    <e id="13372">
       <lg>
-         <l pos="" r1_par="(mon.)">soistumistavat</l>
+         <l pos="N" r1_par="(mon.)">soistumistavat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon." syn="~ jieggilumvyevih mon.">jeggilumvyevih</t>
+            <t pos="N" r_par="mon." syn="~ jieggilumvyevih mon.">jeggilumvyevih</t>
          </tg>
       </mg>
    </e>
    <e id="13384">
       <lg>
-         <l pos="" r1_par="(silmässä t. kuvann.)">sokea piste</l>
+         <l pos="N" r1_par="(silmässä t. kuvann.)">sokea piste</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7197,17 +7137,17 @@
    </e>
    <e id="13399">
       <lg>
-         <l pos="" r1_par="(vasansa menettänyt vaadin)">soksavaadin</l>
+         <l pos="N" r1_par="(vasansa menettänyt vaadin)">soksavaadin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="čuápčá">čuápčis</t>
+            <t pos="N" wf="čuápčá">čuápčis</t>
          </tg>
       </mg>
    </e>
    <e id="13449">
       <lg>
-         <l pos="" r1_par="(kenkäheiniä)">sormainen</l>
+         <l pos="N" r1_par="(kenkäheiniä)">sormainen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7217,31 +7157,31 @@
    </e>
    <e id="13450">
       <lg>
-         <l pos="" r1_par="(mon.)">sormenpäät</l>
+         <l pos="N" r1_par="(mon.)">sormenpäät</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">čáárváh</t>
+            <t pos="N" r_par="mon.">čáárváh</t>
          </tg>
       </mg>
    </e>
    <e id="13451">
       <lg>
-         <l pos="" r1_par="(mon.)">sormet</l>
+         <l pos="N" r1_par="(mon.)">sormet</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">čáárváh</t>
+            <t pos="N" r_par="mon.">čáárváh</t>
          </tg>
       </mg>
    </e>
    <e id="13462">
       <lg>
-         <l pos="" tt_auto="Anatidae">sorsat</l>
+         <l pos="N" tt_auto="Anatidae">sorsat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">vuonjâččeh</t>
+            <t pos="N">vuonjâččeh</t>
          </tg>
       </mg>
    </e>
@@ -7257,7 +7197,7 @@
    </e>
    <e id="13492">
       <lg>
-         <l pos="" tt_auto="Carex parallela">soukkasara</l>
+         <l pos="N" tt_auto="Carex parallela">soukkasara</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7267,7 +7207,7 @@
    </e>
    <e id="13514">
       <lg>
-         <l pos="">spekuloija</l>
+         <l pos="N">spekuloija</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7277,7 +7217,7 @@
    </e>
    <e id="13551">
       <lg>
-         <l pos="" tt_auto="Botrychium lanceolatum">suikeanoidanlukko</l>
+         <l pos="N" tt_auto="Botrychium lanceolatum">suikeanoidanlukko</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7287,7 +7227,7 @@
    </e>
    <e id="13552">
       <lg>
-         <l pos="" tt_auto="Potentilla reptans">suikerohanhikki</l>
+         <l pos="N" tt_auto="Potentilla reptans">suikerohanhikki</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7297,17 +7237,17 @@
    </e>
    <e id="13553">
       <lg>
-         <l pos="" tt_auto="Cephalochordata">suikulaiset</l>
+         <l pos="N" tt_auto="Cephalochordata">suikulaiset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">puicce-elleeh</t>
+            <t pos="N">puicce-elleeh</t>
          </tg>
       </mg>
    </e>
    <e id="13555">
       <lg>
-         <l pos="" tt_auto="Calidris acuminata">suippopyrstösirri</l>
+         <l pos="N" tt_auto="Calidris acuminata">suippopyrstösirri</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7317,7 +7257,7 @@
    </e>
    <e id="13559">
       <lg>
-         <l pos="" r1_par="(mon.)">suitset</l>
+         <l pos="N" r1_par="(mon.)">suitset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7327,7 +7267,7 @@
    </e>
    <e id="13564">
       <lg>
-         <l pos="" r1_par="(harmaa poro)">suivakko</l>
+         <l pos="N" r1_par="(harmaa poro)">suivakko</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7337,17 +7277,17 @@
    </e>
    <e id="13637">
       <lg>
-         <l pos="">sumuttuminen</l>
+         <l pos="N">sumuttuminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">sovđâlum</t>
+            <t pos="N">sovđâlum</t>
          </tg>
       </mg>
    </e>
    <e id="13675">
       <lg>
-         <l pos="">suolakalapuura</l>
+         <l pos="N">suolakalapuura</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7357,7 +7297,7 @@
    </e>
    <e id="13696">
       <lg>
-         <l pos="">suomalais-</l>
+         <l pos="N">suomalais-</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7367,7 +7307,7 @@
    </e>
    <e id="13710">
       <lg>
-         <l pos="" r1_par="(ripustusteline)">suongeri</l>
+         <l pos="N" r1_par="(ripustusteline)">suongeri</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7387,7 +7327,7 @@
    </e>
    <e id="13739">
       <lg>
-         <l pos="">suoritettu</l>
+         <l pos="N">suoritettu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7397,7 +7337,7 @@
    </e>
    <e id="13743">
       <lg>
-         <l pos="" r1_par="(eläimen penis)">suoro</l>
+         <l pos="N" r1_par="(eläimen penis)">suoro</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7447,7 +7387,7 @@
    </e>
    <e id="13950">
       <lg>
-         <l pos="" r1_par="(porojen)">syysetto</l>
+         <l pos="N" r1_par="(porojen)">syysetto</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7477,11 +7417,11 @@
    </e>
    <e id="14037">
       <lg>
-         <l pos="">säpäkekulu</l>
+         <l pos="N">säpäkekulu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" syn_dash="-ruotâ">kamâspiddoruottâ</t>
+            <t pos="N" syn_dash="-ruotâ">kamâspiddoruottâ</t>
          </tg>
       </mg>
    </e>
@@ -7497,7 +7437,7 @@
    </e>
    <e id="14115">
       <lg>
-         <l pos="" r1_par="(porolla)">taakkapuoli</l>
+         <l pos="N" r1_par="(porolla)">taakkapuoli</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7547,11 +7487,11 @@
    </e>
    <e id="14209">
       <lg>
-         <l pos="">taivaan valtakunta</l>
+         <l pos="N">taivaan valtakunta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" syn_dash="-kode" mwe="y">alme väldikodde</t>
+            <t pos="N" syn_dash="-kode" mwe="y">alme väldikodde</t>
          </tg>
       </mg>
    </e>
@@ -7587,7 +7527,7 @@
    </e>
    <e id="14377">
       <lg>
-         <l pos="" tt_auto="Agaricus silvaticus">tapionherkkusieni</l>
+         <l pos="N" tt_auto="Agaricus silvaticus">tapionherkkusieni</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7607,11 +7547,11 @@
    </e>
    <e id="14381">
       <lg>
-         <l pos="">tappelija</l>
+         <l pos="N">tappelija</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">tuárroo</t>
+            <t pos="N">tuárroo</t>
          </tg>
       </mg>
    </e>
@@ -7637,17 +7577,17 @@
    </e>
    <e id="14447">
       <lg>
-         <l pos="" r1_par="(mon.)">tarvikkeet</l>
+         <l pos="N" r1_par="(mon.)">tarvikkeet</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">tarbâšeh</t>
+            <t pos="N" r_par="mon.">tarbâšeh</t>
          </tg>
       </mg>
    </e>
    <e id="14449">
       <lg>
-         <l pos="">tarvoin</l>
+         <l pos="N">tarvoin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7677,7 +7617,7 @@
    </e>
    <e id="14563">
       <lg>
-         <l pos="" tt_auto="Chenepodium berlandieri">teksasinsavikka</l>
+         <l pos="N" tt_auto="Chenepodium berlandieri">teksasinsavikka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7687,7 +7627,7 @@
    </e>
    <e id="14581">
       <lg>
-         <l pos="">telso</l>
+         <l pos="N">telso</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7697,7 +7637,7 @@
    </e>
    <e id="14594">
       <lg>
-         <l pos="" tt_auto="Thymus serpyllum subsp. tanaensis">tenonajuruoho</l>
+         <l pos="N" tt_auto="Thymus serpyllum subsp. tanaensis">tenonajuruoho</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7707,7 +7647,7 @@
    </e>
    <e id="14595">
       <lg>
-         <l pos="" tt_auto="Rumex graminifolius">tenonsuolaheinä</l>
+         <l pos="N" tt_auto="Rumex graminifolius">tenonsuolaheinä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7737,17 +7677,17 @@
    </e>
    <e id="14637">
       <lg>
-         <l pos="" r1_par="(mon.)">terveiset</l>
+         <l pos="N" r1_par="(mon.)">terveiset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">tiervuođah</t>
+            <t pos="N" r_par="mon.">tiervuođah</t>
          </tg>
       </mg>
    </e>
    <e id="14659">
       <lg>
-         <l pos="" tt_auto="Alchemilla wichurae">terävälovipoimulehti</l>
+         <l pos="N" tt_auto="Alchemilla wichurae">terävälovipoimulehti</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7757,7 +7697,7 @@
    </e>
    <e id="14724">
       <lg>
-         <l pos="">tietäminen</l>
+         <l pos="N">tietäminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7767,7 +7707,7 @@
    </e>
    <e id="14729">
       <lg>
-         <l pos="" r1_par="(sakeneminen)">tiheneminen</l>
+         <l pos="N" r1_par="(sakeneminen)">tiheneminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7787,11 +7727,11 @@
    </e>
    <e id="14764">
       <lg>
-         <l pos="" r1_par="(mon.)">tikkaat</l>
+         <l pos="N" r1_par="(mon.)">tikkaat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon." t_tld="~raidlâsah ~ railâseh">raiđâlâsah</t>
+            <t pos="N" r_par="mon." t_tld="~raidlâsah ~ railâseh">raiđâlâsah</t>
          </tg>
       </mg>
    </e>
@@ -7807,7 +7747,7 @@
    </e>
    <e id="14776">
       <lg>
-         <l pos="">tilaksimuodostaminen</l>
+         <l pos="N">tilaksimuodostaminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7817,7 +7757,7 @@
    </e>
    <e id="14831">
       <lg>
-         <l pos="">tiuhta</l>
+         <l pos="N">tiuhta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7847,11 +7787,11 @@
    </e>
    <e id="14945">
       <lg>
-         <l pos="">tolva</l>
+         <l pos="N">tolva</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="tuálvi">tuálvi</t>
+            <t pos="N" wf="tuálvi">tuálvi</t>
          </tg>
       </mg>
    </e>
@@ -7867,11 +7807,11 @@
    </e>
    <e id="14953">
       <lg>
-         <l pos="" r1_par="(mon.)">tongit</l>
+         <l pos="N" r1_par="(mon.)">tongit</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">tooŋgih</t>
+            <t pos="N" r_par="mon.">tooŋgih</t>
          </tg>
       </mg>
    </e>
@@ -7887,7 +7827,7 @@
    </e>
    <e id="15017">
       <lg>
-         <l pos="">tšuudi</l>
+         <l pos="N">tšuudi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7907,17 +7847,17 @@
    </e>
    <e id="15115">
       <lg>
-         <l pos="" r1_par="(mon.)">tulot</l>
+         <l pos="N" r1_par="(mon.)">tulot</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">puáđuh</t>
+            <t pos="N" r_par="mon.">puáđuh</t>
          </tg>
       </mg>
    </e>
    <e id="15125">
       <lg>
-         <l pos="" tt_auto="Erigeron humilis">tummakallioinen</l>
+         <l pos="N" tt_auto="Erigeron humilis">tummakallioinen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7927,7 +7867,7 @@
    </e>
    <e id="15126">
       <lg>
-         <l pos="" tt_auto="Isoëtes lacustris">tummalahnanruoho</l>
+         <l pos="N" tt_auto="Isoëtes lacustris">tummalahnanruoho</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7937,7 +7877,7 @@
    </e>
    <e id="15131">
       <lg>
-         <l pos="" tt_auto="Lyophyllum fumosum">tummatupaskynsikäs</l>
+         <l pos="N" tt_auto="Lyophyllum fumosum">tummatupaskynsikäs</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7947,7 +7887,7 @@
    </e>
    <e id="15141">
       <lg>
-         <l pos="" tt_auto="Tryngites subruficollis">tundravikla</l>
+         <l pos="N" tt_auto="Tryngites subruficollis">tundravikla</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7957,7 +7897,7 @@
    </e>
    <e id="15143">
       <lg>
-         <l pos="">tunka</l>
+         <l pos="N">tunka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7967,17 +7907,17 @@
    </e>
    <e id="15185">
       <lg>
-         <l pos="" tt_auto="Phippsia algida">tunturihilpi</l>
+         <l pos="N" tt_auto="Phippsia algida">tunturihilpi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" syn_dash="-hiilpâ">tuodârhilppâ</t>
+            <t pos="N" syn_dash="-hiilpâ">tuodârhilppâ</t>
          </tg>
       </mg>
    </e>
    <e id="15189">
       <lg>
-         <l pos="" tt_auto="Salix hastata ssp. hastata">tunturikalvaspaju</l>
+         <l pos="N" tt_auto="Salix hastata ssp. hastata">tunturikalvaspaju</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7997,7 +7937,7 @@
    </e>
    <e id="15295">
       <lg>
-         <l pos="" r1_par="(kelluva kalanpyydyksen merkkikoho)">tupuli</l>
+         <l pos="N" r1_par="(kelluva kalanpyydyksen merkkikoho)">tupuli</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8047,17 +7987,17 @@
    </e>
    <e id="15570">
       <lg>
-         <l pos="" tt_auto="Stellaria">tähtimöt</l>
+         <l pos="N" tt_auto="Stellaria">tähtimöt</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">iilâskšadoh</t>
+            <t pos="N">iilâskšadoh</t>
          </tg>
       </mg>
    </e>
    <e id="15586">
       <lg>
-         <l pos="" r1_par="(linnun rintaliha)">täkkä</l>
+         <l pos="N" r1_par="(linnun rintaliha)">täkkä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8117,7 +8057,7 @@
    </e>
    <e id="15638">
       <lg>
-         <l pos="">täysperävaunu</l>
+         <l pos="N">täysperävaunu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8127,31 +8067,31 @@
    </e>
    <e id="15694">
       <lg>
-         <l pos="" tt_auto="Podicipedidae">uikut</l>
+         <l pos="N" tt_auto="Podicipedidae">uikut</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">šnjirgooh</t>
+            <t pos="N">šnjirgooh</t>
          </tg>
       </mg>
    </e>
    <e id="15696">
       <lg>
-         <l pos="" r1_par="(mon.)">uimahousut</l>
+         <l pos="N" r1_par="(mon.)">uimahousut</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">vuoijâmpuuvsah</t>
+            <t pos="N" r_par="mon.">vuoijâmpuuvsah</t>
          </tg>
       </mg>
    </e>
    <e id="15728">
       <lg>
-         <l pos="" tt_auto="Macrolepiota">ukonsienet</l>
+         <l pos="N" tt_auto="Macrolepiota">ukonsienet</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">äijihkuobbâreh</t>
+            <t pos="N">äijihkuobbâreh</t>
          </tg>
       </mg>
    </e>
@@ -8167,7 +8107,7 @@
    </e>
    <e id="15758">
       <lg>
-         <l pos="" r1_par="(mon.)">ulkosynnyttimet</l>
+         <l pos="N" r1_par="(mon.)">ulkosynnyttimet</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8177,7 +8117,7 @@
    </e>
    <e id="15760">
       <lg>
-         <l pos="">ulku</l>
+         <l pos="N">ulku</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8197,7 +8137,7 @@
    </e>
    <e id="15807">
       <lg>
-         <l pos="">unohtaminen</l>
+         <l pos="N">unohtaminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8207,7 +8147,7 @@
    </e>
    <e id="15816">
       <lg>
-         <l pos="" tt_auto="Callitriche hermaphroditiga">uposvesitähti</l>
+         <l pos="N" tt_auto="Callitriche hermaphroditiga">uposvesitähti</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8247,11 +8187,11 @@
    </e>
    <e id="15846">
       <lg>
-         <l pos="" r1_par="(mon.)">urut</l>
+         <l pos="N" r1_par="(mon.)">urut</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">uurguh</t>
+            <t pos="N" r_par="mon.">uurguh</t>
          </tg>
       </mg>
    </e>
@@ -8267,7 +8207,7 @@
    </e>
    <e id="15871">
       <lg>
-         <l pos="">uskottu mies</l>
+         <l pos="N">uskottu mies</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8277,7 +8217,7 @@
    </e>
    <e id="15938">
       <lg>
-         <l pos="" r1_par="(harmahtava, vaaleakylkinen poro)">vaalakka</l>
+         <l pos="N" r1_par="(harmahtava, vaaleakylkinen poro)">vaalakka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8287,17 +8227,17 @@
    </e>
    <e id="15949">
       <lg>
-         <l pos="" r1_par="(mon.)">vaalit</l>
+         <l pos="N" r1_par="(mon.)">vaalit</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">vaaljah</t>
+            <t pos="N" r_par="mon.">vaaljah</t>
          </tg>
       </mg>
    </e>
    <e id="15976">
       <lg>
-         <l pos="" r1_par="(verkkokeppi)">vaato</l>
+         <l pos="N" r1_par="(verkkokeppi)">vaato</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8337,21 +8277,21 @@
    </e>
    <e id="16138">
       <lg>
-         <l pos="" r1_par="(mon.)">valjaat</l>
+         <l pos="N" r1_par="(mon.)">valjaat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">leeŋgih</t>
+            <t pos="N" r_par="mon.">leeŋgih</t>
          </tg>
       </mg>
    </e>
    <e id="16198">
       <lg>
-         <l pos="" tt_auto="Tricholoma">valmuskat</l>
+         <l pos="N" tt_auto="Tricholoma">valmuskat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">šovkkâheh</t>
+            <t pos="N">šovkkâheh</t>
          </tg>
       </mg>
    </e>
@@ -8367,11 +8307,11 @@
    </e>
    <e id="16274">
       <lg>
-         <l pos="" r1_par="(mon.)">vanhemmat</l>
+         <l pos="N" r1_par="(mon.)">vanhemmat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon." t_tld="~vanhimeh ~ vanhimeh">vaanhimeh</t>
+            <t pos="N" r_par="mon." t_tld="~vanhimeh ~ vanhimeh">vaanhimeh</t>
          </tg>
       </mg>
    </e>
@@ -8387,7 +8327,7 @@
    </e>
    <e id="16325">
       <lg>
-         <l pos="">varankilainen</l>
+         <l pos="N">varankilainen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8437,17 +8377,17 @@
    </e>
    <e id="16419">
       <lg>
-         <l pos="">vaskoli</l>
+         <l pos="N">vaskoli</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">vaskool</t>
+            <t pos="N">vaskool</t>
          </tg>
       </mg>
    </e>
    <e id="16423">
       <lg>
-         <l pos="">vasotus</l>
+         <l pos="N">vasotus</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8457,7 +8397,7 @@
    </e>
    <e id="16424">
       <lg>
-         <l pos="">vasotustarha</l>
+         <l pos="N">vasotustarha</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8467,7 +8407,7 @@
    </e>
    <e id="16425">
       <lg>
-         <l pos="" r1_par="(sorkkaeläimistä)">vasova</l>
+         <l pos="N" r1_par="(sorkkaeläimistä)">vasova</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8497,7 +8437,7 @@
    </e>
    <e id="16555">
       <lg>
-         <l pos="">velkominen</l>
+         <l pos="N">velkominen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8517,7 +8457,7 @@
    </e>
    <e id="16577">
       <lg>
-         <l pos="" r1_par="(nahasta)">venynyt</l>
+         <l pos="N" r1_par="(nahasta)">venynyt</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8537,11 +8477,11 @@
    </e>
    <e id="16620">
       <lg>
-         <l pos="" r1_par="(mon.)" comma=", verryttelyhousut">verkkarit</l>
+         <l pos="N" r1_par="(mon.)" comma=", verryttelyhousut">verkkarit</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">valastâllâmpuuvsah</t>
+            <t pos="N" r_par="mon.">valastâllâmpuuvsah</t>
          </tg>
       </mg>
    </e>
@@ -8557,7 +8497,7 @@
    </e>
    <e id="16779">
       <lg>
-         <l pos="" r1_par="(painomitta 20 kg)">vieko</l>
+         <l pos="N" r1_par="(painomitta 20 kg)">vieko</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8567,7 +8507,7 @@
    </e>
    <e id="16780">
       <lg>
-         <l pos="" r1_par="(suvanto)">vielma</l>
+         <l pos="N" r1_par="(suvanto)">vielma</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8577,11 +8517,11 @@
    </e>
    <e id="16782">
       <lg>
-         <l pos="" r1_par="(mon.)">viemiset</l>
+         <l pos="N" r1_par="(mon.)">viemiset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">tuálvumušah</t>
+            <t pos="N" r_par="mon.">tuálvumušah</t>
          </tg>
       </mg>
    </e>
@@ -8597,7 +8537,7 @@
    </e>
    <e id="16803">
       <lg>
-         <l pos="">vieroporo</l>
+         <l pos="N">vieroporo</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8617,17 +8557,17 @@
    </e>
    <e id="16835">
       <lg>
-         <l pos="" tt_auto="Alectoria">viherlupot</l>
+         <l pos="N" tt_auto="Alectoria">viherlupot</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">ruánáájievjâmeh</t>
+            <t pos="N">ruánáájievjâmeh</t>
          </tg>
       </mg>
    </e>
    <e id="16849">
       <lg>
-         <l pos="">vihilläkäynti</l>
+         <l pos="N">vihilläkäynti</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8637,11 +8577,11 @@
    </e>
    <e id="16858">
       <lg>
-         <l pos="" r1_par="(mon.)">vihkiäiset</l>
+         <l pos="N" r1_par="(mon.)">vihkiäiset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon.">vihkjááh</t>
+            <t pos="N" r_par="mon.">vihkjááh</t>
          </tg>
       </mg>
    </e>
@@ -8657,7 +8597,7 @@
    </e>
    <e id="16925">
       <lg>
-         <l pos="" tt_auto="Locustella lanceolata">viirusirkkalintu</l>
+         <l pos="N" tt_auto="Locustella lanceolata">viirusirkkalintu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8697,7 +8637,7 @@
    </e>
    <e id="16942">
       <lg>
-         <l pos="">viistopönkkä</l>
+         <l pos="N">viistopönkkä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8707,7 +8647,7 @@
    </e>
    <e id="16947">
       <lg>
-         <l pos="" tt_auto="Locustella fluviatilis">viitasirkkalintu</l>
+         <l pos="N" tt_auto="Locustella fluviatilis">viitasirkkalintu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8747,17 +8687,17 @@
    </e>
    <e id="17033">
       <lg>
-         <l pos="" r1_par="(lyhyt)">vinosarvi</l>
+         <l pos="N" r1_par="(lyhyt)">vinosarvi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="leenzi">lenzi</t>
+            <t pos="N" wf="leenzi">lenzi</t>
          </tg>
       </mg>
    </e>
    <e id="17049">
       <lg>
-         <l pos="" r1_par="(mon.)">viranomaiset</l>
+         <l pos="N" r1_par="(mon.)">viranomaiset</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8767,7 +8707,7 @@
    </e>
    <e id="17096">
       <lg>
-         <l pos="" tt_auto="Salix aurita">virpapaju</l>
+         <l pos="N" tt_auto="Salix aurita">virpapaju</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8797,11 +8737,11 @@
    </e>
    <e id="17147">
       <lg>
-         <l pos="">viuhdonta</l>
+         <l pos="N">viuhdonta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="faškâs">faaškâs</t>
+            <t pos="N" wf="faškâs">faaškâs</t>
          </tg>
       </mg>
    </e>
@@ -8817,27 +8757,27 @@
    </e>
    <e id="17195">
       <lg>
-         <l pos="" r1_par="(matala, puuton vaara tunturissa)">vosa</l>
+         <l pos="N" r1_par="(matala, puuton vaara tunturissa)">vosa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="voođâ">vođđâ</t>
+            <t pos="N" wf="voođâ">vođđâ</t>
          </tg>
       </mg>
    </e>
    <e id="17205">
       <lg>
-         <l pos="" tt_auto="Anemone">vuokot</l>
+         <l pos="N" tt_auto="Anemone">vuokot</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="">täsnikukáh</t>
+            <t pos="N">täsnikukáh</t>
          </tg>
       </mg>
    </e>
    <e id="17221">
       <lg>
-         <l pos="">vuoma</l>
+         <l pos="N">vuoma</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8847,7 +8787,7 @@
    </e>
    <e id="17222">
       <lg>
-         <l pos="" r1_par="(pieni)">vuomen</l>
+         <l pos="N" r1_par="(pieni)">vuomen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8857,7 +8797,7 @@
    </e>
    <e id="17223">
       <lg>
-         <l pos="" r1_par="(naarasporo 2. vuodellaan)">vuongeli</l>
+         <l pos="N" r1_par="(naarasporo 2. vuodellaan)">vuongeli</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8867,7 +8807,7 @@
    </e>
    <e id="17249">
       <lg>
-         <l pos="" r1_par="(urosporo 3. vuodellaan)">vuorso</l>
+         <l pos="N" r1_par="(urosporo 3. vuodellaan)">vuorso</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8877,7 +8817,7 @@
    </e>
    <e id="17265">
       <lg>
-         <l pos="" r1_par="(männyn kuorintaan)">vuotkin</l>
+         <l pos="N" r1_par="(männyn kuorintaan)">vuotkin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8887,7 +8827,7 @@
    </e>
    <e id="17267">
       <lg>
-         <l pos="" r1_par="(jäljityskeli)">vuotos</l>
+         <l pos="N" r1_par="(jäljityskeli)">vuotos</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8897,11 +8837,11 @@
    </e>
    <e id="17268">
       <lg>
-         <l pos="" r1_par="(pitkä, kapea suo, jossa pieniä lampia)">vuotso</l>
+         <l pos="N" r1_par="(pitkä, kapea suo, jossa pieniä lampia)">vuotso</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="vuáču">vuáčču</t>
+            <t pos="N" wf="vuáču">vuáčču</t>
          </tg>
       </mg>
    </e>
@@ -8917,17 +8857,17 @@
    </e>
    <e id="17271">
       <lg>
-         <l pos="">vuotturaippa</l>
+         <l pos="N">vuotturaippa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" syn_dash="-reeipi">vuotreippi</t>
+            <t pos="N" syn_dash="-reeipi">vuotreippi</t>
          </tg>
       </mg>
    </e>
    <e id="17273">
       <lg>
-         <l pos="">vuotuiskierto</l>
+         <l pos="N">vuotuiskierto</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8937,7 +8877,7 @@
    </e>
    <e id="17274">
       <lg>
-         <l pos="" r1_par="(kesä- ja talvipaikan välillä)">vuotuismuutto</l>
+         <l pos="N" r1_par="(kesä- ja talvipaikan välillä)">vuotuismuutto</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8967,7 +8907,7 @@
    </e>
    <e id="17353">
       <lg>
-         <l pos="" r1_par="(rankismainen)">väliaikaismajoiteteltta</l>
+         <l pos="N" r1_par="(rankismainen)">väliaikaismajoiteteltta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8977,7 +8917,7 @@
    </e>
    <e id="17376">
       <lg>
-         <l pos="" r1_par="(mon.)">välit</l>
+         <l pos="N" r1_par="(mon.)">välit</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8987,7 +8927,7 @@
    </e>
    <e id="17384">
       <lg>
-         <l pos="" r1_par="(mon.)">vällyt</l>
+         <l pos="N" r1_par="(mon.)">vällyt</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -9007,7 +8947,7 @@
    </e>
    <e id="17396">
       <lg>
-         <l pos="" r1_par="(liikkeen aiheuttama veden pinnalla)">väreily</l>
+         <l pos="N" r1_par="(liikkeen aiheuttama veden pinnalla)">väreily</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -9087,7 +9027,7 @@
    </e>
    <e id="17466">
       <lg>
-         <l pos="">yhdenmukaistaminen</l>
+         <l pos="N">yhdenmukaistaminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -9107,7 +9047,7 @@
    </e>
    <e id="17510">
       <lg>
-         <l pos="">yhteisöllisyys</l>
+         <l pos="N">yhteisöllisyys</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -9117,7 +9057,7 @@
    </e>
    <e id="17517">
       <lg>
-         <l pos="">yhteyttäminen</l>
+         <l pos="N">yhteyttäminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -9127,11 +9067,11 @@
    </e>
    <e id="17522">
       <lg>
-         <l pos="">yhtiöittäminen</l>
+         <l pos="N">yhtiöittäminen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" mwe="y">finnodâhhân rievdâdem</t>
+            <t pos="N" mwe="y">finnodâhhân rievdâdem</t>
          </tg>
       </mg>
    </e>
@@ -9207,7 +9147,7 @@
    </e>
    <e id="17752">
       <lg>
-         <l pos="" tt_auto="Chalciporus piperatus">äikätatti</l>
+         <l pos="N" tt_auto="Chalciporus piperatus">äikätatti</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -9217,7 +9157,7 @@
    </e>
    <e id="17753">
       <lg>
-         <l pos="" tt_auto="Tricholoma aestuans">äikävalmuska</l>
+         <l pos="N" tt_auto="Tricholoma aestuans">äikävalmuska</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -9227,7 +9167,7 @@
    </e>
    <e id="17778">
       <lg>
-         <l pos="">änkyrimato</l>
+         <l pos="N">änkyrimato</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -9237,7 +9177,7 @@
    </e>
    <e id="17837">
       <lg>
-         <l pos="">ökyrikas</l>
+         <l pos="N">ökyrikas</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -9258,12 +9198,12 @@
    </e>
    <e id="229">
       <lg>
-         <l pos="" r1_par="(mon.)">aivot</l>
+         <l pos="N" r1_par="(mon.)">aivot</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" r_par="mon">vuoiŋâšeh</t>
-            <t pos="" r_par="mon." t_tld="~vuoivâšneh">vuoivâšmeh</t>
+            <t pos="N" r_par="mon">vuoiŋâšeh</t>
+            <t pos="N" r_par="mon." t_tld="~vuoivâšneh">vuoivâšmeh</t>
          </tg>
       </mg>
    </e>
@@ -9278,7 +9218,7 @@
          </tg>
       </mg>
    </e>
-   <e id="526">
+   <e id="526"><!-- Trond sjekka N hit -->
       <lg>
          <l pos="">ampumatuki</l>
       </lg>

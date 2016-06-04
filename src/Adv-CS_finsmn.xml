@@ -2,33 +2,32 @@
 <r xml:lang="fin">
    <e id="5845">
       <lg>
-         <l pos="Adv-CS" r1_par="(kysymyssana)">koska</l>
+         <l pos="CS" r1_par="(kysymyssana)">koska</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-CS">kuás</t>
+            <t pos="CS">kuás</t>
          </tg>
       </mg>
    </e>
    <e id="6162">
       <lg>
-         <l pos="Adv-CS">kunnes</l>
+         <l pos="CS">kunnes</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-CS">tassaaš</t>
+            <t pos="CS">tassaaš</t>
          </tg>
       </mg>
    </e>
    <e id="5844">
       <lg>
-         <l pos="Adv-CS" r1_par="(alistuskonjunktio)">koska</l>
+         <l pos="CS" r1_par="(alistuskonjunktio)">koska</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="CC-CS">tastko</t>
-            <t pos="Adv-CS">ko</t>
-            <t pos="Adv">jo</t>
+            <t pos="CS">tastko</t>
+            <t pos="CS">ko</t>
          </tg>
       </mg>
    </e>

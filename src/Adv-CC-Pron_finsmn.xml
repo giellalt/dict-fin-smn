@@ -2,14 +2,12 @@
 <r xml:lang="fin">
    <e id="9051">
       <lg>
-         <l pos="Adv-CC-Pron">niin</l>
+         <l pos="Adv">niin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-CC">naa</t>
             <t pos="Adv">nuuvt</t>
-            <t pos="Adv-CS">te</t>
-            <t pos="">jite</t>
+            <t pos="Adv">te</t>
          </tg>
       </mg>
       <mg id="2">
@@ -20,12 +18,22 @@
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="Adv" l_par="niin kuin">tego</t>
-            <t pos="CS">tegu</t>
          </tg>
       </mg>
-      <mg id="4">
+   </e>
+
+   <e id="9051">
+      <lg>
+         <l pos="CC">niin</l>
+      </lg>
+      <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" l_par="niin vain" t_tld="~ setinááLá">sätináálá</t>
+            <t pos="CC">naa</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="CS">tegu</t>
          </tg>
       </mg>
    </e>

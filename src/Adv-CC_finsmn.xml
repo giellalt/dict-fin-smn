@@ -2,12 +2,12 @@
 <r xml:lang="fin">
    <e id="8783">
       <lg>
-         <l pos="Adv-CC">myös</l>
+         <l pos="Adv">myös</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv" t_tld="~ meiddei">meid</t>
-            <t pos="">še</t>
+            <t pos="Adv">še</t>
          </tg>
       </mg>
    </e>

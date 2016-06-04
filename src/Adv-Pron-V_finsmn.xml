@@ -2,7 +2,7 @@
 <r xml:lang="fin">
    <e id="6333">
       <lg>
-         <l pos="Adv-Pron-V">kusta</l>
+         <l pos="V">kusta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -12,7 +12,7 @@
    </e>
    <e id="13085">
       <lg>
-         <l pos="Adv-Pron-V" r1_par="(verbi)">siitä</l>
+         <l pos="V" r1_par="(verbi)">siitä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -22,7 +22,7 @@
    </e>
    <e id="13086">
       <lg>
-         <l pos="Adv-Pron-V" r1_par="(pron.)" comma=", -nä">siitä</l>
+         <l pos="Adv" r1_par="(pron.)" comma=", -nä">siitä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -36,8 +36,8 @@
          <tg xml:lang="smn">
             <t pos="Adv" l_par="siitä juuri">tie</t>
             <t pos="Adv">tastan</t>
-            <t pos="">tiiláá</t>
-            <t pos="">tiestân</t>
+            <t pos="Adv">tiiláá</t>
+            <t pos="Adv">tiestân</t>
          </tg>
       </mg>
       <mg id="3">
@@ -54,7 +54,7 @@
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="Adv-CS" l_par="siitä asti">tassaaš</t>
+            <t pos="Adv" l_par="siitä asti">tassaaš</t>
          </tg>
       </mg>
    </e>

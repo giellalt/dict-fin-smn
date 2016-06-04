@@ -2,7 +2,7 @@
 <r xml:lang="fin">
    <e id="11474">
       <lg>
-         <l pos="Adv-V">päästä</l>
+         <l pos="V">päästä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -27,7 +27,7 @@
    </e>
    <e id="11475">
       <lg>
-         <l pos="Adv-V" r1_par="(kuluttua)">päästä</l>
+         <l pos="Adv" r1_par="(kuluttua)">päästä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">

@@ -57,13 +57,11 @@
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="CS" l_par="syytä ilmoittamassa">vâi</t>
-         </tg>
-      </mg>
-      <mg id="3">
-         <tg xml:lang="smn">
-            <t pos="" l_par="lue läksyt _COMMA_ että opit" wf="liävsuid">luuvâ</t>
-            <t pos="CS" wf="oopah">vâi</t>
+           <t pos="CS" l_par="syytä ilmoittamassa">vâi</t>
+	   <xg>
+	     <x>lue läksyt, että opit</x>
+	     <xt>luuvâ liävsuiđ, vâi oopah</xt>
+	   </xg>
          </tg>
       </mg>
    </e>

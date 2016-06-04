@@ -46,7 +46,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" attr="# eNittes _AT_ eNittemes">enittem</t>
+            <t pos="A" attr="# eNittes _AT_ eNittemes">enittem</t>
          </tg>
       </mg>
    </e>
@@ -356,7 +356,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" attr="# -s">jienâttem</t>
+            <t pos="A" attr="# -s">jienâttem</t>
          </tg>
       </mg>
    </e>
@@ -846,7 +846,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" attr="# kyermis" wf="kuármá">kyermis</t>
+            <t pos="A" attr="# kyermis" wf="kuármá">kyermis</t>
          </tg>
       </mg>
    </e>
@@ -5511,7 +5511,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" attr="# -s">kovdee</t>
+            <t pos="A" attr="# -s">kovdee</t>
             <t pos="A">kuvdâlâs</t>
          </tg>
       </mg>
@@ -6626,7 +6626,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" attr="# muottuuttes">muottuuttem</t>
+            <t pos="A" attr="# muottuuttes">muottuuttem</t>
          </tg>
       </mg>
       <mg id="2">

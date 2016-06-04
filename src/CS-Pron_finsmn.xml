@@ -2,14 +2,12 @@
 <r xml:lang="fin">
    <e id="3511">
       <lg>
-         <l pos="CS-Pron">jotta</l>
+         <l pos="CS">jotta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="CC-CS">vâi</t>
-            <t pos="">vuoi</t>
-            <t pos="" t_tld="~ensun">ansun</t>
-            <t pos="Adv">asun</t>
+            <t pos="CS">vâi</t>
+            <t pos="CS">vuoi</t>
          </tg>
       </mg>
    </e>

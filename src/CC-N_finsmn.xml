@@ -2,7 +2,7 @@
 <r xml:lang="fin">
    <e id="14152">
       <lg>
-         <l pos="CC-N">tai</l>
+         <l pos="CC">tai</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -14,17 +14,12 @@
    </e>
    <e id="16011">
       <lg>
-         <l pos="CC-N">vai</l>
+         <l pos="CC">vai</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="CC-CS">vâi</t>
-            <t pos="">vuoi</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn">
-            <t pos="" l_par="vai niin">jáá</t>
+            <t pos="CC">vâi</t>
+            <t pos="CC">vuoi</t>
          </tg>
       </mg>
    </e>

@@ -2,7 +2,7 @@
 <r xml:lang="fin">
    <e id="139">
       <lg>
-         <l pos="N-V">aiheutua</l>
+         <l pos="V">aiheutua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -12,7 +12,7 @@
    </e>
    <e id="1583">
       <lg>
-         <l pos="N-V">haarautua</l>
+         <l pos="V">haarautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -22,7 +22,7 @@
    </e>
    <e id="1625">
       <lg>
-         <l pos="N-V">hairahtua</l>
+         <l pos="V">hairahtua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -32,17 +32,17 @@
    </e>
    <e id="1669">
       <lg>
-         <l pos="N-V">hakeutua</l>
+         <l pos="V">hakeutua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="ucâluum ucâluVá">ucâluđ</t>
+            <t pos="V" wf="ucâluum ucâluVá">ucâluđ</t>
          </tg>
       </mg>
    </e>
    <e id="1789">
       <lg>
-         <l pos="N-V">hankautua</l>
+         <l pos="V">hankautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -52,17 +52,17 @@
    </e>
    <e id="1947">
       <lg>
-         <l pos="N-V">hautautua</l>
+         <l pos="V">hautautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="hävdiduum hävdiduVá">hävdiduđ</t>
+            <t pos="V" wf="hävdiduum hävdiduVá">hävdiduđ</t>
          </tg>
       </mg>
    </e>
    <e id="2241">
       <lg>
-         <l pos="N-V">hierottaa</l>
+         <l pos="V">hierottaa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -72,27 +72,27 @@
    </e>
    <e id="4335">
       <lg>
-         <l pos="N-V">karheutua</l>
+         <l pos="V">karheutua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="harkkoluum harkkoluVá">harkkoluđ</t>
+            <t pos="V" wf="harkkoluum harkkoluVá">harkkoluđ</t>
          </tg>
       </mg>
    </e>
    <e id="4743">
       <lg>
-         <l pos="N-V">kelautua</l>
+         <l pos="V">kelautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="kelâšuVá">kelâšuđ</t>
+            <t pos="V" wf="kelâšuVá">kelâšuđ</t>
          </tg>
       </mg>
    </e>
    <e id="5272">
       <lg>
-         <l pos="N-V">kipsata</l>
+         <l pos="V">kipsata</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -102,37 +102,37 @@
    </e>
    <e id="5311">
       <lg>
-         <l pos="N-V" r1_par="(tietokoneelle, hotelliin tms.)">kirjautua</l>
+         <l pos="V" r1_par="(tietokoneelle, hotelliin tms.)">kirjautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" mwe="y">čáládâttâđ siisâ</t>
+            <t pos="V" mwe="y">čáládâttâđ siisâ</t>
          </tg>
       </mg>
    </e>
    <e id="5880">
       <lg>
-         <l pos="N-V">koteloitua</l>
+         <l pos="V">koteloitua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="kuátiluum">kuátiluđ</t>
+            <t pos="V" wf="kuátiluum">kuátiluđ</t>
          </tg>
       </mg>
    </e>
    <e id="6186">
       <lg>
-         <l pos="N-V">kuntoutua</l>
+         <l pos="V">kuntoutua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="vajoiduum vajoiduVá">vajoiduđ</t>
+            <t pos="V" wf="vajoiduum vajoiduVá">vajoiduđ</t>
          </tg>
       </mg>
    </e>
    <e id="6244">
       <lg>
-         <l pos="N-V">kuoriutua</l>
+         <l pos="V">kuoriutua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -142,17 +142,17 @@
    </e>
    <e id="6422">
       <lg>
-         <l pos="N-V">kuuroutua</l>
+         <l pos="V">kuuroutua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="peljittuum peljittuVá">peljittuđ</t>
+            <t pos="V" wf="peljittuum peljittuVá">peljittuđ</t>
          </tg>
       </mg>
    </e>
    <e id="7206">
       <lg>
-         <l pos="N-V">leimata</l>
+         <l pos="V">leimata</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -162,7 +162,7 @@
    </e>
    <e id="7207">
       <lg>
-         <l pos="N-V">leimautua</l>
+         <l pos="V">leimautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -172,7 +172,7 @@
    </e>
    <e id="7221">
       <lg>
-         <l pos="N-V">leiriytyä</l>
+         <l pos="V">leiriytyä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -182,7 +182,7 @@
    </e>
    <e id="7373">
       <lg>
-         <l pos="N-V">lihavoida</l>
+         <l pos="V">lihavoida</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -192,7 +192,7 @@
    </e>
    <e id="7604">
       <lg>
-         <l pos="N-V">lommoutua</l>
+         <l pos="V">lommoutua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -202,7 +202,7 @@
    </e>
    <e id="7820">
       <lg>
-         <l pos="N-V">luurata</l>
+         <l pos="V">luurata</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -212,7 +212,7 @@
    </e>
    <e id="8016">
       <lg>
-         <l pos="N-V">maalata</l>
+         <l pos="V">maalata</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -222,27 +222,27 @@
    </e>
    <e id="8868">
       <lg>
-         <l pos="N-V">määräytyä</l>
+         <l pos="V">määräytyä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="meRiduvvoo">meriduđ</t>
+            <t pos="V" wf="meRiduvvoo">meriduđ</t>
          </tg>
       </mg>
    </e>
    <e id="10047">
       <lg>
-         <l pos="N-V">pariutua</l>
+         <l pos="V">pariutua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="paRâluum paRâluVá">parâluđ</t>
+            <t pos="V" wf="paRâluum paRâluVá">parâluđ</t>
          </tg>
       </mg>
    </e>
    <e id="10049">
       <lg>
-         <l pos="N-V">parjata</l>
+         <l pos="V">parjata</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -252,7 +252,7 @@
    </e>
    <e id="10093">
       <lg>
-         <l pos="N-V">patoutua</l>
+         <l pos="V">patoutua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -262,7 +262,7 @@
    </e>
    <e id="10185">
       <lg>
-         <l pos="N-V">penikoida</l>
+         <l pos="V">penikoida</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -272,7 +272,7 @@
    </e>
    <e id="10444">
       <lg>
-         <l pos="N-V">piileskellä</l>
+         <l pos="V">piileskellä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -282,7 +282,7 @@
    </e>
    <e id="10462">
       <lg>
-         <l pos="N-V" r1_par="(jssak)">piipahtaa</l>
+         <l pos="V" r1_par="(jssak)">piipahtaa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -292,7 +292,7 @@
    </e>
    <e id="10485">
       <lg>
-         <l pos="N-V">piisata</l>
+         <l pos="V">piisata</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -302,7 +302,7 @@
    </e>
    <e id="11758">
       <lg>
-         <l pos="N-V">rapautua</l>
+         <l pos="V">rapautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -312,7 +312,7 @@
    </e>
    <e id="11917">
       <lg>
-         <l pos="N-V">repäistä</l>
+         <l pos="V">repäistä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -322,17 +322,17 @@
    </e>
    <e id="12371">
       <lg>
-         <l pos="N-V">ruuhkautua</l>
+         <l pos="V">ruuhkautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="pokkâšuum pokkâšuVá">pokkâšuđ</t>
+            <t pos="V" wf="pokkâšuum pokkâšuVá">pokkâšuđ</t>
          </tg>
       </mg>
    </e>
    <e id="12866">
       <lg>
-         <l pos="N-V">sekoilla</l>
+         <l pos="V">sekoilla</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -342,7 +342,7 @@
    </e>
    <e id="13219">
       <lg>
-         <l pos="N-V">sinkoutua</l>
+         <l pos="V">sinkoutua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -352,27 +352,27 @@
    </e>
    <e id="13345">
       <lg>
-         <l pos="N-V">slummiutua</l>
+         <l pos="V">slummiutua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="slummiluVá">slummiluđ</t>
+            <t pos="V" wf="slummiluVá">slummiluđ</t>
          </tg>
       </mg>
    </e>
    <e id="13541">
       <lg>
-         <l pos="N-V">suhtautua</l>
+         <l pos="V">suhtautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" mwe="y">anneeđ koskâvuođâ</t>
+            <t pos="V" mwe="y">anneeđ koskâvuođâ</t>
          </tg>
       </mg>
    </e>
    <e id="13657">
       <lg>
-         <l pos="N-V">suojata</l>
+         <l pos="V">suojata</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -382,7 +382,7 @@
    </e>
    <e id="14125">
       <lg>
-         <l pos="N-V">taata</l>
+         <l pos="V">taata</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -392,7 +392,7 @@
    </e>
    <e id="14177">
       <lg>
-         <l pos="N-V" r1_par="(esim. oksista tuulessa)">taipuilla</l>
+         <l pos="V" r1_par="(esim. oksista tuulessa)">taipuilla</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -402,7 +402,7 @@
    </e>
    <e id="14464">
       <lg>
-         <l pos="N-V" r1_par="(uhkarohkeasti)">tasapainoilla</l>
+         <l pos="V" r1_par="(uhkarohkeasti)">tasapainoilla</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -412,7 +412,7 @@
    </e>
    <e id="14692">
       <lg>
-         <l pos="N-V">tienata</l>
+         <l pos="V">tienata</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -422,17 +422,17 @@
    </e>
    <e id="15302">
       <lg>
-         <l pos="N-V">turhautua</l>
+         <l pos="V">turhautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="tuŠástuum tuŠástuVá">tusástuđ</t>
+            <t pos="V" wf="tuŠástuum tuŠástuVá">tusástuđ</t>
          </tg>
       </mg>
    </e>
    <e id="15336">
       <lg>
-         <l pos="N-V">turvautua</l>
+         <l pos="V">turvautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -442,27 +442,27 @@
    </e>
    <e id="15929">
       <lg>
-         <l pos="N-V">vaahtoutua</l>
+         <l pos="V">vaahtoutua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="suptâluVá">suptâluđ</t>
+            <t pos="V" wf="suptâluVá">suptâluđ</t>
          </tg>
       </mg>
    </e>
    <e id="16260">
       <lg>
-         <l pos="N-V" r1_par="(toimintakyvyttömäksi)">vammautua</l>
+         <l pos="V" r1_par="(toimintakyvyttömäksi)">vammautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="ruásmuttuum ruásmuttuVá">ruásmuttuđ</t>
+            <t pos="V" wf="ruásmuttuum ruásmuttuVá">ruásmuttuđ</t>
          </tg>
       </mg>
    </e>
    <e id="16338">
       <lg>
-         <l pos="N-V" r1_par="(jhk)">varautua</l>
+         <l pos="V" r1_par="(jhk)">varautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -472,17 +472,17 @@
    </e>
    <e id="16491">
       <lg>
-         <l pos="N-V">vaurioitua</l>
+         <l pos="V">vaurioitua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="vahaduVá">vahaduđ</t>
+            <t pos="V" wf="vahaduVá">vahaduđ</t>
          </tg>
       </mg>
    </e>
    <e id="16639">
       <lg>
-         <l pos="N-V">verkostoitua</l>
+         <l pos="V">verkostoitua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -492,18 +492,18 @@
    </e>
    <e id="313">
       <lg>
-         <l pos="N-V">aktivoida</l>
+         <l pos="V">aktivoida</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V">aktivistiđ</t>
-            <t pos="" mwe="y">toohâđ aktiivlâžžân</t>
+            <t pos="V" mwe="y">toohâđ aktiivlâžžân</t>
          </tg>
       </mg>
    </e>
    <e id="1828">
       <lg>
-         <l pos="N-V">haravoida</l>
+         <l pos="V">haravoida</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -514,7 +514,7 @@
    </e>
    <e id="6415">
       <lg>
-         <l pos="N-V" r1_par="(puhtaaksi)">kuurata</l>
+         <l pos="V" r1_par="(puhtaaksi)">kuurata</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -525,7 +525,7 @@
    </e>
    <e id="7796">
       <lg>
-         <l pos="N-V">lupautua</l>
+         <l pos="V">lupautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -536,7 +536,7 @@
    </e>
    <e id="10051">
       <lg>
-         <l pos="N-V" r1_par="(ihmisestä t. eläimestä)">parkaista</l>
+         <l pos="V" r1_par="(ihmisestä t. eläimestä)">parkaista</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -547,11 +547,11 @@
    </e>
    <e id="11703">
       <lg>
-         <l pos="N-V">rampautua</l>
+         <l pos="V">rampautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="lammâšuVá">lammâšuđ</t>
+            <t pos="V" wf="lammâšuVá">lammâšuđ</t>
             <t pos="V" wf="láámum">láámmuđ</t>
             <t pos="V" wf="ráábum">rábbuđ</t>
          </tg>
@@ -559,7 +559,7 @@
    </e>
    <e id="11746">
       <lg>
-         <l pos="N-V">rantautua</l>
+         <l pos="V">rantautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -570,7 +570,7 @@
    </e>
    <e id="13643">
       <lg>
-         <l pos="N-V">suoda</l>
+         <l pos="V">suoda</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -581,7 +581,7 @@
    </e>
    <e id="14265">
       <lg>
-         <l pos="N-V">takavarikoida</l>
+         <l pos="V">takavarikoida</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -592,19 +592,19 @@
    </e>
    <e id="15277">
       <lg>
-         <l pos="N-V">tupakoida</l>
+         <l pos="V">tupakoida</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" wf="porgoot">porgottiđ</t>
             <t pos="V" wf="tubákkâšâm">tubákkâššâđ</t>
-            <t pos="" mwe="y">puáldiđ tubbáák</t>
+            <t pos="V" mwe="y">puáldiđ tubbáák</t>
          </tg>
       </mg>
    </e>
    <e id="16036">
       <lg>
-         <l pos="N-V">vaikertaa</l>
+         <l pos="V">vaikertaa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -615,7 +615,7 @@
    </e>
    <e id="17611">
       <lg>
-         <l pos="N-V">ylikuumeta</l>
+         <l pos="V">ylikuumeta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -626,7 +626,7 @@
    </e>
    <e id="852">
       <lg>
-         <l pos="N-V">avioitua</l>
+         <l pos="V">avioitua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -641,7 +641,7 @@
    </e>
    <e id="942">
       <lg>
-         <l pos="N-V" r1_par="(jhk nesteeseen)">dipata</l>
+         <l pos="V" r1_par="(jhk nesteeseen)">dipata</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -659,7 +659,7 @@
    </e>
    <e id="1666">
       <lg>
-         <l pos="N-V">hakea</l>
+         <l pos="V">hakea</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -684,7 +684,7 @@
    </e>
    <e id="5847">
       <lg>
-         <l pos="N-V">koskea</l>
+         <l pos="V">koskea</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -711,7 +711,7 @@
    </e>
    <e id="6405">
       <lg>
-         <l pos="N-V">kuumeta</l>
+         <l pos="V">kuumeta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -726,7 +726,7 @@
    </e>
    <e id="7211">
       <lg>
-         <l pos="N-V">leimuta</l>
+         <l pos="V">leimuta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -741,7 +741,7 @@
    </e>
    <e id="7315">
       <lg>
-         <l pos="N-V">levitä</l>
+         <l pos="V">levitä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -783,7 +783,7 @@
    </e>
    <e id="7743">
       <lg>
-         <l pos="N-V">luoda</l>
+         <l pos="V">luoda</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -803,7 +803,7 @@
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="" l_par="jtak uutta konkr." wf="rááhtám ráhtá">ráhtiđ</t>
+            <t pos="V" l_par="jtak uutta konkr." wf="rááhtám ráhtá">ráhtiđ</t>
          </tg>
       </mg>
       <mg id="5">
@@ -826,7 +826,7 @@
    </e>
    <e id="10004">
       <lg>
-         <l pos="N-V">panna</l>
+         <l pos="V">panna</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -876,7 +876,7 @@
    </e>
    <e id="10053">
       <lg>
-         <l pos="N-V" r1_par="(nahkaa)">parkita</l>
+         <l pos="V" r1_par="(nahkaa)">parkita</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -885,7 +885,7 @@
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos=""
+            <t pos="V"
                l_par="olla parkittumassa nahoista _SEMIC_ tulla parkituksi nahoista"
                wf="ostoduVá">ostoduđ</t>
          </tg>
@@ -893,7 +893,7 @@
    </e>
    <e id="10455">
       <lg>
-         <l pos="N-V">piilottaa</l>
+         <l pos="V">piilottaa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -919,7 +919,7 @@
    </e>
    <e id="10456">
       <lg>
-         <l pos="N-V">piiloutua</l>
+         <l pos="V">piiloutua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -946,7 +946,7 @@
    </e>
    <e id="10461">
       <lg>
-         <l pos="N-V">piinata</l>
+         <l pos="V">piinata</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -955,7 +955,7 @@
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos=""
+            <t pos="V"
                l_par="tulla piinatuksi"
                t_tld="~ pijnâšuđ pijnâšuVá"
                wf="pijnešuVá">pijnešuđ</t>
@@ -964,7 +964,7 @@
    </e>
    <e id="11231">
       <lg>
-         <l pos="N-V">puuhailla</l>
+         <l pos="V">puuhailla</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -986,7 +986,7 @@
    </e>
    <e id="11913">
       <lg>
-         <l pos="N-V">repeillä</l>
+         <l pos="V">repeillä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1002,7 +1002,7 @@
    </e>
    <e id="12013">
       <lg>
-         <l pos="N-V">rikkoutua</l>
+         <l pos="V">rikkoutua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1011,7 +1011,7 @@
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="" l_par="mennä pilalle" wf="pillâšuVá">pillâšuđ</t>
+            <t pos="V" l_par="mennä pilalle" wf="pillâšuVá">pillâšuđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -1026,13 +1026,13 @@
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="" l_par="tulla särjetyksi">cyevkkejuđ</t>
+            <t pos="V" l_par="tulla särjetyksi">cyevkkejuđ</t>
          </tg>
       </mg>
    </e>
    <e id="13659">
       <lg>
-         <l pos="N-V">suojautua</l>
+         <l pos="V">suojautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1054,7 +1054,7 @@
    </e>
    <e id="13683">
       <lg>
-         <l pos="N-V">suolata</l>
+         <l pos="V">suolata</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1074,7 +1074,7 @@
    </e>
    <e id="13685">
       <lg>
-         <l pos="N-V" r1_par="(ruoasta)">suolautua</l>
+         <l pos="V" r1_par="(ruoasta)">suolautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1089,7 +1089,7 @@
    </e>
    <e id="13691">
       <lg>
-         <l pos="N-V" r1_par="(kaloja)">suolistaa</l>
+         <l pos="V" r1_par="(kaloja)">suolistaa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1109,7 +1109,7 @@
    </e>
    <e id="13706">
       <lg>
-         <l pos="N-V">suomustaa</l>
+         <l pos="V">suomustaa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1125,7 +1125,7 @@
    </e>
    <e id="14144">
       <lg>
-         <l pos="N-V">tahrautua</l>
+         <l pos="V">tahrautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1134,18 +1134,18 @@
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="" l_par="mutaan" wf="mođáttuVá">mođáttuđ</t>
+            <t pos="V" l_par="mutaan" wf="mođáttuVá">mođáttuđ</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="" l_par="kalaan" wf="kuáláttuVá">kuáláttuđ</t>
+            <t pos="V" l_par="kalaan" wf="kuáláttuVá">kuáláttuđ</t>
          </tg>
       </mg>
    </e>
    <e id="14216">
       <lg>
-         <l pos="N-V">taivaltaa</l>
+         <l pos="V">taivaltaa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1172,7 +1172,7 @@
    </e>
    <e id="14438">
       <lg>
-         <l pos="N-V" r1_par="(jhk)">tarrautua</l>
+         <l pos="V" r1_par="(jhk)">tarrautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1193,7 +1193,7 @@
    </e>
    <e id="16052">
       <lg>
-         <l pos="N-V">vainota</l>
+         <l pos="V">vainota</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1209,7 +1209,7 @@
    </e>
    <e id="16312">
       <lg>
-         <l pos="N-V">vapautua</l>
+         <l pos="V">vapautua</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1224,7 +1224,7 @@
    </e>
    <e id="17155">
       <lg>
-         <l pos="N-V">voida</l>
+         <l pos="V">voida</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1250,7 +1250,7 @@
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="" l_par="voida pahoin" t_tld="~ kaggâđ" wf="kagâstiđ">vááimu</t>
+            <t pos="V" l_par="voida pahoin" t_tld="~ kaggâđ" wf="kagâstiđ">vááimu</t>
          </tg>
       </mg>
       <mg id="6">
@@ -1261,7 +1261,7 @@
    </e>
    <e id="17225">
       <lg>
-         <l pos="N-V">vuorata</l>
+         <l pos="V">vuorata</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">

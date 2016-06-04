@@ -2,7 +2,7 @@
 <r xml:lang="fin">
    <e id="15847">
       <lg>
-         <l pos="A-Pron">usea</l>
+         <l pos="Pron">usea</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -12,23 +12,31 @@
    </e>
    <e id="8449">
       <lg>
-         <l pos="A-Pron">millainen</l>
+         <l pos="A">millainen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Pron">maggaar</t>
-            <t pos="N">mabdem</t>
+            <t pos="A">maggaar</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8449">
+      <lg>
+         <l pos="Pron">millainen</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pron">maggaar</t>
          </tg>
       </mg>
    </e>
    <e id="1899">
       <lg>
-         <l pos="A-Pron">harva</l>
+         <l pos="A">harva</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" l_par="ei usea" attr="# härvis" wf="häärvi">härvi</t>
-            <t pos="N" wf="hárvás">häärvis</t>
          </tg>
       </mg>
       <mg id="2">
@@ -36,15 +44,10 @@
             <t pos="A" l_par="karvoitus" attr="# njarbis">njarbâd</t>
          </tg>
       </mg>
-      <mg id="3">
-         <tg xml:lang="smn">
-            <t pos="N" l_par="kangas" attr="# šiŋŋâ" wf="šiŋŋâs">šiiŋâs</t>
-         </tg>
-      </mg>
    </e>
    <e id="8708">
       <lg>
-         <l pos="A-Pron">muu</l>
+         <l pos="Pron">muu</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -55,16 +58,6 @@
          <tg xml:lang="smn">
             <t pos="" l_par="muuta">muh</t>
             <t pos="Pron">muide</t>
-         </tg>
-      </mg>
-      <mg id="3">
-         <tg xml:lang="smn">
-            <t pos="" l_par="ei muuta kuin" wf="muide ko">ij</t>
-         </tg>
-      </mg>
-      <mg id="4">
-         <tg xml:lang="smn">
-            <t pos="Adv" l_par="muualle">nubás</t>
          </tg>
       </mg>
    </e>

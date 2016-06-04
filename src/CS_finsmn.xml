@@ -6,7 +6,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" t_tld="~jos jiem" mwe="y">jis jiem</t>
+            <t pos="CS" t_tld="~jos jiem" mwe="y">jis jiem</t>
          </tg>
       </mg>
    </e>
@@ -72,7 +72,6 @@
             <t pos="Pron">kođe</t>
             <t pos="Adv-CS">kuo</t>
             <t pos="Adv">jo</t>
-            <t pos="" t_tld="~-ko">-go</t>
          </tg>
       </mg>
       <mg id="2">

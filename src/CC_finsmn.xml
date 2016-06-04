@@ -16,9 +16,9 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-CC">ađai</t>
+            <t pos="CC">ađai</t>
             <t pos="CC">adai</t>
-            <t pos="">taihe</t>
+            <t pos="CC">taihe</t>
          </tg>
       </mg>
    </e>
@@ -44,7 +44,7 @@
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="" l_par="eivätkä">iäge</t>
+            <t pos="CC" l_par="eivätkä">iäge</t>
          </tg>
       </mg>
    </e>

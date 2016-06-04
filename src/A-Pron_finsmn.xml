@@ -56,7 +56,7 @@
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="" l_par="muuta">muh</t>
+            <t pos="Pron" l_par="muuta">muh</t>
             <t pos="Pron">muide</t>
          </tg>
       </mg>

@@ -20442,13 +20442,6 @@
                t_tld="~ suskâstiđ">cuskâstiđ</t>
          </tg>
       </mg>
-      <mg id="3">
-         <tg xml:lang="smn">
-            <t pos="N"
-               l_par="olla ummessa lehmästä _COMMA_ porovaatimesta"
-            <t pos="V" t_tld="V">cuskâsâst ~ suskâsâst orroođ</t>
-         </tg>
-      </mg>
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V" l_par="panna umpeen lehmä t. porovaadin" t_tld="~ suskâdiđ">cuskâdiđ</t>

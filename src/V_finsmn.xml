@@ -9473,7 +9473,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="" wf="jyeHiđ">juávhoid</t>
+            <t pos="" wf="jyeHiđ">juávhoiđ</t>
          </tg>
       </mg>
    </e>
@@ -15547,7 +15547,7 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" wf="kiäldám">kieldiđ</t>
-            <t pos="" wf="piettâd">pietâdid</t>
+            <t pos="" wf="piettâd">pietâdiđ</t>
          </tg>
       </mg>
    </e>
@@ -17001,7 +17001,7 @@
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv" wf="moonnâđ">lappâd</t>
+            <t pos="Adv" wf="moonnâđ">lappâđ</t>
             <t pos="V" wf="lappâdistám">lappâdistiđ</t>
          </tg>
       </mg>
@@ -21219,7 +21219,7 @@
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="" l_par="häiritä" wf="heemmâd">hemâdid</t>
+            <t pos="" l_par="häiritä" wf="heemmâd">hemâdiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -23862,7 +23862,7 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" l_par="haitata" wf="hettiim hettee">hettiđ</t>
-            <t pos="" wf="heemmâd">hemâdid</t>
+            <t pos="" wf="heemmâd">hemâdiđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -27474,7 +27474,7 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" wf="kiäldádâđâm">kiäldádâttâđ</t>
-            <t pos="" wf="piettâd">pietâdid</t>
+            <t pos="" wf="piettâd">pietâdiđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -33893,7 +33893,7 @@
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="" l_par="vähän" wf="smiettâst">smietâstid</t>
+            <t pos="" l_par="vähän" wf="smiettâst">smietâstiđ</t>
          </tg>
       </mg>
    </e>
@@ -37486,7 +37486,7 @@
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="" l_par="pyykkiä" wf="poossâl">posâlid</t>
+            <t pos="" l_par="pyykkiä" wf="poossâl">posâliđ</t>
             <t pos="V" wf="posâlâd">posâlâddâđ</t>
             <t pos="V"
                t_tld="~ posâluhčâđ posâluuvčâm posâluhš"

@@ -1,5 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="fin">
+   <e id="3442">
+      <lg>
+         <l pos="Po" r1_par="(takia)">johdosta</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Adv">keežild</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6103">
+      <lg>
+         <l pos="Po">kuluttua</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Po">keččin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9648">
+      <lg>
+         <l pos="Po">osalta</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Po">tááhust</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10277">
+      <lg>
+         <l pos="Po">perusteella</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Po">vuáđuld</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10710">
+      <lg>
+         <l pos="Po" r1_par="(jnk)">pohjalta</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Po">vuáđuld</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11119">
+      <lg>
+         <l pos="Po" comma=", -lta">puolella</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Po">peln</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11120">
+      <lg>
+         <l pos="Po">puolelle</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Po">pel</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11121">
+      <lg>
+         <l pos="Po" r1_par="(välissä)">puolessa</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Adv">kooskâin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16391">
+      <lg>
+         <l pos="Po">varten</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Po">várás</t>
+            <t pos="Po" t_tld="~verrin">veerrin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="751">
+      <lg>
+         <l pos="Po" r1_par="(jhonk, jnnek)">asti</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Po">rááján</t>
+            <t pos="Po" t_tld="~rei">räi</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Adv-CS" l_par="kunnes _SEMIC_ siihen asti">tassaaš</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="A" l_par="tähän asti">táássáš</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4641">
+      <lg>
+         <l pos="Po">kautta</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Adv-Po">peht</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="sitä kautta">togopeht</t>
+            <t pos="Adv">togo</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="sitä kautta puhuteltavan läheltä">tiegu</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7900">
+      <lg>
+         <l pos="Po" r1_par="(jstak)">lähtien</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Po">rääjist</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="tästä lähtien">tästpalij</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12512">
+      <lg>
+         <l pos="Po">saakka</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Po" l_par="jhk saakka">räi</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Po" l_par="jstak saakka">rääjist</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="A" l_par="tähän saakka">táássáš</t>
+         </tg>
+      </mg>
+   </e>
    <e id="632">
       <lg>
          <l pos="Po" r1_par="(jk)">armoilla</l>

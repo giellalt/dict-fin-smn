@@ -1,5 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="fin">
+   <e id="5845">
+      <lg>
+         <l pos="CS" r1_par="(kysymyssana)">koska</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CS">kuás</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6162">
+      <lg>
+         <l pos="CS">kunnes</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CS">tassaaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5844">
+      <lg>
+         <l pos="CS" r1_par="(alistuskonjunktio)">koska</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CS">tastko</t>
+            <t pos="CS">ko</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13143">
+      <lg>
+         <l pos="CS">sillä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CS">tastko</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Pron" l_par="sillä aikaa kun" wf="aaigij ko">toi</t>
+            <t pos="Adv" wf="ko">talle</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="sillä lailla">nuuvt</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3501">
+      <lg>
+         <l pos="CS">jos</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CS" t_tld="~jos">jis</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5993">
+      <lg>
+         <l pos="CS">kuin</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CS" t_tld="~kuo">ko</t>
+            <t pos="Adv" t_tld="~tegu">tego</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16038">
+      <lg>
+         <l pos="CS">vaikka</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CS" t_tld="~veik">vâik</t>
+            <t pos="CS">jos</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1430">
+      <lg>
+         <l pos="CS">että</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CS">et</t>
+            <t pos="CS">ete</t>
+            <t pos="CS">it</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="CS" l_par="syytä ilmoittamassa">vâi</t>
+            <xg>
+               <x>lue läksyt, että opit</x>
+               <xt>luuvâ liävsuiđ, vâi oopah</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e id="3511">
+      <lg>
+         <l pos="CS">jotta</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CS">vâi</t>
+            <t pos="CS">vuoi</t>
+         </tg>
+      </mg>
+   </e>
    <e id="3489">
       <lg>
          <l pos="CS">jollen</l>
@@ -54,11 +170,11 @@
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-           <t pos="CS" l_par="syytä ilmoittamassa">vâi</t>
-	   <xg>
-	     <x>mene sisälle ettet kastu"</x>
-	     <xt>moonâ siisâ amas njuoskâđ</xt>
-	   </xg>
+            <t pos="CS" l_par="syytä ilmoittamassa">vâi</t>
+            <xg>
+               <x>mene sisälle ettet kastu"</x>
+               <xt>moonâ siisâ amas njuoskâđ</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -82,6 +198,16 @@
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="Pron" l_par="kun sitten">kođe</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12939">
+      <lg>
+         <l pos="CS">sen vuoksi kun</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CS">tastko</t>
          </tg>
       </mg>
    </e>

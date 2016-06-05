@@ -1,5 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="fin">
+   <e id="9051">
+      <lg>
+         <l pos="CC">niin</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CC">naa</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="CS">tegu</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15950">
+      <lg>
+         <l pos="CC">vaan</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CC">pic</t>
+            <t pos="Adv">váá</t>
+            <t pos="CC" t_tld="~mutâ">mut</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14152">
+      <lg>
+         <l pos="CC">tai</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CC" t_tld="~ađai">adai</t>
+            <t pos="CC">tâi</t>
+            <t pos="CC" t_tld="~teikkâ">teikâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16011">
+      <lg>
+         <l pos="CC">vai</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CC">vâi</t>
+            <t pos="CC">vuoi</t>
+         </tg>
+      </mg>
+   </e>
    <e id="12879">
       <lg>
          <l pos="CC">sekä</l>
@@ -60,6 +110,37 @@
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="CC" l_par="ja niin">jeđe</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3483">
+      <lg>
+         <l pos="CC" syn="joko - tahi">joko - tai</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CC">juo-uv - teikkâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4040">
+      <lg>
+         <l pos="CC">kaipa</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CC">mai</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12880">
+      <lg>
+         <l pos="CC">sekä ... että</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CC" wf="... já">sehe</t>
+            <t pos="CC" wf="... ete">sehe</t>
          </tg>
       </mg>
    </e>

@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="fin">
+   <e id="3991">
+      <lg>
+         <l pos="Num">kahdeksankymmentä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" wf="käävcilov">kähcilov</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4079">
+      <lg>
+         <l pos="Num">kaksikymmentä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" wf="kyevtlov">kyehtlov</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4086">
+      <lg>
+         <l pos="Num">kaksitoista</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" t_tld="~kyehtnubáloh -nubálov">kyehtinubáloh</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5639">
+      <lg>
+         <l pos="Num">kolmas</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="A" t_tld="~kuálmâd">kuálmád</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5642">
+      <lg>
+         <l pos="Num">kolmekymmentä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" wf="kuulmâlov">kulmâlov</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5643">
+      <lg>
+         <l pos="Num">kolmetoista</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" syn_dash="-nubálov">kulmânubáloh</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6428">
+      <lg>
+         <l pos="Num">kuusikymmentä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" wf="kuđâlov">kutlov</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8994">
+      <lg>
+         <l pos="Num">neljäkymmentä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" wf="neeljilov">neljilov</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9002">
+      <lg>
+         <l pos="Num">neljätoista</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" syn_dash="-nubálov">neljinubáloh</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="10037">
+      <lg>
+         <l pos="Num">parikymmentä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" t_tld="~ muádlov">muáddilov</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12844">
+      <lg>
+         <l pos="Num">seitsemänkymmentä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num">čiččâmlov</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12845">
+      <lg>
+         <l pos="Num">seitsemänsataa</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num">čiččâmčyeđe</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12846">
+      <lg>
+         <l pos="Num">seitsemäntoista</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" syn_dash="-nubálov">čiččâmnubáloh</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14924">
+      <lg>
+         <l pos="Num">toistakymmentä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" wf="nubálov">nubáloh</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16935">
+      <lg>
+         <l pos="Num">viisikymmentä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" wf="viđâlov">vitlov</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16938">
+      <lg>
+         <l pos="Num">viisisataa</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num">vittâčyeđe</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16940">
+      <lg>
+         <l pos="Num">viisitoista</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" syn_dash="-nubálov">vitnubáloh</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17462">
+      <lg>
+         <l pos="Num">yhdeksänkymmentä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" wf="oovcelov">ohcelov</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17463">
+      <lg>
+         <l pos="Num">yhdeksäntoista</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" syn_dash="-nubálov">oovcenubáloh</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17565">
+      <lg>
+         <l pos="Num">yksitoista</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" syn_dash="-nubálov">ohtnubáloh</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3990">
+      <lg>
+         <l pos="Num">kahdeksan</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num">käävci</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="N" l_par="ihmistä" wf="káhcás _FT_ káhtsâs">käävcis</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="kahdeksan kertaa">kahcii</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4075">
+      <lg>
+         <l pos="Num">kaksi</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" wf="kyevti">kyehti</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="N" l_par="ihmistä" wf="kuáhtá _FT_ kuáhtás">kyevtis</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="kahdesti _COMMA_ kaksi kertaa">kuohtii</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5641">
+      <lg>
+         <l pos="Num">kolme</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" wf="kuulmâ">kulmâ</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="A" l_par="kolmen ihmisen joukko" wf="kulmâs">kuulmâs</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="N" l_par="kolmittain muusta kuin ihmisistä">kuulmâi-kuulmâi</t>
+         </tg>
+      </mg>
+      <mg id="4">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="kolme kertaa _COMMA_ kolmesti">kulmii</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6504">
+      <lg>
+         <l pos="Num">kymmenen</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" wf="love">love</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="N" l_par="numero _COMMA_ kymppi" wf="lovváá">lovvááš</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="A" l_par="ihmistä" wf="lohháás">loves</t>
+         </tg>
+      </mg>
+      <mg id="4">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="kymmenen kertaa _COMMA_ kymmenesti">luhhii</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8993">
+      <lg>
+         <l pos="Num">neljä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" wf="neelji">nelji</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="N" l_par="ihmistä _COMMA_ neljän ihmisen joukko" wf="niäljás">neeljis</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="neljä kertaa _COMMA_ neljästi">neljii</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12843">
+      <lg>
+         <l pos="Num">seitsemän</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num">čiččâm</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="A" l_par="ihmistä _COMMA_ seitsemän ihmisen joukko">čiččâmâs</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="seitsemän kertaa _COMMA_ seitsemästi">čiččii</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16934">
+      <lg>
+         <l pos="Num">viisi</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num" wf="viiđâ">vittâ</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="A" l_par="ihmistä" wf="vittâs">viiđâs</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="viidesti _COMMA_ viisi kertaa">vittii</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17461">
+      <lg>
+         <l pos="Num">yhdeksän</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Num">oovce</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="A" l_par="yhdeksän ihmistä">oovces</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="yhdeksän kertaa">ohcii</t>
+         </tg>
+      </mg>
+   </e>
+</r>

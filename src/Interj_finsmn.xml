@@ -1,5 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="fin">
+   <e id="1984">
+      <lg>
+         <l pos="Interj" r1_par="(tervehdyksenä)">hei</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Interj" t_tld="~tiervâ">tiervâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2401">
+      <lg>
+         <l pos="Interj">hoi</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Interj">ai</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2725">
+      <lg>
+         <l pos="Interj">hyvänen aika</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Interj">sittágin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3304">
+      <lg>
+         <l pos="Interj">jaa</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Interj">jáá</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3305">
+      <lg>
+         <l pos="Interj">jaaha</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Interj" mwe="y">jáá nuuvt</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3565">
+      <lg>
+         <l pos="Interj" r1_par="(lievä kirosana)">jukolauta</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Interj">motjanan</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5269">
+      <lg>
+         <l pos="Interj">kippis</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Interj">skool</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9434">
+      <lg>
+         <l pos="Interj">ohhoh</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Interj">o</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9457">
+      <lg>
+         <l pos="Interj">oi</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Interj" t_tld="~oo">o</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14638">
+      <lg>
+         <l pos="Interj">tervetuloa</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N">pyereestpuáttim</t>
+            <t pos="N">pyeripuáttim</t>
+            <t pos="N">tiervâpuáttim</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="2629">
+      <lg>
+         <l pos="Interj">hus</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Interj">hos</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="poroille">kuš</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3498">
+      <lg>
+         <l pos="Interj">joo</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Adv-CC" l_par="myöntävässä vastauksessa">naa</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Adv">joo</t>
+            <t pos="Interj">joo-o</t>
+         </tg>
+      </mg>
+   </e>
    <e id="80">
       <lg>
          <l pos="Interj">ah</l>

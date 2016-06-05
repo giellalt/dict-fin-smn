@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="fin">
+   <e id="1200">
+      <lg>
+         <l pos="Pcle">epä-</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pcle">epi-</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1636">
+      <lg>
+         <l pos="Pcle">haja-</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pcle">piäđgui-</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3129">
+      <lg>
+         <l pos="Pcle">irto-</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pcle">pođoi-</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3499">
+      <lg>
+         <l pos="Pcle">jopa</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pcle">jobâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3503">
+      <lg>
+         <l pos="Pcle">jospa</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Adv">väri</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3947">
+      <lg>
+         <l pos="Pcle" syn="~-kään">-kaan</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pcle" t_tld="~-kin">-gin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4421">
+      <lg>
+         <l pos="Pcle">kas</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pron">kiäh</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5492">
+      <lg>
+         <l pos="Pcle" syn="~-kö">-ko</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pcle">-uv</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6570">
+      <lg>
+         <l pos="Pcle">-kä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pcle">-ge</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6709">
+      <lg>
+         <l pos="Pcle" syn="~ -kaan">-kään</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pcle" t_tld="~ -kin">-gin</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7890">
+      <lg>
+         <l pos="Pcle">lähi-</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Adv">aldaaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8549">
+      <lg>
+         <l pos="Pcle" comma=", mukamas">muka</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Adv">maka</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9486">
+      <lg>
+         <l pos="Pcle">oiko-</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pcle">njuálgu-</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11372">
+      <lg>
+         <l pos="Pcle" syn="~-pa">-pä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pcle" t_tld="~-kân">-gân</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14131">
+      <lg>
+         <l pos="Pcle">tahansa</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pcle" t_tld="~ ihánâs~ihánis ~ ihánes">ihenis</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15736">
+      <lg>
+         <l pos="Pcle">ulko-</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pcle">olgo-</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1762">
+      <lg>
+         <l pos="Pcle" syn="~-hän">-han</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pcle">-hân</t>
+            <t pos="Pcle">-sun</t>
+            <t pos="Pcle" t_tld="~ tibbii">tibi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4019">
+      <lg>
+         <l pos="Pcle">kai</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pcle">almaa</t>
+            <t pos="Pcle" t_tld="~amal">ama</t>
+            <t pos="Pcle">amâhân</t>
+            <t pos="CC">mai</t>
+            <t pos="Adv">vaarâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5249">
+      <lg>
+         <l pos="Pcle">-kin</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pcle">-uv</t>
+            <t pos="Pcle" t_tld="~-gin">-kin</t>
+            <t pos="Pcle" t_tld="~-gen">-ken</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Pcle" l_par="jokin">-nii</t>
+            <t pos="Pron">miinii</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="Pron" l_par="joku">kiinii</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9711">
+      <lg>
+         <l pos="Pcle" syn="~-pä">-pa</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pcle" t_tld="~-kân">-gân</t>
+            <t pos="Pcle">-râk</t>
+            <t pos="Pcle">-poi</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Pcle" l_par="painottava" t_tld="~-bán">-ban</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="16904">
+      <lg>
+         <l pos="Pcle">viime-</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pcle">moonnâm-</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="A" l_par="viimeöinen" syn_dash="-ijjâsii">moonnâmijjâsâš</t>
+         </tg>
+      </mg>
+   </e>
+</r>

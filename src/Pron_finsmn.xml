@@ -1,5 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="fin">
+   <e id="15847">
+      <lg>
+         <l pos="Pron">usea</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pron" wf="maaŋgâ">maŋgâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8449">
+      <lg>
+         <l pos="Pron">millainen</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pron">maggaar</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="8708">
+      <lg>
+         <l pos="Pron">muu</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pron" wf="iärrás _FT_ iärrâs">eres</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Pron" l_par="muuta">muh</t>
+            <t pos="Pron">muide</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3251">
+      <lg>
+         <l pos="Pron">itse</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pron" t_tld="~ jieš jieJah">jieš</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Pron" l_par="itseni">jieččân</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="Pron" l_par="itsesi">jieččâd</t>
+         </tg>
+      </mg>
+      <mg id="4">
+         <tg xml:lang="smn">
+            <t pos="Pron" l_par="itsensä">jieijâs</t>
+         </tg>
+      </mg>
+      <mg id="5">
+         <tg xml:lang="smn">
+            <t pos="Pron" l_par="itselläni _COMMA_ itseltäni">alnaan</t>
+         </tg>
+      </mg>
+      <mg id="6">
+         <tg xml:lang="smn">
+            <t pos="Pron" l_par="itselläsi _COMMA_ itseltäsi">alnaad</t>
+         </tg>
+      </mg>
+      <mg id="7">
+         <tg xml:lang="smn">
+            <t pos="Pron" l_par="itsellänsä _COMMA_ itseltänsä">alnees</t>
+         </tg>
+      </mg>
+      <mg id="8">
+         <tg xml:lang="smn">
+            <t pos="Pron" l_par="itselleni">olssân</t>
+         </tg>
+      </mg>
+      <mg id="9">
+         <tg xml:lang="smn">
+            <t pos="Pron" l_par="itsellesi">olssâd</t>
+         </tg>
+      </mg>
+      <mg id="10">
+         <tg xml:lang="smn">
+            <t pos="Pron" l_par="itselleen">olssis</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3443">
+      <lg>
+         <l pos="Pron">johon</l>
+      </lg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Pron">moos</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3444">
+      <lg>
+         <l pos="Pron">johonkin</l>
+      </lg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Pron">moosnii</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3258">
+      <lg>
+         <l pos="Pron">itsekukin</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pron" wf="jieškiän-uv">jieškii-uv</t>
+            <t pos="Pron" wf="jieškiän-uv">jieškote-uv</t>
+            <t pos="Pron">jieškotteev</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="5595">
+      <lg>
+         <l pos="Pron" r1_par="(part.)">koko</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Pron" l_par="attr. only" t_tld="~ ubâ">ubbâ</t>
+            <t pos="Pron" l_par="attr. only">heeilâ</t>
+         </tg>
+      </mg>
+   </e>
    <e id="2795">
       <lg>
          <l pos="Pron">hän</l>

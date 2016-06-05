@@ -11,40 +11,20 @@ Move all entries with SPACE in lemma to MWE_finsmn.xml
 ======================================================
 There are 67 of them, almost all of them are fixed expressions.
 These may just be moved to MWE_finsme at once.
+ ==> TODO
 
 Add part of speech lemma and translation :
 =========================================
-We have POS for 93% of fin and 85% of smn (with some overlap, especially for A=N)
-The main POS are listed in files fin_A, etc and smn_A, etc.
-
-For each l node, fill in POS according to key in files fin_*
-
-For each one-word t node, fill in POS according to key in files smn_*
-For each multiword t node, inherit the POS from the l node
-
-
-In case of more than one POS, one may
-a. take the pos from the opposite member of the pair
-b. take both, and leave the decision for manual inspection
-
-src>cat fin_*|s|uc|snr|g ' 3 '|c
-       8
-src>cat fin_*|s|uc|snr|g ' 2 '|c
-     815
-
-src>cat smn_*|s|uc|snr|g ' 2 '|c
-     328
-src>cat smn_*|s|uc|snr|g ' 3 '|c
-       8
-
+ ==> DONE
 
 Split the all_finsmn.xml according to fin POS.
 ==============================================
 ... after fin POS have been added
+ ==> DONE
 
-
-
-
+Unifiy the lema_pos entries to improve the presentation of matches in NDS
+=========================================================================
+ ==> TODO
 
 LINGUIST WORK:
 

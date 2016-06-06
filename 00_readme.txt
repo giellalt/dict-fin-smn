@@ -14,7 +14,7 @@ Move all entries with SPACE in lemma to MWE_finsmn.xml
 ======================================================
 There are 67 of them, almost all of them are fixed expressions.
 These may just be moved to MWE_finsme at once.
- ==> TODO
+ ==> DONE
 
 Add part of speech lemma and translation :
 =========================================

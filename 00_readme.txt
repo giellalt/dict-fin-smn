@@ -27,7 +27,7 @@ Split the all_finsmn.xml according to fin POS.
 
 Unifiy the lema_pos entries to improve the presentation of matches in NDS
 =========================================================================
- ==> TODO
+ ==> DONE
 
 LINGUIST WORK:
 

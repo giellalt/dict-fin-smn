@@ -244,20 +244,15 @@
          </tg>
       </mg>
    </e>
-   <e id="14519">
+   <e id="14519 14520">
       <lg>
-         <l pos="Pron" r1_par="(kaksikko)">te</l>
+         <l pos="Pron" r1_par="(kaksikko) (monikko)">te</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Pron" wf="tunnuu">tuoi</t>
          </tg>
       </mg>
-   </e>
-   <e id="14520">
-      <lg>
-         <l pos="Pron" r1_par="(monikko)">te</l>
-      </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Pron" wf="tii">tij</t>
@@ -378,7 +373,7 @@
          </tg>
       </mg>
    </e>
-   <e id="3462">
+   <e id="3462 3463">
       <lg>
          <l pos="Pron">joka</l>
       </lg>
@@ -422,11 +417,6 @@
             <t pos="Adv" l_par="jossakin _COMMA_ jostakin">kostnii</t>
          </tg>
       </mg>
-   </e>
-   <e id="3463">
-      <lg>
-         <l pos="Pron">joka</l>
-      </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Pron">jyehi</t>

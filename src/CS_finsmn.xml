@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="fin">
-   <e id="5845">
+   <e id="5845 5844">
       <lg>
-         <l pos="CS" r1_par="(kysymyssana)">koska</l>
+         <l pos="CS" r1_par="(kysymyssana) (alistuskonjunktio)">koska</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="CS">kuás</t>
+         </tg>
+      </mg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="CS">tastko</t>
+            <t pos="CS">ko</t>
          </tg>
       </mg>
    </e>
@@ -17,17 +23,6 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="CS">tassaaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="5844">
-      <lg>
-         <l pos="CS" r1_par="(alistuskonjunktio)">koska</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="CS">tastko</t>
-            <t pos="CS">ko</t>
          </tg>
       </mg>
    </e>

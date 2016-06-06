@@ -91,9 +91,9 @@
          </tg>
       </mg>
    </e>
-   <e id="751">
+   <e id="751 752">
       <lg>
-         <l pos="Po" r1_par="(jhonk, jnnek)">asti</l>
+         <l pos="Po" r1_par="(jhonk, jnnek) (jstak, jssak)">asti</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -109,6 +109,11 @@
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="A" l_par="tähän asti">táássáš</t>
+         </tg>
+      </mg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Po">rääjist</t>
          </tg>
       </mg>
    </e>
@@ -175,16 +180,6 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Po">viäštust</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="752">
-      <lg>
-         <l pos="Po" r1_par="(jstak, jssak)">asti</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="Po">rääjist</t>
          </tg>
       </mg>
    </e>

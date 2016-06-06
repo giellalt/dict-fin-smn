@@ -157,13 +157,28 @@
          </tg>
       </mg>
    </e>
-   <e id="5530">
+   <e id="5530 5531">
       <lg>
-         <l pos="Adv" r1_par="(adverbi)">kohta</l>
+         <l pos="Adv" r1_par="(adverbi) (subst.)">kohta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">forgâ</t>
+         </tg>
+      </mg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N" wf="saje">saje</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="lumeton jäällä" wf="kerâttuv">kerâttuh</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="N" l_par="rannalle tms. nousemiseen sopiva" wf="korŋiittuv">korŋiittâh</t>
          </tg>
       </mg>
    </e>
@@ -217,23 +232,33 @@
          </tg>
       </mg>
    </e>
-   <e id="12855">
+   <e id="12855 12856 12857">
       <lg>
-         <l pos="Adv" r1_par="(esim. aineksista)">sekaisin</l>
+         <l pos="Adv" r1_par="(esim. aineksista) (mieleltään) (sotkussa)">sekaisin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv" t_tld="~ siäháluvvâi">siäháluvâi</t>
          </tg>
       </mg>
-   </e>
-   <e id="12856">
-      <lg>
-         <l pos="Adv" r1_par="(mieleltään)">sekaisin</l>
-      </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">seevvist</t>
+         </tg>
+      </mg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="esim. tavarat">moiveest</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="naru _COMMA_ verkko tms.">surrum</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="N" l_par="sykkyrälle">šnárkkum</t>
          </tg>
       </mg>
    </e>
@@ -497,26 +522,6 @@
          </tg>
       </mg>
    </e>
-   <e id="5531">
-      <lg>
-         <l pos="Adv" r1_par="(subst.)">kohta</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N" wf="saje">saje</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn">
-            <t pos="Adv" l_par="lumeton jäällä" wf="kerâttuv">kerâttuh</t>
-         </tg>
-      </mg>
-      <mg id="3">
-         <tg xml:lang="smn">
-            <t pos="N" l_par="rannalle tms. nousemiseen sopiva" wf="korŋiittuv">korŋiittâh</t>
-         </tg>
-      </mg>
-   </e>
    <e id="5601">
       <lg>
          <l pos="Adv">kokonaan</l>
@@ -575,26 +580,6 @@
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V" l_par="särkyä">cuovkkâniđ</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="12857">
-      <lg>
-         <l pos="Adv" r1_par="(sotkussa)">sekaisin</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="Adv" l_par="esim. tavarat">moiveest</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn">
-            <t pos="Adv" l_par="naru _COMMA_ verkko tms.">surrum</t>
-         </tg>
-      </mg>
-      <mg id="3">
-         <tg xml:lang="smn">
-            <t pos="N" l_par="sykkyrälle">šnárkkum</t>
          </tg>
       </mg>
    </e>

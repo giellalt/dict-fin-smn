@@ -820,7 +820,7 @@
          </tg>
       </mg>
    </e>
-   <e id="5332">
+   <e id="5332 5335">
       <lg>
          <l pos="A" syn="kirjoitus- ja lukutaitoinen">kirjoitustaitoinen</l>
       </lg>
@@ -829,11 +829,6 @@
             <t pos="A" wf="kirjálii">kirjálâš</t>
          </tg>
       </mg>
-   </e>
-   <e id="5335">
-      <lg>
-         <l pos="A">kirjoitustaitoinen</l>
-      </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" syn_dash="-táiđulii">čäällimtáiđulâš</t>
@@ -4870,20 +4865,15 @@
          </tg>
       </mg>
    </e>
-   <e id="52">
+   <e id="52 53">
       <lg>
-         <l pos="A" r1_par="(adj.)">aava</l>
+         <l pos="A" r1_par="(adj.) (meren)">aava</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" attr="# vijđes" wf="vijđá">viijđes</t>
          </tg>
       </mg>
-   </e>
-   <e id="53">
-      <lg>
-         <l pos="A" r1_par="(meren)">aava</l>
-      </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N" wf="äävi">ääpi</t>
@@ -7320,13 +7310,29 @@
          </tg>
       </mg>
    </e>
-   <e id="4302">
+   <e id="4302 4303">
       <lg>
-         <l pos="A" r1_par="(esim. äänestä)">kantava</l>
+         <l pos="A" r1_par="(esim. äänestä) (tiine, raskaana)">kantava</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" attr="# -is _AT_ -âs">kyeddil</t>
+         </tg>
+      </mg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N" l_par="sorkkaeläimistä" attr="# -s">kyeddee</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Adv">čuávjist</t>
+            <t pos="A">čuávji-</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="V" l_par="tehdä kantavaksi">čuávjudiđ</t>
          </tg>
       </mg>
    </e>
@@ -8283,20 +8289,15 @@
          </tg>
       </mg>
    </e>
-   <e id="6514">
+   <e id="6514 6515">
       <lg>
-         <l pos="A" r1_par="(käsine)">kynsikäs</l>
+         <l pos="A" r1_par="(käsine)" tt_auto="Lyophyllum">kynsikäs</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" syn_dash="-suormâhâđah">pelisuormâhât</t>
          </tg>
       </mg>
-   </e>
-   <e id="6515">
-      <lg>
-         <l pos="A" tt_auto="Lyophyllum">kynsikäs</l>
-      </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N">kozzâh</t>
@@ -8436,20 +8437,15 @@
          </tg>
       </mg>
    </e>
-   <e id="6927">
+   <e id="6927 6928">
       <lg>
-         <l pos="A" r1_par="(ei lakattu)">lakkaamaton</l>
+         <l pos="A" r1_par="(ei lakattu) (loppumaton)">lakkaamaton</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" attr="# -s">lakkaahánnáá</t>
          </tg>
       </mg>
-   </e>
-   <e id="6928">
-      <lg>
-         <l pos="A" r1_par="(loppumaton)">lakkaamaton</l>
-      </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" attr="# -is">nuhâmettum</t>
@@ -11386,13 +11382,30 @@
          </tg>
       </mg>
    </e>
-   <e id="14631">
+   <e id="14631 14630 14629">
       <lg>
-         <l pos="A" r1_par="(tervehdys)">terve</l>
+         <l pos="A"
+            r1_par="(tervehdys) (tervehdys käteltäessä) (sairaan vastakohta)">terve</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" t_tld="~tiervâ">tiervâ</t>
+         </tg>
+      </mg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="A">puurist</t>
+            <t pos="Adv">pyereest</t>
+         </tg>
+      </mg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="A" wf="tiervâs">tiervâs</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="N" l_par="puuaineksesta" wf="puáŋŋás">pyeŋes</t>
          </tg>
       </mg>
    </e>
@@ -15208,17 +15221,6 @@
          </tg>
       </mg>
    </e>
-   <e id="14630">
-      <lg>
-         <l pos="A" r1_par="(tervehdys käteltäessä)">terve</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="A">puurist</t>
-            <t pos="Adv">pyereest</t>
-         </tg>
-      </mg>
-   </e>
    <e id="14847">
       <lg>
          <l pos="A">todennäköinen</l>
@@ -17903,27 +17905,6 @@
                l_par="käsistä erit. kylmän takia"
                attr="# čuámi"
                wf="čuámmás">čuámis</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="4303">
-      <lg>
-         <l pos="A" r1_par="(tiine, raskaana)">kantava</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N" l_par="sorkkaeläimistä" attr="# -s">kyeddee</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn">
-            <t pos="Adv">čuávjist</t>
-            <t pos="A">čuávji-</t>
-         </tg>
-      </mg>
-      <mg id="3">
-         <tg xml:lang="smn">
-            <t pos="V" l_par="tehdä kantavaksi">čuávjudiđ</t>
          </tg>
       </mg>
    </e>
@@ -22335,21 +22316,6 @@
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="A" l_par="tepsivä">latkiš</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="14629">
-      <lg>
-         <l pos="A" r1_par="(sairaan vastakohta)">terve</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="A" wf="tiervâs">tiervâs</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn">
-            <t pos="N" l_par="puuaineksesta" wf="puáŋŋás">pyeŋes</t>
          </tg>
       </mg>
    </e>

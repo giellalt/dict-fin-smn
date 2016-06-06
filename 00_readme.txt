@@ -1,6 +1,9 @@
 
 @trond: Important question: where do these data sets (fin_* and smn_* files) stem from?
-
+==> fin_smn from fin_smn dict (incoming), smn_fin from smn_fin dict (incoming), as 
+==> described in letters from Taarna Valtonen.
+==> cf. finsmn/inc/2015/00_readme.txt
+==> cf. smnfin/inc/2015/00_readme.txt
 
 Work plan for improving the finsmn*) dictionary.
 

@@ -113,16 +113,6 @@
          </tg>
       </mg>
    </e>
-   <e id="3483">
-      <lg>
-         <l pos="CC" syn="joko - tahi">joko - tai</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="CC">juo-uv - teikkâ</t>
-         </tg>
-      </mg>
-   </e>
    <e id="4040">
       <lg>
          <l pos="CC">kaipa</l>
@@ -130,17 +120,6 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="CC">mai</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="12880">
-      <lg>
-         <l pos="CC">sekä ... että</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="CC" wf="... já">sehe</t>
-            <t pos="CC" wf="... ete">sehe</t>
          </tg>
       </mg>
    </e>

@@ -24848,16 +24848,6 @@
          </tg>
       </mg>
    </e>
-   <e id="15058">
-      <lg>
-         <l pos="A">tuki- ja liikuntavammainen</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="A" syn_dash="-vádulii" mwe="3">tuuvdâ- já lihâdemvádulâš</t>
-         </tg>
-      </mg>
-   </e>
    <e id="15441">
       <lg>
          <l pos="A">tylsistyttävä</l>
@@ -24998,16 +24988,6 @@
          </tg>
       </mg>
    </e>
-   <e id="17470">
-      <lg>
-         <l pos="A" r1_par="(porotokasta)">yhdessä pysyvä</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="A" attr="# -s">čuákkáá</t>
-         </tg>
-      </mg>
-   </e>
    <e id="17687">
       <lg>
          <l pos="A">ympärileikkaamaton</l>
@@ -25037,17 +25017,6 @@
          <tg xml:lang="smn">
             <t pos="A" attr="# -is">astel</t>
             <t pos="A" attr="# -is">jyevdil</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="1145">
-      <lg>
-         <l pos="A" r1_par="(poronvasa)">emää rakastava</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N">ennieccee</t>
-            <t pos="A" attr="# -s">iäccáá</t>
          </tg>
       </mg>
    </e>
@@ -25082,18 +25051,6 @@
          <tg xml:lang="smn">
             <t pos="A">jävildum</t>
             <t pos="A">jäävvillum</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="4531">
-      <lg>
-         <l pos="A">katsomisen arvoinen</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="A">kejâttettee</t>
-            <t pos="A">uáinittep</t>
-            <t pos="A">uáinittittee</t>
          </tg>
       </mg>
    </e>

@@ -2496,17 +2496,6 @@
          </tg>
       </mg>
    </e>
-   <e id="13624">
-      <lg>
-         <l pos="N" r1_par="N">sulkeutunut ihminen</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N" wf="skuŋkkâs">skuuŋkâs</t>
-            <t pos="N" wf="skuuŋkâ">skuŋkkâ</t>
-         </tg>
-      </mg>
-   </e>
    <e id="13725">
       <lg>
          <l pos="N" tt_auto="Asio flammeus">suopöllö</l>
@@ -3729,16 +3718,6 @@
          </tg>
       </mg>
    </e>
-   <e id="1131">
-      <lg>
-         <l pos="N">emin vartalo</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N" syn_dash="-noovdâ">eminovdâ</t>
-         </tg>
-      </mg>
-   </e>
    <e id="2736">
       <lg>
          <l pos="N" r1_par="(mon.)">hyvästit</l>
@@ -4066,17 +4045,6 @@
          </tg>
       </mg>
    </e>
-   <e id="3465">
-      <lg>
-         <l pos="N">jokamiehen oikeus</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N" syn_dash="-vuoigâdvuođâ" mwe="y">jyehiulmuu vuoigâdvuotâ</t>
-            <t pos="N" syn_dash="-vuoigâdvuođâ" mwe="y">juáhháá vuoigâdvuotâ</t>
-         </tg>
-      </mg>
-   </e>
    <e id="3530">
       <lg>
          <l pos="N" r1_par="(mon.)">joulunpyhät</l>
@@ -4141,19 +4109,6 @@
             <t pos="N">jámálgiddee</t>
             <t pos="N">jámástellee</t>
             <t pos="N">epileptijkkár</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="4239">
-      <lg>
-         <l pos="N">kannettava tietokone</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N">mätkitiättur</t>
-            <t pos="N">asketiättur</t>
-            <t pos="N">kyeddimtiättur</t>
-            <t pos="N">kyeddimnááltiättur</t>
          </tg>
       </mg>
    </e>
@@ -4300,17 +4255,6 @@
          <tg xml:lang="smn">
             <t pos="N" syn_dash="-lyevdi">kuáŋŋulyevdi</t>
             <t pos="N" syn_dash="-lyevdi">kuáŋulyevdi</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="7084">
-      <lg>
-         <l pos="N">lauhkea vyöhyke</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N" syn_dash="-stiellâs">liähmustielâs</t>
-            <t pos="N" syn_dash="-stiellâs">lihmesstielâs</t>
          </tg>
       </mg>
    </e>
@@ -4494,17 +4438,6 @@
          </tg>
       </mg>
    </e>
-   <e id="12940">
-      <lg>
-         <l pos="N" r1_par="(vain)">sen kun</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N">ta</t>
-            <t pos="N">muidego</t>
-         </tg>
-      </mg>
-   </e>
    <e id="14036">
       <lg>
          <l pos="N" r1_par="(mon.)">säpäkehousut</l>
@@ -4682,21 +4615,6 @@
             <t pos="N" wf="puorižeh">puoriš</t>
             <t pos="N" wf="verdiš verdižeh">veerdiš</t>
             <t pos="N" r_par="mon.">veerdižeh</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="802">
-      <lg>
-         <l pos="N">auringon sappi</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N" syn_dash="-kistuu">piäiváákiistâ</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn">
-            <t pos="V" l_par="näkyä auringon sapesta">kistâkkistiđ</t>
          </tg>
       </mg>
    </e>
@@ -6186,16 +6104,6 @@
          </tg>
       </mg>
    </e>
-   <e id="3115">
-      <lg>
-         <l pos="N">irrallaan olo</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N" wf="luovâsvuođâ">luovâsvuotâ</t>
-         </tg>
-      </mg>
-   </e>
    <e id="3137">
       <lg>
          <l pos="N">irvinaama</l>
@@ -6746,16 +6654,6 @@
          </tg>
       </mg>
    </e>
-   <e id="4839">
-      <lg>
-         <l pos="N">kenttämittarin toukka</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N" syn_dash="-mááđu _FT_ -máđo">lyememáátu</t>
-         </tg>
-      </mg>
-   </e>
    <e id="4856">
       <lg>
          <l pos="N">kermikäntalja</l>
@@ -7133,16 +7031,6 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N">kulgâdâhviermi</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="6065">
-      <lg>
-         <l pos="N">kulkutusverkon ohjain</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N" wf="čuuskâ">čuskâ</t>
          </tg>
       </mg>
    </e>
@@ -7823,16 +7711,6 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N" wf="tiškâs">tiiškâs</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="7925">
-      <lg>
-         <l pos="N">lämmin vyöhyke</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N" syn_dash="-stiellâs">lieggâstielâs</t>
          </tg>
       </mg>
    </e>
@@ -9700,16 +9578,6 @@
          </tg>
       </mg>
    </e>
-   <e id="13384">
-      <lg>
-         <l pos="N" r1_par="(silmässä t. kuvann.)">sokea piste</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N" syn_dash="-tiälhu">sevŋistiälkku</t>
-         </tg>
-      </mg>
-   </e>
    <e id="13399">
       <lg>
          <l pos="N" r1_par="(vasansa menettänyt vaadin)">soksavaadin</l>
@@ -9927,16 +9795,6 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N" t_tld="~käädis káddá" wf="káddás">käädis</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="14209">
-      <lg>
-         <l pos="N">taivaan valtakunta</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N" syn_dash="-kode" mwe="y">alme väldikodde</t>
          </tg>
       </mg>
    </e>
@@ -10317,16 +10175,6 @@
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N" r_par="mon.">uurguh</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="15871">
-      <lg>
-         <l pos="N">uskottu mies</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N" syn_dash="-almaa">uskumalmai</t>
          </tg>
       </mg>
    </e>

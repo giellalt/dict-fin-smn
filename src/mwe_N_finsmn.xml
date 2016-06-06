@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="fin">
+   <e id="13624">
+      <lg>
+         <l pos="N" r1_par="N">sulkeutunut ihminen</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N" wf="skuŋkkâs">skuuŋkâs</t>
+            <t pos="N" wf="skuuŋkâ">skuŋkkâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1131">
+      <lg>
+         <l pos="N">emin vartalo</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N" syn_dash="-noovdâ">eminovdâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3465">
+      <lg>
+         <l pos="N">jokamiehen oikeus</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N" syn_dash="-vuoigâdvuođâ" mwe="y">jyehiulmuu vuoigâdvuotâ</t>
+            <t pos="N" syn_dash="-vuoigâdvuođâ" mwe="y">juáhháá vuoigâdvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4239">
+      <lg>
+         <l pos="N">kannettava tietokone</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N">mätkitiättur</t>
+            <t pos="N">asketiättur</t>
+            <t pos="N">kyeddimtiättur</t>
+            <t pos="N">kyeddimnááltiättur</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7084">
+      <lg>
+         <l pos="N">lauhkea vyöhyke</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N" syn_dash="-stiellâs">liähmustielâs</t>
+            <t pos="N" syn_dash="-stiellâs">lihmesstielâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="12940">
+      <lg>
+         <l pos="N" r1_par="(vain)">sen kun</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N">ta</t>
+            <t pos="N">muidego</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="802">
+      <lg>
+         <l pos="N">auringon sappi</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N" syn_dash="-kistuu">piäiváákiistâ</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="V" l_par="näkyä auringon sapesta">kistâkkistiđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="3115">
+      <lg>
+         <l pos="N">irrallaan olo</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N" wf="luovâsvuođâ">luovâsvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="4839">
+      <lg>
+         <l pos="N">kenttämittarin toukka</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N" syn_dash="-mááđu _FT_ -máđo">lyememáátu</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="6065">
+      <lg>
+         <l pos="N">kulkutusverkon ohjain</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N" wf="čuuskâ">čuskâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="7925">
+      <lg>
+         <l pos="N">lämmin vyöhyke</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N" syn_dash="-stiellâs">lieggâstielâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="13384">
+      <lg>
+         <l pos="N" r1_par="(silmässä t. kuvann.)">sokea piste</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N" syn_dash="-tiälhu">sevŋistiälkku</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="14209">
+      <lg>
+         <l pos="N">taivaan valtakunta</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N" syn_dash="-kode" mwe="y">alme väldikodde</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="15871">
+      <lg>
+         <l pos="N">uskottu mies</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N" syn_dash="-almaa">uskumalmai</t>
+         </tg>
+      </mg>
+   </e>
+</r>

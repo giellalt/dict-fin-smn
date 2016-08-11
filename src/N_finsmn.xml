@@ -32860,26 +32860,21 @@ For the full license text, see the link above.
    </e>
    <e id="5052 5053">
       <lg>
-         <l pos="N" r1_par="(anat.) (ei anat.)">kieli</l>
+         <l pos="N">kieli</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N" wf="njuohčâm">njuovčâ</t>
+            <t pos="N" wf="njuohčâm" re="anat.">njuovčâ</t>
          </tg>
       </mg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N" wf="kielâ">kielâ</t>
+            <t pos="N" wf="kielâ" re="puhe">kielâ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="N" l_par="esim. viulun t. kitaran" wf="sraaŋgâ">sraŋgâ</t>
-         </tg>
-      </mg>
-      <mg id="3">
-         <tg xml:lang="smn">
-            <t pos="" l_par="menettää kielitaitonsa" wf="kielâttuum kielâttuVá">kielâttuđ</t>
          </tg>
       </mg>
    </e>

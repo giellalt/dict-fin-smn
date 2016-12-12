@@ -40170,7 +40170,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" wf="speeLâm spiällá">spellâđ</t>
-            <t pos="V" wf="spelliim spellee">spelliđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -45204,12 +45203,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" l_par="esim. puhelimella t. soitinta" wf="suáitám">suáittiđ</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn">
-            <t pos="V" l_par="soitinta" wf="spelliim spellee">spelliđ</t>
-            <t pos="V" wf="čuojât">čuojâttiđ</t>
          </tg>
       </mg>
       <mg id="3">

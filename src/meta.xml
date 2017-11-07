@@ -7,6 +7,7 @@
 
   <!-- The natural language name(s) for the dictionary -->
   <name xml:lang="no">Finsk-enaresamisk ordbok</name>
+  <name xml:lang="se">Suoma-anársámi sátnegirji</name>
 
   <!-- Whether the dictionary should be publicly visible or not: -->
   <public>yes</public>
@@ -17,6 +18,12 @@
 
   <!-- Short, free description -->
   <description xml:lang="no">
+    <p>Enaresamisk → finsk og Finsk → Enaresamisk ordbok bygger på Valtonen og
+    Olthuis si Inarinsaame-suomi-inarinsaame-ordbok (30000 ord). Materialet
+    blir kontinuerlig utvida av Giellatekno-gruppa ved UiT.</p>
+  </description>
+
+  <description xml:lang="se">
     <p>Enaresamisk → finsk og Finsk → Enaresamisk ordbok bygger på Valtonen og
     Olthuis si Inarinsaame-suomi-inarinsaame-ordbok (30000 ord). Materialet
     blir kontinuerlig utvida av Giellatekno-gruppa ved UiT.</p>

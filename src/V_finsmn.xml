@@ -10980,12 +10980,20 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" wf="lijkkuum">lijkkuđ</t>
+            <xg>
+	      <x>Minä pidän uimisesta</x>
+	      <xt>Mun lijkkuum vuojâdâtmân</xt>
+	   </xg>
          </tg>
       </mg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" l_par="ulkopuolinen pakko" wf="ferttiim">ferttiđ</t>
-         </tg>
+            <xg>
+              <x>Minun pitää mennä</x>
+	      <xt>Mun ferttiim vyelgiđ</xt>
+	    </xg>
+	 </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
@@ -10999,36 +11007,23 @@ For the full license text, see the link above.
                wf="perriim perree">perriđ</t>
          </tg>
       </mg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="V" l_par="käyttää esim. kenkiä" wf="anam">anneeđ</t>
-         </tg>
-      </mg>
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V" l_par="konkr. esim. kädessä" wf="toolâm tuáLá">toollâđ</t>
+         <xg>
+	   <x>Minä pidän kirvestä kädessä.</x>
+	   <xt>Mun tolliim áákšu kieđâst.</xt>
+	   </xg>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V" l_par="jnak _COMMA_ jnkinlaisena" r_par="+ ess.">anneeđ</t>
-         </tg>
-      </mg>
-      <mg id="4">
-         <tg xml:lang="smn">
-            <t pos="V" l_par="itseään jnak" r_par="+ ess." wf="anadâđâm">anadâttâđ</t>
-         </tg>
-      </mg>
-      <mg id="5">
-         <tg xml:lang="smn">
-            <t pos="V" l_par="tietynlaisia säitä" r_par="+ akk.">anneeđ</t>
-            <t pos="V" l_par="pitää sateita" wf="oorvijd">anneeđ</t>
-         </tg>
-      </mg>
-      <mg id="6">
-         <tg xml:lang="smn">
-            <t pos="V" l_par="pitää lauhoja säitä" wf="pivvâl">anneeđ</t>
-         </tg>
+            <xg>
+              <x>Minä pidän sinua hyvänä.</x>
+	      <xt>Mun anam tuu pyerrin.</xt>
+           </xg>
+	 </tg>
       </mg>
    </e>
    <e id="10745">

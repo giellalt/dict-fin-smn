@@ -262,7 +262,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="Adv" l_par="kahdesti _COMMA_ kaksi kertaa">kuohtii</t>
+            <t pos="Adv" l_par="kahdesti, kaksi kertaa">kuohtii</t>
          </tg>
       </mg>
    </e>
@@ -287,7 +287,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="Adv" l_par="kolme kertaa _COMMA_ kolmesti">kulmii</t>
+            <t pos="Adv" l_par="kolme kertaa, kolmesti">kulmii</t>
          </tg>
       </mg>
    </e>
@@ -302,7 +302,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="N" l_par="numero _COMMA_ kymppi" wf="lovváá">lovvááš</t>
+            <t pos="N" l_par="numero, kymppi" wf="lovváá">lovvááš</t>
          </tg>
       </mg>
       <mg id="3">
@@ -312,7 +312,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="Adv" l_par="kymmenen kertaa _COMMA_ kymmenesti">luhhii</t>
+            <t pos="Adv" l_par="kymmenen kertaa, kymmenesti">luhhii</t>
          </tg>
       </mg>
    </e>
@@ -327,12 +327,12 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="N" l_par="ihmistä _COMMA_ neljän ihmisen joukko" wf="niäljás">neeljis</t>
+            <t pos="N" l_par="ihmistä, neljän ihmisen joukko" wf="niäljás">neeljis</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="Adv" l_par="neljä kertaa _COMMA_ neljästi">neljii</t>
+            <t pos="Adv" l_par="neljä kertaa, neljästi">neljii</t>
          </tg>
       </mg>
    </e>
@@ -347,12 +347,12 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="A" l_par="ihmistä _COMMA_ seitsemän ihmisen joukko">čiččâmâs</t>
+            <t pos="A" l_par="ihmistä, seitsemän ihmisen joukko">čiččâmâs</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="Adv" l_par="seitsemän kertaa _COMMA_ seitsemästi">čiččii</t>
+            <t pos="Adv" l_par="seitsemän kertaa, seitsemästi">čiččii</t>
          </tg>
       </mg>
    </e>
@@ -372,7 +372,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="Adv" l_par="viidesti _COMMA_ viisi kertaa">vittii</t>
+            <t pos="Adv" l_par="viidesti, viisi kertaa">vittii</t>
          </tg>
       </mg>
    </e>

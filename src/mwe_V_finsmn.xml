@@ -243,7 +243,7 @@ For the full license text, see the link above.
       <mg id="7">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="poroja _COMMA_ lampaita _COMMA_ koiria ym. huudahtelemalla huš _COMMA_ hš _COMMA_ kš t. kacoous"
+               l_par="poroja, lampaita, koiria ym. huudahtelemalla huš, hš, kš t. kacoous"
                wf="huššoot">hušottiđ</t>
          </tg>
       </mg>
@@ -274,7 +274,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="ahdistellen _COMMA_ jahdata" wf="uáVuttâlâm">uávuttâllâđ</t>
+            <t pos="V" l_par="ahdistellen, jahdata" wf="uáVuttâlâm">uávuttâllâđ</t>
          </tg>
       </mg>
       <mg id="5">
@@ -346,7 +346,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="vannottaa _COMMA_ tiukata" wf="vuárnut">vuárnuttiđ</t>
+            <t pos="V" l_par="vannottaa, tiukata" wf="vuárnut">vuárnuttiđ</t>
          </tg>
       </mg>
    </e>

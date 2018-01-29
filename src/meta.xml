@@ -8,6 +8,9 @@
   <!-- The natural language name(s) for the dictionary -->
   <name xml:lang="no">Finsk-enaresamisk ordbok</name>
   <name xml:lang="se">Suoma-anársámi sátnegirji</name>
+  <name xml:lang="sv">Finsk-enaresamisk ordbok</name>
+  <name xml:lang="sma">Suomi-enaresamisk baakoegærja</name>
+  <name xml:lang="smj">Suomi-enaresamisk báhkogirjje</name>
 
   <!-- Whether the dictionary should be publicly visible or not: -->
   <public>yes</public>
@@ -28,7 +31,7 @@
     Olthuis si Inarinsaame-suomi-inarinsaame-ordbok (ca 20000 ordpar).
     Materialet blir kontinuerlig utvida av Giellatekno-gruppa ved UiT.</p>
   </description>
-  
+
   <!-- List of languages supported by the dictionary. -->
   <!-- Each language is identified with ISO 639-2 three-letter codes. -->
   <!-- Only one source language allowed, but multiple target languages are ok. -->

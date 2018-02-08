@@ -1379,7 +1379,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="N"
-               l_par="keväällä kuohittu _COMMA_ kelomaton poro"
+               l_par="keväällä kuohittu, kelomaton poro"
                syn_dash="-uáivi">stokkeuáivi</t>
          </tg>
       </mg>
@@ -2281,7 +2281,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="koskea _COMMA_ tehdä kipeää" wf="čuácá">čuoccâđ</t>
+            <t pos="V" l_par="koskea, tehdä kipeää" wf="čuácá">čuoccâđ</t>
             <t pos="V" wf="poovčâst">povčâstiđ</t>
          </tg>
       </mg>
@@ -2318,7 +2318,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="erit. tulesta _COMMA_ liekehtiä" wf="njipčá">njipčâđ</t>
+            <t pos="V" l_par="erit. tulesta, liekehtiä" wf="njipčá">njipčâđ</t>
          </tg>
       </mg>
    </e>
@@ -2370,13 +2370,13 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="karva _COMMA_ erit. porosta" wf="pođgám">pođgeđ</t>
+            <t pos="V" l_par="karva, erit. porosta" wf="pođgám">pođgeđ</t>
             <t pos="V">porgádiđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="karva _COMMA_ muusta kuin porosta" wf="sitá">siittâđ</t>
+            <t pos="V" l_par="karva, muusta kuin porosta" wf="sitá">siittâđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -2392,7 +2392,7 @@ For the full license text, see the link above.
       <mg id="5">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="silmiä neuletyöhön _COMMA_ kudottavaan verkkoon tms."
+               l_par="silmiä neuletyöhön, kudottavaan verkkoon tms."
                wf="koordâm karda">kordâđ</t>
          </tg>
       </mg>
@@ -2511,7 +2511,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="lymytä _COMMA_ painautua piiloon" wf="loomâm laMa">loommâđ</t>
+            <t pos="V" l_par="lymytä, painautua piiloon" wf="loomâm laMa">loommâđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -2563,7 +2563,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kaikenlaista _COMMA_ kokea" wf="feeriim">feeriđ</t>
+            <t pos="V" l_par="kaikenlaista, kokea" wf="feeriim">feeriđ</t>
          </tg>
       </mg>
    </e>
@@ -2579,7 +2579,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="useista kohdista vaatteesta _COMMA_ kankaasta _COMMA_ saumasta">rottâsâddâđ</t>
+               l_par="useista kohdista vaatteesta, kankaasta, saumasta">rottâsâddâđ</t>
          </tg>
       </mg>
    </e>
@@ -2620,13 +2620,13 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="jltak piiloutuen _COMMA_ esim. kuumuudelta t. sääskiltä porosta"
+               l_par="jltak piiloutuen, esim. kuumuudelta t. sääskiltä porosta"
                wf="čiähádâđâm">čiähádâttâđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="lymytä _COMMA_ painautua piiloon" wf="loomâm laMa">loommâđ</t>
+            <t pos="V" l_par="lymytä, painautua piiloon" wf="loomâm laMa">loommâđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -2738,7 +2738,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="taittaa taivalta _COMMA_ samoilla _COMMA_ vaeltaa"
+               l_par="taittaa taivalta, samoilla, vaeltaa"
                wf="vaandârd">vandârdiđ</t>
          </tg>
       </mg>
@@ -2786,7 +2786,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="painostaa _COMMA_ tiukata" wf="vuárnut">vuárnuttiđ</t>
+            <t pos="V" l_par="painostaa, tiukata" wf="vuárnut">vuárnuttiđ</t>
          </tg>
       </mg>
    </e>
@@ -2838,7 +2838,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
-            <t pos="V" l_par="voida antaa _COMMA_ olla ylimääräistä" wf="lijgod">lijgodiđ</t>
+            <t pos="V" l_par="voida antaa, olla ylimääräistä" wf="lijgod">lijgodiđ</t>
          </tg>
       </mg>
    </e>
@@ -3311,7 +3311,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="rykiä _COMMA_ olla kiimassa" wf="rooVâm">roohâđ</t>
+            <t pos="V" l_par="rykiä, olla kiimassa" wf="rooVâm">roohâđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -3853,7 +3853,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tuhota _COMMA_ repiä" wf="staajeed">stajediđ</t>
+            <t pos="V" l_par="tuhota, repiä" wf="staajeed">stajediđ</t>
          </tg>
       </mg>
    </e>
@@ -11018,7 +11018,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="jnak _COMMA_ jnkinlaisena" r_par="+ ess.">anneeđ</t>
+            <t pos="V" l_par="jnak, jnkinlaisena" r_par="+ ess.">anneeđ</t>
             <xg>
               <x>Minä pidän sinua hyvänä.</x>
 	      <xt>Mun anam tuu pyerrin.</xt>
@@ -11423,7 +11423,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="huveta _COMMA_ tyhjetä esim. ruokavarastoista"
+               l_par="huveta, tyhjetä esim. ruokavarastoista"
                t_tld="~ váJugâššâđ váJugâšâm váJugâš ~ váJágâššâđ váJágâšâm váJágâš"
                wf="vaJâgâšâm vaJâgâš">vajâgâššâđ</t>
          </tg>
@@ -11648,14 +11648,14 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="lörpöttää _COMMA_ höpistä" wf="šuámbist">šuámbistiđ</t>
+            <t pos="V" l_par="lörpöttää, höpistä" wf="šuámbist">šuámbistiđ</t>
             <t pos="V" wf="šlarvâd">šlarvâdiđ</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="höpöttää _COMMA_ puhua kieltä jota kuulija ei ymmärrä"
+               l_par="höpöttää, puhua kieltä jota kuulija ei ymmärrä"
                wf="pomppeest">pompestiđ</t>
          </tg>
       </mg>
@@ -12817,7 +12817,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="matkalle _COMMA_ m. viimeiselle matkalle l. hautaan"
+               l_par="matkalle, m. viimeiselle matkalle l. hautaan"
                wf="miäđušt">miäđuštiđ</t>
          </tg>
       </mg>
@@ -12829,7 +12829,7 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="hoitaa _COMMA_ kasvattaa kävelykuntoiseksi"
+               l_par="hoitaa, kasvattaa kävelykuntoiseksi"
                wf="vázálditám">vázáldittiđ</t>
          </tg>
       </mg>
@@ -14390,7 +14390,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="osua _COMMA_ kolauttaa"
+               l_par="osua, kolauttaa"
                t_tld="~ heeviittâm"
                wf="heevitâm">heeviittiđ</t>
          </tg>
@@ -14398,7 +14398,7 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="sopia tapaamisesta _COMMA_ tehdä liitto"
+               l_par="sopia tapaamisesta, tehdä liitto"
                wf="litodâđâm">litodâttâđ</t>
          </tg>
       </mg>
@@ -15024,7 +15024,7 @@ For the full license text, see the link above.
       <mg id="11">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="äkkinäisesti jokin määrä _COMMA_ esim. vedestä veneeseen">almâsiđ</t>
+               l_par="äkkinäisesti jokin määrä, esim. vedestä veneeseen">almâsiđ</t>
          </tg>
       </mg>
       <mg id="1">
@@ -17539,7 +17539,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" l_par="m. antaa arvosana" wf="árvuštâlâm">árvuštâllâđ</t>
-            <t pos="V" l_par="antaa arvio _COMMA_ määritellä" wf="miäruštâlâm">miäruštâllâđ</t>
+            <t pos="V" l_par="antaa arvio, määritellä" wf="miäruštâlâm">miäruštâllâđ</t>
          </tg>
       </mg>
    </e>
@@ -22927,7 +22927,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="töitä _COMMA_ työnteossa" wf="áhčááttâlâm">áhčááttâllâđ</t>
+            <t pos="V" l_par="töitä, työnteossa" wf="áhčááttâlâm">áhčááttâllâđ</t>
          </tg>
       </mg>
    </e>
@@ -23163,7 +23163,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="pitää huonona aiheetta _COMMA_ panna halvalla"
+               l_par="pitää huonona aiheetta, panna halvalla"
                wf="huánum _FT_ huánum">huánnuđ</t>
          </tg>
       </mg>
@@ -23226,7 +23226,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tuliaseella _COMMA_ jousella tms." wf="pááJám">pääččiđ</t>
+            <t pos="V" l_par="tuliaseella, jousella tms." wf="pááJám">pääččiđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -23303,19 +23303,19 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="abstr. _COMMA_ sallia">tipteđ</t>
+            <t pos="V" l_par="abstr., sallia">tipteđ</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="jklle niin paljon _COMMA_ että tämä joutuu hankaluuksiin ylitarjonnan vuoksi"
+               l_par="jklle niin paljon, että tämä joutuu hankaluuksiin ylitarjonnan vuoksi"
                wf="iänádutám iänádut">iänáduttiđ</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="voida antaa _COMMA_ olla ylimääräistä" wf="lijgod">lijgodiđ</t>
+            <t pos="V" l_par="voida antaa, olla ylimääräistä" wf="lijgod">lijgodiđ</t>
          </tg>
       </mg>
       <mg id="5">
@@ -23387,20 +23387,20 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="panna _COMMA_ pistää jhk" wf="piejâm piäJá">pieijâđ</t>
+            <t pos="V" l_par="panna, pistää jhk" wf="piejâm piäJá">pieijâđ</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="laittaa _COMMA_ kattaa _COMMA_ järjestää"
+               l_par="laittaa, kattaa, järjestää"
                wf="lääjid">läjidiđ</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="kauniisti _COMMA_ istuvasti laskoksille vaatteesta pukiessa t. ommellessa"
+               l_par="kauniisti, istuvasti laskoksille vaatteesta pukiessa t. ommellessa"
                wf="lonnjáám">lonnjáđ</t>
          </tg>
       </mg>
@@ -23459,7 +23459,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="yhtenäistää _COMMA_ integroida" wf="ohtiim">ohtiđ</t>
+            <t pos="V" l_par="yhtenäistää, integroida" wf="ohtiim">ohtiđ</t>
          </tg>
       </mg>
    </e>
@@ -23484,7 +23484,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="sopeutua _COMMA_ tottua" wf="vuáháduum vuáháduVá">vuáháduđ</t>
+            <t pos="V" l_par="sopeutua, tottua" wf="vuáháduum vuáháduVá">vuáháduđ</t>
          </tg>
       </mg>
    </e>
@@ -23589,7 +23589,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" wf="eennit">enittiđ</t>
-            <t pos="V" l_par="keretä _COMMA_ ennättää">kiergâniđ</t>
+            <t pos="V" l_par="keretä, ennättää">kiergâniđ</t>
             <t pos="V" wf="happit">happiittiđ</t>
             <t pos="V" wf="noddiim noddee">noddiđ</t>
          </tg>
@@ -23623,7 +23623,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="alkaa ehtyä _COMMA_ ehtyä vähitellen"
+               l_par="alkaa ehtyä, ehtyä vähitellen"
                t_tld="~ suskâstiđ">cuskâstiđ</t>
          </tg>
       </mg>
@@ -23681,7 +23681,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kesääntyä _COMMA_ liha t. kala" wf="kiäSáduVá">kiäsáduđ</t>
+            <t pos="V" l_par="kesääntyä, liha t. kala" wf="kiäSáduVá">kiäsáduđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -23732,7 +23732,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="virkistää _COMMA_ reipastaa" wf="virkosmitám">virkosmittiđ</t>
+            <t pos="V" l_par="virkistää, reipastaa" wf="virkosmitám">virkosmittiđ</t>
          </tg>
       </mg>
    </e>
@@ -23917,7 +23917,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kyetä erottamaan _COMMA_ nähdä ero" wf="iärut">iäruttiđ</t>
+            <t pos="V" l_par="kyetä erottamaan, nähdä ero" wf="iärut">iäruttiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -24006,14 +24006,14 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="asia _COMMA_ tehdä esitys"
+               l_par="asia, tehdä esitys"
                t_tld="~ oovdâspyehtiđ -puávtám -puáhtá">oovdânpyehtiđ</t>
             <t pos="V" wf="iävtuttiđ">iävtuttiđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kuvata _COMMA_ kuvailla jk asia" wf="kovveed">kovediđ</t>
+            <t pos="V" l_par="kuvata, kuvailla jk asia" wf="kovveed">kovediđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -24023,7 +24023,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="jtk _COMMA_ näytellä" wf="čaittâl">čaittâliđ</t>
+            <t pos="V" l_par="jtk, näytellä" wf="čaittâl">čaittâliđ</t>
          </tg>
       </mg>
       <mg id="5">
@@ -24153,7 +24153,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="väreistä _COMMA_ esim. auringossa" wf="viälgud">viälgudiđ</t>
+            <t pos="V" l_par="väreistä, esim. auringossa" wf="viälgud">viälgudiđ</t>
          </tg>
       </mg>
    </e>
@@ -24191,12 +24191,12 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="esim. musteesta _COMMA_ jäljestä" wf="njuuvgâg">njuvgâgiđ</t>
+            <t pos="V" l_par="esim. musteesta, jäljestä" wf="njuuvgâg">njuvgâgiđ</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="väreistä _COMMA_ esim. auringossa" wf="viälgud">viälgudiđ</t>
+            <t pos="V" l_par="väreistä, esim. auringossa" wf="viälgud">viälgudiđ</t>
          </tg>
       </mg>
       <mg id="5">
@@ -24285,7 +24285,7 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="ampumisesta _COMMA_ saada ampumahaava"
+               l_par="ampumisesta, saada ampumahaava"
                wf="paccâšuum paccâšuVá">paccâšuđ</t>
          </tg>
       </mg>
@@ -24308,12 +24308,12 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="pahalle _COMMA_ löyhkätä" wf="šliäMu">šliämmuđ</t>
+            <t pos="V" l_par="pahalle, löyhkätä" wf="šliäMu">šliämmuđ</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="hielle _COMMA_ erit. vaatteista" wf="liškáduVá">liškáduđ</t>
+            <t pos="V" l_par="hielle, erit. vaatteista" wf="liškáduVá">liškáduđ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -24371,7 +24371,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="nuuskia _COMMA_ tav. eläimistä" wf="njunniim">njunniđ</t>
+            <t pos="V" l_par="nuuskia, tav. eläimistä" wf="njunniim">njunniđ</t>
          </tg>
       </mg>
    </e>
@@ -24407,7 +24407,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="takoa _COMMA_ jyskyttää" wf="teerpâm tiärppá">terppâđ</t>
+            <t pos="V" l_par="takoa, jyskyttää" wf="teerpâm tiärppá">terppâđ</t>
             <t pos="V" wf="juhkám">juhkeđ</t>
          </tg>
       </mg>
@@ -24438,21 +24438,21 @@ For the full license text, see the link above.
       <mg id="7">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="puita _COMMA_ vähän esim. vanha ihminen"
+               l_par="puita, vähän esim. vanha ihminen"
                wf="snuáltum">snuálttuđ</t>
          </tg>
       </mg>
       <mg id="8">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="puuta pikku kappaleiksi _COMMA_ murustaa"
+               l_par="puuta pikku kappaleiksi, murustaa"
                wf="smolkkiim smuálkkee">smolkkiđ</t>
          </tg>
       </mg>
       <mg id="9">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="koloja _COMMA_ erit. nurkanlovia hirren päähän"
+               l_par="koloja, erit. nurkanlovia hirren päähän"
                wf="ciähum">ciäkkuđ</t>
          </tg>
       </mg>
@@ -24460,7 +24460,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="V" l_par="nyrkillä" wf="čuurmâm čormá">čurmâđ</t>
             <t pos="V"
-               l_par="toisiaan nyrkeillä _COMMA_ nyrkkeillä"
+               l_par="toisiaan nyrkeillä, nyrkkeillä"
                wf="čurmâdâđâm čurmâdât">čurmâdâttâđ</t>
          </tg>
       </mg>
@@ -24494,20 +24494,20 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="säle _COMMA_ esim. puusta" wf="laannjâs">lanjâsiđ</t>
+            <t pos="V" l_par="säle, esim. puusta" wf="laannjâs">lanjâsiđ</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="kieroon t. muuten epäsopivasti _COMMA_ erit. pitkästä puupökystä"
+               l_par="kieroon t. muuten epäsopivasti, erit. pitkästä puupökystä"
                wf="paiga pooigâi">poigâđ</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="lohjeta _COMMA_ saada särö esim. posliinista _COMMA_ lasista _COMMA_ emalista"
+               l_par="lohjeta, saada särö esim. posliinista, lasista, emalista"
                wf="ciskoo ij ciskuu">ciskuđ</t>
          </tg>
       </mg>
@@ -24549,7 +24549,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="säröillä _COMMA_ esim. posliini _COMMA_ lasi _COMMA_ emali"
+               l_par="säröillä, esim. posliini, lasi, emali"
                wf="ciskoo ij ciskuu">ciskuđ</t>
          </tg>
       </mg>
@@ -24575,12 +24575,12 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="säleiksi _COMMA_ säikeiksi esim. suonta" wf="saarâm">saarrâđ</t>
+            <t pos="V" l_par="säleiksi, säikeiksi esim. suonta" wf="saarâm">saarrâđ</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="ydinluita _COMMA_ pölkkyjä yms." wf="čieskâm">čieskâđ</t>
+            <t pos="V" l_par="ydinluita, pölkkyjä yms." wf="čieskâm">čieskâđ</t>
          </tg>
       </mg>
    </e>
@@ -24590,13 +24590,13 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="omistaa _COMMA_ toimia hallitsijana" wf="haaldâš">haldâšiđ</t>
+            <t pos="V" l_par="omistaa, toimia hallitsijana" wf="haaldâš">haldâšiđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="osata _COMMA_ pitää aisoissa _COMMA_ pitää hallussa _COMMA_ hallita liikkeitä tms."
+               l_par="osata, pitää aisoissa, pitää hallussa, hallita liikkeitä tms."
                wf="haldiim häldee">haldiđ</t>
          </tg>
       </mg>
@@ -24608,13 +24608,13 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" t_tld="~ halidiđ haaliid" wf="haalijd">halijdiđ</t>
-            <t pos="V" l_par="syödä _COMMA_ olla ruokahalua" wf="lustiim">lustiđ</t>
+            <t pos="V" l_par="syödä, olla ruokahalua" wf="lustiim">lustiđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="haluta _COMMA_ tehdä mieli latkia esim. koirasta"
+               l_par="haluta, tehdä mieli latkia esim. koirasta"
                wf="čuovâstuum čuovâstuVá">čuovâstuđ</t>
          </tg>
       </mg>
@@ -24636,7 +24636,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="napata suuhun leikillään _COMMA_ tav. koirasta"
+               l_par="napata suuhun leikillään, tav. koirasta"
                wf="háámsum">hámssuđ</t>
          </tg>
       </mg>
@@ -24653,7 +24653,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="hiertää _COMMA_ kalvaa _COMMA_ kuluttaa" wf="kaVam">kahheeđ</t>
+            <t pos="V" l_par="hiertää, kalvaa, kuluttaa" wf="kaVam">kahheeđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -24694,7 +24694,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="pilaantua lihasta _COMMA_ kalasta _COMMA_ rasvasta"
+               l_par="pilaantua lihasta, kalasta, rasvasta"
                wf="haavrâg">havrâgiđ</t>
             <t pos="V" wf="kááláág">kálágiđ</t>
             <t pos="V" wf="kuástum">kuástuđ</t>
@@ -24715,7 +24715,7 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="hapantua toivotusti _COMMA_ esim. viili"
+               l_par="hapantua toivotusti, esim. viili"
                wf="loppiim luáppee">loppiđ</t>
          </tg>
       </mg>
@@ -24782,7 +24782,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="hiukset _COMMA_ eläimiä ym." wf="harjaam">harjađ</t>
+            <t pos="V" l_par="hiukset, eläimiä ym." wf="harjaam">harjađ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -24963,7 +24963,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="syödä nopeasti _COMMA_ ahmaista">šávduliđ</t>
+            <t pos="V" l_par="syödä nopeasti, ahmaista">šávduliđ</t>
          </tg>
       </mg>
    </e>
@@ -24991,7 +24991,7 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="koirasta haukkua turhaan _COMMA_ hiljaa _SEMIC_ ihmisestä nalkuttaa erit. vaimo"
+               l_par="koirasta haukkua turhaan, hiljaa _SEMIC_ ihmisestä nalkuttaa erit. vaimo"
                wf="hälhistât">hälhistittiđ</t>
          </tg>
       </mg>
@@ -25003,13 +25003,13 @@ For the full license text, see the link above.
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
-            <t pos="V" l_par="röykyttää jtak _COMMA_ paasata" wf="háávkum">hávkkuđ</t>
+            <t pos="V" l_par="röykyttää jtak, paasata" wf="háávkum">hávkkuđ</t>
          </tg>
       </mg>
       <mg id="7">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="sanoa kovia sanoja jstak _COMMA_ paasata"
+               l_par="sanoa kovia sanoja jstak, paasata"
                wf="koorâd">korâdiđ</t>
          </tg>
       </mg>
@@ -25100,7 +25100,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="rikki _COMMA_ ihosta" wf="killááš">kilášiđ</t>
+            <t pos="V" l_par="rikki, ihosta" wf="killááš">kilášiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -25110,7 +25110,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tee _COMMA_ kahvi" wf="časkam časka">časkeđ</t>
+            <t pos="V" l_par="tee, kahvi" wf="časkam časka">časkeđ</t>
          </tg>
       </mg>
       <mg id="5">
@@ -25187,12 +25187,12 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="valoa _COMMA_ säteitä yms." wf="šiiroot">širottiđ</t>
+            <t pos="V" l_par="valoa, säteitä yms." wf="šiiroot">širottiđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kuva _COMMA_ peilata" wf="speejâld">spejâldiđ</t>
+            <t pos="V" l_par="kuva, peilata" wf="speejâld">spejâldiđ</t>
          </tg>
       </mg>
    </e>
@@ -25238,7 +25238,7 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="huonontua esim. potilaan tilanne _COMMA_ tie _COMMA_ saalis">niävrániđ</t>
+               l_par="huonontua esim. potilaan tilanne, tie, saalis">niävrániđ</t>
          </tg>
       </mg>
       <mg id="5">
@@ -25259,7 +25259,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="8">
          <tg xml:lang="smn">
-            <t pos="V" l_par="vähän _COMMA_ tuulesta" wf="ložžist">ložžiistiđ</t>
+            <t pos="V" l_par="vähän, tuulesta" wf="ložžist">ložžiistiđ</t>
          </tg>
       </mg>
    </e>
@@ -25289,7 +25289,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="lepattaa _COMMA_ liehua">faškârâššâđ</t>
+            <t pos="V" l_par="lepattaa, liehua">faškârâššâđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -25299,7 +25299,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="jokin irtonainen _COMMA_ esim. hammas" wf="lipom">lippođ</t>
+            <t pos="V" l_par="jokin irtonainen, esim. hammas" wf="lipom">lippođ</t>
          </tg>
       </mg>
       <mg id="5">
@@ -25331,7 +25331,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kättä _COMMA_ vilkuttaa" wf="siävám siäVá">seevviđ</t>
+            <t pos="V" l_par="kättä, vilkuttaa" wf="siävám siäVá">seevviđ</t>
          </tg>
       </mg>
    </e>
@@ -25366,7 +25366,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="viehettä _COMMA_ onkea _COMMA_ helmoja" wf="šlivgom">šlivgođ</t>
+            <t pos="V" l_par="viehettä, onkea, helmoja" wf="šlivgom">šlivgođ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -25398,7 +25398,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="ilman pakkoa t. syytä _COMMA_ omasta päätöksestä"
+               l_par="ilman pakkoa t. syytä, omasta päätöksestä"
                wf="faškastâđâm">faškastâttâđ</t>
          </tg>
       </mg>
@@ -25461,7 +25461,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="9">
          <tg xml:lang="smn">
-            <t pos="V" l_par="päässä _COMMA_ pyörryttää">kiesâččiđ</t>
+            <t pos="V" l_par="päässä, pyörryttää">kiesâččiđ</t>
          </tg>
       </mg>
       <mg id="10">
@@ -25472,7 +25472,7 @@ For the full license text, see the link above.
       <mg id="11">
          <tg xml:lang="smn">
             <t pos="Pron"
-               l_par="minua pyörryttää _COMMA_ heittää päästä"
+               l_par="minua pyörryttää, heittää päästä"
                t_tld="~ keessâš"
                wf="uáivi kiessâš">must</t>
          </tg>
@@ -25566,7 +25566,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tukehtua _COMMA_ saada hengenahdistusta">loppâsiđ</t>
+            <t pos="V" l_par="tukehtua, saada hengenahdistusta">loppâsiđ</t>
          </tg>
       </mg>
    </e>
@@ -25645,7 +25645,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="ajatuksia _COMMA_ pistää ajattelemaan"
+               l_par="ajatuksia, pistää ajattelemaan"
                wf="jurdui vuál">pieijâđ</t>
          </tg>
       </mg>
@@ -25673,7 +25673,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="eloon _COMMA_ elpyä" wf="iäláásk">iäláskiđ</t>
+            <t pos="V" l_par="eloon, elpyä" wf="iäláásk">iäláskiđ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -25762,7 +25762,7 @@ For the full license text, see the link above.
       <mg id="5">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="juuriköyttä _COMMA_ pehmittää ja kuoria"
+               l_par="juuriköyttä, pehmittää ja kuoria"
                wf="taabžâm tábžá">tabžâđ</t>
          </tg>
       </mg>
@@ -25808,7 +25808,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="nopeasti _COMMA_ lyhyt matka">čuoigâliđ</t>
+            <t pos="V" l_par="nopeasti, lyhyt matka">čuoigâliđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -25901,7 +25901,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="vaientaa äänet kokonaan _COMMA_ panna vaikenemaan"
+               l_par="vaientaa äänet kokonaan, panna vaikenemaan"
                wf="jávuttutám jávuttut">jávuttuttiđ</t>
          </tg>
       </mg>
@@ -25934,7 +25934,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="maalista _COMMA_ lakasta tms.">luákkániđ</t>
+            <t pos="V" l_par="maalista, lakasta tms.">luákkániđ</t>
          </tg>
       </mg>
    </e>
@@ -25989,7 +25989,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="hieroa _COMMA_ hangata" wf="taabžâm tábžá">tabžâđ</t>
+            <t pos="V" l_par="hieroa, hangata" wf="taabžâm tábžá">tabžâđ</t>
          </tg>
       </mg>
    </e>
@@ -26094,7 +26094,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="valoa _COMMA_ rakosesta tms." wf="piLá">pilleeđ</t>
+            <t pos="V" l_par="valoa, rakosesta tms." wf="piLá">pilleeđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -26145,7 +26145,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="hoivata _COMMA_ hoitaa asoita" wf="hoittáám">hoittáđ</t>
+            <t pos="V" l_par="hoivata, hoitaa asoita" wf="hoittáám">hoittáđ</t>
             <t pos="V" wf="tipšom">tipšođ</t>
             <t pos="V" wf="kavŋiim">kavŋiđ</t>
          </tg>
@@ -26153,7 +26153,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="ruokkia _COMMA_ ravita _COMMA_ hoitaa eläimiä"
+               l_par="ruokkia, ravita, hoitaa eläimiä"
                wf="piemâm piämmá">piemmâđ</t>
          </tg>
       </mg>
@@ -26256,7 +26256,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="V" l_par="koirasta" wf="háámbum">hámbuđ</t>
             <t pos="V"
-               l_par="tav. koirasta _COMMA_ mutta m. ihmisestä"
+               l_par="tav. koirasta, mutta m. ihmisestä"
                wf="šlohom šlokko">šlokkođ</t>
          </tg>
       </mg>
@@ -26348,13 +26348,13 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="huiputtaa _COMMA_ puijata" wf="táájut">tájuttiđ</t>
+            <t pos="V" l_par="huiputtaa, puijata" wf="táájut">tájuttiđ</t>
             <t pos="V" wf="puijáám">puijáđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="pettää _COMMA_ kavaltaa" wf="skelmuš">skelmušiđ</t>
+            <t pos="V" l_par="pettää, kavaltaa" wf="skelmuš">skelmušiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -26454,7 +26454,7 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="haaskata _COMMA_ pilata"
+               l_par="haaskata, pilata"
                t_tld="~ stäjediđ stääjeed"
                wf="stääjid">stäjidiđ</t>
          </tg>
@@ -26556,7 +26556,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="jälkeläisestä _COMMA_ esim. vaadin vasasta"
+               l_par="jälkeläisestä, esim. vaadin vasasta"
                wf="anam">anneeđ</t>
          </tg>
       </mg>
@@ -26636,7 +26636,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="tarkkailla _COMMA_ tehdä huomioita"
+               l_par="tarkkailla, tehdä huomioita"
                wf="huámmášumijd">toohâđ</t>
          </tg>
       </mg>
@@ -26782,7 +26782,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="esim. suomaa _COMMA_ rinnat" wf="tuigeest">tuigestiđ</t>
+            <t pos="V" l_par="esim. suomaa, rinnat" wf="tuigeest">tuigestiđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -26868,7 +26868,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="puusta toiseen _COMMA_ oravasta" wf="puittá">puitteđ</t>
+            <t pos="V" l_par="puusta toiseen, oravasta" wf="puittá">puitteđ</t>
          </tg>
       </mg>
    </e>
@@ -26878,7 +26878,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="pituutta _COMMA_ korkeutta" wf="njuškiim njuškee">njuškiđ</t>
+            <t pos="V" l_par="pituutta, korkeutta" wf="njuškiim njuškee">njuškiđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -26888,7 +26888,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="sivuun _COMMA_ ajoporosta" wf="spiekkâst">spiekâstiđ</t>
+            <t pos="V" l_par="sivuun, ajoporosta" wf="spiekkâst">spiekâstiđ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -27058,7 +27058,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="julkisesti _COMMA_ muiden silmissä">hiäpášâttâđ</t>
+            <t pos="V" l_par="julkisesti, muiden silmissä">hiäpášâttâđ</t>
          </tg>
       </mg>
    </e>
@@ -27078,7 +27078,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="eläintä _COMMA_ esim. koiraa" wf="nidám">niddeđ</t>
+            <t pos="V" l_par="eläintä, esim. koiraa" wf="nidám">niddeđ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -27105,7 +27105,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="hapantua liha _COMMA_ kala _COMMA_ rasva"
+               l_par="hapantua liha, kala, rasva"
                wf="kuástum">kuástuđ</t>
          </tg>
       </mg>
@@ -27149,7 +27149,7 @@ For the full license text, see the link above.
       <mg id="7">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="poroja _COMMA_ lampaita _COMMA_ koiria ym. huudahtelemalla huš _COMMA_ hš _COMMA_ kš t. kacoous"
+               l_par="poroja, lampaita, koiria ym. huudahtelemalla huš, hš, kš t. kacoous"
                wf="huššoot">hušottiđ</t>
          </tg>
       </mg>
@@ -27258,7 +27258,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tuhoutua _COMMA_ kärsiä häviö" wf="táppáám">táppáđ</t>
+            <t pos="V" l_par="tuhoutua, kärsiä häviö" wf="táppáám">táppáđ</t>
             <t pos="V" wf="tuušâm tuššá">tuššâđ</t>
          </tg>
       </mg>
@@ -27284,7 +27284,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
-            <t pos="V" l_par="rahallisesti _COMMA_ jäädä tappiolle" wf="restâluVá">restâluđ</t>
+            <t pos="V" l_par="rahallisesti, jäädä tappiolle" wf="restâluVá">restâluđ</t>
          </tg>
       </mg>
    </e>
@@ -27295,7 +27295,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="näkyä _COMMA_ kajastaa _COMMA_ kuultaa"
+               l_par="näkyä, kajastaa, kuultaa"
                wf="kuávváám">kuávváđ</t>
             <t pos="V" wf="kuástá">kyestiđ</t>
             <t pos="V" wf="kuástoo">kuostuđ</t>
@@ -27338,13 +27338,13 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="lörpöttää _COMMA_ höpistä" wf="šuámbist">šuámbistiđ</t>
+            <t pos="V" l_par="lörpöttää, höpistä" wf="šuámbist">šuámbistiđ</t>
             <t pos="V" wf="šlarvâd">šlarvâdiđ</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="itsekseen _COMMA_ mutista" wf="topsástitám">topsástittiđ</t>
+            <t pos="V" l_par="itsekseen, mutista" wf="topsástitám">topsástittiđ</t>
          </tg>
       </mg>
    </e>
@@ -27359,7 +27359,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="vettä _COMMA_ esim. veneestä t. saappaasta">šavgâliđ</t>
+            <t pos="V" l_par="vettä, esim. veneestä t. saappaasta">šavgâliđ</t>
          </tg>
       </mg>
    </e>
@@ -27384,7 +27384,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="huurtua _COMMA_ esim. ikkuna" wf="savđa">sovđâđ</t>
+            <t pos="V" l_par="huurtua, esim. ikkuna" wf="savđa">sovđâđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -27407,7 +27407,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="toisten luo _COMMA_ eläimistä" wf="vaallâd">valâdiđ</t>
+            <t pos="V" l_par="toisten luo, eläimistä" wf="vaallâd">valâdiđ</t>
          </tg>
       </mg>
    </e>
@@ -27442,7 +27442,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="antaa merkki _COMMA_ antaa ymmärtää" wf="tuubdâd">tubdâttiđ</t>
+            <t pos="V" l_par="antaa merkki, antaa ymmärtää" wf="tuubdâd">tubdâttiđ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -27543,7 +27543,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tulesta _COMMA_ kun polttopuut ovat märkiä">cuikkádiđ</t>
+            <t pos="V" l_par="tulesta, kun polttopuut ovat märkiä">cuikkádiđ</t>
             <t pos="V">cuikkâliđ</t>
             <t pos="V">cuikkááttiđ</t>
          </tg>
@@ -27567,26 +27567,26 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="lähteä irti _COMMA_ ponnahtaa paikoiltaan esim. jkin osa"
+               l_par="lähteä irti, ponnahtaa paikoiltaan esim. jkin osa"
                wf="čiehčâs">čiehčâsiđ</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="luiskahtaa _COMMA_ lipsahtaa irti" wf="njolppáát">njolpáttiđ</t>
+            <t pos="V" l_par="luiskahtaa, lipsahtaa irti" wf="njolppáát">njolpáttiđ</t>
             <t pos="V" wf="njulppâs">njulppâsiđ</t>
          </tg>
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="hiukset _COMMA_ karva" wf="njoovhât">njovhâttiđ</t>
+            <t pos="V" l_par="hiukset, karva" wf="njoovhât">njovhâttiđ</t>
             <t pos="V" l_par="m. nahka" wf="njallaan">njalaniđ</t>
          </tg>
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="yhtäkkiä jumista _COMMA_ esim. kirves pölkystä"
+               l_par="yhtäkkiä jumista, esim. kirves pölkystä"
                wf="čalgeet">čalgettiđ</t>
          </tg>
       </mg>
@@ -27598,7 +27598,7 @@ For the full license text, see the link above.
       <mg id="8">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="vaihtaa karva _COMMA_ varistaa karvansa porosta"
+               l_par="vaihtaa karva, varistaa karvansa porosta"
                wf="porgád">porgádiđ</t>
          </tg>
       </mg>
@@ -27630,13 +27630,13 @@ For the full license text, see the link above.
       <mg id="5">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="repiä irti esim. etikettiä _COMMA_ rupea haavasta _COMMA_ turvetta maasta _SEMIC_ kuoria keitetystä perunasta"
+               l_par="repiä irti esim. etikettiä, rupea haavasta, turvetta maasta _SEMIC_ kuoria keitetystä perunasta"
                wf="njizám">njizzeđ</t>
          </tg>
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
-            <t pos="V" l_par="nopeasti _COMMA_ nuljauttaa irti" wf="njooveeld">njoveldiđ</t>
+            <t pos="V" l_par="nopeasti, nuljauttaa irti" wf="njooveeld">njoveldiđ</t>
          </tg>
       </mg>
       <mg id="7">
@@ -27751,7 +27751,7 @@ For the full license text, see the link above.
       <mg id="5">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="lennosta laskeutuneena _COMMA_ erit. linnusta"
+               l_par="lennosta laskeutuneena, erit. linnusta"
                wf="seivâgist">leđe</t>
             <t pos="Adv" wf="orroođ">seivâgist</t>
          </tg>
@@ -27774,7 +27774,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="alas _COMMA_ pistää t. pitää istumassa" wf="čokkát">čokkááttiđ</t>
+            <t pos="V" l_par="alas, pistää t. pitää istumassa" wf="čokkát">čokkááttiđ</t>
             <t pos="V" wf="ištâd">ištâdiđ</t>
          </tg>
       </mg>
@@ -27816,7 +27816,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kitistä _COMMA_ vauvasta" wf="vinjom">vinnjoođ</t>
+            <t pos="V" l_par="kitistä, vauvasta" wf="vinjom">vinnjoođ</t>
          </tg>
       </mg>
    </e>
@@ -28016,7 +28016,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="suussa _COMMA_ pureksia pitkään _COMMA_ jauhaa purukumia"
+               l_par="suussa, pureksia pitkään, jauhaa purukumia"
                wf="suoskâm suáská">suoskâđ</t>
          </tg>
       </mg>
@@ -28033,7 +28033,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="taluttaa _COMMA_ ohjata" wf="laiđiim läiđee">laiđiđ</t>
+            <t pos="V" l_par="taluttaa, ohjata" wf="laiđiim läiđee">laiđiđ</t>
             <t pos="V" wf="joođeet">jođettiđ</t>
          </tg>
       </mg>
@@ -28075,7 +28075,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="esim. lämpöä _COMMA_ sähköä" wf="sirdám">sirdeđ</t>
+            <t pos="V" l_par="esim. lämpöä, sähköä" wf="sirdám">sirdeđ</t>
             <t pos="V" wf="jođám">jotteeđ</t>
          </tg>
       </mg>
@@ -28245,7 +28245,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="jäädä kiinni _COMMA_ juuttua _COMMA_ tarttua">tarvaniđ</t>
+            <t pos="V" l_par="jäädä kiinni, juuttua, tarttua">tarvaniđ</t>
             <t pos="V" wf="voovdâm vavda">vovdâđ</t>
          </tg>
       </mg>
@@ -28286,7 +28286,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="ryystää _COMMA_ hörppiä" wf="šloogâm šlagga">šloggâđ</t>
+            <t pos="V" l_par="ryystää, hörppiä" wf="šloogâm šlagga">šloggâđ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -28459,7 +28459,7 @@ For the full license text, see the link above.
       <mg id="12">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="oppia juoksemaan hiljattain syntyneestä vasasta _COMMA_ vasikasta _COMMA_ karitsasta tms.">čalgâđ</t>
+               l_par="oppia juoksemaan hiljattain syntyneestä vasasta, vasikasta, karitsasta tms.">čalgâđ</t>
          </tg>
       </mg>
    </e>
@@ -28480,7 +28480,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="jäädä kiinni _COMMA_ juuttua _COMMA_ tarttua">tarvaniđ</t>
+            <t pos="V" l_par="jäädä kiinni, juuttua, tarttua">tarvaniđ</t>
             <t pos="V" wf="voovdâm vavda">vovdâđ</t>
          </tg>
       </mg>
@@ -28550,7 +28550,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="itseään _COMMA_ esim. porosta" wf="purâdâđâm">purâdâttâđ</t>
+            <t pos="V" l_par="itseään, esim. porosta" wf="purâdâđâm">purâdâttâđ</t>
          </tg>
       </mg>
    </e>
@@ -28601,7 +28601,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="itseään _COMMA_ esim. porosta" wf="purâdâđâm">purâdâttâđ</t>
+            <t pos="V" l_par="itseään, esim. porosta" wf="purâdâđâm">purâdâttâđ</t>
          </tg>
       </mg>
    </e>
@@ -28700,18 +28700,18 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="esim. tapahtuma _COMMA_ tavaroita"
+               l_par="esim. tapahtuma, tavaroita"
                wf="orniim uárnee">orniđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="vähän _COMMA_ m. esim. tavaroita" wf="orniistâlâm">orniistâllâđ</t>
+            <t pos="V" l_par="vähän, m. esim. tavaroita" wf="orniistâlâm">orniistâllâđ</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="siistiä _COMMA_ siivota" wf="kaađvâm">kađvâđ</t>
+            <t pos="V" l_par="siistiä, siivota" wf="kaađvâm">kađvâđ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -28752,7 +28752,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="sana _COMMA_ viesti">celkkâliđ</t>
+            <t pos="V" l_par="sana, viesti">celkkâliđ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -28798,12 +28798,12 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="puutua _COMMA_ kangistua" wf="jamâstuum">jamâstuđ</t>
+            <t pos="V" l_par="puutua, kangistua" wf="jamâstuum">jamâstuđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="jähmettyä _COMMA_ kangistua">storgâsmiđ</t>
+            <t pos="V" l_par="jähmettyä, kangistua">storgâsmiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -28831,7 +28831,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="ruumiinjäsen _COMMA_ palelluttaa" wf="suvčâgitám">suvčâgittiđ</t>
+            <t pos="V" l_par="ruumiinjäsen, palelluttaa" wf="suvčâgitám">suvčâgittiđ</t>
          </tg>
       </mg>
    </e>
@@ -28866,14 +28866,14 @@ For the full license text, see the link above.
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kiinni _COMMA_ juuttua _COMMA_ tarttua">tarvaniđ</t>
+            <t pos="V" l_par="kiinni, juuttua, tarttua">tarvaniđ</t>
             <t pos="V" wf="voovdâm vavda">vovdâđ</t>
          </tg>
       </mg>
       <mg id="7">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="kiinni _COMMA_ esim. rikoksesta t. jstak teosta"
+               l_par="kiinni, esim. rikoksesta t. jstak teosta"
                wf="kavnâttâđâm">kavnâttâttâđ</t>
             <t pos="V" wf="čonâttâđâm">čonâttâttâđ</t>
             <t pos="V" wf="pottuum puáttoo">pottuđ</t>
@@ -28881,7 +28881,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="8">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tappiolle _COMMA_ hävitä" wf="táppáám">táppáđ</t>
+            <t pos="V" l_par="tappiolle, hävitä" wf="táppáám">táppáđ</t>
          </tg>
       </mg>
       <mg id="9">
@@ -28891,7 +28891,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="10">
          <tg xml:lang="smn">
-            <t pos="V" l_par="velkaa _COMMA_ rästejä jhk" wf="restâluVá">restâluđ</t>
+            <t pos="V" l_par="velkaa, rästejä jhk" wf="restâluVá">restâluđ</t>
          </tg>
       </mg>
       <mg id="11">
@@ -28981,7 +28981,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="esim. ruokaa _COMMA_ nestettä" wf="kalmeed">kalmediđ</t>
+            <t pos="V" l_par="esim. ruokaa, nestettä" wf="kalmeed">kalmediđ</t>
          </tg>
       </mg>
    </e>
@@ -29206,7 +29206,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
-            <t pos="V" l_par="astia _COMMA_ vene" wf="vierrâl">vierâliđ</t>
+            <t pos="V" l_par="astia, vene" wf="vierrâl">vierâliđ</t>
          </tg>
       </mg>
       <mg id="7">
@@ -29392,7 +29392,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="toisten luo _COMMA_ eläimistä" wf="vaallâd">valâdiđ</t>
+            <t pos="V" l_par="toisten luo, eläimistä" wf="vaallâd">valâdiđ</t>
          </tg>
       </mg>
    </e>
@@ -29502,7 +29502,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="tavaroita _COMMA_ lastia esim. porosta"
+               l_par="tavaroita, lastia esim. porosta"
                wf="kuádáttâlâm">kuádáttâllâđ</t>
          </tg>
       </mg>
@@ -29662,7 +29662,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="vieroksua _COMMA_ oudoksua" wf="oomâš">omâšiđ</t>
+            <t pos="V" l_par="vieroksua, oudoksua" wf="oomâš">omâšiđ</t>
             <t pos="V" wf="omâttâlâm">omâttâllâđ</t>
          </tg>
       </mg>
@@ -29861,7 +29861,7 @@ For the full license text, see the link above.
       <mg id="6">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="umpeen _COMMA_ metsittyä esim. vanha kenttä"
+               l_par="umpeen, metsittyä esim. vanha kenttä"
                wf="ávjoo">ávjuđ</t>
          </tg>
       </mg>
@@ -30040,7 +30040,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="hoikentaa _COMMA_ ohentaa pitkiä pyöreitä esineitä"
+               l_par="hoikentaa, ohentaa pitkiä pyöreitä esineitä"
                wf="seeggid">segidiđ</t>
          </tg>
       </mg>
@@ -30133,7 +30133,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="keinussa _COMMA_ riippuvassa komsiossa tms."
+               l_par="keinussa, riippuvassa komsiossa tms."
                wf="suuilom">suilođ</t>
          </tg>
       </mg>
@@ -30156,7 +30156,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="keinussa _COMMA_ riipuvassa komsiossa _COMMA_ venettä kovassa aallokossa">suilottiđ</t>
+               l_par="keinussa, riipuvassa komsiossa, venettä kovassa aallokossa">suilottiđ</t>
          </tg>
       </mg>
    </e>
@@ -30207,7 +30207,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kuihtua _COMMA_ nahistua kasveista" wf="ruškood">ruškodiđ</t>
+            <t pos="V" l_par="kuihtua, nahistua kasveista" wf="ruškood">ruškodiđ</t>
          </tg>
       </mg>
    </e>
@@ -30342,7 +30342,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="jhk _COMMA_ saostua _COMMA_ nousta pintaan"
+               l_par="jhk, saostua, nousta pintaan"
                wf="čuolduum čuáldoo">čuolduđ</t>
          </tg>
       </mg>
@@ -30680,7 +30680,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="loistaa _COMMA_ välkkyä" wf="šiälláá">šiälláđ</t>
+            <t pos="V" l_par="loistaa, välkkyä" wf="šiälláá">šiälláđ</t>
          </tg>
       </mg>
    </e>
@@ -30696,7 +30696,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="jtk jllak _COMMA_ esim. liimata t. teipata jtk jhk"
+               l_par="jtk jllak, esim. liimata t. teipata jtk jhk"
                wf="tarveet">tarvettiđ</t>
          </tg>
       </mg>
@@ -30712,7 +30712,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tavarat ahkioon tms. _COMMA_ kaaristaa" wf="kaarâm">kaarrâđ</t>
+            <t pos="V" l_par="tavarat ahkioon tms., kaaristaa" wf="kaarâm">kaarrâđ</t>
             <t pos="V" l_par="jtk kaaristehihnan avulla">karâdiđ</t>
          </tg>
       </mg>
@@ -30763,13 +30763,13 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="toimia ripeästi _COMMA_ pitää kiirettä" wf="toommâl">tomâliđ</t>
+            <t pos="V" l_par="toimia ripeästi, pitää kiirettä" wf="toommâl">tomâliđ</t>
             <t pos="V" wf="toomâm tuáMá">toommâđ</t>
          </tg>
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="turhan päiten _COMMA_ olla malttamaton" wf="hurreed">hurediđ</t>
+            <t pos="V" l_par="turhan päiten, olla malttamaton" wf="hurreed">hurediđ</t>
          </tg>
       </mg>
    </e>
@@ -30802,7 +30802,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="väitellä _COMMA_ tingata" wf="náággut">náguttiđ</t>
+            <t pos="V" l_par="väitellä, tingata" wf="náággut">náguttiđ</t>
             <t pos="V" wf="náguttâlâm">náguttâllâđ</t>
          </tg>
       </mg>
@@ -30834,7 +30834,7 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="jhk _COMMA_ kömpiä _COMMA_ erit. pienistä lapsista"
+               l_par="jhk, kömpiä, erit. pienistä lapsista"
                wf="kuántum">kuánttuđ</t>
          </tg>
       </mg>
@@ -30955,7 +30955,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="venähdyttää lihas _COMMA_ jänne t. raaja"
+               l_par="venähdyttää lihas, jänne t. raaja"
                wf="viennâl">vienâliđ</t>
          </tg>
       </mg>
@@ -30972,7 +30972,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="hihnasta _COMMA_ siimasta tms." wf="soggân">soggâniđ</t>
+            <t pos="V" l_par="hihnasta, siimasta tms." wf="soggân">soggâniđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -31000,7 +31000,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="hihnaa _COMMA_ siimaa _COMMA_ verkkoa tms."
+               l_par="hihnaa, siimaa, verkkoa tms."
                wf="sooggâd">sogâdiđ</t>
             <t pos="V" wf="soggiim suággee">soggiđ</t>
          </tg>
@@ -31008,7 +31008,7 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="lankoja _COMMA_ naruja tms. _COMMA_ pingottaa"
+               l_par="lankoja, naruja tms., pingottaa"
                wf="sporriim spuárree">sporriđ</t>
          </tg>
       </mg>
@@ -31019,7 +31019,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tulla kiristetyksi _COMMA_ tiukennetuksi">čovgâsiđ</t>
+            <t pos="V" l_par="tulla kiristetyksi, tiukennetuksi">čovgâsiđ</t>
             <t pos="V">čovguđ</t>
          </tg>
       </mg>
@@ -31160,7 +31160,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="voimakkaasti _COMMA_ riuhtoa _COMMA_ repiä _COMMA_ tempoa"
+               l_par="voimakkaasti, riuhtoa, repiä, tempoa"
                wf="rundom">rundođ</t>
             <t pos="V" wf="kiškom">kiškođ</t>
          </tg>
@@ -31231,7 +31231,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kysymyksillä _COMMA_ kärttää" wf="vuorjâm">vuorjâđ</t>
+            <t pos="V" l_par="kysymyksillä, kärttää" wf="vuorjâm">vuorjâđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -31251,14 +31251,14 @@ For the full license text, see the link above.
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
-            <t pos="V" l_par="härnätä _COMMA_ kiusoitella" wf="hattiim hättee">hattiđ</t>
+            <t pos="V" l_par="härnätä, kiusoitella" wf="hattiim hättee">hattiđ</t>
             <t pos="V" wf="viiggât">vigâttiđ</t>
          </tg>
       </mg>
       <mg id="7">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="tulla kiusatuksi _COMMA_ härnätyksi"
+               l_par="tulla kiusatuksi, härnätyksi"
                wf="harduum hárdoo">harduđ</t>
          </tg>
       </mg>
@@ -31343,7 +31343,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="eläintä niin huonosti _COMMA_ että se pitää lopettaa"
+               l_par="eläintä niin huonosti, että se pitää lopettaa"
                wf="ruáppit">ruápittiđ</t>
          </tg>
       </mg>
@@ -31369,7 +31369,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="vedestä _COMMA_ tuulesta" wf="šaavâm">šaavvâđ</t>
+            <t pos="V" l_par="vedestä, tuulesta" wf="šaavâm">šaavvâđ</t>
             <t pos="V" wf="šááváá">šááváđ</t>
             <t pos="V" wf="šaavijd">šavijdiđ</t>
          </tg>
@@ -31426,7 +31426,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="V" wf="paajeed">pajediđ</t>
             <t pos="V" wf="luŋŋit">luŋŋiittiđ</t>
-            <t pos="V" l_par="ilmaan _COMMA_ irti maasta tms." wf="luptiim loptee">luptiđ</t>
+            <t pos="V" l_par="ilmaan, irti maasta tms." wf="luptiim loptee">luptiđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -31482,7 +31482,7 @@ For the full license text, see the link above.
       <mg id="6">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="jk asia _COMMA_ tapahtuma _COMMA_ seikkailu tms."
+               l_par="jk asia, tapahtuma, seikkailu tms."
                wf="feeriim">feeriđ</t>
             <t pos="V" wf="fiäránistám">fiäránistiđ</t>
          </tg>
@@ -31589,7 +31589,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kolkata _COMMA_ kolkata kuoliaaksi">čolkkâliđ</t>
+            <t pos="V" l_par="kolkata, kolkata kuoliaaksi">čolkkâliđ</t>
          </tg>
       </mg>
       <mg id="5">
@@ -31650,7 +31650,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="hampaista _COMMA_ kun on kylmissään _COMMA_ peloissaan tms."
+               l_par="hampaista, kun on kylmissään, peloissaan tms."
                wf="vaavijd">vavijdiđ</t>
          </tg>
       </mg>
@@ -31700,7 +31700,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kaatua _COMMA_ tuupertua" wf="vieggâsâdâm">vieggâsâddâđ</t>
+            <t pos="V" l_par="kaatua, tuupertua" wf="vieggâsâdâm">vieggâsâddâđ</t>
             <t pos="V" wf="vieggâs">vieggâsiđ</t>
          </tg>
       </mg>
@@ -32009,7 +32009,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="poiketa matkalla jnk kautta _COMMA_ tehdä mutka"
+               l_par="poiketa matkalla jnk kautta, tehdä mutka"
                wf="mohástâlâm">mohástâllâđ</t>
             <t pos="V">mukkâsiđ</t>
          </tg>
@@ -32162,12 +32162,12 @@ For the full license text, see the link above.
       <mg id="5">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="lumesta _COMMA_ joka tarttuu huonolla kelillä ahkion t. suksien pohjiin">stuppâniđ</t>
+               l_par="lumesta, joka tarttuu huonolla kelillä ahkion t. suksien pohjiin">stuppâniđ</t>
          </tg>
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
-            <t pos="V" l_par="sormista _COMMA_ jalkapohjista tms." wf="jarom">jarroođ</t>
+            <t pos="V" l_par="sormista, jalkapohjista tms." wf="jarom">jarroođ</t>
          </tg>
       </mg>
       <mg id="7">
@@ -32307,7 +32307,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="säästä _COMMA_ lakata satamasta" wf="koškádit">koškádittiđ</t>
+            <t pos="V" l_par="säästä, lakata satamasta" wf="koškádit">koškádittiđ</t>
          </tg>
       </mg>
       <mg id="6">
@@ -32386,7 +32386,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="joutilaana paikasta toiseen _COMMA_ edestakaisin"
+               l_par="joutilaana paikasta toiseen, edestakaisin"
                wf="paampâm pámppá">pamppâđ</t>
          </tg>
       </mg>
@@ -32473,7 +32473,7 @@ For the full license text, see the link above.
       <mg id="7">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="vaivalloisesti eteenpäin _COMMA_ vain toisen verbin kanssa yhdessä"
+               l_par="vaivalloisesti eteenpäin, vain toisen verbin kanssa yhdessä"
                wf="suámmud">suámudiđ</t>
          </tg>
       </mg>
@@ -32552,7 +32552,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="22">
          <tg xml:lang="smn">
-            <t pos="V" l_par="lähteä kulkemaan _COMMA_ liikkeelle" wf="jottáám">jottáđ</t>
+            <t pos="V" l_par="lähteä kulkemaan, liikkeelle" wf="jottáám">jottáđ</t>
          </tg>
       </mg>
       <mg id="23">
@@ -32579,7 +32579,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="vaatteesta ohentua _COMMA_ hiutua">hivgâniđ</t>
+            <t pos="V" l_par="vaatteesta ohentua, hiutua">hivgâniđ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -32699,7 +32699,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="esim. sodassa _COMMA_ kaatua" wf="viirâm viRá">viirrâđ</t>
+            <t pos="V" l_par="esim. sodassa, kaatua" wf="viirâm viRá">viirrâđ</t>
          </tg>
       </mg>
       <mg id="6">
@@ -32725,7 +32725,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="esim. raakoja perunoita _COMMA_ omenoita tms."
+               l_par="esim. raakoja perunoita, omenoita tms."
                wf="korriim">korriđ</t>
          </tg>
       </mg>
@@ -32847,7 +32847,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="ujostella _COMMA_ kainostella" wf="uináástâlâm">uináástâllâđ</t>
+            <t pos="V" l_par="ujostella, kainostella" wf="uináástâlâm">uináástâllâđ</t>
             <t pos="V" wf="ujostâlâm">ujostâllâđ</t>
          </tg>
       </mg>
@@ -32864,7 +32864,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="pettää _COMMA_ kavaltaa" wf="skelmuš">skelmušiđ</t>
+            <t pos="V" l_par="pettää, kavaltaa" wf="skelmuš">skelmušiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -32948,7 +32948,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="kangaspuilla ja puikoilla _COMMA_ verkkoa"
+               l_par="kangaspuilla ja puikoilla, verkkoa"
                wf="kođám koĐá">kođđeeđ</t>
          </tg>
       </mg>
@@ -32977,7 +32977,7 @@ For the full license text, see the link above.
       <mg id="6">
          <tg xml:lang="smn">
             <t pos="N"
-               l_par="paulakudonnainen _COMMA_ kudottu kuvioton paula _COMMA_ pirtanauha"
+               l_par="paulakudonnainen, kudottu kuvioton paula, pirtanauha"
                wf="njuškottuv">njuškottâh</t>
          </tg>
       </mg>
@@ -33026,7 +33026,7 @@ For the full license text, see the link above.
       <mg id="5">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="olla nimeltään _COMMA_ tulla kutsutuksi"
+               l_par="olla nimeltään, tulla kutsutuksi"
                wf="kuččuum koččoo">kuččuđ</t>
          </tg>
       </mg>
@@ -33262,7 +33262,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="raapia _COMMA_ rapsuttaa" wf="ruohâm ruákká">ruokkâđ</t>
+            <t pos="V" l_par="raapia, rapsuttaa" wf="ruohâm ruákká">ruokkâđ</t>
             <t pos="V" wf="ruovâm">ruoppâđ</t>
          </tg>
       </mg>
@@ -33279,7 +33279,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="keitettäessä _COMMA_ suolattaessa" wf="kapša">kopšâđ</t>
+            <t pos="V" l_par="keitettäessä, suolattaessa" wf="kapša">kopšâđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -33295,14 +33295,14 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="erit. mustikasta _COMMA_ variksenmarjasta _COMMA_ puolukasta ja karviaismarjasta"
+               l_par="erit. mustikasta, variksenmarjasta, puolukasta ja karviaismarjasta"
                wf="njiäpcum">njiäpcuđ</t>
          </tg>
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="mehukkaaksi puolukasta _COMMA_ mustikasta _COMMA_ juolukasta ja variksenmarjasta"
+               l_par="mehukkaaksi puolukasta, mustikasta, juolukasta ja variksenmarjasta"
                wf="sáppoo">sáppuđ</t>
          </tg>
       </mg>
@@ -33432,7 +33432,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="palaa pohjaan _COMMA_ hiiltyä" wf="skeerčâg">skerčâgiđ</t>
+            <t pos="V" l_par="palaa pohjaan, hiiltyä" wf="skeerčâg">skerčâgiđ</t>
          </tg>
       </mg>
    </e>
@@ -33518,13 +33518,13 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="nopeasti _COMMA_ lähteä kävelemään">väzziliđ</t>
+            <t pos="V" l_par="nopeasti, lähteä kävelemään">väzziliđ</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="nopeasti ja lyhyen matkaa _COMMA_ lähteä kävelemään"
+               l_par="nopeasti ja lyhyen matkaa, lähteä kävelemään"
                wf="väzzilistám">väzzilistiđ</t>
          </tg>
       </mg>
@@ -33546,7 +33546,7 @@ For the full license text, see the link above.
       <mg id="7">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="hoitaa _COMMA_ parantaa kävelykuntoiseksi"
+               l_par="hoitaa, parantaa kävelykuntoiseksi"
                wf="vázálditám">vázáldittiđ</t>
          </tg>
       </mg>
@@ -33578,7 +33578,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="esim. laudasta _COMMA_ pöydästä _COMMA_ kirjan kannesta"
+               l_par="esim. laudasta, pöydästä, kirjan kannesta"
                wf="koobbâg">kobâgiđ</t>
          </tg>
       </mg>
@@ -33611,7 +33611,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="sydämistyneesti _COMMA_ loukkaantuneesti">váimuskâddâđ</t>
+            <t pos="V" l_par="sydämistyneesti, loukkaantuneesti">váimuskâddâđ</t>
          </tg>
       </mg>
       <mg id="6">
@@ -33631,7 +33631,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="esim. vaatetta _COMMA_ alkoholia" wf="anam">anneeđ</t>
+            <t pos="V" l_par="esim. vaatetta, alkoholia" wf="anam">anneeđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -33647,7 +33647,7 @@ For the full license text, see the link above.
       <mg id="5">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="tulla käytetyksi esim. vaatteesta _COMMA_ alkoholista tms."
+               l_par="tulla käytetyksi esim. vaatteesta, alkoholista tms."
                wf="onnuum annoo">onnuđ</t>
          </tg>
       </mg>
@@ -33953,7 +33953,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="hupenevasta _COMMA_ ei palaudu takaisin"
+               l_par="hupenevasta, ei palaudu takaisin"
                wf="lovniim luávnee">lovniđ</t>
          </tg>
       </mg>
@@ -33982,7 +33982,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="erit. yksittäisistä aalloista _COMMA_ lyödä rantaan"
+               l_par="erit. yksittäisistä aalloista, lyödä rantaan"
                wf="sijgâd">sijgâdiđ</t>
          </tg>
       </mg>
@@ -34022,7 +34022,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kaatua _COMMA_ kompastua" wf="juurâm joRá">jurrâđ</t>
+            <t pos="V" l_par="kaatua, kompastua" wf="juurâm joRá">jurrâđ</t>
             <t pos="V" wf="vieggâs">vieggâsiđ</t>
          </tg>
       </mg>
@@ -34059,7 +34059,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="laskea lukumäärää _COMMA_ lukea" wf="luáštám">lyeštiđ</t>
+            <t pos="V" l_par="laskea lukumäärää, lukea" wf="luáštám">lyeštiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -34076,7 +34076,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="mäkeä pulkalla _COMMA_ suksilla tms." wf="čierâst">čierâstiđ</t>
+            <t pos="V" l_par="mäkeä pulkalla, suksilla tms." wf="čierâst">čierâstiđ</t>
             <t pos="V" wf="čierâstâlâm">čierâstâllâđ</t>
          </tg>
       </mg>
@@ -34097,7 +34097,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="alas _COMMA_ ei lennosta" wf="njeejâm">njeeijâđ</t>
+            <t pos="V" l_par="alas, ei lennosta" wf="njeejâm">njeeijâđ</t>
             <t pos="V" wf="njiäjám njiäJá">njeeijiđ</t>
             <t pos="V" wf="luáštádâđâm">luáštádâttâđ</t>
          </tg>
@@ -34180,7 +34180,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="jäädä laukeamatta _COMMA_ aseesta" wf="časkeet">časkettiđ</t>
+            <t pos="V" l_par="jäädä laukeamatta, aseesta" wf="časkeet">časkettiđ</t>
          </tg>
       </mg>
    </e>
@@ -34195,7 +34195,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tehdä _COMMA_ tulla suojasää" wf="njábbá njaabij">njäbbiđ</t>
+            <t pos="V" l_par="tehdä, tulla suojasää" wf="njábbá njaabij">njäbbiđ</t>
          </tg>
       </mg>
    </e>
@@ -34210,7 +34210,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="saada aikaan _COMMA_ aiheuttaa" wf="toovvât">tovâttiđ</t>
+            <t pos="V" l_par="saada aikaan, aiheuttaa" wf="toovvât">tovâttiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -34236,7 +34236,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="jonossa _COMMA_ poroista" wf="ruvgáám">ruvgáđ</t>
+            <t pos="V" l_par="jonossa, poroista" wf="ruvgáám">ruvgáđ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -34303,13 +34303,13 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="kieliä _COMMA_ paljastaa salaisuus"
+               l_par="kieliä, paljastaa salaisuus"
                wf="čulliim čollee">čulliđ</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kannella _COMMA_ ilmiantaa">kuoddâliđ</t>
+            <t pos="V" l_par="kannella, ilmiantaa">kuoddâliđ</t>
          </tg>
       </mg>
    </e>
@@ -34346,7 +34346,7 @@ For the full license text, see the link above.
       <mg id="6">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="pieneksi t. ohuiksi paloiksi _COMMA_ silputa"
+               l_par="pieneksi t. ohuiksi paloiksi, silputa"
                wf="caavâst">cavâstiđ</t>
          </tg>
       </mg>
@@ -34362,7 +34362,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="9">
          <tg xml:lang="smn">
-            <t pos="V" l_par="karvaa t. villaa _COMMA_ keritä">peskidiđ</t>
+            <t pos="V" l_par="karvaa t. villaa, keritä">peskidiđ</t>
          </tg>
       </mg>
       <mg id="10">
@@ -34401,7 +34401,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="jk kanssa _COMMA_ kisailla erit. lapsista"
+               l_par="jk kanssa, kisailla erit. lapsista"
                wf="kiškodât">kiškodâttâđ</t>
          </tg>
       </mg>
@@ -34417,7 +34417,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="vedellä _COMMA_ läträtä" wf="stuljiim stuljee">stuljiđ</t>
+            <t pos="V" l_par="vedellä, läträtä" wf="stuljiim stuljee">stuljiđ</t>
          </tg>
       </mg>
    </e>
@@ -34537,12 +34537,12 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="heiniä _COMMA_ olkia tms. kuivumaan" wf="liävum">liävvuđ</t>
+            <t pos="V" l_par="heiniä, olkia tms. kuivumaan" wf="liävum">liävvuđ</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="Adv" l_par="levitettynä kuivumaan heinistä _COMMA_ oljista tms.">liävvud</t>
+            <t pos="Adv" l_par="levitettynä kuivumaan heinistä, oljista tms.">liävvud</t>
          </tg>
       </mg>
    </e>
@@ -34585,7 +34585,7 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="harottaa esim. sormensa _COMMA_ kissasta paljastaa kyntensä"
+               l_par="harottaa esim. sormensa, kissasta paljastaa kyntensä"
                wf="harriim härree">harriđ</t>
          </tg>
       </mg>
@@ -34611,7 +34611,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="9">
          <tg xml:lang="smn">
-            <t pos="V" l_par="öljyä _COMMA_ voidella" wf="vuoidâm">vuoidâđ</t>
+            <t pos="V" l_par="öljyä, voidella" wf="vuoidâm">vuoidâđ</t>
          </tg>
       </mg>
    </e>
@@ -34634,13 +34634,13 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tuhria _COMMA_ töhriä" wf="páđám pááĐá">pääđđiđ</t>
+            <t pos="V" l_par="tuhria, töhriä" wf="páđám pááĐá">pääđđiđ</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="olla siivoton _COMMA_ sotkea siivottomaksi"
+               l_par="olla siivoton, sotkea siivottomaksi"
                wf="nuáskud">nuáskudiđ</t>
             <t pos="V" wf="nuoskuš">nuoskušiđ</t>
          </tg>
@@ -34764,7 +34764,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="esim. hammas _COMMA_ pöydänjalka tms." wf="lipom">lippođ</t>
+            <t pos="V" l_par="esim. hammas, pöydänjalka tms." wf="lipom">lippođ</t>
          </tg>
       </mg>
    </e>
@@ -34779,7 +34779,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="olla liikkeellä _COMMA_ kuljeskella" wf="juškám">juškeđ</t>
+            <t pos="V" l_par="olla liikkeellä, kuljeskella" wf="juškám">juškeđ</t>
          </tg>
       </mg>
    </e>
@@ -34799,7 +34799,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="mieltä _COMMA_ koskettaa" wf="liihât">lihâttiđ</t>
+            <t pos="V" l_par="mieltä, koskettaa" wf="liihât">lihâttiđ</t>
             <t pos="V" wf="čuácá">čyecciđ</t>
          </tg>
       </mg>
@@ -34968,13 +34968,13 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="esim. puuastia kuumassa vedessä _COMMA_ jotta tulisi tiiviiksi turpoamalla"
+               l_par="esim. puuastia kuumassa vedessä, jotta tulisi tiiviiksi turpoamalla"
                wf="havduum hávdoo">havduđ</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="karvattomaksi _COMMA_ antaa nivottua" wf="navvaal">navaliđ</t>
+            <t pos="V" l_par="karvattomaksi, antaa nivottua" wf="navvaal">navaliđ</t>
          </tg>
       </mg>
    </e>
@@ -34991,7 +34991,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="jotain joka imee vettä _COMMA_ esim. vaatteita"
+               l_par="jotain joka imee vettä, esim. vaatteita"
                wf="laanâm lááNá">laannâđ</t>
          </tg>
       </mg>
@@ -35002,13 +35002,13 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="karvattomaksi _COMMA_ nivottaa" wf="naaveeld">naveldiđ</t>
+            <t pos="V" l_par="karvattomaksi, nivottaa" wf="naaveeld">naveldiđ</t>
          </tg>
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="esim. puuastiaa kuumassa vedessä _COMMA_ jotta tulisi tiiviiksi turpoamalla"
+               l_par="esim. puuastiaa kuumassa vedessä, jotta tulisi tiiviiksi turpoamalla"
                wf="havduum hávdoo">havduđ</t>
          </tg>
       </mg>
@@ -35097,7 +35097,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="purosta _COMMA_ vesi katolta tms."
+               l_par="purosta, vesi katolta tms."
                t_tld="~ šaridiđ šaarid"
                wf="šaarijd">šarijdiđ</t>
          </tg>
@@ -35146,17 +35146,17 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kovasti _COMMA_ ilmestyä suurin määrin" wf="looskâm">loskâđ</t>
+            <t pos="V" l_par="kovasti, ilmestyä suurin määrin" wf="looskâm">loskâđ</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="hyvin _COMMA_ olla hedelmällinen" wf="šoovvât">šovâttiđ</t>
+            <t pos="V" l_par="hyvin, olla hedelmällinen" wf="šoovvât">šovâttiđ</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="erit. poroelosta _COMMA_ sietä" wf="šooHân">šohâniđ</t>
+            <t pos="V" l_par="erit. poroelosta, sietä" wf="šooHân">šohâniđ</t>
          </tg>
       </mg>
    </e>
@@ -35425,12 +35425,12 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="aalloista _COMMA_ lyödä rantaa" wf="šluákká">šluákkiđ</t>
+            <t pos="V" l_par="aalloista, lyödä rantaa" wf="šluákká">šluákkiđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="räiskiä vettä _COMMA_ loiskuttaa" wf="stuuJâm">stuuččâđ</t>
+            <t pos="V" l_par="räiskiä vettä, loiskuttaa" wf="stuuJâm">stuuččâđ</t>
             <t pos="V" wf="stulčám">stulččeđ</t>
             <t pos="V" wf="šoolâm šaLa _FT_ šuáLá">šoollâđ</t>
          </tg>
@@ -35639,7 +35639,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="ottaa nokkiinsa _COMMA_ sydämistyä"
+               l_par="ottaa nokkiinsa, sydämistyä"
                wf="pahaduum pahaduVá">pahaduđ</t>
             <t pos="V" wf="muáráttuum muáráttuVá">muáráttuđ</t>
             <t pos="V" wf="njuNáduum njuNáduVá">njunáduđ</t>
@@ -35676,7 +35676,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="nuljahtaa _COMMA_ päästä luiskahtamaan"
+               l_par="nuljahtaa, päästä luiskahtamaan"
                t_tld="~ njulpettiđ njulppeet"
                wf="njalppeet">njalpettiđ</t>
          </tg>
@@ -35688,7 +35688,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="paikaltaan esim. rakennuksen nurkka _COMMA_ raaja tms.">vičálistiđ</t>
+            <t pos="V" l_par="paikaltaan esim. rakennuksen nurkka, raaja tms.">vičálistiđ</t>
             <t pos="V">velčittiđ</t>
             <t pos="V" wf="viälččát">viälčáttiđ</t>
          </tg>
@@ -35701,7 +35701,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="nuljauttaa _COMMA_ päästää luiskahtamaan"
+               l_par="nuljauttaa, päästää luiskahtamaan"
                wf="njalppeet">njalpettiđ</t>
             <t pos="V" wf="njulppeet">njulpettiđ</t>
          </tg>
@@ -35733,7 +35733,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kaupasta _COMMA_ käydä kaupaksi" wf="jođám">jotteeđ</t>
+            <t pos="V" l_par="kaupasta, käydä kaupaksi" wf="jođám">jotteeđ</t>
          </tg>
       </mg>
       <mg id="5">
@@ -35820,7 +35820,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="vaihtaa halssin kiinnitystä laidasta toiseen _COMMA_ jotta vene vaihtaa suuntaa"
+               l_par="vaihtaa halssin kiinnitystä laidasta toiseen, jotta vene vaihtaa suuntaa"
                wf="halssiim hälssee">halssiđ</t>
          </tg>
       </mg>
@@ -35839,7 +35839,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="uskoa _COMMA_ olettaa _COMMA_ ajatella" wf="jurdám">jurdeđ</t>
+            <t pos="V" l_par="uskoa, olettaa, ajatella" wf="jurdám">jurdeđ</t>
             <t pos="V" wf="oskom">oskođ</t>
             <t pos="V" wf="vaarâm vááRá">vaarrâđ</t>
          </tg>
@@ -35857,7 +35857,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="lopettaa lypsäminen _COMMA_ panna umpeen lehmä t. porovaadin"
+               l_par="lopettaa lypsäminen, panna umpeen lehmä t. porovaadin"
                t_tld="~ suskâdiđ">cuskâdiđ</t>
          </tg>
       </mg>
@@ -35894,7 +35894,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
-            <t pos="V" l_par="sivaltaa _COMMA_ huitaista">faškâstiđ</t>
+            <t pos="V" l_par="sivaltaa, huitaista">faškâstiđ</t>
             <t pos="V">vuođgâliđ</t>
          </tg>
       </mg>
@@ -35916,7 +35916,7 @@ For the full license text, see the link above.
       <mg id="10">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="jk ruumiinosa jhk _COMMA_ satuttaa itsensä"
+               l_par="jk ruumiinosa jhk, satuttaa itsensä"
                wf="nooigâm">noigâđ</t>
          </tg>
       </mg>
@@ -35933,12 +35933,12 @@ For the full license text, see the link above.
       </mg>
       <mg id="13">
          <tg xml:lang="smn">
-            <t pos="V" l_par="useasti _COMMA_ jyskyttää sydämestä" wf="jalham">jalkkeđ</t>
+            <t pos="V" l_par="useasti, jyskyttää sydämestä" wf="jalham">jalkkeđ</t>
          </tg>
       </mg>
       <mg id="14">
          <tg xml:lang="smn">
-            <t pos="V" l_par="oveen _COMMA_ kolkuttaa" wf="skolkkâl">skolkkâliđ</t>
+            <t pos="V" l_par="oveen, kolkuttaa" wf="skolkkâl">skolkkâliđ</t>
          </tg>
       </mg>
       <mg id="15">
@@ -35989,7 +35989,7 @@ For the full license text, see the link above.
       <mg id="24">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="tulla _COMMA_ joutua nyrkillä lyödyksi"
+               l_par="tulla, joutua nyrkillä lyödyksi"
                wf="čurmâttâđâm">čurmâttâttâđ</t>
          </tg>
       </mg>
@@ -36002,13 +36002,13 @@ For the full license text, see the link above.
       <mg id="26">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="joutua _COMMA_ tulla pieksetyksi t. hakatuksi"
+               l_par="joutua, tulla pieksetyksi t. hakatuksi"
                wf="huškottâđâm">huškottâttâđ</t>
          </tg>
       </mg>
       <mg id="27">
          <tg xml:lang="smn">
-            <t pos="V" l_par="hakattaa _COMMA_ antaa piestäväksi" wf="huškoot">huškottiđ</t>
+            <t pos="V" l_par="hakattaa, antaa piestäväksi" wf="huškoot">huškottiđ</t>
          </tg>
       </mg>
    </e>
@@ -36035,7 +36035,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="rantaa _COMMA_ tulla matalaan veteen" wf="riddonâm">riddoniđ</t>
+            <t pos="V" l_par="rantaa, tulla matalaan veteen" wf="riddonâm">riddoniđ</t>
          </tg>
       </mg>
    </e>
@@ -36066,7 +36066,7 @@ For the full license text, see the link above.
       <mg id="5">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="irrota _COMMA_ karvasta _COMMA_ nahasta tms."
+               l_par="irrota, karvasta, nahasta tms."
                wf="njallaan">njalaniđ</t>
          </tg>
       </mg>
@@ -36227,7 +36227,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="esim. ruuvista _COMMA_ langasta t. siimasta _COMMA_ joka purkautuu kerältä"
+               l_par="esim. ruuvista, langasta t. siimasta, joka purkautuu kerältä"
                wf="nuollâs">nuolâsiđ</t>
             <t pos="V" wf="nuálloo">nuolluđ</t>
             <t pos="V" wf="nuállus">nuálusiđ</t>
@@ -36260,7 +36260,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tavata _COMMA_ osua kohdalle" wf="teeivâm tiäivá">teivâđ</t>
+            <t pos="V" l_par="tavata, osua kohdalle" wf="teeivâm tiäivá">teivâđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -36316,7 +36316,7 @@ For the full license text, see the link above.
       <mg id="7">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="panna maata _COMMA_ mennä makuulle t. nukkumaan"
+               l_par="panna maata, mennä makuulle t. nukkumaan"
                wf="lennjist">lennjiistiđ</t>
             <t pos="V" wf="viällán">viälániđ</t>
          </tg>
@@ -36349,7 +36349,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="mädäntyä _COMMA_ lahota" wf="mieskâm miäská">mieskâđ</t>
+            <t pos="V" l_par="mädäntyä, lahota" wf="mieskâm miäská">mieskâđ</t>
          </tg>
       </mg>
    </e>
@@ -36398,7 +36398,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="olla hyvää _COMMA_ tehdä kauppansa ruoasta"
+               l_par="olla hyvää, tehdä kauppansa ruoasta"
                wf="njadda">njaddeđ</t>
             <t pos="V" wf="njäävhist">njävhistiđ</t>
          </tg>
@@ -36433,7 +36433,7 @@ For the full license text, see the link above.
       <mg id="7">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="sokeriselta _COMMA_ makealta"
+               l_par="sokeriselta, makealta"
                syn_dash="-njadam -njadda">sukkârnjaddeđ</t>
          </tg>
       </mg>
@@ -36482,14 +36482,14 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="aiheuttaa masentumista ihminen _COMMA_ asia t. tekeminen"
+               l_par="aiheuttaa masentumista ihminen, asia t. tekeminen"
                wf="šlundod">šlundodiđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="saada toinen masentumaan _COMMA_ nöyryyttää"
+               l_par="saada toinen masentumaan, nöyryyttää"
                wf="njuorâd">njuorâdiđ</t>
          </tg>
       </mg>
@@ -36526,7 +36526,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="koppelon ääntä _COMMA_ kotkottaa" wf="ookkât">okâttiđ</t>
+            <t pos="V" l_par="koppelon ääntä, kotkottaa" wf="ookkât">okâttiđ</t>
          </tg>
       </mg>
    </e>
@@ -36718,18 +36718,18 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="vähäksi aikaa jhk _COMMA_ nopeasti jnnek"
+               l_par="vähäksi aikaa jhk, nopeasti jnnek"
                wf="moonnâl">monâliđ</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="mennä menojaan _COMMA_ tiehensä" wf="naalgâm nálgá">nalgâđ</t>
+            <t pos="V" l_par="mennä menojaan, tiehensä" wf="naalgâm nálgá">nalgâđ</t>
          </tg>
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="nopeasti _COMMA_ m. ajasta" wf="hurgeet">hurgettiđ</t>
+            <t pos="V" l_par="nopeasti, m. ajasta" wf="hurgeet">hurgettiđ</t>
          </tg>
       </mg>
       <mg id="6">
@@ -36755,7 +36755,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="tehdä _COMMA_ laittaa merkki t. merkitä muistiin"
+               l_par="tehdä, laittaa merkki t. merkitä muistiin"
                wf="merkkiim merkkee">merkkiđ</t>
             <t pos="V" wf="meerhâ">toohâđ</t>
          </tg>
@@ -36763,7 +36763,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="kynällä _COMMA_ hiilellä _COMMA_ liidulla tms."
+               l_par="kynällä, hiilellä, liidulla tms."
                wf="saargâm">sargâđ</t>
          </tg>
       </mg>
@@ -36964,7 +36964,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="hämärästi _COMMA_ aavistella" wf="kuomâd">kuomâdiđ</t>
+            <t pos="V" l_par="hämärästi, aavistella" wf="kuomâd">kuomâdiđ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -36985,7 +36985,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kertoa muistoja _COMMA_ tarinoita tms." wf="muštâl">muštâliđ</t>
+            <t pos="V" l_par="kertoa muistoja, tarinoita tms." wf="muštâl">muštâliđ</t>
          </tg>
       </mg>
    </e>
@@ -37185,7 +37185,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="kasvavasta poronsarvesta _COMMA_ huonosti merkitystä korvasta"
+               l_par="kasvavasta poronsarvesta, huonosti merkitystä korvasta"
                wf="muájum">muáijuđ</t>
          </tg>
       </mg>
@@ -37218,7 +37218,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="höpöttää _COMMA_ puhua kieltä jota kuulija ei ymmärrä"
+               l_par="höpöttää, puhua kieltä jota kuulija ei ymmärrä"
                wf="pomppeest">pompestiđ</t>
          </tg>
       </mg>
@@ -37241,7 +37241,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="vääntää mutkalle _COMMA_ mutkistaa"
+               l_par="vääntää mutkalle, mutkistaa"
                wf="muálkkilutám">muálkkiluttiđ</t>
          </tg>
       </mg>
@@ -37292,7 +37292,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="värittömäksi _COMMA_ menettää värinsä"
+               l_par="värittömäksi, menettää värinsä"
                wf="ivnettuVá">ivnettuđ</t>
          </tg>
       </mg>
@@ -37310,7 +37310,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="vihainen sonni _COMMA_ porohirvas _COMMA_ hirvisonni"
+               l_par="vihainen sonni, porohirvas, hirvisonni"
                wf="muáLá">muollâđ</t>
          </tg>
       </mg>
@@ -37357,14 +37357,14 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="toisten puhetta _COMMA_ olla samaa mieltä"
+               l_par="toisten puhetta, olla samaa mieltä"
                wf="täässid">täsidiđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="A"
-               l_par="istua kauniisti _COMMA_ vaatteesta"
+               l_par="istua kauniisti, vaatteesta"
                attr="# lonjedis">lonnjeed</t>
          </tg>
       </mg>
@@ -37385,7 +37385,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="eloperäisestä _COMMA_ maatua" wf="mieskâm miäská">mieskâđ</t>
+            <t pos="V" l_par="eloperäisestä, maatua" wf="mieskâm miäská">mieskâđ</t>
          </tg>
       </mg>
    </e>
@@ -37403,7 +37403,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="nalkuttaa _COMMA_ valittaa jstak" wf="láittádâđâm">láittádâttâđ</t>
+            <t pos="V" l_par="nalkuttaa, valittaa jstak" wf="láittádâđâm">láittádâttâđ</t>
          </tg>
       </mg>
    </e>
@@ -37534,7 +37534,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="naksuttaa _COMMA_ tikittää" wf="čikkát">čikkááttiđ</t>
+            <t pos="V" l_par="naksuttaa, tikittää" wf="čikkát">čikkááttiđ</t>
             <t pos="V" wf="cuákká">cuákkiđ</t>
             <t pos="V" wf="cuálhám">cuálkkiđ</t>
          </tg>
@@ -37557,7 +37557,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="lumesta _COMMA_ saranoista tms." wf="skiičijd">skičijdiđ</t>
+            <t pos="V" l_par="lumesta, saranoista tms." wf="skiičijd">skičijdiđ</t>
             <t pos="V" wf="kicá">kiiccâđ</t>
             <t pos="V" wf="kicá">kicceeđ</t>
             <t pos="V" wf="kiizijd">kizijdiđ</t>
@@ -37566,7 +37566,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="saranasta _COMMA_ pöydästä _COMMA_ sängystä"
+               l_par="saranasta, pöydästä, sängystä"
                wf="kiská">kiskeđ</t>
          </tg>
       </mg>
@@ -37655,7 +37655,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="neuloa _COMMA_ kuroa verkonreikä umpeen uusia silmiä luomatta"
+               l_par="neuloa, kuroa verkonreikä umpeen uusia silmiä luomatta"
                wf="miäđám">meeđđiđ</t>
          </tg>
       </mg>
@@ -37672,7 +37672,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="osoittaa _COMMA_ ohjata jhk" wf="povvâd">povvâdiđ</t>
+            <t pos="V" l_par="osoittaa, ohjata jhk" wf="povvâd">povvâdiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -37702,7 +37702,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kiivaaseen sävyyn _COMMA_ kinastella" wf="sánádâlâm">sánádâllâđ</t>
+            <t pos="V" l_par="kiivaaseen sävyyn, kinastella" wf="sánádâlâm">sánádâllâđ</t>
          </tg>
       </mg>
    </e>
@@ -37733,7 +37733,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="turistaa nenäänsä _COMMA_ puhallella nenän kautta"
+               l_par="turistaa nenäänsä, puhallella nenän kautta"
                wf="šnurom">šnurroođ</t>
          </tg>
       </mg>
@@ -37760,7 +37760,7 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="tehdää heinää _COMMA_ heinätöitä"
+               l_par="tehdää heinää, heinätöitä"
                wf="laijiim läijee">laijiđ</t>
          </tg>
       </mg>
@@ -37822,7 +37822,7 @@ For the full license text, see the link above.
       <mg id="6">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="tulla nimitetyksi _COMMA_ kutsutuksi jksk"
+               l_par="tulla nimitetyksi, kutsutuksi jksk"
                wf="nobduum nabdoo">nobduđ</t>
          </tg>
       </mg>
@@ -37856,7 +37856,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="raskaana olevasta naisesta _COMMA_ jolla ei ole ruokahalua esim. pahoinvoinnin takia"
+               l_par="raskaana olevasta naisesta, jolla ei ole ruokahalua esim. pahoinvoinnin takia"
                wf="vyesvist">vyesvistiđ</t>
             <t pos="V" wf="vyesvistmin">leđe</t>
          </tg>
@@ -37995,7 +37995,7 @@ For the full license text, see the link above.
       <mg id="13">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="nostaa t. liikuttaa muulla tavalla jtak niin raskasta _COMMA_ ettei melkein kykene siihen"
+               l_par="nostaa t. liikuttaa muulla tavalla jtak niin raskasta, ettei melkein kykene siihen"
                wf="pintteed">pintediđ</t>
          </tg>
       </mg>
@@ -38029,7 +38029,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="erit. sääntöjä _COMMA_ ohjeita tms."
+               l_par="erit. sääntöjä, ohjeita tms."
                wf="paittuum páittoo">paittuđ</t>
          </tg>
       </mg>
@@ -38183,7 +38183,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="vähäksi aikaa _COMMA_ torkahtaa" wf="nohádistám">nohádistiđ</t>
+            <t pos="V" l_par="vähäksi aikaa, torkahtaa" wf="nohádistám">nohádistiđ</t>
          </tg>
       </mg>
    </e>
@@ -38221,7 +38221,7 @@ For the full license text, see the link above.
       <mg id="6">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="panna maata _COMMA_ mennä makuulle t. nukkumaan"
+               l_par="panna maata, mennä makuulle t. nukkumaan"
                wf="lennjist">lennjiistiđ</t>
             <t pos="V" wf="viällán">viälániđ</t>
          </tg>
@@ -38291,7 +38291,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="torkkua _COMMA_ nukahdella" wf="nuuhâm nokká">nukkâđ</t>
+            <t pos="V" l_par="torkkua, nukahdella" wf="nuuhâm nokká">nukkâđ</t>
          </tg>
       </mg>
    </e>
@@ -38424,7 +38424,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="olla tiedossa _COMMA_ näkyvillä"
+               l_par="olla tiedossa, näkyvillä"
                wf="tiettuum tiättoo">tiettuđ</t>
          </tg>
       </mg>
@@ -38514,7 +38514,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="napostella ruokaa _COMMA_ nappailla jtak"
+               l_par="napostella ruokaa, nappailla jtak"
                wf="njiskom">njiskođ</t>
          </tg>
       </mg>
@@ -38570,7 +38570,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="hoikentaa _COMMA_ kaventaa pitkulaista" wf="seeggid">segidiđ</t>
+            <t pos="V" l_par="hoikentaa, kaventaa pitkulaista" wf="seeggid">segidiđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -38600,7 +38600,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="pitkulaisista esineistä _COMMA_ hoikentua ihmisestä"
+               l_par="pitkulaisista esineistä, hoikentua ihmisestä"
                wf="siägum">siägguđ</t>
             <t pos="V">siäggániđ</t>
          </tg>
@@ -38608,7 +38608,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="nesteestä _SEMIC_ karvoituksesta _SEMIC_ havupuun neulasistosta _COMMA_ harsuuntua"
+               l_par="nesteestä _SEMIC_ karvoituksesta _SEMIC_ havupuun neulasistosta, harsuuntua"
                wf="njáárbum">njárbuđ</t>
             <t pos="V" wf="njáárbud">njárbudiđ</t>
          </tg>
@@ -38631,7 +38631,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="neuvoa _COMMA_ opastaa"
+               l_par="neuvoa, opastaa"
                t_tld="~raađđiđ rađđiim räđđee">rađđiđ</t>
             <t pos="V" wf="uáppist">uápistiđ</t>
          </tg>
@@ -38729,7 +38729,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="m. asua _COMMA_ oleskella" wf="orom oRo">orroođ</t>
+            <t pos="V" l_par="m. asua, oleskella" wf="orom oRo">orroođ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -38814,7 +38814,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="esim. turisteja _COMMA_ museovieraita" wf="uáppist">uápistiđ</t>
+            <t pos="V" l_par="esim. turisteja, museovieraita" wf="uáppist">uápistiđ</t>
          </tg>
       </mg>
    </e>
@@ -38937,7 +38937,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="näyttää _COMMA_ esitellä" wf="čááitám">čäittiđ</t>
+            <t pos="V" l_par="näyttää, esitellä" wf="čááitám">čäittiđ</t>
          </tg>
       </mg>
    </e>
@@ -38953,7 +38953,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="yrittää saada ostetettavaksi _COMMA_ yrittää ostaa _COMMA_ ostella">ostâliđ</t>
+               l_par="yrittää saada ostetettavaksi, yrittää ostaa, ostella">ostâliđ</t>
          </tg>
       </mg>
    </e>
@@ -38963,12 +38963,12 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="esim. maaliin _COMMA_ m. sattumalta" wf="teivid">teividiđ</t>
+            <t pos="V" l_par="esim. maaliin, m. sattumalta" wf="teivid">teividiđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kohdalle _COMMA_ paikalle" wf="teeivâm tiäivá">teivâđ</t>
+            <t pos="V" l_par="kohdalle, paikalle" wf="teeivâm tiäivá">teivâđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -39000,7 +39000,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kisailla _COMMA_ painiskella" wf="muggâr">muggâriđ</t>
+            <t pos="V" l_par="kisailla, painiskella" wf="muggâr">muggâriđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -39035,13 +39035,13 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="luvatta _COMMA_ pihistää" wf="kesijâšâm">kesijâššâđ</t>
+            <t pos="V" l_par="luvatta, pihistää" wf="kesijâšâm">kesijâššâđ</t>
          </tg>
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="kieroudella _COMMA_ kavaluudella"
+               l_par="kieroudella, kavaluudella"
                t_tld="~ käViluššâđ käVilušâm"
                wf="käVilâšâm">kävilâššâđ</t>
          </tg>
@@ -39053,7 +39053,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="8">
          <tg xml:lang="smn">
-            <t pos="V" l_par="nokkiinsa _COMMA_ sydämistyä" wf="pahaduum pahaduVá">pahaduđ</t>
+            <t pos="V" l_par="nokkiinsa, sydämistyä" wf="pahaduum pahaduVá">pahaduđ</t>
             <t pos="V" wf="muáráttuum muáráttuVá">muáráttuđ</t>
             <t pos="V" wf="njuNáduum njuNáduVá">njunáduđ</t>
          </tg>
@@ -39081,7 +39081,7 @@ For the full license text, see the link above.
       <mg id="13">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="tulla otetuksi _COMMA_ valituksi"
+               l_par="tulla otetuksi, valituksi"
                wf="valduum váldoo">valduđ</t>
          </tg>
       </mg>
@@ -39128,7 +39128,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="jauhoista _COMMA_ ryyneistä tms." wf="kahanuVá">kahanuđ</t>
+            <t pos="V" l_par="jauhoista, ryyneistä tms." wf="kahanuVá">kahanuđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -39239,7 +39239,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="matalaksi _COMMA_ piiloutua" wf="loomâm laMa">loommâđ</t>
+            <t pos="V" l_par="matalaksi, piiloutua" wf="loomâm laMa">loommâđ</t>
          </tg>
       </mg>
    </e>
@@ -39261,14 +39261,14 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="lapinkakut _COMMA_ rieskat tms. litteiksi ennen paistamista"
+               l_par="lapinkakut, rieskat tms. litteiksi ennen paistamista"
                wf="tiäbžum">tiäbžuđ</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="kovalla esim. kynnellä t. veitsen lappeella _COMMA_ jotta päässä olevat täinpuremat paranisivat"
+               l_par="kovalla esim. kynnellä t. veitsen lappeella, jotta päässä olevat täinpuremat paranisivat"
                wf="muásum">muáccuđ</t>
          </tg>
       </mg>
@@ -39319,7 +39319,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="iskostua jhk konkr. _COMMA_ upota lumeen t. maahan">cieggâđ</t>
+            <t pos="V" l_par="iskostua jhk konkr., upota lumeen t. maahan">cieggâđ</t>
          </tg>
       </mg>
       <mg id="5">
@@ -39344,7 +39344,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="viskata _COMMA_ heittää" wf="soivâl">soivâliđ</t>
+            <t pos="V" l_par="viskata, heittää" wf="soivâl">soivâliđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -39371,7 +39371,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kättä _COMMA_ kätellä" wf="kieđâ">adeliđ</t>
+            <t pos="V" l_par="kättä, kätellä" wf="kieđâ">adeliđ</t>
          </tg>
       </mg>
    </e>
@@ -39476,7 +39476,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="turvota _COMMA_ ajettua">puttâniđ</t>
+            <t pos="V" l_par="turvota, ajettua">puttâniđ</t>
             <t pos="V" wf="puáhuduum puáhuduVá">puáhuduđ</t>
          </tg>
       </mg>
@@ -39508,7 +39508,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="pyöreistä esineistä _COMMA_ ihmisistä _COMMA_ lumesta"
+               l_par="pyöreistä esineistä, ihmisistä, lumesta"
                wf="kasom">kassoođ</t>
          </tg>
       </mg>
@@ -39519,7 +39519,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="pohjaan _COMMA_ kärventyä" wf="puálám puáLá">pyelliđ</t>
+            <t pos="V" l_par="pohjaan, kärventyä" wf="puálám puáLá">pyelliđ</t>
             <t pos="V" wf="skeerčâg">skerčâgiđ</t>
          </tg>
       </mg>
@@ -39717,7 +39717,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="7">
          <tg xml:lang="smn">
-            <t pos="V" l_par="ruho _COMMA_ raajoa" wf="ruovjiim ryevjee">ruovjiđ</t>
+            <t pos="V" l_par="ruho, raajoa" wf="ruovjiim ryevjee">ruovjiđ</t>
          </tg>
       </mg>
       <mg id="8">
@@ -39875,7 +39875,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tulla paremmaksi _COMMA_ tervehtyä ym." wf="puárrán">puárániđ</t>
+            <t pos="V" l_par="tulla paremmaksi, tervehtyä ym." wf="puárrán">puárániđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -39890,7 +39890,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="luusta _COMMA_ haavasta" wf="saVa">savveeđ</t>
+            <t pos="V" l_par="luusta, haavasta" wf="saVa">savveeđ</t>
          </tg>
       </mg>
       <mg id="5">
@@ -40020,7 +40020,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="kenkäheinistä _COMMA_ joita pehmitetty kurikalla"
+               l_par="kenkäheinistä, joita pehmitetty kurikalla"
                wf="caimâšuVá">caimâšuđ</t>
          </tg>
       </mg>
@@ -40129,7 +40129,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="alleen _COMMA_ piiloon" wf="čieVâm čiähá">čiehâđ</t>
+            <t pos="V" l_par="alleen, piiloon" wf="čieVâm čiähá">čiehâđ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -40242,7 +40242,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="pois _COMMA_ karkoittaa" wf="kovŋiim kuávŋee">kovŋiđ</t>
+            <t pos="V" l_par="pois, karkoittaa" wf="kovŋiim kuávŋee">kovŋiđ</t>
          </tg>
       </mg>
    </e>
@@ -40273,7 +40273,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="jtak _COMMA_ ruveta pelkäämään jtak" wf="pááltum">pálttuđ</t>
+            <t pos="V" l_par="jtak, ruveta pelkäämään jtak" wf="pááltum">pálttuđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -40333,7 +40333,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="marjoja _COMMA_ sieniä yms." wf="renskiim renskee">renskiđ</t>
+            <t pos="V" l_par="marjoja, sieniä yms." wf="renskiim renskee">renskiđ</t>
          </tg>
       </mg>
    </e>
@@ -40349,7 +40349,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="saatavia _COMMA_ esim. maksuja _COMMA_ veroja t. velkoja"
+               l_par="saatavia, esim. maksuja, veroja t. velkoja"
                wf="peerâm piäRá">peerrâđ</t>
          </tg>
       </mg>
@@ -40361,7 +40361,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="esim. lupaus _COMMA_ vetäytyä lupauksesta"
+               l_par="esim. lupaus, vetäytyä lupauksesta"
                wf="maasâd">keessiđ</t>
             <t pos="V" r_par="+lok." wf="kiäsáđâđâm">kiäsáđâttâđ</t>
          </tg>
@@ -40447,7 +40447,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="lattia _COMMA_ luututa" wf="sappad">sappadiđ</t>
+            <t pos="V" l_par="lattia, luututa" wf="sappad">sappadiđ</t>
          </tg>
       </mg>
    </e>
@@ -40518,7 +40518,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kiinni _COMMA_ paikoillaan" wf="copciim">copciđ</t>
+            <t pos="V" l_par="kiinni, paikoillaan" wf="copciim">copciđ</t>
             <t pos="V" wf="tolliim tuállee">tolliđ</t>
          </tg>
       </mg>
@@ -40550,7 +40550,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kiinni _COMMA_ paikoillaan" wf="copciim">copciđ</t>
+            <t pos="V" l_par="kiinni, paikoillaan" wf="copciim">copciđ</t>
             <t pos="V" wf="tolliim tuállee">tolliđ</t>
          </tg>
       </mg>
@@ -40583,7 +40583,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="pitää kiinni _COMMA_ paikoillaan" wf="copciim">copciđ</t>
+            <t pos="V" l_par="pitää kiinni, paikoillaan" wf="copciim">copciđ</t>
             <t pos="V" wf="tolliim tuállee">tolliđ</t>
          </tg>
       </mg>
@@ -40615,7 +40615,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="joutua tuulen pieksämäksi esim. vaatteet _COMMA_ verkot">hovkkâniđ</t>
+            <t pos="V" l_par="joutua tuulen pieksämäksi esim. vaatteet, verkot">hovkkâniđ</t>
          </tg>
       </mg>
    </e>
@@ -40656,7 +40656,7 @@ For the full license text, see the link above.
       <mg id="5">
          <tg xml:lang="smn">
             <t pos="N"
-               l_par="jatkuvasti piereskelevä ihminen _COMMA_ haukkumasana"
+               l_par="jatkuvasti piereskelevä ihminen, haukkumasana"
                syn_dash="-seehâ">puoskâsekkâ</t>
          </tg>
       </mg>
@@ -40736,7 +40736,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="merkki kynällä _COMMA_ hiilellä _COMMA_ liidulla tms."
+               l_par="merkki kynällä, hiilellä, liidulla tms."
                wf="saargâm">sargâđ</t>
          </tg>
       </mg>
@@ -40803,14 +40803,14 @@ For the full license text, see the link above.
       <mg id="5">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="maistua pilaantuneelta _COMMA_ härskiltä"
+               l_par="maistua pilaantuneelta, härskiltä"
                syn_dash="-njadam -njadda">kuástinjaddeđ</t>
          </tg>
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="tulla vanhan ja kirkerän makuiseksi kalasta _COMMA_ lihasta t. rasvasta"
+               l_par="tulla vanhan ja kirkerän makuiseksi kalasta, lihasta t. rasvasta"
                wf="kuostuu">kuástuđ</t>
          </tg>
       </mg>
@@ -40826,7 +40826,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tärvellä _COMMA_ lyödä laimin" wf="kuárrid">kuáridiđ</t>
+            <t pos="V" l_par="tärvellä, lyödä laimin" wf="kuárrid">kuáridiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -40936,7 +40936,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="huolimattomasti _COMMA_ niin että pino uhkaa kaatua"
+               l_par="huolimattomasti, niin että pino uhkaa kaatua"
                wf="pintteed">pintediđ</t>
          </tg>
       </mg>
@@ -40957,7 +40957,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="sänkyyn _COMMA_ housuun" wf="kužâdâđâm">kužâdâttâđ</t>
+            <t pos="V" l_par="sänkyyn, housuun" wf="kužâdâđâm">kužâdâttâđ</t>
          </tg>
       </mg>
    </e>
@@ -40984,7 +40984,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="jllak terävällä _COMMA_ m. esim. hyönteinen"
+               l_par="jllak terävällä, m. esim. hyönteinen"
                wf="čuoggiim čyeggee">čuoggiđ</t>
             <t pos="V" wf="riätá">reettâđ</t>
          </tg>
@@ -41016,7 +41016,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="7">
          <tg xml:lang="smn">
-            <t pos="V" l_par="pujottaa _COMMA_ työntää jnnek" wf="cuugâm">cuggâđ</t>
+            <t pos="V" l_par="pujottaa, työntää jnnek" wf="cuugâm">cuggâđ</t>
          </tg>
       </mg>
       <mg id="8">
@@ -41035,7 +41035,7 @@ For the full license text, see the link above.
       <mg id="10">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="tulla pistetyksi jllak terävällä _COMMA_ m. hyönteisistä"
+               l_par="tulla pistetyksi jllak terävällä, m. hyönteisistä"
                wf="čuáguttâđâm">čuáguttâttâđ</t>
          </tg>
       </mg>
@@ -41070,7 +41070,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="jtak asiaa eri kanteilta _COMMA_ punnita eri vaihtoehtoja"
+               l_par="jtak asiaa eri kanteilta, punnita eri vaihtoehtoja"
                wf="viekkiistâlâm">viekkiistâllâđ</t>
          </tg>
       </mg>
@@ -41094,7 +41094,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="jssak _COMMA_ tehdä mutka _COMMA_ vierailla"
+               l_par="jssak, tehdä mutka, vierailla"
                wf="mokkádistám">mokkádistiđ</t>
             <t pos="V">mukkâsiđ</t>
          </tg>
@@ -41163,7 +41163,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="esim. tiedostoja _COMMA_ pyyhkiä" wf="sihom">sikkođ</t>
+            <t pos="V" l_par="esim. tiedostoja, pyyhkiä" wf="sihom">sikkođ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -41193,7 +41193,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="häipyä _COMMA_ kadota äkkiä" wf="jäävkit">jävkittiđ</t>
+            <t pos="V" l_par="häipyä, kadota äkkiä" wf="jäävkit">jävkittiđ</t>
          </tg>
       </mg>
    </e>
@@ -41214,14 +41214,14 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="hintaa _COMMA_ laskea arvoa tarkoituksellisesti"
+               l_par="hintaa, laskea arvoa tarkoituksellisesti"
                wf="poolgâm puálgá">polgâđ</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="polkea vastaan _COMMA_ vastustaa jaloilla"
+               l_par="polkea vastaan, vastustaa jaloilla"
                wf="čievčâstâđâm čievčâstât">čievčâstâttâđ</t>
          </tg>
       </mg>
@@ -41334,7 +41334,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="potkia vastaan _COMMA_ vastustaa jaloilla"
+               l_par="potkia vastaan, vastustaa jaloilla"
                wf="čievčâstâđâm čievčâstât">čievčâstâttâđ</t>
          </tg>
       </mg>
@@ -41376,7 +41376,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="jtak kevyesti _COMMA_ m. päätään" wf="luVám">luvveđ</t>
+            <t pos="V" l_par="jtak kevyesti, m. päätään" wf="luVám">luvveđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -41447,7 +41447,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="esim. kirja siten _COMMA_ että se avautuu"
+               l_par="esim. kirja siten, että se avautuu"
                wf="ledâgitám">ledâgittiđ</t>
          </tg>
       </mg>
@@ -41474,7 +41474,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="nenän kautta porosta _COMMA_ jolla matoja nenässä"
+               l_par="nenän kautta porosta, jolla matoja nenässä"
                wf="šnuRo">šnurroođ</t>
          </tg>
       </mg>
@@ -41599,7 +41599,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="epäselvästi _COMMA_ sönköttää"
+               l_par="epäselvästi, sönköttää"
                t_tld="~ šumbârdiđ šuumbârd"
                wf="šuumpârd">šumpârdiđ</t>
             <t pos="V" wf="muullârd">mullârdiđ</t>
@@ -41613,7 +41613,7 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="nenään _COMMA_ nasaaliäänellä _COMMA_ honottaen"
+               l_par="nenään, nasaaliäänellä, honottaen"
                wf="njunevuáláást">njunevuálástiđ</t>
          </tg>
       </mg>
@@ -41629,7 +41629,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
-            <t pos="V" l_par="puhua lapsenkieltä _COMMA_ erit. lausua s:t väärin">ucástittiđ</t>
+            <t pos="V" l_par="puhua lapsenkieltä, erit. lausua s:t väärin">ucástittiđ</t>
          </tg>
       </mg>
       <mg id="7">
@@ -41823,7 +41823,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="Adv" l_par="olla pukeissa _COMMA_ riisuutumatta">ubbân</t>
+            <t pos="Adv" l_par="olla pukeissa, riisuutumatta">ubbân</t>
          </tg>
       </mg>
    </e>
@@ -41876,7 +41876,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="4-7-säikeistä _COMMA_ pyöreähköä nyöriä _COMMA_ palmikoida">pärgidiđ</t>
+               l_par="4-7-säikeistä, pyöreähköä nyöriä, palmikoida">pärgidiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -41995,7 +41995,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="osiin _COMMA_ hajottaa" wf="pieđgiim pieđgee">pieđgiđ</t>
+            <t pos="V" l_par="osiin, hajottaa" wf="pieđgiim pieđgee">pieđgiđ</t>
             <t pos="V" wf="račom">raččođ</t>
          </tg>
       </mg>
@@ -42012,7 +42012,7 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="neuletta _COMMA_ kangasta _COMMA_ kudosta _COMMA_ kerää _COMMA_ vyyhtiä tms."
+               l_par="neuletta, kangasta, kudosta, kerää, vyyhtiä tms."
                wf="kargiim kärgee">kargiđ</t>
          </tg>
       </mg>
@@ -42029,13 +42029,13 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="esim. neule _COMMA_ kangas _COMMA_ kudos _COMMA_ kerä tms."
+               l_par="esim. neule, kangas, kudos, kerä tms."
                wf="kárgás">kárgásiđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kudos t. punos _COMMA_ rispaantua">šargijdiđ</t>
+            <t pos="V" l_par="kudos t. punos, rispaantua">šargijdiđ</t>
             <t pos="V">saigâniđ</t>
          </tg>
       </mg>
@@ -42047,7 +42047,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="esim. kerältä langasta _COMMA_ siimasta tms."
+               l_par="esim. kerältä langasta, siimasta tms."
                wf="nuollâs">nuolâsiđ</t>
             <t pos="V" wf="nuálloo">nuolluđ</t>
             <t pos="V" wf="nuállus">nuálusiđ</t>
@@ -42055,7 +42055,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="irrota _COMMA_ avautua solmusta" wf="čuávdás">čuávdásiđ</t>
+            <t pos="V" l_par="irrota, avautua solmusta" wf="čuávdás">čuávdásiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -42065,7 +42065,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tulivuoresta _COMMA_ syöstä laavaa" wf="rusom">russoođ</t>
+            <t pos="V" l_par="tulivuoresta, syöstä laavaa" wf="rusom">russoođ</t>
          </tg>
       </mg>
       <mg id="5">
@@ -42182,7 +42182,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="useita kertoja ja/t. vähän _COMMA_ käyttää puukkoa tappelussa t. muuten"
+               l_par="useita kertoja ja/t. vähän, käyttää puukkoa tappelussa t. muuten"
                wf="nijbástâlâm">nijbástâllâđ</t>
          </tg>
       </mg>
@@ -42213,7 +42213,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="toisen luo _COMMA_ rientää" wf="riännáám">riännáđ</t>
+            <t pos="V" l_par="toisen luo, rientää" wf="riännáám">riännáđ</t>
          </tg>
       </mg>
    </e>
@@ -42245,7 +42245,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="seisomaan _COMMA_ jaloilleen" wf="čuožžit">čuožžiittiđ</t>
+            <t pos="V" l_par="seisomaan, jaloilleen" wf="čuožžit">čuožžiittiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -42334,7 +42334,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="olla pysyvä ote _COMMA_ jalansija tms." wf="cuápcum">cuápcuđ</t>
+            <t pos="V" l_par="olla pysyvä ote, jalansija tms." wf="cuápcum">cuápcuđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -42482,7 +42482,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="pois _COMMA_ pudottaa" wf="riippâst">ripâstiđ</t>
+            <t pos="V" l_par="pois, pudottaa" wf="riippâst">ripâstiđ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -42519,7 +42519,7 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="kalastaa jääverkoilla _COMMA_ jään alla"
+               l_par="kalastaa jääverkoilla, jään alla"
                wf="juoŋâst">juoŋâstiđ</t>
          </tg>
       </mg>
@@ -42530,7 +42530,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
-            <t pos="A" l_par="innokas pyytämään _COMMA_ metsästämään" attr="# -s">pivduu</t>
+            <t pos="A" l_par="innokas pyytämään, metsästämään" attr="# -s">pivduu</t>
          </tg>
       </mg>
       <mg id="7">
@@ -42590,7 +42590,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="esim. palloa savesta _COMMA_ muokata jtak"
+               l_par="esim. palloa savesta, muokata jtak"
                wf="tussiim tussee">tussiđ</t>
          </tg>
       </mg>
@@ -42608,7 +42608,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="jtak _COMMA_ työntää jtak niin että se alkaa vieriä"
+               l_par="jtak, työntää jtak niin että se alkaa vieriä"
                wf="vieRâlitám">vierâlittiđ</t>
          </tg>
       </mg>
@@ -42625,7 +42625,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="jssak _COMMA_ m. kuvannollisesti esim. ihmisestä"
+               l_par="jssak, m. kuvannollisesti esim. ihmisestä"
                wf="juurâd">jurâdiđ</t>
          </tg>
       </mg>
@@ -42708,7 +42708,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="keväällä _COMMA_ ahavoitua" wf="áVáduum áVáduVá">áváduđ</t>
+            <t pos="V" l_par="keväällä, ahavoitua" wf="áVáduum áVáduVá">áváduđ</t>
             <t pos="V" wf="paštuum páštoo">paštuđ</t>
          </tg>
       </mg>
@@ -42744,12 +42744,12 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="avata siteet _COMMA_ köydet tms.">čovdâliđ</t>
+            <t pos="V" l_par="avata siteet, köydet tms.">čovdâliđ</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="siteistä _COMMA_ köysistä tms." wf="čoovdâš">čovdâččiđ</t>
+            <t pos="V" l_par="siteistä, köysistä tms." wf="čoovdâš">čovdâččiđ</t>
          </tg>
       </mg>
    </e>
@@ -42769,17 +42769,17 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="irrottaa köysi _COMMA_ siteet tms. nopeasti">čuávdiliđ</t>
+            <t pos="V" l_par="irrottaa köysi, siteet tms. nopeasti">čuávdiliđ</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="yrittää irrottaa köysi _COMMA_ siteet tms.">čovdâliđ</t>
+            <t pos="V" l_par="yrittää irrottaa köysi, siteet tms.">čovdâliđ</t>
          </tg>
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="synneistä _COMMA_ vapahtaa" wf="piästám">pestiđ</t>
+            <t pos="V" l_par="synneistä, vapahtaa" wf="piästám">pestiđ</t>
          </tg>
       </mg>
       <mg id="6">
@@ -42917,7 +42917,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tärvellä _COMMA_ rikkoa" wf="staajeed">stajediđ</t>
+            <t pos="V" l_par="tärvellä, rikkoa" wf="staajeed">stajediđ</t>
          </tg>
       </mg>
    </e>
@@ -42952,7 +42952,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="itsensä _COMMA_ saada jstak naarmu" wf="saargâst">sargâstiđ</t>
+            <t pos="V" l_par="itsensä, saada jstak naarmu" wf="saargâst">sargâstiđ</t>
             <t pos="V" wf="vooskâst">voskâstiđ</t>
          </tg>
       </mg>
@@ -43117,7 +43117,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="talo _COMMA_ rakennus" wf="huksiim">huksiđ</t>
+            <t pos="V" l_par="talo, rakennus" wf="huksiim">huksiđ</t>
             <t pos="V" wf="rááhtám ráhtá">rähtiđ</t>
          </tg>
       </mg>
@@ -43228,7 +43228,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="saumasta _COMMA_ vaatteesta" wf="rottâs">rottâsiđ</t>
+            <t pos="V" l_par="saumasta, vaatteesta" wf="rottâs">rottâsiđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -43269,7 +43269,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="entistää _COMMA_ entisöidä" wf="oovdišt">ovdištiđ</t>
+            <t pos="V" l_par="entistää, entisöidä" wf="oovdišt">ovdištiđ</t>
          </tg>
       </mg>
    </e>
@@ -43285,7 +43285,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="rientää _COMMA_ pyrkiä toisen luo" wf="riännáám">riännáđ</t>
+            <t pos="V" l_par="rientää, pyrkiä toisen luo" wf="riännáám">riännáđ</t>
          </tg>
       </mg>
    </e>
@@ -43305,17 +43305,17 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tingata _COMMA_ kinata" wf="tigguum">tigguđ</t>
+            <t pos="V" l_par="tingata, kinata" wf="tigguum">tigguđ</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="alkaa riidellä _COMMA_ riitaantua" wf="rijdáásk">rijdáskiđ</t>
+            <t pos="V" l_par="alkaa riidellä, riitaantua" wf="rijdáásk">rijdáskiđ</t>
          </tg>
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="alkaa väitellä _COMMA_ kinata" wf="tiggáásk">tigáskiđ</t>
+            <t pos="V" l_par="alkaa väitellä, kinata" wf="tiggáásk">tigáskiđ</t>
          </tg>
       </mg>
       <mg id="6">
@@ -43417,7 +43417,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="olla tarpeeksi jhk _COMMA_ kestää" wf="pištám">pišteđ</t>
+            <t pos="V" l_par="olla tarpeeksi jhk, kestää" wf="pištám">pišteđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -43428,7 +43428,7 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="yltää _COMMA_ olla esim. tarpeeksi pitkä"
+               l_par="yltää, olla esim. tarpeeksi pitkä"
                wf="keelijd">kelijdiđ</t>
          </tg>
       </mg>
@@ -43455,7 +43455,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="rikastua porohärjissä _COMMA_ saada paljon porohärkiä"
+               l_par="rikastua porohärjissä, saada paljon porohärkiä"
                wf="iärgáduum iärgáduVá">iärgáduđ</t>
          </tg>
       </mg>
@@ -43663,7 +43663,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="juljeta _COMMA_ kehdata" wf="oovit">ooviittiđ</t>
+            <t pos="V" l_par="juljeta, kehdata" wf="oovit">ooviittiđ</t>
          </tg>
       </mg>
       <mg id="5">
@@ -43689,13 +43689,13 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kankaasta tms. _COMMA_ lepattaen">faškârâššâđ</t>
+            <t pos="V" l_par="kankaasta tms., lepattaen">faškârâššâđ</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="raskaasti esim. hiukset silmillä _COMMA_ märät vaatteet _COMMA_ ruoho"
+               l_par="raskaasti esim. hiukset silmillä, märät vaatteet, ruoho"
                wf="soNjo">sonnjoođ</t>
          </tg>
       </mg>
@@ -43803,7 +43803,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="keväällä _COMMA_ ahavoitua" wf="áVáduum áVáduVá">áváduđ</t>
+            <t pos="V" l_par="keväällä, ahavoitua" wf="áVáduum áVáduVá">áváduđ</t>
             <t pos="V" wf="paštuum páštoo">paštuđ</t>
          </tg>
       </mg>
@@ -43877,7 +43877,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kasvoista _COMMA_ ihosta" wf="ruužžâg">ružâgiđ</t>
+            <t pos="V" l_par="kasvoista, ihosta" wf="ruužžâg">ružâgiđ</t>
             <t pos="V" wf="roomnjâg">romnjâgiđ</t>
             <t pos="V" wf="ruámnjiluum ruámnjiluVá">ruámnjiluđ</t>
          </tg>
@@ -43948,7 +43948,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="riekosta _COMMA_ ihmisestä" wf="riäškám riäšká">reškiđ</t>
+            <t pos="V" l_par="riekosta, ihmisestä" wf="riäškám riäšká">reškiđ</t>
          </tg>
       </mg>
    </e>
@@ -43999,7 +43999,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="ketusta _COMMA_ kiusatusta kissasta _COMMA_ lapsesta"
+               l_par="ketusta, kiusatusta kissasta, lapsesta"
                wf="riänjum">riännjuđ</t>
          </tg>
       </mg>
@@ -44042,13 +44042,13 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="esim. tehdyksi _COMMA_ olla saatavilla"
+               l_par="esim. tehdyksi, olla saatavilla"
                wf="finniim finnee">finniđ</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="voida _COMMA_ pystyä tekemään jtak" wf="puáđám">puáttiđ</t>
+            <t pos="V" l_par="voida, pystyä tekemään jtak" wf="puáđám">puáttiđ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -44082,7 +44082,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="V" l_par="erit. jtk">nakkaniđ</t>
             <t pos="V" wf="káárum ij kááru">káárruđ</t>
-            <t pos="V" l_par="tehdä todeksi _COMMA_ panna toimeksi" wf="áimud">áimudiđ</t>
+            <t pos="V" l_par="tehdä todeksi, panna toimeksi" wf="áimud">áimudiđ</t>
          </tg>
       </mg>
       <mg id="10">
@@ -44098,7 +44098,7 @@ For the full license text, see the link above.
       <mg id="12">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="saada alkunsa _COMMA_ sietä _COMMA_ lisääntyä"
+               l_par="saada alkunsa, sietä, lisääntyä"
                wf="šooHân">šohâniđ</t>
          </tg>
       </mg>
@@ -44157,7 +44157,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="sairastua halvaannuttavaan tautiin _COMMA_ saada ampuma porosta"
+               l_par="sairastua halvaannuttavaan tautiin, saada ampuma porosta"
                wf="vuoččuum">vuoččuđ</t>
          </tg>
       </mg>
@@ -44221,7 +44221,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="vedestä _COMMA_ johon sekoittuu kiintoainesta liikkeen seurauksena">muivâšuđ</t>
+               l_par="vedestä, johon sekoittuu kiintoainesta liikkeen seurauksena">muivâšuđ</t>
          </tg>
       </mg>
    </e>
@@ -44264,7 +44264,7 @@ For the full license text, see the link above.
       <mg id="7">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="repäisevästi _COMMA_ lohkaista _COMMA_ sutkauttaa"
+               l_par="repäisevästi, lohkaista, sutkauttaa"
                wf="savveest">savestiđ</t>
             <t pos="V" wf="vuolâst">vuolâstiđ</t>
          </tg>
@@ -44316,14 +44316,14 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="lyhyen aikaa _COMMA_ vähän">myettiliđ</t>
+            <t pos="V" l_par="lyhyen aikaa, vähän">myettiliđ</t>
             <t pos="V" wf="myetist">myetistiđ</t>
          </tg>
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="ohuelti lunta _COMMA_ tav. ensilumi mustaan maahan"
+               l_par="ohuelti lunta, tav. ensilumi mustaan maahan"
                wf="äinee">ainiđ</t>
          </tg>
       </mg>
@@ -44462,7 +44462,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kohdalle _COMMA_ paikalle" wf="teeivâm tiäivá">teivâđ</t>
+            <t pos="V" l_par="kohdalle, paikalle" wf="teeivâm tiäivá">teivâđ</t>
          </tg>
       </mg>
       <mg id="5">
@@ -44583,7 +44583,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="esim. jauhoja _COMMA_ taikinan aineksia"
+               l_par="esim. jauhoja, taikinan aineksia"
                wf="siävvut">siävuttiđ</t>
          </tg>
       </mg>
@@ -44687,7 +44687,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="selviytyä _COMMA_ pärjätä" wf="ciävzám">cevziđ</t>
+            <t pos="V" l_par="selviytyä, pärjätä" wf="ciävzám">cevziđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -44738,7 +44738,7 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="Pron"
-               l_par="hän sekosi _COMMA_ tuli hulluksi"
+               l_par="hän sekosi, tuli hulluksi"
                wf="láá mielah muivâšum">sust</t>
          </tg>
       </mg>
@@ -44760,7 +44760,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="perässä _COMMA_ tavoitella" wf="tuárrid">tuáridiđ</t>
+            <t pos="V" l_par="perässä, tavoitella" wf="tuárrid">tuáridiđ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -44780,7 +44780,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="7">
          <tg xml:lang="smn">
-            <t pos="V" l_par="ohjeita _COMMA_ noudattaa" wf="paittuum páittoo">paittuđ</t>
+            <t pos="V" l_par="ohjeita, noudattaa" wf="paittuum páittoo">paittuđ</t>
             <t pos="V" l_par="lähteä seuraamaan" wf="čuávvul">čuávuliđ</t>
          </tg>
       </mg>
@@ -44891,7 +44891,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tulesta _COMMA_ kun polttopuut ovat märkiä">cuikkádiđ</t>
+            <t pos="V" l_par="tulesta, kun polttopuut ovat märkiä">cuikkádiđ</t>
             <t pos="V">cuikkâliđ</t>
             <t pos="V">cuikkááttiđ</t>
          </tg>
@@ -44913,7 +44913,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="taaksepäin _COMMA_ vetäytyä" wf="murdelâđâm">murdelâttâđ</t>
+            <t pos="V" l_par="taaksepäin, vetäytyä" wf="murdelâđâm">murdelâttâđ</t>
          </tg>
       </mg>
    </e>
@@ -44962,7 +44962,7 @@ For the full license text, see the link above.
       <mg id="8">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="työ jk toisen hoidettavaksi _COMMA_ delegoida"
+               l_par="työ jk toisen hoidettavaksi, delegoida"
                wf="tojám">toijeeđ</t>
          </tg>
       </mg>
@@ -44990,14 +44990,14 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="raivata tavarat pois jstak _COMMA_ oksat yms. pois esim. kentästä"
+               l_par="raivata tavarat pois jstak, oksat yms. pois esim. kentästä"
                wf="raajâm rááJá">raaijâđ</t>
          </tg>
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="kaloja _COMMA_ perata _COMMA_ pestä ja suolata"
+               l_par="kaloja, perata, pestä ja suolata"
                wf="raajâm rááJá">raaijâđ</t>
          </tg>
       </mg>
@@ -45074,7 +45074,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="fyysisesti _COMMA_ muuttua kestävämmäksi työssä"
+               l_par="fyysisesti, muuttua kestävämmäksi työssä"
                wf="sáávrum">sávruđ</t>
          </tg>
       </mg>
@@ -45118,7 +45118,7 @@ For the full license text, see the link above.
       <mg id="7">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="tulla _COMMA_ joutua kiinni sidotuksi"
+               l_par="tulla, joutua kiinni sidotuksi"
                wf="čonnuum čannoo">čonnuđ</t>
          </tg>
       </mg>
@@ -45134,7 +45134,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="päivitellä _COMMA_ taivastella" wf="puáimálâstâlâm">puáimálâstâllâđ</t>
+            <t pos="V" l_par="päivitellä, taivastella" wf="puáimálâstâlâm">puáimálâstâllâđ</t>
          </tg>
       </mg>
    </e>
@@ -45165,7 +45165,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="hivellä _COMMA_ hyväillä" wf="njaavhâm">njavkkâđ</t>
+            <t pos="V" l_par="hivellä, hyväillä" wf="njaavhâm">njavkkâđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -45186,7 +45186,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="tulla huonosointiseksi _COMMA_ soinnittomaksi"
+               l_par="tulla huonosointiseksi, soinnittomaksi"
                wf="čuojâttuVá">čuojâttuđ</t>
          </tg>
       </mg>
@@ -45233,7 +45233,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="harottaa esim. hiuksista _COMMA_ puu kuormassa tms."
+               l_par="harottaa esim. hiuksista, puu kuormassa tms."
                wf="tarrajeh">tarrađ</t>
          </tg>
       </mg>
@@ -45266,7 +45266,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kerran _COMMA_ yksi solmu t. yhdellä solmulla">čuolmâdiđ</t>
+            <t pos="V" l_par="kerran, yksi solmu t. yhdellä solmulla">čuolmâdiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -45287,13 +45287,13 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="käydä päinsä _COMMA_ soveltua _COMMA_ tehdä sopimus"
+               l_par="käydä päinsä, soveltua, tehdä sopimus"
                wf="soovâm suápá">sooppâđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="käydä päinsä _COMMA_ soveltua" wf="heiviim heivee">heiviđ</t>
+            <t pos="V" l_par="käydä päinsä, soveltua" wf="heiviim heivee">heiviđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -45332,7 +45332,7 @@ For the full license text, see the link above.
       <mg id="9">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="sopia tapaamisesta _COMMA_ tehdä liitto"
+               l_par="sopia tapaamisesta, tehdä liitto"
                wf="litodâđâm">litodâttâđ</t>
          </tg>
       </mg>
@@ -45368,13 +45368,13 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kaatua _COMMA_ lysähtää kokoon" wf="viirâm viRá">viirrâđ</t>
+            <t pos="V" l_par="kaatua, lysähtää kokoon" wf="viirâm viRá">viirrâđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="kiusaukseen _COMMA_ joutua jnnek"
+               l_par="kiusaukseen, joutua jnnek"
                wf="sorduum suárdoo">sorduđ</t>
          </tg>
       </mg>
@@ -45393,7 +45393,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="juodessa _COMMA_ läikyttää" wf="stuljiim stuljee">stuljiđ</t>
+            <t pos="V" l_par="juodessa, läikyttää" wf="stuljiim stuljee">stuljiđ</t>
          </tg>
       </mg>
    </e>
@@ -45427,13 +45427,13 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="verkot _COMMA_ naru tms. solmuun" wf="suurâm soRá">suurrâđ</t>
+            <t pos="V" l_par="verkot, naru tms. solmuun" wf="suurâm soRá">suurrâđ</t>
          </tg>
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="verkko esim. kalasta _COMMA_ joka rimpuilee tartuttuaan"
+               l_par="verkko esim. kalasta, joka rimpuilee tartuttuaan"
                wf="sovveest">sovestiđ</t>
          </tg>
       </mg>
@@ -45447,7 +45447,7 @@ For the full license text, see the link above.
       <mg id="8">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="olla siivoton _COMMA_ liata _COMMA_ sotkea"
+               l_par="olla siivoton, liata, sotkea"
                wf="nuoskuš">nuoskušiđ</t>
          </tg>
       </mg>
@@ -45491,7 +45491,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="liekaan _COMMA_ naruun" wf="surâdât">surâdâttâđ</t>
+            <t pos="V" l_par="liekaan, naruun" wf="surâdât">surâdâttâđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -45573,7 +45573,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="päälle _COMMA_ paikoilleen" wf="heiviittâlâm">heiviittâllâđ</t>
+            <t pos="V" l_par="päälle, paikoilleen" wf="heiviittâlâm">heiviittâllâđ</t>
          </tg>
       </mg>
    </e>
@@ -45752,7 +45752,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="yhtenäistää _COMMA_ integroida" wf="ohtiim">ohtiđ</t>
+            <t pos="V" l_par="yhtenäistää, integroida" wf="ohtiim">ohtiđ</t>
          </tg>
       </mg>
    </e>
@@ -45778,7 +45778,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="sopeutua _COMMA_ tottua" wf="vuáháduum vuáháduVá">vuáháduđ</t>
+            <t pos="V" l_par="sopeutua, tottua" wf="vuáháduum vuáháduVá">vuáháduđ</t>
          </tg>
       </mg>
    </e>
@@ -45788,7 +45788,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="luukku _COMMA_ ovi tms." wf="toopâm tappa">toppâđ</t>
+            <t pos="V" l_par="luukku, ovi tms." wf="toopâm tappa">toppâđ</t>
             <t pos="V" wf="kiddiim">kiddiđ</t>
          </tg>
       </mg>
@@ -45815,12 +45815,12 @@ For the full license text, see the link above.
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
-            <t pos="V" l_par="koukulla _COMMA_ hakasella tms." wf="ruáhut">ruáhuttiđ</t>
+            <t pos="V" l_par="koukulla, hakasella tms." wf="ruáhut">ruáhuttiđ</t>
          </tg>
       </mg>
       <mg id="7">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tulla suljetuksi luukusta _COMMA_ ovesta tms.">kiddejuđ</t>
+            <t pos="V" l_par="tulla suljetuksi luukusta, ovesta tms.">kiddejuđ</t>
          </tg>
       </mg>
    </e>
@@ -45865,7 +45865,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="noudattaa _COMMA_ totella" wf="paittuum páittoo">paittuđ</t>
+            <t pos="V" l_par="noudattaa, totella" wf="paittuum páittoo">paittuđ</t>
          </tg>
       </mg>
    </e>
@@ -45897,7 +45897,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="lyödä hengiltä _COMMA_ nitistää" wf="cimmoost">cimostiđ</t>
+            <t pos="V" l_par="lyödä hengiltä, nitistää" wf="cimmoost">cimostiđ</t>
          </tg>
       </mg>
    </e>
@@ -45913,7 +45913,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="erit. jonkun toisen puolesta _COMMA_ sääliä">šallišiđ</t>
+            <t pos="V" l_par="erit. jonkun toisen puolesta, sääliä">šallišiđ</t>
          </tg>
       </mg>
    </e>
@@ -45970,7 +45970,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="pitkään ja neuvotellen _COMMA_ hieroa suunnitelmaa"
+               l_par="pitkään ja neuvotellen, hieroa suunnitelmaa"
                wf="hiärum">hiärruđ</t>
          </tg>
       </mg>
@@ -46009,7 +46009,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="jllek _COMMA_ ärtyä" wf="iäddud">iädudiđ</t>
+            <t pos="V" l_par="jllek, ärtyä" wf="iäddud">iädudiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -46076,7 +46076,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="nopeasti _COMMA_ hotkia">šávduliđ</t>
+            <t pos="V" l_par="nopeasti, hotkia">šávduliđ</t>
          </tg>
       </mg>
       <mg id="5">
@@ -46137,7 +46137,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="laitumella _COMMA_ laiduntaa" wf="kuáđut">kuáđuttiđ</t>
+            <t pos="V" l_par="laitumella, laiduntaa" wf="kuáđut">kuáđuttiđ</t>
          </tg>
       </mg>
    </e>
@@ -46193,7 +46193,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="aristaa jtk esim. jalkaa _COMMA_ päätä" wf="anam">anneeđ</t>
+            <t pos="V" l_par="aristaa jtk esim. jalkaa, päätä" wf="anam">anneeđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -46359,13 +46359,13 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="itsensä ruokaan _COMMA_ likaan tms." wf="repčidâđâm">repčidâttâđ</t>
+            <t pos="V" l_par="itsensä ruokaan, likaan tms." wf="repčidâđâm">repčidâttâđ</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="ruokaan jtak esim. pöytä _COMMA_ vaatteet tms."
+               l_par="ruokaan jtak esim. pöytä, vaatteet tms."
                wf="repčid">repčidiđ</t>
          </tg>
       </mg>
@@ -46476,7 +46476,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="paperia _COMMA_ kangasta tms." wf="máácum">máccuđ</t>
+            <t pos="V" l_par="paperia, kangasta tms." wf="máácum">máccuđ</t>
          </tg>
       </mg>
    </e>
@@ -46497,7 +46497,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="laskostaa _COMMA_ poimutella kangasta _COMMA_ paperia tms."
+               l_par="laskostaa, poimutella kangasta, paperia tms."
                wf="máácum">máccuđ</t>
          </tg>
       </mg>
@@ -46509,7 +46509,7 @@ For the full license text, see the link above.
       <mg id="5">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="taittaa taivalta _COMMA_ samoilla _COMMA_ vaeltaa"
+               l_par="taittaa taivalta, samoilla, vaeltaa"
                wf="vaandârd">vandârdiđ</t>
             <t pos="V" wf="vuávnum">vuávnuđ</t>
          </tg>
@@ -46533,7 +46533,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="kasvavasta poronsarvesta _COMMA_ huonosti merkitystä korvasta"
+               l_par="kasvavasta poronsarvesta, huonosti merkitystä korvasta"
                wf="muájum">muáijuđ</t>
          </tg>
       </mg>
@@ -46587,7 +46587,7 @@ For the full license text, see the link above.
       <mg id="5">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="kurkkuun esim. ruodosta _COMMA_ leivänmurusta t. juotavasta"
+               l_par="kurkkuun esim. ruodosta, leivänmurusta t. juotavasta"
                t_tld="~ puáhčániđ">pahčániđ</t>
             <t pos="V">čuolmâduđ</t>
          </tg>
@@ -46699,7 +46699,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="7">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kerätä _COMMA_ korjata talteen" wf="raajâm rááJá">raaijâđ</t>
+            <t pos="V" l_par="kerätä, korjata talteen" wf="raajâm rááJá">raaijâđ</t>
             <t pos="V" wf="aimâkkâšâm">aimâkkâššâđ</t>
          </tg>
       </mg>
@@ -46777,7 +46777,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="painia _COMMA_ nahistella">moggediđ</t>
+            <t pos="V" l_par="painia, nahistella">moggediđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -46818,7 +46818,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="nitistää _COMMA_ lyödä hengiltä" wf="cimmoost">cimostiđ</t>
+            <t pos="V" l_par="nitistää, lyödä hengiltä" wf="cimmoost">cimostiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -47072,20 +47072,20 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="jtak suuressa määrin _COMMA_ käytetään erit. kehuttaessa"
+               l_par="jtak suuressa määrin, käytetään erit. kehuttaessa"
                wf="tabadâlâm">tabadâllâđ</t>
          </tg>
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="työskennellä _COMMA_ työstää yms. pidempiaikainen prosessi"
+               l_par="työskennellä, työstää yms. pidempiaikainen prosessi"
                wf="poorgâm parga">porgâđ</t>
          </tg>
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
-            <t pos="V" l_par="puuhailla _COMMA_ hommailla" wf="roosâm raSa">roossâđ</t>
+            <t pos="V" l_par="puuhailla, hommailla" wf="roosâm raSa">roossâđ</t>
          </tg>
       </mg>
       <mg id="7">
@@ -47107,7 +47107,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="10">
          <tg xml:lang="smn">
-            <t pos="V" l_par="saada tehdä _COMMA_ tulla tehneeksi" wf="puáđám">puáttiđ</t>
+            <t pos="V" l_par="saada tehdä, tulla tehneeksi" wf="puáđám">puáttiđ</t>
          </tg>
       </mg>
       <mg id="11">
@@ -47157,13 +47157,13 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="riuhtaista _COMMA_ m. urheilussa"
+               l_par="riuhtaista, m. urheilussa"
                wf="rovgiim ravgee">rovgiđ</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="napata _COMMA_ siepata" wf="riäiváám">riäiváđ</t>
+            <t pos="V" l_par="napata, siepata" wf="riäiváám">riäiváđ</t>
             <t pos="V" wf="kááivád">káivádiđ</t>
          </tg>
       </mg>
@@ -47261,7 +47261,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="V" wf="tiäđám ij tieđe">tiettiđ</t>
             <t pos="V"
-               l_par="tietää _COMMA_ ennustaa jtak kun palava halko vierii esim. pois tulesta"
+               l_par="tietää, ennustaa jtak kun palava halko vierii esim. pois tulesta"
                wf="viälgáš">viälgášiđ</t>
          </tg>
       </mg>
@@ -47352,12 +47352,12 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kokoon _COMMA_ saeta" wf="suáVum">suáhuđ</t>
+            <t pos="V" l_par="kokoon, saeta" wf="suáVum">suáhuđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="kosteutta _COMMA_ huurtua" wf="savđa">sovđâđ</t>
+            <t pos="V" l_par="kosteutta, huurtua" wf="savđa">sovđâđ</t>
          </tg>
       </mg>
    </e>
@@ -47409,7 +47409,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="tilata jtak jk mukana _COMMA_ neuvoa ostamaan jtak"
+               l_par="tilata jtak jk mukana, neuvoa ostamaan jtak"
                wf="niäVum">niävvuđ</t>
          </tg>
       </mg>
@@ -47456,7 +47456,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="hihnasta _COMMA_ siimasta tms." wf="soggân">soggâniđ</t>
+            <t pos="V" l_par="hihnasta, siimasta tms." wf="soggân">soggâniđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -47534,7 +47534,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="penkoa _COMMA_ myllätä" wf="skovorâšâm">skovorâššâđ</t>
+            <t pos="V" l_par="penkoa, myllätä" wf="skovorâšâm">skovorâššâđ</t>
             <t pos="V" t_tld="~ porviđ porviim parvee" wf="porfiim parfee">porfiđ</t>
          </tg>
       </mg>
@@ -47643,7 +47643,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="pilaamalla _COMMA_ turmelemalla m. abstr."
+               l_par="pilaamalla, turmelemalla m. abstr."
                wf="pilled">pillediđ</t>
          </tg>
       </mg>
@@ -47682,7 +47682,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="välkkyä _COMMA_ välkehtiä esim. valosta t. kilosta"
+               l_par="välkkyä, välkehtiä esim. valosta t. kilosta"
                wf="šliäđgum">šliäđguđ</t>
          </tg>
       </mg>
@@ -47778,7 +47778,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="työntää _COMMA_ sulloa jhk" wf="cááVám">cäähiđ</t>
+            <t pos="V" l_par="työntää, sulloa jhk" wf="cááVám">cäähiđ</t>
             <t pos="V" wf="nuuđhâm notká">nutkâđ</t>
          </tg>
       </mg>
@@ -47789,7 +47789,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="sulloa voimakkaasti _COMMA_ survoa">cavâččiđ</t>
+            <t pos="V" l_par="sulloa voimakkaasti, survoa">cavâččiđ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -47804,13 +47804,13 @@ For the full license text, see the link above.
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tupata _COMMA_ ängetä jhk" wf="pokkiim puákkee">pokkiđ</t>
+            <t pos="V" l_par="tupata, ängetä jhk" wf="pokkiim puákkee">pokkiđ</t>
             <t pos="V" wf="pokkâšuum pokkâšuVá">pokkâšuđ</t>
          </tg>
       </mg>
       <mg id="7">
          <tg xml:lang="smn">
-            <t pos="V" l_par="itsensä jhk _COMMA_ tuppautua" wf="nahettâđâm">nahettâttâđ</t>
+            <t pos="V" l_par="itsensä jhk, tuppautua" wf="nahettâđâm">nahettâttâđ</t>
             <t pos="V" wf="puhhiim puáhhee">puhhiđ</t>
          </tg>
       </mg>
@@ -47832,14 +47832,14 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="tuntua epämukavalta _COMMA_ sopimattomalta t. kivuliaalta"
+               l_par="tuntua epämukavalta, sopimattomalta t. kivuliaalta"
                wf="unohistám">unohistiđ</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="tuntua lämmin henkäys _COMMA_ lämpimältä"
+               l_par="tuntua lämmin henkäys, lämpimältä"
                wf="šliäđmu">šliäđmuđ</t>
             <t pos="V" wf="lieggist">liegistiđ</t>
          </tg>
@@ -47952,7 +47952,7 @@ For the full license text, see the link above.
       <mg id="5">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="tiiviiksi puisesta esineestä _COMMA_ esim. veneestä _COMMA_ saavista"
+               l_par="tiiviiksi puisesta esineestä, esim. veneestä, saavista"
                wf="toŊá">tuuŋŋâđ</t>
          </tg>
       </mg>
@@ -48061,7 +48061,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="jonkin verran esim. astiasta _COMMA_ niin että tulee tilaa"
+               l_par="jonkin verran esim. astiasta, niin että tulee tilaa"
                wf="salkkiim sälkkee">salkkiđ</t>
          </tg>
       </mg>
@@ -48111,7 +48111,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="esim. hampaat _COMMA_ kirves" wf="táiguh">táiguđ</t>
+            <t pos="V" l_par="esim. hampaat, kirves" wf="táiguh">táiguđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -48166,7 +48166,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tunkea _COMMA_ ahtaa jhk" wf="cááVám">cäähiđ</t>
+            <t pos="V" l_par="tunkea, ahtaa jhk" wf="cááVám">cäähiđ</t>
             <t pos="V" wf="nuuđhâm notká">nutkâđ</t>
          </tg>
       </mg>
@@ -48187,7 +48187,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tuupata _COMMA_ pukata" wf="saaJâm">saaččâđ</t>
+            <t pos="V" l_par="tuupata, pukata" wf="saaJâm">saaččâđ</t>
             <t pos="V" wf="uuigâm">uigâđ</t>
             <t pos="V">uigâdiđ</t>
          </tg>
@@ -48222,7 +48222,7 @@ For the full license text, see the link above.
       <mg id="11">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="turvalla nisää vasasta t. vasikasta _COMMA_ heruttaa"
+               l_par="turvalla nisää vasasta t. vasikasta, heruttaa"
                wf="lakkuum lákkoo">lakkuđ</t>
          </tg>
       </mg>
@@ -48250,7 +48250,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="hitaasti _COMMA_ vitkastellen" wf="šiettuustâlâm">šiettuustâllâđ</t>
+            <t pos="V" l_par="hitaasti, vitkastellen" wf="šiettuustâlâm">šiettuustâllâđ</t>
          </tg>
       </mg>
       <mg id="5">
@@ -48316,23 +48316,23 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="vapista _COMMA_ tutista" wf="suáđgá">suáđgiđ</t>
+            <t pos="V" l_par="vapista, tutista" wf="suáđgá">suáđgiđ</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="V" l_par="käsistä _COMMA_ rinnoista" wf="tuigeest">tuigestiđ</t>
+            <t pos="V" l_par="käsistä, rinnoista" wf="tuigeest">tuigestiđ</t>
          </tg>
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="vapista _COMMA_ järistä" wf="tuárgist">tuárgistiđ</t>
+            <t pos="V" l_par="vapista, järistä" wf="tuárgist">tuárgistiđ</t>
          </tg>
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="hampaista _COMMA_ kun on kylmissään _COMMA_ peloissaan tms."
+               l_par="hampaista, kun on kylmissään, peloissaan tms."
                wf="vaavijd">vavijdiđ</t>
          </tg>
       </mg>
@@ -48646,7 +48646,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="puisen esineen saumoista _COMMA_ esim. veneestä turvotettaessa"
+               l_par="puisen esineen saumoista, esim. veneestä turvotettaessa"
                wf="toŊá">tuuŋŋâđ</t>
          </tg>
       </mg>
@@ -48657,7 +48657,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="veteen _COMMA_ suohon" wf="vuájum vuáJu">vuáijuđ</t>
+            <t pos="V" l_par="veteen, suohon" wf="vuájum vuáJu">vuáijuđ</t>
             <t pos="V" wf="tuuráát">turáttiđ</t>
          </tg>
       </mg>
@@ -48792,7 +48792,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="useita uria _COMMA_ urittaa" wf="juormiim">juormiđ</t>
+            <t pos="V" l_par="useita uria, urittaa" wf="juormiim">juormiđ</t>
          </tg>
       </mg>
    </e>
@@ -48834,7 +48834,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="asianlaita _COMMA_ vakuuttaa jtak"
+               l_par="asianlaita, vakuuttaa jtak"
                wf="nonniim nannee">nonniđ</t>
          </tg>
       </mg>
@@ -48898,7 +48898,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="jtak tilalle _COMMA_ esim. toiset vaatteet _COMMA_ osa"
+               l_par="jtak tilalle, esim. toiset vaatteet, osa"
                wf="molsom">molsođ</t>
          </tg>
       </mg>
@@ -48920,14 +48920,14 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="vaivasta _COMMA_ asiasta _COMMA_ ihmisestä"
+               l_par="vaivasta, asiasta, ihmisestä"
                wf="vääivid">väividiđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="esim. taikinaa _COMMA_ muokata _COMMA_ sekoittaa"
+               l_par="esim. taikinaa, muokata, sekoittaa"
                wf="soođhâm suátká">sotkâđ</t>
             <t pos="V" wf="tussiim tussee">tussiđ</t>
             <t pos="V" wf="fiärum">fiärruđ</t>
@@ -48948,7 +48948,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="maasta _COMMA_ rakennuksesta" wf="tipá">tiippâđ</t>
+            <t pos="V" l_par="maasta, rakennuksesta" wf="tipá">tiippâđ</t>
          </tg>
       </mg>
    </e>
@@ -48985,7 +48985,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="valottaa _COMMA_ luoda valoa jhk m. abstr."
+               l_par="valottaa, luoda valoa jhk m. abstr."
                wf="čuovviim čyevvee">čuovviđ</t>
          </tg>
       </mg>
@@ -49002,7 +49002,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="ruokansa raskaana olevasta naisesta _COMMA_ jolla ei ole ruokahalua esim. pahoinvoinnin takia"
+               l_par="ruokansa raskaana olevasta naisesta, jolla ei ole ruokahalua esim. pahoinvoinnin takia"
                wf="vyesvist">vyesvistiđ</t>
          </tg>
       </mg>
@@ -49019,7 +49019,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="tulla otetuksi _COMMA_ valituksi"
+               l_par="tulla otetuksi, valituksi"
                wf="valduum váldoo">valduđ</t>
          </tg>
       </mg>
@@ -49041,7 +49041,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="jstak _COMMA_ syyttää _COMMA_ haukkua"
+               l_par="jstak, syyttää, haukkua"
                wf="láittádâđâm">láittádâttâđ</t>
          </tg>
       </mg>
@@ -49062,7 +49062,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="aamusta _COMMA_ päivästä" wf="čuovvân">čuovâniđ</t>
+            <t pos="V" l_par="aamusta, päivästä" wf="čuovvân">čuovâniđ</t>
             <t pos="V" wf="ráánnud">ránudiđ</t>
          </tg>
       </mg>
@@ -49147,7 +49147,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="saada jk valmiiksi _COMMA_ saada jk ajoissa valmiiksi"
+               l_par="saada jk valmiiksi, saada jk ajoissa valmiiksi"
                wf="kiergât">kiergâttiđ</t>
          </tg>
       </mg>
@@ -49246,7 +49246,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="ottaa luvatta _COMMA_ näpistää" wf="kesijâšâm">kesijâššâđ</t>
+            <t pos="V" l_par="ottaa luvatta, näpistää" wf="kesijâšâm">kesijâššâđ</t>
          </tg>
       </mg>
    </e>
@@ -49261,7 +49261,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="pitää tallessa _COMMA_ varastoituna" wf="vuárhud">vuárhudiđ</t>
+            <t pos="V" l_par="pitää tallessa, varastoituna" wf="vuárhud">vuárhudiđ</t>
          </tg>
       </mg>
    </e>
@@ -49387,7 +49387,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="jk perässä _COMMA_ esim. köydestä" wf="vannoo">vonnuđ</t>
+            <t pos="V" l_par="jk perässä, esim. köydestä" wf="vannoo">vonnuđ</t>
          </tg>
       </mg>
    </e>
@@ -49398,7 +49398,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="raajasta _COMMA_ lihaksesta _COMMA_ jänteestä tms."
+               l_par="raajasta, lihaksesta, jänteestä tms."
                t_tld="~iätkániđ">iätkáliđ</t>
             <t pos="V" wf="vienâm viäNá">viennâđ</t>
          </tg>
@@ -49441,7 +49441,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="jäästä talvella _COMMA_ paantaa" wf="ooškâst">oškâstiđ</t>
+            <t pos="V" l_par="jäästä talvella, paantaa" wf="ooškâst">oškâstiđ</t>
          </tg>
       </mg>
    </e>
@@ -49461,7 +49461,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="nuottaa _COMMA_ nuotata" wf="nuátum">nuáttuđ</t>
+            <t pos="V" l_par="nuottaa, nuotata" wf="nuátum">nuáttuđ</t>
             <t pos="V" wf="koldám">koldeđ</t>
          </tg>
       </mg>
@@ -49483,7 +49483,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="7">
          <tg xml:lang="smn">
-            <t pos="V" l_par="nenästä _COMMA_ huijata" wf="táájut">tájuttiđ</t>
+            <t pos="V" l_par="nenästä, huijata" wf="táájut">tájuttiđ</t>
          </tg>
       </mg>
       <mg id="8">
@@ -49584,7 +49584,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="lopettamaan jk _COMMA_ esim. lapsi rinnasta t. jk huumeista"
+               l_par="lopettamaan jk, esim. lapsi rinnasta t. jk huumeista"
                wf="potkit">potkiittiđ</t>
          </tg>
       </mg>
@@ -49621,7 +49621,7 @@ For the full license text, see the link above.
       <mg id="6">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="viettää yönsä jssak _COMMA_ esim. metsässä"
+               l_par="viettää yönsä jssak, esim. metsässä"
                wf="iijâst">ijâstiđ</t>
          </tg>
       </mg>
@@ -49657,14 +49657,14 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="jatkuvasti tulesta _COMMA_ kun polttopuut ovat märkiä">cuikkádiđ</t>
+            <t pos="V" l_par="jatkuvasti tulesta, kun polttopuut ovat märkiä">cuikkádiđ</t>
             <t pos="V">cuikkâliđ</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="silloin tällöin pidempään tulesta _COMMA_ kun polttopuut ovat märkiä">cuikkááttiđ</t>
+               l_par="silloin tällöin pidempään tulesta, kun polttopuut ovat märkiä">cuikkááttiđ</t>
          </tg>
       </mg>
    </e>
@@ -49762,14 +49762,14 @@ For the full license text, see the link above.
       <mg id="6">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="tulla viilletyksi _COMMA_ saada viiltohaava"
+               l_par="tulla viilletyksi, saada viiltohaava"
                wf="skainâšuVá">skainâšuđ</t>
          </tg>
       </mg>
       <mg id="7">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="viiltyä _COMMA_ tulla viilto _COMMA_ raape t. naarmu"
+               l_par="viiltyä, tulla viilto, raape t. naarmu"
                wf="kuárdám">kyerdiđ</t>
          </tg>
       </mg>
@@ -49793,7 +49793,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="pitkään jssak _COMMA_ erit. joutilaissa hommissa"
+               l_par="pitkään jssak, erit. joutilaissa hommissa"
                wf="markkânâšâm">markkânâššâđ</t>
             <t pos="V" wf="lappuustâlâm">lappuustâllâđ</t>
             <t pos="V" wf="lappust">lappuustiđ</t>
@@ -49811,7 +49811,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="jhk asiaan _COMMA_ lähteeseen" wf="čuujoot">čujottiđ</t>
+            <t pos="V" l_par="jhk asiaan, lähteeseen" wf="čuujoot">čujottiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -49944,7 +49944,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="sänkyyn _COMMA_ housuun" wf="kužâdâđâm">kužâdâttâđ</t>
+            <t pos="V" l_par="sänkyyn, housuun" wf="kužâdâđâm">kužâdâttâđ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -50003,14 +50003,14 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="rasvata ihoa _COMMA_ öljytä esim. nahkaa"
+               l_par="rasvata ihoa, öljytä esim. nahkaa"
                wf="vuoidâm">vuoidâđ</t>
             <t pos="V" wf="puávsum poksum">puáksuđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="rasvata nopeasti _COMMA_ vähän" wf="vuoidâl">vuoidâliđ</t>
+            <t pos="V" l_par="rasvata nopeasti, vähän" wf="vuoidâl">vuoidâliđ</t>
             <t pos="V" wf="vuoidâst">vuoidâstiđ</t>
          </tg>
       </mg>
@@ -50070,7 +50070,7 @@ For the full license text, see the link above.
       <mg id="5">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="tehdä vuotavaksi _COMMA_ aiheuttaa jnk muuttuminen vuotavaksi"
+               l_par="tehdä vuotavaksi, aiheuttaa jnk muuttuminen vuotavaksi"
                wf="juoŋŋâd">juoŋâdiđ</t>
          </tg>
       </mg>
@@ -50087,7 +50087,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="suopunki _COMMA_ nuora tms." wf="njaamâm">njaammâđ</t>
+            <t pos="V" l_par="suopunki, nuora tms." wf="njaamâm">njaammâđ</t>
          </tg>
       </mg>
    </e>
@@ -50103,7 +50103,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="saamenpuku t. peski istuvaksi _COMMA_ yläosaltaan väljäksi"
+               l_par="saamenpuku t. peski istuvaksi, yläosaltaan väljäksi"
                wf="veevâm">veeppâđ</t>
          </tg>
       </mg>
@@ -50127,7 +50127,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="esim. rahasta _COMMA_ tulla puutetta jstak"
+               l_par="esim. rahasta, tulla puutetta jstak"
                wf="vááNu">váánnuđ</t>
          </tg>
       </mg>
@@ -50156,12 +50156,12 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tingata _COMMA_ kinata" wf="tigguum">tigguđ</t>
+            <t pos="V" l_par="tingata, kinata" wf="tigguum">tigguđ</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="alkaa väitellä _COMMA_ kinata" wf="tiggáásk">tigáskiđ</t>
+            <t pos="V" l_par="alkaa väitellä, kinata" wf="tiggáásk">tigáskiđ</t>
          </tg>
       </mg>
    </e>
@@ -50193,7 +50193,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="välittää jstak _COMMA_ olla huomaavainen muita kohtaan">perustiđ</t>
+            <t pos="V" l_par="välittää jstak, olla huomaavainen muita kohtaan">perustiđ</t>
             <t pos="V" t_tld="~loohhiđ lohhiim luáhhee">lohhiđ</t>
          </tg>
       </mg>
@@ -50213,7 +50213,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="tutista _COMMA_ vapista" wf="liiđijd">liđijdiđ</t>
+            <t pos="V" l_par="tutista, vapista" wf="liiđijd">liđijdiđ</t>
          </tg>
       </mg>
    </e>
@@ -50223,18 +50223,18 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="esim. kangas _COMMA_ hiuksia" wf="pááinám">päiniđ</t>
+            <t pos="V" l_par="esim. kangas, hiuksia" wf="pááinám">päiniđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="värittää _COMMA_ antaa väri" wf="ivniim">ivniđ</t>
+            <t pos="V" l_par="värittää, antaa väri" wf="ivniim">ivniđ</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="verkkoa _COMMA_ nuottaa _COMMA_ juuriköyttä tms."
+               l_par="verkkoa, nuottaa, juuriköyttä tms."
                wf="cisám">cicceeđ</t>
             <t pos="V" wf="cicám">cicceđ</t>
          </tg>
@@ -50256,7 +50256,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="verkkoa _COMMA_ nuottaa tms." wf="cicceet">cicettiđ</t>
+            <t pos="V" l_par="verkkoa, nuottaa tms." wf="cicceet">cicettiđ</t>
          </tg>
       </mg>
    </e>
@@ -50267,7 +50267,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V"
-               l_par="verkosta _COMMA_ nuotasta _COMMA_ juuriköydestä"
+               l_par="verkosta, nuotasta, juuriköydestä"
                wf="ciccojeh">ciccuđ</t>
          </tg>
       </mg>
@@ -50318,7 +50318,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="eläimistä _COMMA_ erit. ajokeista" wf="livvuum">livvuđ</t>
+            <t pos="V" l_par="eläimistä, erit. ajokeista" wf="livvuum">livvuđ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -50425,7 +50425,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" l_par="ahmia _COMMA_ mässäillä" wf="hurttood">hurtodiđ</t>
+            <t pos="V" l_par="ahmia, mässäillä" wf="hurttood">hurtodiđ</t>
             <t pos="V" wf="hurtom">hurttođ</t>
          </tg>
       </mg>
@@ -50446,7 +50446,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="jk ympärille esim. sormet _COMMA_ kädet" wf="áápum">áppuđ</t>
+            <t pos="V" l_par="jk ympärille esim. sormet, kädet" wf="áápum">áppuđ</t>
          </tg>
       </mg>
    </e>
@@ -50577,7 +50577,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="rykiä _COMMA_ kakoa" wf="kááVum">kááhuđ</t>
+            <t pos="V" l_par="rykiä, kakoa" wf="kááVum">kááhuđ</t>
          </tg>
       </mg>
    </e>
@@ -50745,7 +50745,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="levittää öljyä esim. jllk pinnalle _COMMA_ voidella">vuoidâđ</t>
+            <t pos="V" l_par="levittää öljyä esim. jllk pinnalle, voidella">vuoidâđ</t>
          </tg>
       </mg>
    </e>

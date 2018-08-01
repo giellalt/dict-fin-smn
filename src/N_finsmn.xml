@@ -32864,12 +32864,14 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N" wf="njuohčâm" re="anat.">njuovčâ</t>
+            <re>anat.</re>
+            <t pos="N" wf="njuohčâm">njuovčâ</t>
          </tg>
       </mg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N" wf="kielâ" re="puhe">kielâ</t>
+            <re>puhe</re>
+            <t pos="N" wf="kielâ">kielâ</t>
          </tg>
       </mg>
       <mg id="2">

@@ -13,11 +13,11 @@ while (<>)
 	my ($lemma, $trans, $POS) = split /\t/ ;
 	print STDOUT "   <e>\n";
 	print STDOUT "      <lg>\n";
-	print STDOUT "         <l pos=\"$POS\">$trans</l>\n";
+	print STDOUT "         <l pos=\"$POS\">$lemma</l>\n";
 	print STDOUT "      </lg>\n";
 	print STDOUT "      <mg>\n";
-	print STDOUT "         <tg lang=\"sme\">\n";
-	print STDOUT "            <t pos=\"$POS\">$lemma</t>\n";
+	print STDOUT "         <tg xml:lang=\"fin\">\n";
+	print STDOUT "            <t pos=\"$POS\">$trans</t>\n";
 	print STDOUT "         </tg>\n";
 	print STDOUT "      </mg>\n";
 	print STDOUT "   </e>\n";

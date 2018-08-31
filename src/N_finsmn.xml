@@ -4428,7 +4428,6 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N">sämihaldâttâs</t>
             <t pos="N" syn_dash="-haldâttuv">sämihaldâttâh</t>
          </tg>
       </mg>
@@ -12892,7 +12891,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N" t_tld="~ kuávluhaldâttâh -haldâttuv">kuávluhaldâttâs</t>
+            <t pos="N" t_tld="~ kuávluhaldâttâh -haldâttuv">kuávluhaldâttâh</t>
          </tg>
       </mg>
    </e>
@@ -18732,7 +18731,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N">haldâttâsorgaan</t>
+            <t pos="N">haldâttâhorgaan</t>
          </tg>
       </mg>
    </e>
@@ -18742,7 +18741,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N" syn_dash="-laaVâ">haldâttâsmonâttâllâmlaahâ</t>
+            <t pos="N" syn_dash="-laaVâ">haldâttâhmonâttâllâmlaahâ</t>
          </tg>
       </mg>
    </e>
@@ -18752,7 +18751,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N" syn_dash="-häämi">haldâttâshäämi</t>
+            <t pos="N" syn_dash="-häämi">haldâttâhhäämi</t>
          </tg>
       </mg>
    </e>
@@ -18762,7 +18761,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N" syn_dash="-rääđi">haldâttâsrääđi</t>
+            <t pos="N" syn_dash="-rääđi">haldâttâhrääđi</t>
          </tg>
       </mg>
    </e>
@@ -25918,7 +25917,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N">almoshaldâttâs</t>
+            <t pos="N">almoshaldâttâh</t>
          </tg>
       </mg>
    </e>
@@ -37436,6 +37435,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+			 <t pos="N">kieldâstivrâ</t>
             <t pos="N">kundáhaldâttâs</t>
          </tg>
       </mg>
@@ -37446,6 +37446,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+			 <t pos="N" syn_dash="-hoovdâ">kieldâhovdâ</t>
             <t pos="N" syn_dash="-hoovdâ">kundáhovdâ</t>
          </tg>
       </mg>
@@ -47584,7 +47585,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N">meccihaldâttâs</t>
+            <t pos="N">meccihaldâttâh</t>
          </tg>
       </mg>
    </e>
@@ -83802,6 +83803,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N" syn_dash="-stiivrâ">váldustivrâ</t>
+			<t pos="N" syn_dash="-stiivrâ">stivrâ</t>
          </tg>
       </mg>
    </e>
@@ -92877,7 +92879,6 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N">haldâttâs</t>
             <t pos="N" wf="haldâttuv">haldâttâh</t>
          </tg>
       </mg>
@@ -92888,8 +92889,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N">hallittâs</t>
-            <t pos="N" t_tld="~haldâttâs">háldáttâs</t>
+			  <t pos="N">haldâttâs</t>
+			 <t pos="N">stivrâ</t>
          </tg>
       </mg>
    </e>
@@ -94588,7 +94589,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N" wf="stiivrâ">stivrâ</t>
-            <t pos="N" syn_dash="-kode">stivrâkodde</t>
          </tg>
       </mg>
    </e>
@@ -115003,7 +115003,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N" syn_dash="-stiivrâ">kieldâstivrâ</t>
+            <t pos="N" syn_dash="-stiivrâ">váldustivrâ</t>
          </tg>
       </mg>
       <mg id="2">

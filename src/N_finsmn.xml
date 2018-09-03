@@ -13161,7 +13161,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N">áámmátškovlimhaldâttâs</t>
+            <t pos="N">áámmátškovlimhaldâttâh</t>
          </tg>
       </mg>
    </e>
@@ -92889,7 +92889,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-			  <t pos="N">haldâttâs</t>
+			  <t pos="A" l_par="erit. valtio yhteydessä">haldâttâs</t>
 			 <t pos="N">stivrâ</t>
          </tg>
       </mg>

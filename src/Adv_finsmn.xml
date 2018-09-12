@@ -8349,11 +8349,11 @@ For the full license text, see the link above.
    </e>
    <e id="13251">
       <lg>
-         <l pos="Adv">sisna</l>
+         <l pos="N">sisna</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-N" wf="šišne">šišne</t>
+            <t pos="N" wf="šišne">šišne</t>
          </tg>
       </mg>
    </e>

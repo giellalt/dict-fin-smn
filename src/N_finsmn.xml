@@ -131994,4 +131994,54 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="178490">
+      <lg>
+         <l pos="N">sisko</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N">uábbi</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1784900">
+      <lg>
+         <l pos="N">opiskelu</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N">oppâm</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1784901">
+      <lg>
+         <l pos="N">keskustelu</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N">savâstâllâm</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1784902">
+      <lg>
+         <l pos="N">luku</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N">loho</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1784903">
+      <lg>
+         <l pos="N">museo</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N">museo</t>
+         </tg>
+      </mg>
+   </e>
 </r>

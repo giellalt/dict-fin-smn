@@ -9226,4 +9226,24 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="1493600">
+      <lg>
+         <l pos="Adv">yleensä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Adv">táválâvt</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1493601">
+      <lg>
+         <l pos="Adv">nykyään</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Adv">onnáá peeivi</t>
+         </tg>
+      </mg>
+   </e>
 </r>

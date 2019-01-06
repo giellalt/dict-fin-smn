@@ -2009,7 +2009,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" wf="tuŠástuum tuŠástuVá">tusástuđ</t>
+            <t pos="V" wf="tuŠástuum tuŠástuVá">tušástuđ</t>
          </tg>
       </mg>
    </e>
@@ -12516,7 +12516,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" wf="jyeHiđ">juávhoiđ</t>
+            <t pos="V" wf="jyeHiđ">jyehiđ juávhoid</t>
          </tg>
       </mg>
    </e>
@@ -12746,7 +12746,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" t_tld="~revvittiđ reevvit ~ rävvittiđ räävvit" wf="reevvit">revviittiđ</t>
+            <t pos="V" t_tld="~revvittiđ reevvit ~ rävvittiđ räävvit" wf="reevvit">rävvittiđ</t>
          </tg>
       </mg>
    </e>
@@ -17800,7 +17800,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" wf="herskud">herskudiđ</t>
-            <t pos="V" wf="herskuttâlâm">herskuttâllâđ</t>
             <t pos="V" wf="herskustâlâm">herskustâllâđ</t>
             <t pos="V">hiärskudiđ</t>
             <t pos="V" wf="rettâd">rettâdiđ</t>
@@ -18230,7 +18229,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" wf="movtáskâm">movstáskiđ</t>
+            <t pos="V" wf="movtáskâm">movtáskiđ</t>
             <t pos="V" t_tld="~ movtidiđ moovtiid" wf="moovtijd">movtijdiđ</t>
             <t pos="V" wf="kihtuum">kihtuđ</t>
          </tg>
@@ -50746,6 +50745,40 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V" l_par="levittää öljyä esim. jllk pinnalle, voidella">vuoidâđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1784600">
+      <lg>
+         <l pos="V">seisoa</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="V">čuážžuđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1784601">
+      <lg>
+         <l pos="V">levätä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="V">vuoiŋâstiđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="1784602">
+      <lg>
+         <l pos="V">tykätä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="V">lijkkuđ</t>
+            <xg>
+             <x>Minä tykkään sinusta.</x>
+             <xt>Mun lijkkuum tunjin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

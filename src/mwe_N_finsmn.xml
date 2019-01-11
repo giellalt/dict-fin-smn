@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
-<r id="finsmn" xml:lang="fin">
-   <lics xml:space="preserve">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="finsmn" xml:lang="fin">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
   <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -31,7 +30,7 @@ For the full license text, see the link above.
          <l pos="N" r1_par="N">sulkeutunut ihminen</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="sulkeutunut ihminen f3ec69f8-1b66-4529-96d5-e543a5d3f2be">
             <t pos="N" wf="skuŋkkâs">skuuŋkâs</t>
             <t pos="N" wf="skuuŋkâ">skuŋkkâ</t>
          </tg>
@@ -42,7 +41,7 @@ For the full license text, see the link above.
          <l pos="N">emin vartalo</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="emin vartalo 5c5a04bd-1a0e-45f2-ab95-d835261ccd4b">
             <t pos="N" syn_dash="-noovdâ">eminovdâ</t>
          </tg>
       </mg>
@@ -52,7 +51,7 @@ For the full license text, see the link above.
          <l pos="N">jokamiehen oikeus</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="jokamiehen oikeus 1b22899d-c44c-4c7f-9273-1739667ae42a">
             <t pos="N" syn_dash="-vuoigâdvuođâ" mwe="y">jyehiulmuu vuoigâdvuotâ</t>
             <t pos="N" syn_dash="-vuoigâdvuođâ" mwe="y">juáhháá vuoigâdvuotâ</t>
          </tg>
@@ -63,7 +62,7 @@ For the full license text, see the link above.
          <l pos="N">kannettava tietokone</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="kannettava tietokone cb23a147-e17d-4b92-8b61-522295a86753">
             <t pos="N">mätkitiättur</t>
             <t pos="N">asketiättur</t>
             <t pos="N">kyeddimtiättur</t>
@@ -76,7 +75,7 @@ For the full license text, see the link above.
          <l pos="N">lauhkea vyöhyke</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="lauhkea vyöhyke 6a899521-4b77-4ed1-9884-0003adc1c9a5">
             <t pos="N" syn_dash="-stiellâs">liähmustielâs</t>
             <t pos="N" syn_dash="-stiellâs">lihmesstielâs</t>
          </tg>
@@ -87,7 +86,7 @@ For the full license text, see the link above.
          <l pos="N" r1_par="(vain)">sen kun</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="sen kun 6830678d-d8f0-4445-bbf7-93a645de9ac7">
             <t pos="N">ta</t>
             <t pos="N">muidego</t>
          </tg>
@@ -98,12 +97,12 @@ For the full license text, see the link above.
          <l pos="N">auringon sappi</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="auringon sappi 2131583d-1fc3-4c3f-9375-d5cecf3687e1">
             <t pos="N" syn_dash="-kistuu">piäiváákiistâ</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="auringon sappi 72000648-a9d6-4f3b-bdff-c6dcab99623c">
             <t pos="V" l_par="näkyä auringon sapesta">kistâkkistiđ</t>
          </tg>
       </mg>
@@ -113,7 +112,7 @@ For the full license text, see the link above.
          <l pos="N">irrallaan olo</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="irrallaan olo 063593e0-79ad-47eb-8bba-b3003d35af0b">
             <t pos="N" wf="luovâsvuođâ">luovâsvuotâ</t>
          </tg>
       </mg>
@@ -123,7 +122,7 @@ For the full license text, see the link above.
          <l pos="N">kenttämittarin toukka</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="kenttämittarin toukka 5a362092-3178-4342-8868-0ebe85b463c8">
             <t pos="N" syn_dash="-mááđu _FT_ -máđo">lyememáátu</t>
          </tg>
       </mg>
@@ -133,7 +132,7 @@ For the full license text, see the link above.
          <l pos="N">kulkutusverkon ohjain</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="kulkutusverkon ohjain 1dd830b2-20c8-42c4-824c-f07c158ea020">
             <t pos="N" wf="čuuskâ">čuskâ</t>
          </tg>
       </mg>
@@ -143,7 +142,7 @@ For the full license text, see the link above.
          <l pos="N">lämmin vyöhyke</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="lämmin vyöhyke 29e385d2-1cc0-4be1-8143-e2e7d80c6184">
             <t pos="N" syn_dash="-stiellâs">lieggâstielâs</t>
          </tg>
       </mg>
@@ -153,7 +152,7 @@ For the full license text, see the link above.
          <l pos="N" r1_par="(silmässä t. kuvann.)">sokea piste</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="sokea piste d05f85df-75b6-4a32-a199-07331b263d9b">
             <t pos="N" syn_dash="-tiälhu">sevŋistiälkku</t>
          </tg>
       </mg>
@@ -163,7 +162,7 @@ For the full license text, see the link above.
          <l pos="N">taivaan valtakunta</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="taivaan valtakunta 9715c26c-078b-467b-a2fc-904c351b6d73">
             <t pos="N" syn_dash="-kode" mwe="y">alme väldikodde</t>
          </tg>
       </mg>
@@ -173,7 +172,7 @@ For the full license text, see the link above.
          <l pos="N">uskottu mies</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="uskottu mies 91c9fab0-4cc7-4d6d-bab1-3ebf7ea9c079">
             <t pos="N" syn_dash="-almaa">uskumalmai</t>
          </tg>
       </mg>

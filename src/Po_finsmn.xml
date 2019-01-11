@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
-<r id="finsmn" xml:lang="fin">
-   <lics xml:space="preserve">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="finsmn" xml:lang="fin">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
   <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -31,7 +30,7 @@ For the full license text, see the link above.
          <l pos="Po" r1_par="(takia)">johdosta</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="johdosta fc33d28d-9f46-48cc-9db5-372a3903bcc4">
             <t pos="Adv">keežild</t>
          </tg>
       </mg>
@@ -41,7 +40,7 @@ For the full license text, see the link above.
          <l pos="Po">kuluttua</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="kuluttua f0776e1b-7f2d-438c-b004-2f38c7194566">
             <t pos="Po">keččin</t>
          </tg>
       </mg>
@@ -51,7 +50,7 @@ For the full license text, see the link above.
          <l pos="Po">osalta</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="osalta ffff0d84-6ddd-4ebb-92bc-348a5488a0b6">
             <t pos="Po">tááhust</t>
          </tg>
       </mg>
@@ -61,7 +60,7 @@ For the full license text, see the link above.
          <l pos="Po">perusteella</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="perusteella f30c63bc-f904-4e50-8428-3406f02b279e">
             <t pos="Po">vuáđuld</t>
          </tg>
       </mg>
@@ -71,7 +70,7 @@ For the full license text, see the link above.
          <l pos="Po" r1_par="(jnk)">pohjalta</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="pohjalta 3ede2760-cdcc-4ec7-9f28-3b96f59a75c0">
             <t pos="Po">vuáđuld</t>
          </tg>
       </mg>
@@ -81,7 +80,7 @@ For the full license text, see the link above.
          <l pos="Po" comma=", -lta">puolella</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="puolella 390815fa-323f-4500-902c-10a98b55b320">
             <t pos="Po">peln</t>
          </tg>
       </mg>
@@ -91,7 +90,7 @@ For the full license text, see the link above.
          <l pos="Po">puolelle</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="puolelle 85fa0688-655a-430a-a51d-2d49fca5fe4b">
             <t pos="Po">pel</t>
          </tg>
       </mg>
@@ -101,7 +100,7 @@ For the full license text, see the link above.
          <l pos="Po" r1_par="(välissä)">puolessa</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="puolessa 37639f8c-99fe-4fef-89b4-19cd73c9a183">
             <t pos="Adv">kooskâin</t>
          </tg>
       </mg>
@@ -111,7 +110,7 @@ For the full license text, see the link above.
          <l pos="Po">varten</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="varten 8f37758b-91e0-4f06-8bbe-dbea7cfe4e33">
             <t pos="Po">várás</t>
             <t pos="Po" t_tld="~verrin">veerrin</t>
          </tg>
@@ -122,23 +121,23 @@ For the full license text, see the link above.
          <l pos="Po" r1_par="(jhonk, jnnek) (jstak, jssak)">asti</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="asti 2ee92c4a-5dfb-48fe-98de-47fc6fe76b84">
             <t pos="Po">rááján</t>
             <t pos="Po" t_tld="~rei">räi</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="asti 25b4da50-780e-4eb7-891e-f5106f58450c">
             <t pos="Adv-CS" l_par="kunnes _SEMIC_ siihen asti">tassaaš</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="asti d47ba29b-e543-4949-8b2e-c4fde56aafc1">
             <t pos="A" l_par="tähän asti">táássáš</t>
          </tg>
       </mg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="asti fde75b63-8dde-42f0-96d8-9728634f5c3a">
             <t pos="Po">rääjist</t>
          </tg>
       </mg>
@@ -148,18 +147,18 @@ For the full license text, see the link above.
          <l pos="Po">kautta</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="kautta 9aef3694-44fb-475d-8611-62fe2fbf1bcc">
             <t pos="Adv-Po">peht</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="kautta 5b8b1494-8364-41d5-b283-895e3c7ade04">
             <t pos="Adv" l_par="sitä kautta">togopeht</t>
             <t pos="Adv">togo</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="kautta 26040c80-5ee0-4c16-9cdd-dcebd8a8620c">
             <t pos="Adv" l_par="sitä kautta puhuteltavan läheltä">tiegu</t>
          </tg>
       </mg>
@@ -169,12 +168,12 @@ For the full license text, see the link above.
          <l pos="Po" r1_par="(jstak)">lähtien</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="lähtien be6bd7eb-5340-4dd6-a6ca-d2795f7bbbb4">
             <t pos="Po">rääjist</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="lähtien ea2b5492-fae0-46cf-adf2-2b03295c8565">
             <t pos="Adv" l_par="tästä lähtien">tästpalij</t>
          </tg>
       </mg>
@@ -184,17 +183,17 @@ For the full license text, see the link above.
          <l pos="Po">saakka</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="saakka 6fcf8fea-c4fe-4d50-9fa5-1a91749c1be6">
             <t pos="Po" l_par="jhk saakka">räi</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="saakka c1f3df04-e3f2-4003-9bb3-a92d09b65e98">
             <t pos="Po" l_par="jstak saakka">rääjist</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="saakka a38da589-3ec7-43a2-9c04-d65571cbfc2b">
             <t pos="A" l_par="tähän saakka">táássáš</t>
          </tg>
       </mg>
@@ -204,7 +203,7 @@ For the full license text, see the link above.
          <l pos="Po" r1_par="(jk)">armoilla</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="armoilla 3583b3b7-2f72-4cc2-ba73-6df6815e4cd5">
             <t pos="Po">viäštust</t>
          </tg>
       </mg>

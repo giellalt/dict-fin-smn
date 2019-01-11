@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
-<r id="finsmn" xml:lang="fin">
-   <lics xml:space="preserve">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="finsmn" xml:lang="fin">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
   <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -31,7 +30,7 @@ For the full license text, see the link above.
          <l pos="A">tuki- ja liikuntavammainen</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="tuki- ja liikuntavammainen 9560aaa0-34ad-42f2-8e50-3b18373cfc2c">
             <t pos="A" syn_dash="-vádulii" mwe="3">tuuvdâ- já lihâdemvádulâš</t>
          </tg>
       </mg>
@@ -41,7 +40,7 @@ For the full license text, see the link above.
          <l pos="A" r1_par="(porotokasta)">yhdessä pysyvä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="yhdessä pysyvä 9b40cd1d-c2a2-42d3-b559-0784d98d320e">
             <t pos="A" attr="# -s">čuákkáá</t>
          </tg>
       </mg>
@@ -51,7 +50,7 @@ For the full license text, see the link above.
          <l pos="A" r1_par="(poronvasa)">emää rakastava</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="emää rakastava cc70952b-9f3c-406f-9791-f25cab138cdb">
             <t pos="N">ennieccee</t>
             <t pos="A" attr="# -s">iäccáá</t>
          </tg>
@@ -62,7 +61,7 @@ For the full license text, see the link above.
          <l pos="A">katsomisen arvoinen</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="katsomisen arvoinen 15bd50e6-111c-4d5a-8261-6206a0dc2758">
             <t pos="A">kejâttettee</t>
             <t pos="A">uáinittep</t>
             <t pos="A">uáinittittee</t>

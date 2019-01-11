@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
-<r id="finsmn" xml:lang="fin">
-   <lics xml:space="preserve">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="finsmn" xml:lang="fin">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
   <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -31,7 +30,7 @@ For the full license text, see the link above.
          <l pos="Pcle">epä-</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="epä- c4fe4dd7-61ff-4429-9869-d4faa281a4c6">
             <t pos="Pcle">epi-</t>
          </tg>
       </mg>
@@ -41,7 +40,7 @@ For the full license text, see the link above.
          <l pos="Pcle">haja-</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="haja- 87e9a127-5972-4c1f-95e3-77ad9ac5e315">
             <t pos="Pcle">piäđgui-</t>
          </tg>
       </mg>
@@ -51,7 +50,7 @@ For the full license text, see the link above.
          <l pos="Pcle">irto-</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="irto- b5056cbe-b0bc-4c10-8ed8-b3d020d5dd7a">
             <t pos="Pcle">pođoi-</t>
          </tg>
       </mg>
@@ -61,7 +60,7 @@ For the full license text, see the link above.
          <l pos="Pcle">jopa</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="jopa 07715d95-f9fa-495d-90ae-2264e5b2aa5b">
             <t pos="Pcle">jobâ</t>
          </tg>
       </mg>
@@ -71,7 +70,7 @@ For the full license text, see the link above.
          <l pos="Pcle">jospa</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="jospa c32bcf08-a3bf-4d3f-848b-3d80190c79b5">
             <t pos="Adv">väri</t>
          </tg>
       </mg>
@@ -81,7 +80,7 @@ For the full license text, see the link above.
          <l pos="Pcle" syn="~-kään">-kaan</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="-kaan cbdc524f-d83e-46eb-b9ac-a19ef7c8234e">
             <t pos="Pcle" t_tld="~-kin">-gin</t>
          </tg>
       </mg>
@@ -91,7 +90,7 @@ For the full license text, see the link above.
          <l pos="Pcle">kas</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="kas 9666b0a4-94e9-4387-81b2-c597592e790f">
             <t pos="Pron">kiäh</t>
          </tg>
       </mg>
@@ -101,7 +100,7 @@ For the full license text, see the link above.
          <l pos="Pcle" syn="~-kö">-ko</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="-ko 41f08873-6fef-4f8e-898e-72bc1f7e904a">
             <t pos="Pcle">-uv</t>
          </tg>
       </mg>
@@ -111,7 +110,7 @@ For the full license text, see the link above.
          <l pos="Pcle">-kä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="-kä 2b0981d9-ccfd-413c-83e9-80a876e2cc8c">
             <t pos="Pcle">-ge</t>
          </tg>
       </mg>
@@ -121,7 +120,7 @@ For the full license text, see the link above.
          <l pos="Pcle" syn="~ -kaan">-kään</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="-kään a3c233c7-5199-4be1-9317-4f7b2620067b">
             <t pos="Pcle" t_tld="~ -kin">-gin</t>
          </tg>
       </mg>
@@ -131,7 +130,7 @@ For the full license text, see the link above.
          <l pos="Pcle">lähi-</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="lähi- b066221f-a6bd-4038-95a8-67605a210a7b">
             <t pos="Adv">aldaaš</t>
          </tg>
       </mg>
@@ -141,7 +140,7 @@ For the full license text, see the link above.
          <l pos="Pcle" comma=", mukamas">muka</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="muka 34c10d55-2ecc-4db0-9e33-d33623ce7917">
             <t pos="Adv">maka</t>
          </tg>
       </mg>
@@ -151,7 +150,7 @@ For the full license text, see the link above.
          <l pos="Pcle">oiko-</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="oiko- af98e47a-7f3d-4e5c-aed4-23d4831b578b">
             <t pos="Pcle">njuálgu-</t>
          </tg>
       </mg>
@@ -161,7 +160,7 @@ For the full license text, see the link above.
          <l pos="Pcle" syn="~-pa">-pä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="-pä b803ef54-7908-4d6a-bdca-07665ce0d7b0">
             <t pos="Pcle" t_tld="~-kân">-gân</t>
          </tg>
       </mg>
@@ -171,7 +170,7 @@ For the full license text, see the link above.
          <l pos="Pcle">tahansa</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="tahansa d852a863-41c3-4264-8f98-314159f9cae3">
             <t pos="Pcle" t_tld="~ ihánâs~ihánis ~ ihánes">ihenis</t>
          </tg>
       </mg>
@@ -181,7 +180,7 @@ For the full license text, see the link above.
          <l pos="Pcle">ulko-</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="ulko- 58ca8eaf-f426-4d4c-bfca-627baaabe121">
             <t pos="Pcle">olgo-</t>
          </tg>
       </mg>
@@ -191,7 +190,7 @@ For the full license text, see the link above.
          <l pos="Pcle" syn="~-hän">-han</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="-han 16c965ae-36fc-4e28-9070-1c811a2b5075">
             <t pos="Pcle">-hân</t>
             <t pos="Pcle">-sun</t>
             <t pos="Pcle" t_tld="~ tibbii">tibi</t>
@@ -203,7 +202,7 @@ For the full license text, see the link above.
          <l pos="Pcle">kai</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="kai cbae38f4-dd26-479c-b8c0-0c0604e56f6b">
             <t pos="Pcle">almaa</t>
             <t pos="Pcle" t_tld="~amal">ama</t>
             <t pos="Pcle">amâhân</t>
@@ -217,20 +216,20 @@ For the full license text, see the link above.
          <l pos="Pcle">-kin</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="-kin 30f44d1f-c174-49cc-9443-073b32d6ec54">
             <t pos="Pcle">-uv</t>
             <t pos="Pcle" t_tld="~-gin">-kin</t>
             <t pos="Pcle" t_tld="~-gen">-ken</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="-kin aa5264b0-f0db-4cb4-b280-02a1f7521d04">
             <t pos="Pcle" l_par="jokin">-nii</t>
             <t pos="Pron">miinii</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="-kin a18349c9-3446-4576-934d-bf97e8674ad0">
             <t pos="Pron" l_par="joku">kiinii</t>
          </tg>
       </mg>
@@ -240,14 +239,14 @@ For the full license text, see the link above.
          <l pos="Pcle" syn="~-pä">-pa</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="-pa e7321bfd-9003-409a-a17e-2390d351acfe">
             <t pos="Pcle" t_tld="~-kân">-gân</t>
             <t pos="Pcle">-râk</t>
             <t pos="Pcle">-poi</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="-pa 0d093d2c-053a-4082-88e4-c83963333fc3">
             <t pos="Pcle" l_par="painottava" t_tld="~-bán">-ban</t>
          </tg>
       </mg>
@@ -257,12 +256,12 @@ For the full license text, see the link above.
          <l pos="Pcle">viime-</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="viime- 54e907ac-17be-4f20-bd5d-0eb72976e588">
             <t pos="Pcle">moonnâm-</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="viime- 81cb46be-ade9-478f-8cb1-3367aa64e6c9">
             <t pos="A" l_par="viimeöinen" syn_dash="-ijjâsii">moonnâmijjâsâš</t>
          </tg>
       </mg>

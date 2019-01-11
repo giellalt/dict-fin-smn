@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
-<!DOCTYPE r
-  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
-<r id="finsmn" xml:lang="fin">
-   <lics xml:space="preserve">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="finsmn" xml:lang="fin">
+   <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
   <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -31,7 +30,7 @@ For the full license text, see the link above.
          <l pos="Interj" r1_par="(tervehdyksenä)">hei</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="hei 455aeda5-c9e9-43f5-b11e-08c9e28ba3ac">
             <t pos="Interj" t_tld="~tiervâ">tiervâ</t>
          </tg>
       </mg>
@@ -41,7 +40,7 @@ For the full license text, see the link above.
          <l pos="Interj">hoi</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="hoi c861b629-6f2f-4762-8e60-b289bee86ec3">
             <t pos="Interj">ai</t>
          </tg>
       </mg>
@@ -51,7 +50,7 @@ For the full license text, see the link above.
          <l pos="Interj">jaa</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="jaa 6f32884d-c410-417e-ad36-e999dce4de83">
             <t pos="Interj">jáá</t>
          </tg>
       </mg>
@@ -61,7 +60,7 @@ For the full license text, see the link above.
          <l pos="Interj">jaaha</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="jaaha 866d9da5-d389-46a6-97d0-e9edccabbd2e">
             <t pos="Interj" mwe="y">jáá nuuvt</t>
          </tg>
       </mg>
@@ -71,7 +70,7 @@ For the full license text, see the link above.
          <l pos="Interj" r1_par="(lievä kirosana)">jukolauta</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="jukolauta 2e7d957c-22c5-4448-b8a8-aab3d429f846">
             <t pos="Interj">motjanan</t>
          </tg>
       </mg>
@@ -81,7 +80,7 @@ For the full license text, see the link above.
          <l pos="Interj">kippis</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="kippis 2634a47c-e5dd-410a-a393-b4d521550091">
             <t pos="Interj">skool</t>
          </tg>
       </mg>
@@ -91,7 +90,7 @@ For the full license text, see the link above.
          <l pos="Interj">ohhoh</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="ohhoh 6161c5d0-21ba-4303-933b-8a5f641a62b2">
             <t pos="Interj">o</t>
          </tg>
       </mg>
@@ -101,7 +100,7 @@ For the full license text, see the link above.
          <l pos="Interj">oi</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="oi 78c81c01-0995-4137-af5c-f7198442d9c0">
             <t pos="Interj" t_tld="~oo">o</t>
          </tg>
       </mg>
@@ -111,7 +110,7 @@ For the full license text, see the link above.
          <l pos="Interj">tervetuloa</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="tervetuloa 312bbfd4-cdd5-4740-a32a-812b7db97278">
             <t pos="N">pyereestpuáttim</t>
             <t pos="N">pyeripuáttim</t>
             <t pos="N">tiervâpuáttim</t>
@@ -123,12 +122,12 @@ For the full license text, see the link above.
          <l pos="Interj">hus</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="hus 86810b3c-36bf-4567-b755-e76c83c48e78">
             <t pos="Interj">hos</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="hus e85f2391-eb1d-4539-8159-44d82ca56015">
             <t pos="Adv" l_par="poroille">kuš</t>
          </tg>
       </mg>
@@ -138,12 +137,12 @@ For the full license text, see the link above.
          <l pos="Interj">joo</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="joo da51e7e4-9312-419c-b173-b85ed2ee9a36">
             <t pos="Adv-CC" l_par="myöntävässä vastauksessa">naa</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="joo 14a7a93c-b773-4902-9134-c83e49ceb671">
             <t pos="Adv">joo</t>
             <t pos="Interj">joo-o</t>
          </tg>
@@ -154,7 +153,7 @@ For the full license text, see the link above.
          <l pos="Interj">ah</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg xml:lang="smn" tw_id="ah c3981103-0c31-446e-b2cb-b9ae714f2cf8">
             <t pos="Interj">kah</t>
          </tg>
       </mg>

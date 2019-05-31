@@ -131314,4 +131314,364 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Leucaspius delineatus">allikkosalakka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">uccâsaalak</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Salvelinus namaycush">harmaanieriä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">ränisrávdu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Pomatoschistus minutus">hietatokko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čunoitokko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Carassius gibelio">hopearuutana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">silbâruuvdán</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Myoxocephalus scorpius">isosimppu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">stuorrâsimppu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Hyperoplus lanceolatus">isotuulenkala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">pieggâkyeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Gymnocephalus cernuus">kiiski</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kiiski</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Sprattus sprattus">kilohaili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kildeehaili</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Cottus poecilopus">kirjoeväsimppu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kirjevepsisimppu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Barbatula barbatula">kivennuoliainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">keđginjuálloo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Zoarces viviparus">kivinilkka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">keđginilkka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Cottus gobio">kivisimppu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">keđgisimppu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Pungitius pungitius">kymmenpiikki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">ryevdikuálááš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Pomatoschistus microps">liejutokko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">motetokko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Pelecus cultratus">miekkasärki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">miekkisiergi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Gobius niger">mustatokko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čapistokko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Abramis bjoerkna">pasuri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">pasuri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Coregonus peled">peledsiika</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">peledšapšâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Ameiurus nebulosus">piikkimonni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">säggimonni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Taurulus bubalis">piikkisimppu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">säggisimppu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Ammodytes tobianus">pikkutuulenkala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">uccâpieggâkyeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Salvelinus fontinalis">puronieriä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">ajârávdu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Cyclopterus lumpus">rasvakala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">vuojâkyeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Alburnus alburnus">salakka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">saalak</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Leuciscus leuciscus">seipi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kuovgissiergi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Gobiusculus flavescens">seitsenruototokko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kiirjâgtokko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Neropsis ophidion">siloneula</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">päddikyeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Scardinius erythrophthalmus">sorva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">sorva</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Abramis ballerus">sulkava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">puzzâvepsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Leuciscus idus">säyne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">sevni</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N" tt_auto="Leuciscus idus">säynävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">sevni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Aspius aspius">toutain</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">stuorrâsiergi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Squalius cephalus">turpa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">turbe</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Gobio gobio">törö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">septisiärgááš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Eriocheir sinensis">villasaksirapu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">ulloskerreerapu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" tt_auto="Vimba vimba">vimpa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">vimba</t>
+         </tg>
+      </mg>
+   </e>
 </r>

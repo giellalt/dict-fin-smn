@@ -22287,7 +22287,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="huutomerkki d18d359b-2672-4560-ad4f-065d547c81cd">
-            <t pos="N" syn_dash="-meerhâ">čuárvusmerkkâ</t>
+            <t pos="N" syn_dash="-meerhâ">čuorvimmerkkâ</t>
          </tg>
       </mg>
    </e>
@@ -27912,6 +27912,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kaksoispiste e29013d1-21ca-4c31-b69c-649809cb7ede">
+            <t pos="N" syn_dash="-čuogâstuv">tublečuogâstâh</t>
             <t pos="N" syn_dash="-čuogâstuv">jyemeehčuogâstâh</t>
          </tg>
       </mg>
@@ -40044,6 +40045,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="lainausmerkki 0bb47d33-617e-46cd-ae16-1842c7ca571c">
+            <t pos="N" syn_dash="-meerhâ">luoihâttemmerkkâ</t>
             <t pos="N" syn_dash="-meerhâ">lovnimmerkkâ</t>
          </tg>
       </mg>
@@ -75532,6 +75534,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="tavuviiva 8dbcba8e-96b8-42d1-a292-a11eb7060417">
+            <t pos="N" syn_dash="-sárgá">staavvâlsäärgis</t>
             <t pos="N" syn_dash="-viijve">staavvâlvijve</t>
          </tg>
       </mg>
@@ -98091,6 +98094,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="lauseke 3ed526e5-084d-4d3a-b715-526840b994fc">
+            <t pos="N">ciälhástâh</t>
             <t pos="N" wf="iättus">iäđus</t>
             <t pos="N" wf="ciälkkus">ciälhus</t>
          </tg>
@@ -100818,6 +100822,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="piste 175e5d34-8075-46de-b763-f0f35a6984bc">
+            <t pos="N">čuogâstâh</t>
             <t pos="N" t_tld="~ čuogâstâh čuogâstuv" wf="čuágástuv">čuágástuh</t>
             <t pos="N" wf="čuoggiistuv">čuoggiistâh</t>
             <t pos="N" wf="čuággá">čyegis</t>
@@ -131671,6 +131676,616 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="smn">
             <t pos="N">vimba</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">alisteinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">vuáládistum</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">alistuskonjunktio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">vuáládistemkonjunktio</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">epäsuora kysymyslause</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">epinjuolgâ koččâmušceelhâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">johtolause</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">laiđiistemceelhâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">konjunktiolause</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">konjunktioceelhâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">relatiivilause</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">relativceelhâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">suora lainaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">njuolgâluoihâttem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">androgyyni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">androgyn</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">androgyynisyys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">androgynvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">apilaperhe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">maaŋgâ vaanhim peerâ, om. kuulmâ vaanhim peerâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">aseksuaali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">aseksual</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">aseksuaalisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">aseksualvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">biseksuaalisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">biseksualvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">cis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">cis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">cisnormi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">cisnormâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">feminiinisyys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">femininvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">heteronormatiivisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">heteronormativlâšvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hetero-oletus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">nobdum heterovuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">heteroseksuaalisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">heteroseksualvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">homofobia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">homofobia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">bifobia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">bifobia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">transfobia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">transfobia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">homoseksuaalisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">homoseksualvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">homous</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">homovuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">intersukupuolisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">intersuhâpelivuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kehotuskielto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">avžumkiäldu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kolmas sukupuoli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kuálmád suhâpeeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lesbo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">lesbo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lhbtiq</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">lhbtiq</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hlbtiq</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">hlbtiq</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">maskuliinisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">maskulinvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">muunsukupuolisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">eressuhâpelivuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">neutri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">neutri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">normitietoisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">normâtiäđulâšvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">panseksuaalisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">panseksualvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">polyamoria</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">polyamoria</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">pride</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">pride</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">queer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">queer</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sateenkaarinuori</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">arvetävginuorâ, kirjenuorâ, ivnenuorâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sateenkaariperhe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">arvetävgipeerâ, kirjepeerâ, ivnepeerâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sateenkaariseniori</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">arvetävgisenior</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">seksuaalivähemmistö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">seksualucceebloho</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sukupuoli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">suhâpeeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sukupuolidysforia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">suhâpelidysforia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sukupuoli-identiteetti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">suhâpeli-identitet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sukupuolineutraalius</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">suhâpelineutralvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sukupuolinormatiivisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">suhâpelinormativlâšvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sukupuoliristiriita</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">suhâpeliruossâlâsvuotâ, suhâpeliruossârijdo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sukupuolitietoisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">suhâpelitiäđulâšvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sukupuolivähemmistö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">suhâpeliucceebloho</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">trans</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">trans</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">transgender</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">transgender</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">transihminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">transolmooš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">transmies</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">transalmai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">transnainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">transnissoon</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">transsukupuolinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">transsuhâpiäláág</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">transtaustainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">transtuáváág</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">transvestisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">transvestisâšvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ulostulo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">olgospuáttim</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vähemmistöstressi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">ucceeblohostressi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">yhdenvertaisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">oovtâviärdásâšvuotâ</t>
          </tg>
       </mg>
    </e>

@@ -177,4 +177,144 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="N">adoptio, sisäinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">adoptio,siskáldâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N ">adoptio, ulkoinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N ">adoptio, olgoldâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">drag king</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">drag-kunâgâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">drag queen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">drag-roonnig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">gender queer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">gender queer</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">rekisteröity parisuhde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">registeristum kyeimikoskâvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">seksuaalinen suuntautuminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">seksual sundâšume</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sosiaalinen esteettömyys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">sosial iästuttesvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sukupuolen moninaisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">suhâpele maaŋgâmuđusâšvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sukupuolten moninaisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">suhâpelij maaŋgâmuđusâšvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sukupuolen epätyypillisyys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">suhâpele epitiijpâlâšvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sukupuolen ilmaisu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">suhâpele olgospyehtim</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sukupuolen korjaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">suhâpele tivvoom</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tasa-arvoinen avioliittolaki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">täsiárvusâš näimilittolaahâ</t>
+         </tg>
+      </mg>
+   </e>
 </r>

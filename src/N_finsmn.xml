@@ -52088,6 +52088,16 @@ For the full license text, see the link above.
             <t pos="N">čäittim</t>
          </tg>
       </mg>
+      <mg id="1">
+         <tg xml:lang="smn" tw_id="näytäntö 4118d858-5b3b-41e5-b4a4-2685c5512ade">
+            <t pos="N">čaaitâlm uási</t>
+         </tg>
+      </mg>
+      <mg id="1">
+         <tg xml:lang="smn" tw_id="näytäntö 4118d858-5b3b-41e5-b4a4-2685c5512ade">
+            <t pos="N">oovdânpyehtim</t>
+         </tg>
+      </mg>
    </e>
    <e id="9409">
       <lg>
@@ -99833,18 +99843,17 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="näytelmä 23e43cc1-43c8-4fb3-b56f-476ceaa840a5">
             <t pos="N">čaaitâlm</t>
-            <t pos="N" t_tld="~ čáitálmâs">čaitâlmâs</t>
+            <t pos="N">čaitâlmâs</t>
          </tg>
       </mg>
    </e>
    <e id="9401">
       <lg>
-         <l pos="N" r1_par="(teatt.)">näyttelijä</l>
+         <l pos="N" r1_par="(teatt.)">näyttelijä teatterissa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="näyttelijä b2a3d237-05a5-4ddd-bf8f-7b121b2e5071">
             <t pos="N">čaittâleijee</t>
-            <t pos="N">čájáttellee</t>
             <t pos="N">niävttár</t>
          </tg>
       </mg>
@@ -99867,6 +99876,8 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="näyttämö 0549861f-a88f-4c72-b3c0-d3c62228b682">
             <t pos="N" syn_dash="-saje">čaittâlemsaje</t>
             <t pos="N" syn_dash="-lyeve" t_tld="~ -čaittâlemlävdi -läävdi ~ čaittâlempirrâdâh -pirrâduv">čaittâlemlyevi</t>
+         	<t pos="N" syn_dash="-saje">čaittâlemlävdi</t>
+         	<t pos="N" syn_dash="-saje">čaittâlempirrâdâh</t>
          </tg>
       </mg>
    </e>
@@ -108515,7 +108526,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn" tw_id="esitys f7effc0f-6667-4ed1-acd3-58bba6f111c8">
             <t pos="N" l_par="esim. näytelmä">čaaitâlm</t>
-            <t pos="N">čaitâlmâs</t>
+            <t pos="N" l_par="esim. näytelmä">čaitâlmâs</t>
          </tg>
       </mg>
       <mg id="3">
@@ -120056,7 +120067,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="näyte b707302f-4842-42ae-a944-27008098aebd">
-            <t pos="N" l_par="lääketieteellinen" wf="iskos">iskos</t>
+            <t pos="N" l_par="lääketieteellinen" wf="iskos">iskospittá</t>
          </tg>
       </mg>
    </e>
@@ -132286,6 +132297,16 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="smn">
             <t pos="N">oovtâviärdásâšvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">näyttäjä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čäittee</t>
          </tg>
       </mg>
    </e>

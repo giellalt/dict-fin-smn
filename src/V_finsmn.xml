@@ -10154,7 +10154,7 @@ For the full license text, see the link above.
    </e>
    <e id="9394 9395">
       <lg>
-         <l pos="V" r1_par="(ei teatt.) (teatt.)">näytellä</l>
+         <l pos="V" r1_par="(teatt.)">näytellä teatterissa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="näytellä 0e9646eb-dc89-4a18-a1c6-54bc05e35fa5">
@@ -10164,6 +10164,15 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="näytellä 50210fda-420a-4362-ab7b-6421eb25bf92">
             <t pos="V" wf="čaittâl">čaittâliđ</t>
+         </tg>
+      </mg>
+   </e> 
+   <e id="9394 9395">
+      <lg>
+         <l pos="V" r1_par="(ei teatt.)">näytellä, usein</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn" tw_id="näytellä 50210fda-420a-4362-ab7b-6421eb25bf92">
             <t pos="V" wf="čájáttâlâm">čájáttâllâđ</t>
          </tg>
       </mg>

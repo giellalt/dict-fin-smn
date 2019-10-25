@@ -2799,6 +2799,10 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="voida fdcff8c5-95ca-4109-9114-808410014e66">
             <t pos="V" l_par="olosta" wf="vajam vaJa">vaijeeđ</t>
             <t pos="V" wf="ciävzám">cevziđ</t>
+                <xg>
+	             <x>Pekka voi huonosti.<x>
+		         <xt>Pekka vaja hyeneeht.</xt>			             
+	            </xg>
          </tg>
       </mg>
       <mg id="4">
@@ -32719,11 +32723,19 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="kuulua 5b7f9c8c-cd35-4ce0-bdc0-e74c589f8ab2">
             <t pos="V" wf="kulluum kulloo">kulluđ</t>
+             <xg>
+              <x>Pihalta kuuluu koiran haukunta.</x>
+              <xt>Šiljoost kulloo pennuu umâstem.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="kuulua 06b018a8-eb78-43bf-a920-355f7c86828b">
             <t pos="V" l_par="kuulua jhk" wf="kuulâm kuLá">kuullâđ</t>
+            <xg>
+              <x>Mänty kuuluu Saamenmaan tavallisimpiin puihin.</x>
+              <xt>Peeci kulá táválumosáid muoráid Säämist.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="3">
@@ -43376,6 +43388,10 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn" tw_id="saada d04d4b66-ce84-47ef-a8a2-48b54a767c4b">
             <t pos="V" l_par="esim. tehdyksi, olla saatavilla" wf="finniim finnee">finniđ</t>
+            <xg>
+	            <x>Vihdoin sain artikkelin tehdyksi.</x>
+		        <xt>Viijmâg finnejim artikkâl rahtuđ.</xt>
+		   </xg>
          </tg>
       </mg>
       <mg id="3">

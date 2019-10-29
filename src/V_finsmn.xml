@@ -2799,9 +2799,9 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="voida fdcff8c5-95ca-4109-9114-808410014e66">
             <t pos="V" l_par="olosta" wf="vajam vaJa">vaijeeđ</t>
             <t pos="V" wf="ciävzám">cevziđ</t>
-                <xg>
-	             <x>Pekka voi huonosti.<x>
-		         <xt>Pekka vaja hyeneeht.</xt>			             
+                <xg>
+	             <x>Pekka voi huonosti.</x>
+		         <xt>Pekka vaja hyeneeht.</xt>
 	            </xg>
          </tg>
       </mg>
@@ -10170,7 +10170,7 @@ For the full license text, see the link above.
             <t pos="V" wf="čaittâl">čaittâliđ</t>
          </tg>
       </mg>
-   </e> 
+   </e>
    <e id="9394 9395">
       <lg>
          <l pos="V" r1_par="(ei teatt.)">näytellä, usein</l>

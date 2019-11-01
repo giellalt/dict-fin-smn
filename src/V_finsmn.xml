@@ -14920,14 +14920,22 @@ For the full license text, see the link above.
       <lg>
          <l pos="V" r1_par="(jksik) (jhk) (tehneeksi jtak)">tulla</l>
       </lg>
-      <mg id="1">
-         <tg xml:lang="smn" tw_id="tulla c781d687-af6a-479a-b273-b568ab298cc7">
-            <t pos="V" wf="šoodâm šadda">šoddâđ</t>
+       <mg id="1">
+         <tg xml:lang="smn" tw_id="tulla 44c9c1d7-f356-48ce-8724-4c3058ce3978">
+            <t pos="V" wf="puáđám">puáttiđ</t>
+           <xg>
+              <x>Mun puáđám pááikán.</x>
+              <xt>Minä tulen kotiin.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="tulla 44c9c1d7-f356-48ce-8724-4c3058ce3978">
-            <t pos="V" wf="puáđám">puáttiđ</t>
+         <tg xml:lang="smn" tw_id="tulla c781d687-af6a-479a-b273-b568ab298cc7">
+            <t pos="V" wf="šoodâm šadda">šoddâđ</t>
+            <xg>
+              <x>Tästä tuli hyvä.</x>
+              <xt>Täst šoodâi pyeri.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
@@ -14996,11 +15004,6 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn" tw_id="tulla 35067039-a4ff-468f-b5ae-b31388003162">
             <t pos="V" l_par="tulla jtak jstak tekemisestä kieltolauseessa" wf="valgân">valgâniđ</t>
-         </tg>
-      </mg>
-      <mg id="3">
-         <tg xml:lang="smn" tw_id="tulla 96d9b0a5-8e3d-45d9-9d4c-e70c626727c3">
-            <t pos="Adv-Pron" l_par="siitä ei tule mitään" wf="ij valgân mihheen">tast</t>
          </tg>
       </mg>
    </e>

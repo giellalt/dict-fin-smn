@@ -41663,11 +41663,31 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="pystyä c35a9085-2b23-4daa-9634-5c2cac9bdbab">
-            <t pos="V" wf="áppád _FT_ áppâd">áppádiđ</t>
-            <t pos="V">kikkâniđ</t>
+	        <t pos="V" l_par=" kyetä tekemään jtak" wf="pastam">pasteđ</t>
+	        <xg>
+              <x>Ahma pystyy kulkemaan monia peninkulmia.</x>
+              <xt>Ketki pasta luágguđ maaŋgâid penâkkulâmijd.</xt>
+            </xg>
+            <t pos="V"wf="áppád _FT_ áppâd">áppádiđ</t>
+            <xg>
+              <x>Levistä kehittyneet kasvit pystyivät elämään maalla.</x>
+              <xt>Tiäpuin ovdánâm šadoh áppádii eelliđ enâmist.</xt>
+            </xg>
             <t pos="V" wf="nahciim nähcee">nahciđ</t>
-            <t pos="V" wf="pastam">pasteđ</t>
-            <t pos="V" wf="puávtám">pyehtiđ</t>
+            <xg>
+              <x>Sienet eivät pysty yhteyttämään.</x>
+              <xt>Kuobbâreh iä nahcii ohtiđ.</xt>
+            </xg>
+            <t pos="V">kikkâniđ</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn" tw_id="pystyä 29775eeb-bace-4f82-a755-90c47c053c80">
+            <t pos="V" l_par="voida, kyetä" wf="puávtám">pyehtiđ</t>
+            <xg>
+              <x>Kirjastosta pystyt/voit lainata kirjoja.</x>
+              <xt>Kirjeráájust tun puávtáh luoihâttiđ kiirjijd.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">

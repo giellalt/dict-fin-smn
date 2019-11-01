@@ -46344,31 +46344,53 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="tehdä af536e6d-2880-4578-9409-b46e6aa0ac9c">
             <t pos="V" wf="tooVâm taha">toohâđ</t>
+            <xg>
+              <x>Se tekee hyvää.</x>
+              <xt>Tot taha pyere.</xt>
+              <x>Tule kirpputorille tekemään löytöjä!</x>
+              <xt>Puáđi suámsurtorin toohâđ	kávnusijd!</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="tehdä b6964d1b-4827-4ef2-97f5-af1af591c674">
-            <t pos="V" l_par="konkr. jtak tavoitteena saada tekeminen valmiiksi" wf="rááhtám ráhtá">rähtiđ</t>
-         </tg>
-      </mg>
-      <mg id="3">
-         <tg xml:lang="smn" tw_id="tehdä a2cfdf7a-d65a-4d6a-a8f6-fda4d32f4ac7">
-            <t pos="V" l_par="jtak kaikin voimin" wf="ruhnom">ruhnođ</t>
-         </tg>
-      </mg>
-      <mg id="4">
-         <tg xml:lang="smn" tw_id="tehdä 6176b322-597a-44db-8ecb-847072a11a08">
-            <t pos="V" l_par="jtak suuressa määrin, käytetään erit. kehuttaessa" wf="tabadâlâm">tabadâllâđ</t>
+            <t pos="V" l_par="konkr. jtak, tavoitteena saada tekeminen valmiiksi" wf="rááhtám ráhtá">rähtiđ</t>
+            <xg>
+              <x>Kun tekee hillahilloa, niin....</x>
+              <xt>Ko ráhtá lyemenjuuvdâs, te...</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="5">
          <tg xml:lang="smn" tw_id="tehdä 7db30a1c-da75-4fbc-bb38-9b279b138de3">
             <t pos="V" l_par="työskennellä, työstää yms. pidempiaikainen prosessi" wf="poorgâm parga">porgâđ</t>
+            <xg>
+              <x>Te teette tärkeää työtä.</x>
+              <xt>Tij porgâvetteđ mávsulâš pargo.</xt>
+            </xg>
          </tg>
       </mg>
-      <mg id="6">
+       <mg id="6">
          <tg xml:lang="smn" tw_id="tehdä ff9713d1-1e66-481d-ab3a-c6385f53ffc3">
             <t pos="V" l_par="puuhailla, hommailla" wf="roosâm raSa">roossâđ</t>
+            <xg>
+              <x>Katsoin, miten muut tekevät, niin minä samallalailla.</x>
+              <xt>Keččim, maht iäráseh raseh, te mun siämmáánáál.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn" tw_id="tehdä a2cfdf7a-d65a-4d6a-a8f6-fda4d32f4ac7">
+            <t pos="V" l_par="jtak kaikin voimin" wf="ruhnom">ruhnođ</t>
+            <xg>
+              <x>Itsekukin teki kaikilla voimillaan.</x>
+              <xt>Jieš kii-uv ruhnoi puoh vuoimijdis.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg id="4">
+         <tg xml:lang="smn" tw_id="tehdä 6176b322-597a-44db-8ecb-847072a11a08">
+            <t pos="V" l_par="jtak suuressa määrin, käytetään erit. kehuttaessa" wf="tabadâlâm">tabadâllâđ</t>
          </tg>
       </mg>
       <mg id="7">
@@ -46379,6 +46401,10 @@ For the full license text, see the link above.
       <mg id="8">
          <tg xml:lang="smn" tw_id="tehdä efccb5b8-4f3a-4764-abd3-136453083286">
             <t pos="V" l_par="saada tehdyksi" wf="finniim finnee">finniđ</t>
+            <xg>
+              <x>Minä sain tehtyä sen valmiiksi.</x>
+              <xt>Mun finnejim tom valmâšin.</xt>
+            </xg>
             <t pos="V" wf="seelgât">selgâttiđ</t>
          </tg>
       </mg>
@@ -46388,14 +46414,13 @@ For the full license text, see the link above.
             <t pos="V" wf="káárum ij kááru">káárruđ</t>
          </tg>
       </mg>
-      <mg id="10">
-         <tg xml:lang="smn" tw_id="tehdä d6b543bf-a4a3-4406-bfbc-3f464cef9353">
-            <t pos="V" l_par="saada tehdä, tulla tehneeksi" wf="puáđám">puáttiđ</t>
-         </tg>
-      </mg>
       <mg id="11">
          <tg xml:lang="smn" tw_id="tehdä 947b9fce-a180-4ac4-b2bb-52199240f64c">
             <t pos="V" l_par="tulla tehdyksi" wf="rahtuum ráhtoo">rahtuđ</t>
+            <xg>
+              <x>Smoothie tehdään tavallisesti marjoista...</x>
+              <xt>Smoothie ráhtoo táválávt muorjijn...</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="12">
@@ -46411,6 +46436,10 @@ For the full license text, see the link above.
       <mg id="14">
          <tg xml:lang="smn" tw_id="tehdä 24efc426-6b11-4475-9a4f-07e8231623ff">
             <t pos="V" l_par="tehdä lähtöä" wf="vuolgâd">vuolgâdiđ</t>
+            <xg>
+              <x>Hän oli tekemässä lähtöä kotiinsa etelään.</x>
+              <xt>Sun lâi vuolgâdmin páikkásis máádás.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="15">
@@ -46420,8 +46449,12 @@ For the full license text, see the link above.
       </mg>
       <mg id="16">
          <tg xml:lang="smn" tw_id="tehdä b0166f31-c399-446a-85ee-47da13985e4a">
-            <t pos="V" l_par="tehdä tilaa" wf="soijiim saijee">sooijiđ</t>
+            <t pos="V" l_par="tehdä tilaa" wf="soijiim saijee">soijiđ</t>
             <t pos="V" t_tld="~čaahhiđ čahhiim čähhee">čahhiđ</t>
+             <xg>
+              <x>Metsät ovat saaneet tehdä tilaa pelloille / väistää peltoja.</x>
+              <xt>Meeccih láá uážžum čahhiđ piälduid.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

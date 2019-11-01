@@ -41664,21 +41664,21 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="pystyä c35a9085-2b23-4daa-9634-5c2cac9bdbab">
 	        <t pos="V" l_par=" kyetä tekemään jtak" wf="pastam">pasteđ</t>
+            <t pos="V" wf="áppád _FT_ áppâd">áppádiđ</t>
+            <t pos="V" wf="nahciim nähcee">nahciđ</t>
+            <t pos="V">kikkâniđ</t>
 	        <xg>
               <x>Ahma pystyy kulkemaan monia peninkulmia.</x>
               <xt>Ketki pasta luágguđ maaŋgâid penâkkulâmijd.</xt>
             </xg>
-            <t pos="V"wf="áppád _FT_ áppâd">áppádiđ</t>
             <xg>
               <x>Levistä kehittyneet kasvit pystyivät elämään maalla.</x>
               <xt>Tiäpuin ovdánâm šadoh áppádii eelliđ enâmist.</xt>
             </xg>
-            <t pos="V" wf="nahciim nähcee">nahciđ</t>
             <xg>
               <x>Sienet eivät pysty yhteyttämään.</x>
               <xt>Kuobbâreh iä nahcii ohtiđ.</xt>
             </xg>
-            <t pos="V">kikkâniđ</t>
          </tg>
       </mg>
       <mg id="2">

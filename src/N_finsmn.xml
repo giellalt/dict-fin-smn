@@ -50427,6 +50427,16 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="N">neliapila</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N">neljiristâ</t>
+         </tg>
+      </mg>
+   </e>
    <e id="8989">
       <lg>
          <l pos="N">nelikulmio</l>
@@ -110877,11 +110887,6 @@ For the full license text, see the link above.
             <t pos="N" l_par="isä lapsensa kanssa">eejiš</t>
          </tg>
       </mg>
-      <mg id="3">
-         <tg xml:lang="smn" tw_id="isä e73e970f-82c2-46bd-a833-d2e720bdf614">
-            <t pos="N" l_par="tulla isäksi" wf="ečiluum">ečiluđ</t>
-         </tg>
-      </mg>
    </e>
    <e id="3230">
       <lg>
@@ -131163,11 +131168,6 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn" tw_id="äiti c049cc1d-3ff8-422a-8b3a-a6d0281c4844">
             <t pos="N" l_par="isovanhemman äiti" syn_dash="-ááhu">madârákku</t>
-         </tg>
-      </mg>
-      <mg id="3">
-         <tg xml:lang="smn" tw_id="äiti af54c5a1-0da1-4031-baa3-856336feb047">
-            <t pos="N" l_par="tulla äidiksi" wf="enniluum enniluVá">enniluđ</t>
          </tg>
       </mg>
       <mg id="4">

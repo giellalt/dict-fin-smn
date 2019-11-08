@@ -50749,4 +50749,182 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="V">korostaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">tiäduttiđ</t>
+             <xg>
+	           <x>Korostan, että...</x>
+		       <xt>Mun tiäduttâm, et...</xt>
+	           <x>Murheellinen ääni korosti asian todellisuutta.</x>
+		       <xt>Murâšlâš jienâ tiäduttij ääši tuođâlâšvuođâ.</xt>		       
+	         </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sijaita</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">lii (kostnii)</t>
+             <xg>
+	           <x>Ivalon kylä sijaitsee Inarin kunnassa.</x>
+		       <xt>Avveel markkân lii Aanaar kieldâst.</xt>
+	         </xg>            
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ratkaista</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">čuávdiđ</t>
+             <xg>
+	           <x>Ratkaisemme asian neuvottelemalla.</x>
+		       <xt>Mij čuávdip ääši ráđádâlmáin.</xt>
+	           <x>Ratkaista vaikea ongelma.</x>
+		       <xt>Čuávdiđ vaigâdis čuolmâ.</xt>		       
+	         </xg>            
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">palkita</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">palhâšiđ</t>
+             <xg>
+	           <x>Koulu palkitsi ahkeria oppilaita.</x>
+		       <xt>Škovlâ palhâšij viššâlis uáppeid.</xt>
+	         </xg>            
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">julkistaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">pieijâđ almosin</t>
+             <xg>
+	           <x>Asia julkistettiin eilen.</x>
+		       <xt>Äšši piejui almosin jieht.</xt>
+	         </xg>            
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ellei</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">jis ij</t>  
+            <t pos="V">jis iä</t>  
+             <xg>
+	           <x>Ellei pakkasella osaa pukeutua, paleltuu.</x>
+		       <xt>Jis ij puolâšin määti kárvudâttâđ, kolmuu.</xt>	         
+	           <x>Lintuja oli kymmenittäin, ellei jo enemmänkin.</x>
+		       <xt>Lodeh lijjii luuvij mield, jis iä jo eenâb-uv.</xt>
+	         </xg>                                  
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kasvattaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">šoddâdiđ</t>
+             <xg>
+	           <x>Inarinsaamelaiset kasvattivat perunoita.</x>
+		       <xt>Anarâšah šoddâdii potákkijn.</xt>
+	         </xg>            
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">lasettiđ</t>
+             <xg>
+	           <x>Jokin kasvattaa etua.</x>
+		       <xt>Miinii lasseet hiäđu.</xt>
+	         </xg>            
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">valmistella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">valmâštâllâđ</t>
+             <xg>
+	           <x>Johtokunta valmistelee budjetin.</x>
+		       <xt>Stivrâ valmâštâl budjet.</xt>
+	         </xg>                        
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vaihdella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">lonottâllâđ</t>
+             <xg>
+	           <x>Olimme jo sitä ennen vaihdelleet osoitteita.</x>
+		       <xt>Mij lâim jo tađe ovdil lonottâllâm čujottâsâid.</xt>
+	           <x>Ympäri maailmaa ihmiset ovat puhuneet monia kieliä ja vaihdelleet niitä tilanteen ja puhekaverin kielitaidon mukaan.</x>
+		       <xt>Pirrâ maailm ulmuuh láá sárnum maŋgâ kielâ já lonottâllâm taid tilálâšvuođâ já sárnumkyeimi kielâtááiđu mield. </xt>
+	         </xg>                        
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">mulsâšuddâđ</t>
+             <xg>
+	           <x>Hyvät pyyntipaikat ovat vaihdelleet vuodenaikojen mukaan.</x>
+		       <xt>Vuovâs pivdosajeh láá mulsâšuđđâm iveaigij mield.</xt>
+	         </xg>                        
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">uusia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">uđâdiđ</t>
+             <xg>
+	           <x>Jäykkäkouristusrokotus pitää uusia kymmenen vuoden välein.</x>
+		       <xt>Storgâčarviittâhpuákuttâs kalga uđâdiđ love ive kooskâi.</xt>
+	           <x>Remontissa uusittiin ikkunat ja katto.</x>
+		       <xt>Remontist uđâdij laasâid já káátu.</xt>
+	         </xg>                                    
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">kiärduđ</t>
+             <xg>
+	           <x>Tentin uusiminen.</x>
+		       <xt>Teenti kiärdum.</xt>
+	         </xg>                                    
+         </tg>
+      </mg>      
+   </e>
 </r>

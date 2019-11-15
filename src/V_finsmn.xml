@@ -14248,34 +14248,62 @@ For the full license text, see the link above.
          <l pos="V" r1_par="(taudista) (kiinni jhk)">tarttua</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="tarttua 00761b16-ced3-4b0f-b84d-b9ae08bcbdd1">
-            <t pos="V" wf="njuáMu">njuámmuđ</t>
-         </tg>
-      </mg>
-      <mg id="1">
          <tg xml:lang="smn" tw_id="tarttua fde5dc31-6932-4dac-9df9-fba049def230">
-            <t pos="V">tarvaniđ</t>
-            <t pos="V" wf="voovdâm vavda">vovdâđ</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn" tw_id="tarttua cc7cc592-9675-47b3-ac6f-555ffad60a18">
-            <t pos="V" l_par="takertua" wf="skirnáád">skirnádiđ</t>
-         </tg>
-      </mg>
-      <mg id="3">
-         <tg xml:lang="smn" tw_id="tarttua d116cbb0-2ea5-4c36-95e8-b8778ff28a66">
-            <t pos="V" l_par="kädellä" wf="čovváád">čovádiđ</t>
+            <t pos="V" l_par="kiinni jhk" >tarvaniđ</t>
+             <xg>
+	           <x>Kala tarttui verkkoon.</x>
+		       <xt>Kyeli tarvânij viärmán.</xt>
+	         </xg>                                    
+            <t pos="V" l_par=""  wf="voovdâm vavda">vovdâđ</t>
+             <xg>
+	           <x>Ahkio tarttui kiinni kiveen.</x>
+		       <xt>Kerris voovdâi kiäđgán.</xt>
+	         </xg>                                    
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn" tw_id="tarttua 1b1d2562-075f-4b60-b1bb-4055fa3c6e33">
             <t pos="V" l_par="kiinni t. taakse koukkumaisista esineistä">kokkâsiđ</t>
+             <xg>
+	           <x>Kengän (nutukas) kärki tarttui juureen.</x>
+		       <xt>Kaamuvnjune kokkâsij viäddás.</xt>
+	         </xg>                                    
+         </tg>
+      </mg>
+      <mg id="1">
+         <tg xml:lang="smn" tw_id="tarttua 00761b16-ced3-4b0f-b84d-b9ae08bcbdd1">
+            <t pos="V" l_par="taudista" wf="njuáMu">njuámmuđ</t>
+             <xg>
+	           <x>Flunssa tarttuu helposti yskiessä ja aivastellessa.</x>
+		       <xt>Lenccu njuámu älkkeht kuorsâtijn já kašneettijn.</xt>
+	         </xg>                                    
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn" tw_id="tarttua cc7cc592-9675-47b3-ac6f-555ffad60a18">
+            <t pos="V" l_par="takertua" wf="skirnáád">skirnádiđ</t>
+             <xg>
+	           <x>Kala tarttui verkkoon.</x>
+		       <xt>Tot skirnádij uksâtoppiittâhân.</xt>
+	         </xg>                                                
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn" tw_id="tarttua d116cbb0-2ea5-4c36-95e8-b8778ff28a66">
+            <t pos="V" l_par="kädellä" wf="čovváád">čovádiđ</t>
+             <xg>
+	           <x>Hän tarttui rahoihin ja laski ne.</x>
+		       <xt>Sun čovádij ruuđâid já reknistij taid.</xt>
+	         </xg>                                                
          </tg>
       </mg>
       <mg id="5">
          <tg xml:lang="smn" tw_id="tarttua cfa03761-283d-46e9-86bc-47ddd2cca163">
             <t pos="V" l_par="imeytymällä" wf="njammaas">njamasiđ</t>
+             <xg>
+	           <x>Paperi tarttui kiinni pöytään.</x>
+		       <xt>Pááppár njamasij kiddâ piävdán.</xt>
+	         </xg>                                                
          </tg>
       </mg>
       <mg id="6">
@@ -14291,18 +14319,34 @@ For the full license text, see the link above.
       <mg id="8">
          <tg xml:lang="smn" tw_id="tarttua a49d4c0d-aeb6-4e6c-aa29-9be1f609ffd3">
             <t pos="V" l_par="nuoskalumesta" wf="topá">tuuppâđ</t>
+             <xg>
+	           <x>Lumi tarttuu vaatteisiin.</x>
+		       <xt>Muotâ topá pihtâsáid.</xt>
+	         </xg>                                                
          </tg>
       </mg>
       <mg id="9">
          <tg xml:lang="smn" tw_id="tarttua 2f89daaf-9eec-477b-966b-1ec2e2be084f">
             <t pos="V" l_par="esim. suksen pohjiin lumesta luistamattomalla kelillä">stuppâniđ</t>
             <t pos="V" wf="toperuum toperuVá">toperuđ</t>
+             <xg>
+	           <x>Suksien pohjiin tarttui lunta niin paljon, etten päässyt mihinkään.</x>
+		       <xt>Saaveeh stuppânij nuuvt čuuvtij, et jiem kostâm kuussân.</xt>
+	         </xg>                                                
          </tg>
       </mg>
       <mg id="10">
          <tg xml:lang="smn" tw_id="tarttua 6eaad616-7b4c-46aa-91c9-2b625dba6f30">
             <t pos="V" l_par="liasta tms." wf="sturcám sturccá">sturccâđ</t>
+             <xg>
+	           <x>Lika tarttui käsiin. / Kädet likaantuivat.</x>
+		       <xt>Puoh kieđah sturccii.</xt>
+	         </xg>                                                
             <t pos="V" wf="rudom">ruddođ</t>
+             <xg>
+	           <x>Tästä saavista ei ole enää hyötyä, siihen on niin lika tarttunut.</x>
+		       <xt>Taan šaavâst ij lah innig kävni, tot lii nuuvt ruddom.</xt>
+	         </xg>                                                
          </tg>
       </mg>
    </e>

@@ -14250,15 +14250,15 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="tarttua fde5dc31-6932-4dac-9df9-fba049def230">
             <t pos="V" l_par="kiinni jhk" >tarvaniđ</t>
+            <t pos="V" l_par=""  wf="voovdâm vavda">vovdâđ</t>
              <xg>
 	           <x>Kala tarttui verkkoon.</x>
 		       <xt>Kyeli tarvânij viärmán.</xt>
-	         </xg>                                    
-            <t pos="V" l_par=""  wf="voovdâm vavda">vovdâđ</t>
+	         </xg>
              <xg>
 	           <x>Ahkio tarttui kiinni kiveen.</x>
 		       <xt>Kerris voovdâi kiäđgán.</xt>
-	         </xg>                                    
+	         </xg>
          </tg>
       </mg>
       <mg id="4">
@@ -14267,7 +14267,7 @@ For the full license text, see the link above.
              <xg>
 	           <x>Kengän (nutukas) kärki tarttui juureen.</x>
 		       <xt>Kaamuvnjune kokkâsij viäddás.</xt>
-	         </xg>                                    
+	         </xg>
          </tg>
       </mg>
       <mg id="1">
@@ -14276,7 +14276,7 @@ For the full license text, see the link above.
              <xg>
 	           <x>Flunssa tarttuu helposti yskiessä ja aivastellessa.</x>
 		       <xt>Lenccu njuámu älkkeht kuorsâtijn já kašneettijn.</xt>
-	         </xg>                                    
+	         </xg>
          </tg>
       </mg>
       <mg id="2">
@@ -14285,7 +14285,7 @@ For the full license text, see the link above.
              <xg>
 	           <x>Kala tarttui verkkoon.</x>
 		       <xt>Tot skirnádij uksâtoppiittâhân.</xt>
-	         </xg>                                                
+	         </xg>
          </tg>
       </mg>
       <mg id="3">
@@ -14294,7 +14294,7 @@ For the full license text, see the link above.
              <xg>
 	           <x>Hän tarttui rahoihin ja laski ne.</x>
 		       <xt>Sun čovádij ruuđâid já reknistij taid.</xt>
-	         </xg>                                                
+	         </xg>
          </tg>
       </mg>
       <mg id="5">
@@ -14303,7 +14303,7 @@ For the full license text, see the link above.
              <xg>
 	           <x>Paperi tarttui kiinni pöytään.</x>
 		       <xt>Pááppár njamasij kiddâ piävdán.</xt>
-	         </xg>                                                
+	         </xg>
          </tg>
       </mg>
       <mg id="6">
@@ -14322,7 +14322,7 @@ For the full license text, see the link above.
              <xg>
 	           <x>Lumi tarttuu vaatteisiin.</x>
 		       <xt>Muotâ topá pihtâsáid.</xt>
-	         </xg>                                                
+	         </xg>
          </tg>
       </mg>
       <mg id="9">
@@ -14332,21 +14332,21 @@ For the full license text, see the link above.
              <xg>
 	           <x>Suksien pohjiin tarttui lunta niin paljon, etten päässyt mihinkään.</x>
 		       <xt>Saaveeh stuppânij nuuvt čuuvtij, et jiem kostâm kuussân.</xt>
-	         </xg>                                                
+	         </xg>
          </tg>
       </mg>
       <mg id="10">
          <tg xml:lang="smn" tw_id="tarttua 6eaad616-7b4c-46aa-91c9-2b625dba6f30">
             <t pos="V" l_par="liasta tms." wf="sturcám sturccá">sturccâđ</t>
+            <t pos="V" wf="rudom">ruddođ</t>
              <xg>
 	           <x>Lika tarttui käsiin. / Kädet likaantuivat.</x>
 		       <xt>Puoh kieđah sturccii.</xt>
-	         </xg>                                                
-            <t pos="V" wf="rudom">ruddođ</t>
+	         </xg>
              <xg>
 	           <x>Tästä saavista ei ole enää hyötyä, siihen on niin lika tarttunut.</x>
 		       <xt>Taan šaavâst ij lah innig kävni, tot lii nuuvt ruddom.</xt>
-	         </xg>                                                
+	         </xg>
          </tg>
       </mg>
    </e>
@@ -50804,7 +50804,7 @@ For the full license text, see the link above.
 	           <x>Korostan, että...</x>
 		       <xt>Mun tiäduttâm, et...</xt>
 	           <x>Murheellinen ääni korosti asian todellisuutta.</x>
-		       <xt>Murâšlâš jienâ tiäduttij ääši tuođâlâšvuođâ.</xt>		       
+		       <xt>Murâšlâš jienâ tiäduttij ääši tuođâlâšvuođâ.</xt>
 	         </xg>
          </tg>
       </mg>
@@ -50819,7 +50819,7 @@ For the full license text, see the link above.
              <xg>
 	           <x>Ivalon kylä sijaitsee Inarin kunnassa.</x>
 		       <xt>Avveel markkân lii Aanaar kieldâst.</xt>
-	         </xg>            
+	         </xg>
          </tg>
       </mg>
    </e>
@@ -50834,8 +50834,8 @@ For the full license text, see the link above.
 	           <x>Ratkaisemme asian neuvottelemalla.</x>
 		       <xt>Mij čuávdip ääši ráđádâlmáin.</xt>
 	           <x>Ratkaista vaikea ongelma.</x>
-		       <xt>Čuávdiđ vaigâdis čuolmâ.</xt>		       
-	         </xg>            
+		       <xt>Čuávdiđ vaigâdis čuolmâ.</xt>
+	         </xg>
          </tg>
       </mg>
    </e>
@@ -50849,7 +50849,7 @@ For the full license text, see the link above.
              <xg>
 	           <x>Koulu palkitsi ahkeria oppilaita.</x>
 		       <xt>Škovlâ palhâšij viššâlis uáppeid.</xt>
-	         </xg>            
+	         </xg>
          </tg>
       </mg>
    </e>
@@ -50863,7 +50863,7 @@ For the full license text, see the link above.
              <xg>
 	           <x>Asia julkistettiin eilen.</x>
 		       <xt>Äšši piejui almosin jieht.</xt>
-	         </xg>            
+	         </xg>
          </tg>
       </mg>
    </e>
@@ -50873,14 +50873,14 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="V">jis ij</t>  
-            <t pos="V">jis iä</t>  
+            <t pos="V">jis ij</t>
+            <t pos="V">jis iä</t>
              <xg>
 	           <x>Ellei pakkasella osaa pukeutua, paleltuu.</x>
-		       <xt>Jis ij puolâšin määti kárvudâttâđ, kolmuu.</xt>	         
+		       <xt>Jis ij puolâšin määti kárvudâttâđ, kolmuu.</xt>
 	           <x>Lintuja oli kymmenittäin, ellei jo enemmänkin.</x>
 		       <xt>Lodeh lijjii luuvij mield, jis iä jo eenâb-uv.</xt>
-	         </xg>                                  
+	         </xg>
          </tg>
       </mg>
    </e>
@@ -50894,7 +50894,7 @@ For the full license text, see the link above.
              <xg>
 	           <x>Inarinsaamelaiset kasvattivat perunoita.</x>
 		       <xt>Anarâšah šoddâdii potákkijn.</xt>
-	         </xg>            
+	         </xg>
          </tg>
       </mg>
       <mg>
@@ -50903,7 +50903,7 @@ For the full license text, see the link above.
              <xg>
 	           <x>Jokin kasvattaa etua.</x>
 		       <xt>Miinii lasseet hiäđu.</xt>
-	         </xg>            
+	         </xg>
          </tg>
       </mg>
    </e>
@@ -50917,7 +50917,7 @@ For the full license text, see the link above.
              <xg>
 	           <x>Johtokunta valmistelee budjetin.</x>
 		       <xt>Stivrâ valmâštâl budjet.</xt>
-	         </xg>                        
+	         </xg>
          </tg>
       </mg>
    </e>
@@ -50933,7 +50933,7 @@ For the full license text, see the link above.
 		       <xt>Mij lâim jo tađe ovdil lonottâllâm čujottâsâid.</xt>
 	           <x>Ympäri maailmaa ihmiset ovat puhuneet monia kieliä ja vaihdelleet niitä tilanteen ja puhekaverin kielitaidon mukaan.</x>
 		       <xt>Pirrâ maailm ulmuuh láá sárnum maŋgâ kielâ já lonottâllâm taid tilálâšvuođâ já sárnumkyeimi kielâtááiđu mield. </xt>
-	         </xg>                        
+	         </xg>
          </tg>
       </mg>
       <mg>
@@ -50942,7 +50942,7 @@ For the full license text, see the link above.
              <xg>
 	           <x>Hyvät pyyntipaikat ovat vaihdelleet vuodenaikojen mukaan.</x>
 		       <xt>Vuovâs pivdosajeh láá mulsâšuđđâm iveaigij mield.</xt>
-	         </xg>                        
+	         </xg>
          </tg>
       </mg>
    </e>
@@ -50958,7 +50958,7 @@ For the full license text, see the link above.
 		       <xt>Storgâčarviittâhpuákuttâs kalga uđâdiđ love ive kooskâi.</xt>
 	           <x>Remontissa uusittiin ikkunat ja katto.</x>
 		       <xt>Remontist uđâdij laasâid já káátu.</xt>
-	         </xg>                                    
+	         </xg>
          </tg>
       </mg>
       <mg>
@@ -50967,8 +50967,8 @@ For the full license text, see the link above.
              <xg>
 	           <x>Tentin uusiminen.</x>
 		       <xt>Teenti kiärdum.</xt>
-	         </xg>                                    
+	         </xg>
          </tg>
-      </mg>      
+      </mg>
    </e>
 </r>

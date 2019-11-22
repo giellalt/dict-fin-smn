@@ -3974,6 +3974,20 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="erittäin 8322e089-4aac-4bd7-b279-25b3710a4ebf">
             <t pos="A-Adv">eromâš</t>
             <t pos="A-Adv-N">tuotâ</t>
+            <t pos="Adv">uáli</t>  
+            <xg>
+               <x>Tot lii uáli pyeri.</x>
+               <xt>Se on erittäin hyvä.</xt>
+            </xg>                                  
+         </tg>
+      </mg>
+      <mg id="1">
+         <tg xml:lang="smn" tw_id="erittäin 8322e089-4aac-4bd7-b279-25b3710a4ebf">
+            <t pos="Adv">meendu</t>  
+            <xg>
+               <x>Tot lii meendu vaigâd.</x>
+               <xt>Se on erittäin/liian vaikea.</xt>
+            </xg>                                  
          </tg>
       </mg>
    </e>
@@ -5561,7 +5575,16 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="hyvin 33800cda-8c96-44ab-af54-13c9c534612a">
-            <t pos="Adv" l_par="kovasti">čuuvtij</t>
+            <t pos="Adv">čuuvtij</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn" tw_id="hyvin 33800cda-8c96-44ab-af54-13c9c534612a">
+            <t pos="Adv" l_par="kovasti">uáli</t>
+            <xg>
+               <x>uáli muččâd</x>
+               <xt>hyvin kaunis</xt>
+            </xg>                                    
          </tg>
       </mg>
    </e>
@@ -7596,6 +7619,10 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="liian eb87d688-ac44-4995-af94-685517dd94a9">
             <t pos="Adv" t_tld="~miändu">meendu</t>
+            <xg>
+               <x>Ele moonâ meendu kuhás.</x>
+               <xt>Älä mene liian kauas.</xt>
+            </xg>                        
             <t pos="Adv">liijkás</t>
          </tg>
       </mg>
@@ -9154,4 +9181,18 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="1493601">
+      <lg>
+         <l pos="Adv">kovin</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn" tw_id="nykyään 40137132-741e-401d-9fe4-eb693f9f095e">
+            <t pos="Adv">uáli</t>
+            <xg>
+               <x>Nijbe ij lah uáli pastel.</x>
+               <xt>Veitsi ei ole kovin terävä.</xt>
+            </xg>                        
+         </tg>
+      </mg>
+   </e>   
 </r>

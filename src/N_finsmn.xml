@@ -91222,20 +91222,27 @@ For the full license text, see the link above.
          <l pos="N" r1_par="(part.) (subst.)">aika</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="aika bcd2640e-f8b8-4db6-b22f-4136ace4f7de">
-            <t pos="Adv-N">viehâ</t>
-            <t pos="Adv">uáli</t>
-            <t pos="Adv">melgâd</t>
+         <tg xml:lang="smn" tw_id="aika 8382948f-5bb3-43ed-943b-06441c721060">
+            <t pos="N" wf="ääigi">äigi</t>
+            <xg>
+               <x>Tääl lii äigi vyelgiđ.</x>
+               <xt>Nyt on aika lähteä.</xt>
+            </xg>                        
          </tg>
       </mg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="aika 8382948f-5bb3-43ed-943b-06441c721060">
-            <t pos="N" wf="ääigi">äigi</t>
+         <tg xml:lang="smn" tw_id="aika bcd2640e-f8b8-4db6-b22f-4136ace4f7de">
+            <t pos="Adv-N">viehâ</t>
+            <xg>
+               <x>Must láá viehâ ennuv kirjeh.</x>
+               <xt>Minulla on aika paljon kirjoja.</xt>
+            </xg>                        
+            <t pos="Adv">melgâd</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="aika cbed3aa5-0799-4b31-8b20-941c7901d126">
-            <t pos="N" l_par="aika jhk, jouto" wf="asto">asto</t>
+            <t pos="N" l_par="aika jhk, joutoaika" wf="asto">asto</t>
          </tg>
       </mg>
       <mg id="3">
@@ -91260,7 +91267,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="7">
          <tg xml:lang="smn" tw_id="aika d0c16c62-b663-4c1f-ad77-1c38e5d5c3cb">
-            <t pos="Pron" l_par="sinä aikana" wf="ääigi">ton</t>
+            <t pos="Adv" l_par="sinä aikana" wf="ääigi">ton ääigi</t>
          </tg>
       </mg>
       <mg id="8">
@@ -91280,7 +91287,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="11">
          <tg xml:lang="smn" tw_id="aika 13eba4f8-3a27-4201-8fae-c89562d3b992">
-            <t pos="N" l_par="pitkä aika" wf="ääigi">kuhes</t>
+            <t pos="N" l_par="pitkä aika" wf="ääigi">kuhes äigi</t>
          </tg>
       </mg>
       <mg id="12">

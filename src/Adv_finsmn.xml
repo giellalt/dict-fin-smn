@@ -3974,20 +3974,20 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="erittäin 8322e089-4aac-4bd7-b279-25b3710a4ebf">
             <t pos="A-Adv">eromâš</t>
             <t pos="A-Adv-N">tuotâ</t>
-            <t pos="Adv">uáli</t>  
+            <t pos="Adv">uáli</t>
             <xg>
                <x>Tot lii uáli pyeri.</x>
                <xt>Se on erittäin hyvä.</xt>
-            </xg>                                  
+            </xg>
          </tg>
       </mg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="erittäin 8322e089-4aac-4bd7-b279-25b3710a4ebf">
-            <t pos="Adv">meendu</t>  
+            <t pos="Adv">meendu</t>
             <xg>
                <x>Tot lii meendu vaigâd.</x>
                <xt>Se on erittäin/liian vaikea.</xt>
-            </xg>                                  
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5584,7 +5584,7 @@ For the full license text, see the link above.
             <xg>
                <x>uáli muččâd</x>
                <xt>hyvin kaunis</xt>
-            </xg>                                    
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7618,12 +7618,12 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="liian eb87d688-ac44-4995-af94-685517dd94a9">
+            <t pos="Adv">liijkás</t>
             <t pos="Adv" t_tld="~miändu">meendu</t>
             <xg>
                <x>Ele moonâ meendu kuhás.</x>
                <xt>Älä mene liian kauas.</xt>
-            </xg>                        
-            <t pos="Adv">liijkás</t>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
@@ -9191,8 +9191,8 @@ For the full license text, see the link above.
             <xg>
                <x>Nijbe ij lah uáli pastel.</x>
                <xt>Veitsi ei ole kovin terävä.</xt>
-            </xg>                        
+            </xg>
          </tg>
       </mg>
-   </e>   
+   </e>
 </r>

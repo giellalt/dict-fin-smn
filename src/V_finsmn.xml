@@ -14667,6 +14667,19 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="tippua 04b01a67-9b6a-432f-8843-420c87b0e7ea">
             <t pos="V" wf="kuoškuu ij kuášku">kuáškuđ</t>
+            <xg>
+        	<x>Nallen käpälästä tippui verta.</x>
+            <xt>Njoobžâ kepilist kuáškui vorrâ.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg id="1">
+         <tg xml:lang="smn" tw_id="tippua 04b01a67-9b6a-432f-8843-420c87b0e7ea">
+            <t pos="V" wf="kuoškuu ij kuášku">koččâđ</t>
+            <xg>
+             <x>Kettu tippui/putosi kaivoon.</x>
+            <xt>Riemnjis koočâi kááivun.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -14677,6 +14690,19 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="tiputtaa f1188bc5-ecd3-4340-905a-88800485e5e3">
             <t pos="V" wf="kuáškuttâm">kuáškuttiđ</t>
+            <xg>
+            <x>tiputtaa tippoja lasiin</x>
+            <xt>kuáškuttiđ kuáškánjâsâid laasân</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg id="1">
+         <tg xml:lang="smn" tw_id="tiputtaa f1188bc5-ecd3-4340-905a-88800485e5e3">
+            <t pos="V">kočâttiđ</t>
+            <xg>
+         <x>tiputtaa/pudottaa kuppi lattialle</x>
+            <xt>kočâttiđ koopâ lättei</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -18268,6 +18294,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="irvistää 4f772031-c156-4933-85f0-ef9cd8ac83eb">
             <t pos="V" wf="nirviim">nirviđ</t>
+            <t pos="V" wf="nirviim">nirváđ</t>
             <t pos="V" wf="ruoibiim">ruoibiđ</t>
             <t pos="V" wf="vizzáám">vizzáđ</t>
          </tg>
@@ -22645,6 +22672,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="virnistää 63628328-43cf-4ca2-93ef-a6485d445aa2">
             <t pos="V" wf="nirváám">nirváđ</t>
+            <t pos="V" wf="nirviim">nirviđ</t>
             <t pos="V" wf="njiäzzáám">njiäzzáđ</t>
          </tg>
       </mg>
@@ -39632,6 +39660,15 @@ For the full license text, see the link above.
             <t pos="V" wf="luávdám">luávdiđ</t>
          </tg>
       </mg>
+      <mg id="1">
+         <tg xml:lang="smn" tw_id="peittää 68fb4632-f98d-41e4-92b0-c413861a70ee">
+            <t pos="V" wf="luávdám">peittiđ</t>
+            <xg>
+               <x>Limakerros peittää tasaisesti koko kalan.</x>
+               <xt>Njivlekerdi piäittá täsivávt ubâ kyele.</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="peittää 7082f284-ae80-44f7-9861-9a6f2340db7f">
             <t pos="V" l_par="nopeasti">luávdiliđ</t>
@@ -43577,15 +43614,25 @@ For the full license text, see the link above.
       <lg>
          <l pos="V">salata</l>
       </lg>
+      <mg id="2">
+         <tg xml:lang="smn" tw_id="salata 91207724-e8ae-426e-86c8-d6f7f9d3b8d8">
+            <t pos="V" l_par="pitää salassa">anneeđ čiähusâst</t>
+            <t pos="V">toollâđ syeligâsâst</t>
+            <xg>
+              <x>pitää piilossa</x>
+              <xt>anneeđ čiähusâst</xt>
+              <x>pitää salassa/salaisuutena</x>
+              <xt>toollâđ syeligâsâst</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="salata 2ccd33b4-fbfa-46ea-8c38-e6f551403eb2">
             <t pos="V" wf="piäitám">peittiđ</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn" tw_id="salata 91207724-e8ae-426e-86c8-d6f7f9d3b8d8">
-            <t pos="V" l_par="pitää salassa" wf="čiähusâst">anneeđ</t>
-            <t pos="V" wf="syeligâsâst">toollâđ</t>
+            <xg>
+              <x>Se salasi tapansa.</x>
+              <xt>Tot peeitij tavijdis.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

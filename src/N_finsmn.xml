@@ -16911,6 +16911,19 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="erotus 64999661-45e6-49c2-b84a-0c891f299a06">
             <t pos="N">iäruttâs</t>
+            <xg>
+               <x>Vähennyslaskun vastaus on erotus.</x>
+               <xt>Kepidemreekkig vástádâs lii iäruttâs.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg id="1">
+         <tg xml:lang="smn" tw_id="erotus 64999661-45e6-49c2-b84a-0c891f299a06">
+            <t pos="N">pygálys</t>
+            <xg>
+               <x>poroetotus</x>
+               <xt>pygálys</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -26967,7 +26980,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="jäähalli 56df5670-be7f-455e-8395-56769bada875">
-            <t pos="N" syn_dash="-haaLâ">jieŋâhallâ</t>
+            <t pos="N" syn_dash="-haaLâ">jieŋâhalli</t>
          </tg>
       </mg>
    </e>
@@ -113234,6 +113247,11 @@ For the full license text, see the link above.
       <lg>
          <l pos="N">kenkä</l>
       </lg>
+      <mg id="1">
+         <tg xml:lang="smn" tw_id="kenkä a8363728-342a-413e-b15d-176baa0f5b0f">
+            <t pos="N" t_tld="~kaamuv kammuu">kaamuv</t>
+         </tg>
+      </mg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kenkä a8363728-342a-413e-b15d-176baa0f5b0f">
             <t pos="N" t_tld="~kaamuv kammuu">kaamâ</t>

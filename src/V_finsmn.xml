@@ -33111,6 +33111,16 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="6556">
+      <lg>
+         <l pos="V">kyykätä</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn" tw_id="">
+            <t pos="V" l_par="mennä kyykkyyn" wf="">nottođ</t>
+         </tg>
+      </mg>
+   </e>
    <e id="6557">
       <lg>
          <l pos="V" comma=", olla kyykyssä">kyykkiä</l>

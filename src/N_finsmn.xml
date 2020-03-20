@@ -337,6 +337,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="hittolainen 5a557907-a741-43b3-8aa1-04006f9530b6">
             <t pos="N" t_tld="~ hemelâš hemelii" wf="hámálii">hámálâš</t>
+            <t pos="N">hemelâš</t>
          </tg>
       </mg>
    </e>
@@ -362,11 +363,12 @@ For the full license text, see the link above.
    </e>
    <e id="2739">
       <lg>
-         <l pos="N">hyväuskoinen</l>
+         <l pos="A">hyväuskoinen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="hyväuskoinen 4c3fcf0c-aa4a-42f8-b411-87e6c84f838d">
-            <t pos="N" t_tld="~tájuttettee">tájuttittee</t>
+            <t pos="A" >tájuttettee</t>
+            <t pos="A" t_tld="~tájuttettee">tájuttittee</t>
          </tg>
       </mg>
    </e>
@@ -1381,6 +1383,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="päivällinen 4440ae19-201b-41e2-a019-31467ed521ce">
+            <t pos="N">eehidpurrâmuš</t>
             <t pos="N" t_tld="~eeHidpurrâmuš">eehidpurrâmâš</t>
          </tg>
       </mg>
@@ -1411,7 +1414,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="raaka e7b71a2f-77cf-4ff7-8245-185e9b99ef55">
-            <t pos="N" t_tld="~ vaddâ vaadâ" wf="faadâ">faddâ</t>
+            <t pos="N" t_tld="~ vaddâ vaadâ" l_par="mastossa" wf="faadâ">faddâ</t>
          </tg>
       </mg>
    </e>
@@ -1621,7 +1624,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="sisin c5c23979-1613-4498-b125-873a0e2ed42e">
-            <t pos="A" t_tld="~siskálâš">siskelâš</t>
+            <t pos="A" t_tld="~siskelâš">siskálâš</t>
          </tg>
       </mg>
    </e>
@@ -1981,7 +1984,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="vesiraukka f7512819-4422-41fe-9341-b7920f7ea981">
-            <t pos="N" syn_dash="-raavgâ" t_tld="~ čäciravgâ -raavgâ">čääsiravgâ</t>
+            <t pos="N" syn_dash="-raavgâ" t_tld="~ čääsiravgâ -raavgâ">čäciravgâ</t>
          </tg>
       </mg>
    </e>
@@ -2319,6 +2322,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="luiska 46c93410-37cd-43f9-a8e8-10c2599fe46e">
             <t pos="N" wf="njuáidus">njuáidus</t>
             <t pos="N" t_tld="~ ramppâ raampâ" wf="raampi">ramppi</t>
+            <t pos="N" >ramppâ</t>
          </tg>
       </mg>
    </e>
@@ -2429,7 +2433,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="päällinen 0a80f0e5-d46e-481d-b390-5c46848e77aa">
-            <t pos="N" t_tld="~ uulguš ulguu" wf="ulguu">olgooš</t>
+            <t pos="N" t_tld="~ olgooš" wf="ulguu">uulguš</t>
             <t pos="N" wf="paajaa">paajaaš</t>
          </tg>
       </mg>
@@ -3110,7 +3114,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="puuseppä 1d7ecd57-142f-4928-ab6e-21acfd86a166">
-            <t pos="N" l_par="kirvesmies" t_tld="~šnikkár">snikkár</t>
+            <t pos="N" l_par="kirvesmies" t_tld="~snikkár">šnikkár</t>
          </tg>
       </mg>
    </e>
@@ -3610,7 +3614,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="venäläinen 776333e0-cb1d-4bfe-8994-fb1ab6324fe4">
             <t pos="N" wf="ruošâ">ruoššâ</t>
-            <t pos="N" t_tld="~ ryešilâš ryešilii" wf="ryeššilii">ryeššilâš</t>
+            <t pos="N" t_tld="~ ryeššilâš ryeššilii" wf="ryešilii">ryešilâš</t>
          </tg>
       </mg>
    </e>
@@ -4021,8 +4025,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="henkselit 88a26247-19b4-464f-8218-88cabf1d99c8">
-            <t pos="N" r_par="mon.">heŋkseleh</t>
-            <t pos="N" r_par="mon." t_tld="~häŋkseleh~häŋkselih">hänskeleh</t>
+            <t pos="N" t_tld="~hänskeleh~häŋkseleh~häŋkselih"r_par="mon.">heŋkseleh</t>
          </tg>
       </mg>
    </e>

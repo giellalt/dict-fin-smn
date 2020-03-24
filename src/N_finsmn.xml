@@ -4025,7 +4025,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="henkselit 88a26247-19b4-464f-8218-88cabf1d99c8">
-            <t pos="N" t_tld="~hänskeleh~häŋkseleh~häŋkselih"r_par="mon.">heŋkseleh</t>
+            <t pos="N" t_tld="~hänskeleh~häŋkseleh~häŋkselih" r_par="mon.">heŋkseleh</t>
          </tg>
       </mg>
    </e>
@@ -88056,7 +88056,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn" tw_id="vita 40dc4f3c-7e36-475b-abbb-f6f7b1ee3512">
-            <t pos="N" l_par="vita altapäältä, teroitettu" t_tld="~čuuvâstuh~čuuvâstâh čuuvâstuv">čuuvâstoh</t>
+            <t pos="N" l_par="vita altapäältä, teroitettu" t_tld="~čuuvâstuh~čuuvâstoh čuuvâstuv">čuuvâstâh</t>
             <t pos="N" t_tld="~čuVâstoh~čuVâstuh čuVâstuv">čuvâstâh</t>
          </tg>
       </mg>
@@ -89049,7 +89049,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="väkänen 70bb245f-5a97-47e3-9c54-7383d9461c6e">
-            <t pos="N" t_tld="~áŋálduh áŋálduv ~áŋáldâh áŋálduv" wf="áŋálduv">áŋáldoh</t>
+            <t pos="N" t_tld="~áŋálduh áŋálduv ~áŋáldoh áŋálduv" wf="áŋálduv">áŋáldâh</t>
          </tg>
       </mg>
    </e>
@@ -91180,8 +91180,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="adjektiivi 14456072-9e5f-42f0-a0bb-5c3a409bce4e">
-            <t pos="N" t_tld="~adjektiv">adjektiiv</t>
-            <t pos="N" wf="adjektiijvâ">adjektijvâ</t>
+            <t pos="N" t_tld="~adjektiv ~adjektijvâ">adjektiiv</t>
          </tg>
       </mg>
    </e>
@@ -91291,6 +91290,7 @@ For the full license text, see the link above.
       <mg id="6">
          <tg xml:lang="smn" tw_id="aika 70f9ca44-4c13-443f-9ae5-2fd87a23f842">
             <t pos="N" l_par="aika, jolloin kala ui hyvin nuottaan" syn_dash="-ääigi" t_tld="~ puttâmpääLi -pääli ~ -päle">puttâmäigi</t>
+            <t pos="N" l_par="aika, jolloin kala ui hyvin nuottaan" syn_dash="-ääigi" t_tld="~ puttâmpääLi -pääli ~ -päle">puttâmpääli</t>
          </tg>
       </mg>
       <mg id="7">

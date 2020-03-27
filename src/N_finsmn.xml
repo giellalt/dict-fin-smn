@@ -106455,7 +106455,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="vesivoimala ee1b56d6-3204-4a35-a28c-ee455eda74f0">
             <t pos="N">čäcivyeimiruustig</t>
-            <t pos="N" t_tld="~ čäcivyeimilágádâs">čäcivyeimilájádâs</t>
+            <t pos="N" t_tld="~ čäcivyeimilájádâs">čäcivyeimilágádâs</t>
          </tg>
       </mg>
    </e>
@@ -106488,7 +106488,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="vetehinen 2c907621-5476-477d-b661-4158ece41152">
             <t pos="N" wf="vuáŋŋáá">vuáŋŋáš</t>
-            <t pos="N" t_tld="~ čäciravgâ -raavgâ">čääsiravgâ</t>
+            <t pos="N" t_tld="~ čääsiravgâ -raavgâ">čäciravgâ</t>
          </tg>
       </mg>
    </e>
@@ -107316,7 +107316,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="hyytymä 69d9ac21-34f7-462f-a538-dd1125f64ba4">
             <t pos="N" t_tld="~káđáldoh káđálduv ~káđálduh káđálduv" wf="káđálduv">káđáldâh</t>
-            <t pos="N" t_tld="~káláldâh kálálduv ~káláldoh kálálduv" wf="kálálduv">kálálduh</t>
+            <t pos="N" t_tld="~kálálduh kálálduv ~káláldoh kálálduv" wf="kálálduv">káláldâh</t>
          </tg>
       </mg>
    </e>
@@ -107971,7 +107971,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="asema ba0651d0-5065-4922-b9ce-e7910cb3ff94">
-            <t pos="Pron" l_par="jnk asemassa, asemasta" t_tld="~ saJan" wf="saajeest">kiännii</t>
+            <t pos="Pron" l_par="jnk asemassa, asemasta" t_tld="~ saJan" wf="saajeest" mwe="y">kiännii sajan</t>
          </tg>
       </mg>
    </e>
@@ -108128,12 +108128,12 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="aurinko 1ef0a04b-be54-401c-84fd-add7efa37dc6">
-            <t pos="N" l_par="aurinko nousee" t_tld="~piäivâš ~ peivi paijaan">piäiváš</t>
+            <t pos="N" l_par="aurinko nousee" t_tld="~piäivâš ~ peivi paijaan" mwe="y">piäiváš paijaan</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn" tw_id="aurinko 41127d14-0116-404e-8caf-74b66971002d">
-            <t pos="N" l_par="aurinko laskee" t_tld="~piäivâš ~ peivi luáštá">piäiváš</t>
+            <t pos="N" l_par="aurinko laskee" t_tld="~piäivâš ~ peivi luáštá" mwe="y">piäiváš luáštá</t>
          </tg>
       </mg>
    </e>
@@ -108841,7 +108841,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="haarukka 5bd4c659-26ae-4730-a7dc-804df30de837">
-            <t pos="N" t_tld="~kahvâl~kaahvâl">kahvel</t>
+            <t pos="N" t_tld="~kahvâl~kahvel">kaahvâl</t>
          </tg>
       </mg>
       <mg id="2">
@@ -109555,12 +109555,12 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="hengitys 5906dd8b-4167-436d-b917-6cbbcff4fe27">
-            <t pos="N" l_par="hengitys haisee pahalle" wf="lij paas opsâ">vuoiŋâstuvâin</t>
+            <t pos="N" l_par="hengitys haisee pahalle" wf="lij paas opsâ" mwe="y">vuoiŋâstuvâin lii paas opsâ</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn" tw_id="hengitys 0fd16fdf-70a1-47fa-84f3-ba4f49e08af2">
-            <t pos="Pron" l_par="sinun henkesi haisee pahalle" t_tld="~ vuoiŋâstuvah opsiideh paan" wf="jiegah">tust</t>
+            <t pos="Pron" l_par="sinun henkesi haisee pahalle" t_tld="~ vuoiŋâstuvah opsiideh paan" wf="jiegah" mwe="y">tust vuoiŋâstuvah opsiideh paan</t>
          </tg>
       </mg>
    </e>
@@ -109794,13 +109794,7 @@ For the full license text, see the link above.
             <t pos="N" l_par="hihnassa oleva eläin">veeddâh</t>
          </tg>
       </mg>
-      <mg id="5">
-         <tg xml:lang="smn" tw_id="hihna d4c74a31-773d-4f0f-b3d0-0d58c4a268dd">
-            <t pos="N" l_par="olla pitkässä hihnassa koirasta" t_tld="~ kuuhij">kuhij</t>
-            <t pos="Adv">kuhheeht</t>
-         </tg>
-      </mg>
-      <mg id="6">
+         <mg id="6">
          <tg xml:lang="smn" tw_id="hihna c2adafe4-2f21-4bfc-8d64-354e825493b0">
             <t pos="N" l_par="hihnaa pelkäävä ajoporo">läbžipallee</t>
          </tg>

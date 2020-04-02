@@ -4133,7 +4133,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="joskus 4389e5ec-1994-4108-8f15-f00602757c6c">
             <t pos="Adv">motomin</t>
-            <t pos="Adv" t_tld="~ -kin">-gin</t>
          </tg>
       </mg>
    </e>
@@ -4248,9 +4247,9 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kahdestaan c924486c-3151-400a-9d41-1885721270de">
-            <t pos="Adv">kuávttáákooskâl</t>
-            <t pos="Adv" wf="koskân">kuávttáá</t>
             <t pos="Adv">kuávttáá</t>
+            <t pos="Adv" wf="" mwe="y">kuávttáá koskân</t>
+            <t pos="Adv">kuávttáákooskâl</t>
          </tg>
       </mg>
    </e>
@@ -5150,7 +5149,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="alla 6a041bb6-c156-4292-baff-d29a44b3443b">
-            <t pos="Adv" l_par="tuulen alla">miäđáápeln</t>
+            <t pos="Adv" l_par="tuulen alla">miäđáábeln</t>
          </tg>
       </mg>
    </e>
@@ -6572,17 +6571,17 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="näkemiin 3f80da6a-bcc5-4b65-b8c4-b42f35d28183">
-            <t pos="Adv" l_par="yksi hyvästeltävä" wf="tiervân">pääsi</t>
+            <t pos="Adv" l_par="yksi hyvästeltävä" wf="" mwe="y">pääsi tiervân</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="näkemiin f56dd3a2-541d-4137-88ec-c19084352f76">
-            <t pos="N" l_par="kaksi hyvästeltävää" wf="tiervân">päccee</t>
+            <t pos="N" l_par="kaksi hyvästeltävää" wf="tiervân" mwe="y">päccee tiervân</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn" tw_id="näkemiin 68ad3fd9-463b-4684-a7c9-51cc33145853">
-            <t pos="Adv" l_par="enemmän kuin kaksi hyvästeltävää" wf="tiervân">pääccid</t>
+            <t pos="Adv" l_par="enemmän kuin kaksi hyvästeltävää" wf="tiervân" mwe="y">pääcciđ tiervân</t>
          </tg>
       </mg>
    </e>
@@ -6887,12 +6886,12 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="päällekkäin 10ad1470-adb6-457e-935b-22f5fe8c69ff">
-            <t pos="Adv" l_par="esim. pinossa" t_tld="~paJaluVâi~paJaluvâi">pajaluvvâi</t>
+            <t pos="Adv" l_par="esim. pinossa" t_tld="~paJaluVâi~paJaluvâi">pajaluvâi</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="päällekkäin 53344609-50bf-446f-96c8-af9c57eb950e">
-            <t pos="Adv" l_par="toinen toisensä päällä esim. peskeistä" t_tld="~polkkoluVâi~polkkoluvâi">polkkoluvvâi</t>
+            <t pos="Adv" l_par="toinen toisensä päällä esim. peskeistä" t_tld="~polkkoluVâi~polkkoluvâi">polkkoluvâi</t>
          </tg>
       </mg>
    </e>
@@ -7238,14 +7237,14 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="toisaalle 494ad8d2-587b-46c6-9123-32bd199bf7da">
-            <t pos="Adv" l_par="toisella puolella, toiselta puolelta">nubepeln</t>
-            <t pos="Adv">tovnpeln</t>
+            <t pos="Adv" l_par="toisella puolella, toiselta puolelta">nubebeln</t>
+            <t pos="Adv">tovnbeln</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn" tw_id="toisaalle e89bd06b-5592-4791-ab99-5987a706ac3a">
-            <t pos="Adv" l_par="toiselle puolelle">nubepel</t>
-            <t pos="Adv">tovnpel</t>
+            <t pos="Adv" l_par="toiselle puolelle">nubebel</t>
+            <t pos="Adv">tovnbel</t>
             <t pos="Adv">tuombel</t>
          </tg>
       </mg>
@@ -7688,7 +7687,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="esim. 20587d0b-efd8-4505-9e1c-d8868635f2ad">
-            <t pos="Adv" r_par="= ovdâmerkkân">om.</t>
+            <t pos="Adv" r_par="= ovdâmerkkân">om</t>
          </tg>
       </mg>
    </e>
@@ -8797,7 +8796,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="pohjoispuolella 3a0b2b47-bbb6-4e78-b280-2f0e5b34a480">
             <t pos="Adv">taavaakeččin</t>
-            <t pos="Adv">taavaapeln</t>
+            <t pos="Adv">taavaabeln</t>
          </tg>
       </mg>
    </e>

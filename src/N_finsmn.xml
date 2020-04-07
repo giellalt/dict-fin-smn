@@ -50091,8 +50091,8 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn" tw_id="naama 19907162-db89-4cf9-842d-edfadf28238a">
-            <t pos="N" l_par="naama umpeen" wf="kiddâ">turbe</t>
-            <t pos="N" wf="turbáád">tollii</t>
+            <t pos="N" l_par="naama umpeen" mwe="y">turbe kiddâ</t>
+            <t pos="N" mwe="y">tollii turbáád</t>
          </tg>
       </mg>
    </e>
@@ -54751,7 +54751,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="palsternakka ed85453b-6868-4a26-95cf-11bce9ac6992">
-            <t pos="N" wf="palsternaakâ">palsternakkâ</t>
+            <t pos="N" wf="palsternaaka">palsternakka</t>
          </tg>
       </mg>
    </e>
@@ -59044,7 +59044,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="polttiaisentoukka 1c5d5645-19a5-4de5-bfa9-07f4df328e11">
-            <t pos="N" wf="suoksâ" syn="~ polttijáá suoksâ">suovâlode</t>
+            <t pos="N" mwe="y" syn="~ polttijáá suoksâ">suovâlode suoksâ</t>
          </tg>
       </mg>
    </e>
@@ -62476,7 +62476,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="raateluhammas 8c250509-dd87-411d-90b3-fa411b13bed1">
-            <t pos="N" wf="čallaan">čallaam</t>
+            <t pos="N" t_tld="~čallaan">čallaam</t>
          </tg>
       </mg>
    </e>
@@ -73190,7 +73190,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="syöksyhammas b3a6dc36-b27a-4468-b797-5e2c6d907a15">
-            <t pos="N" wf="čallaan">čallaam</t>
+            <t pos="N" t_tld="~čallaan">čallaam</t>
          </tg>
       </mg>
    </e>
@@ -77716,7 +77716,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="torahammas 75a17647-4c94-4fbf-a6c3-613fd9e3efc2">
-            <t pos="N" wf="čallaan">čallaam</t>
+            <t pos="N" t_tld="~čallaan">čallaam</t>
          </tg>
       </mg>
    </e>
@@ -86239,7 +86239,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="vesistö 20aa3946-3ea3-47a4-8ce1-ca78f6aa3c5a">
-            <t pos="N" wf="čácáduv">čácáduh</t>
+            <t pos="N" wf="čácáduv">čácádâh</t>
          </tg>
       </mg>
    </e>

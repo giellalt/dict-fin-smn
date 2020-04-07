@@ -37,7 +37,7 @@ For the full license text, see the link above.
    </e>
    <e id="17470">
       <lg>
-         <l pos="A" r1_par="(porotokasta)">yhdessä pysyvä</l>
+         <l pos="A" r1_par=(porotokasta">yhdessä pysyvä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="yhdessä pysyvä 9b40cd1d-c2a2-42d3-b559-0784d98d320e">
@@ -47,7 +47,7 @@ For the full license text, see the link above.
    </e>
    <e id="1145">
       <lg>
-         <l pos="A" r1_par="(poronvasa)">emää rakastava</l>
+         <l pos="A" r1_par=(poronvasa">emää rakastava</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="emää rakastava cc70952b-9f3c-406f-9791-f25cab138cdb">

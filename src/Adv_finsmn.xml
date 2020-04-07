@@ -184,7 +184,7 @@ For the full license text, see the link above.
    </e>
    <e id="5530 5531">
       <lg>
-         <l pos="Adv" r1_par="(adverbi) (subst.)">kohta</l>
+         <l pos="Adv" r1_par=(adverbi) (subst.">kohta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kohta 5876ea4c-48f8-4860-85f9-e204b21d0e99">
@@ -259,7 +259,7 @@ For the full license text, see the link above.
    </e>
    <e id="12855 12856 12857">
       <lg>
-         <l pos="Adv" r1_par="(esim. aineksista) (mieleltään) (sotkussa)">sekaisin</l>
+         <l pos="Adv" r1_par=(esim. aineksista) (mieleltään) (sotkussa">sekaisin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="sekaisin d137c075-2562-4572-8ab3-f9542f202204">
@@ -505,7 +505,7 @@ For the full license text, see the link above.
    </e>
    <e id="3675">
       <lg>
-         <l pos="Adv" r1_par="(part.)">juuri</l>
+         <l pos="Adv" r1_par=(part.">juuri</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="juuri 314c9f83-c3d7-451f-89dc-074c2c5f4ced">
@@ -583,7 +583,7 @@ For the full license text, see the link above.
    </e>
    <e id="12005">
       <lg>
-         <l pos="Adv" r1_par="(ei ehjä)">rikki</l>
+         <l pos="Adv" r1_par=(ei ehjä">rikki</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="rikki 48c06ad3-c457-4ec7-bb04-5637feec58a1">
@@ -623,7 +623,7 @@ For the full license text, see the link above.
    </e>
    <e id="16426">
       <lg>
-         <l pos="Adv" r1_par="(adv.)">vasta</l>
+         <l pos="Adv" r1_par=(adv.">vasta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="vasta 77e2d9c2-9f32-4bf0-a53e-672a3f6a2bb2">
@@ -650,7 +650,7 @@ For the full license text, see the link above.
    </e>
    <e id="13086">
       <lg>
-         <l pos="Adv" r1_par="(pron.)" comma=", -nä">siitä</l>
+         <l pos="Adv" r1_par=(pron." comma=", -nä">siitä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="siitä 137c6522-cdba-443a-a6bd-e6c4f3a1e7fd">
@@ -766,7 +766,7 @@ For the full license text, see the link above.
    </e>
    <e id="13307">
       <lg>
-         <l pos="Adv" r1_par="(+ komp.)">sitä</l>
+         <l pos="Adv" r1_par=(+ komp.">sitä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="sitä e097b1a6-bdac-4801-8b2d-b0ecb3532c71">
@@ -786,7 +786,7 @@ For the full license text, see the link above.
    </e>
    <e id="17528">
       <lg>
-         <l pos="Adv" r1_par="(samaa)">yhtä</l>
+         <l pos="Adv" r1_par=(samaa">yhtä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="yhtä c40f4580-b8a4-495c-b829-b072fcaf475f">
@@ -1183,7 +1183,7 @@ For the full license text, see the link above.
    </e>
    <e id="11475">
       <lg>
-         <l pos="Adv" r1_par="(kuluttua)">päästä</l>
+         <l pos="Adv" r1_par=(kuluttua">päästä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="päästä 4eec02ac-f899-4a8e-b570-e94a5601a512">
@@ -1359,7 +1359,7 @@ For the full license text, see the link above.
    </e>
    <e id="968">
       <lg>
-         <l pos="Adv" r1_par="(käsin)">edeltä</l>
+         <l pos="Adv" r1_par=(käsin">edeltä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="edeltä 1af43da8-e8ff-4f74-be3d-e6853fdde902">
@@ -1979,7 +1979,7 @@ For the full license text, see the link above.
    </e>
    <e id="5521">
       <lg>
-         <l pos="Adv" r1_par="(käsistä)">kohmeessa</l>
+         <l pos="Adv" r1_par=(käsistä">kohmeessa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kohmeessa 9e8909f9-6cd4-4a48-888d-67f7759da377">
@@ -1989,7 +1989,7 @@ For the full license text, see the link above.
    </e>
    <e id="5716">
       <lg>
-         <l pos="Adv" r1_par="(teuras)">kontallaan</l>
+         <l pos="Adv" r1_par=(teuras">kontallaan</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kontallaan ebe049a9-aac9-481e-b45d-d7617395deb1">
@@ -2229,7 +2229,7 @@ For the full license text, see the link above.
    </e>
    <e id="7875">
       <lg>
-         <l pos="Adv" r1_par="(jtak)">lähelle</l>
+         <l pos="Adv" r1_par=(jtak">lähelle</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="lähelle 29770162-fcb1-4257-be14-cd582808e270">
@@ -2529,7 +2529,7 @@ For the full license text, see the link above.
    </e>
    <e id="11387">
       <lg>
-         <l pos="Adv" r1_par="(ei poikittain)">päittäin</l>
+         <l pos="Adv" r1_par=(ei poikittain">päittäin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="päittäin 892b7789-8267-4de5-8500-dc4e5057c913">
@@ -2629,7 +2629,7 @@ For the full license text, see the link above.
    </e>
    <e id="12444">
       <lg>
-         <l pos="Adv" r1_par="(valosta)">räikeästi</l>
+         <l pos="Adv" r1_par=(valosta">räikeästi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="räikeästi 67e53fdc-b3bd-41df-ad38-413e527cbc4e">
@@ -2819,7 +2819,7 @@ For the full license text, see the link above.
    </e>
    <e id="13379">
       <lg>
-         <l pos="Adv" r1_par="(suorana)">sojollaan</l>
+         <l pos="Adv" r1_par=(suorana">sojollaan</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="sojollaan c9a090b8-3b4d-46ce-91e9-a25e8968abe6">
@@ -2859,7 +2859,7 @@ For the full license text, see the link above.
    </e>
    <e id="13936">
       <lg>
-         <l pos="Adv" r1_par="(maassa t. vedessä)" comma=", -ltä">syvällä</l>
+         <l pos="Adv" r1_par=(maassa t. vedessä" comma=", -ltä">syvällä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="syvällä 0be8c828-39e3-4a5b-8128-bdb7bea54182">
@@ -3069,7 +3069,7 @@ For the full license text, see the link above.
    </e>
    <e id="15605">
       <lg>
-         <l pos="Adv" r1_par="(konkr.)">täpärästi</l>
+         <l pos="Adv" r1_par=(konkr.">täpärästi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="täpärästi fb8cf99e-760a-4141-9235-303888175e0b">
@@ -3109,7 +3109,7 @@ For the full license text, see the link above.
    </e>
    <e id="15737">
       <lg>
-         <l pos="Adv" r1_par="(ulkomuistista)">ulkoa</l>
+         <l pos="Adv" r1_par=(ulkomuistista">ulkoa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="ulkoa 6e57b4fa-1615-495e-aa49-228cfdcf06ca">
@@ -3349,7 +3349,7 @@ For the full license text, see the link above.
    </e>
    <e id="17034">
       <lg>
-         <l pos="Adv" r1_par="(oleva)">vinottain</l>
+         <l pos="Adv" r1_par=(oleva">vinottain</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="vinottain 816907a2-cd8f-4b6d-a9be-1fda325a72a6">
@@ -3519,7 +3519,7 @@ For the full license text, see the link above.
    </e>
    <e id="17589">
       <lg>
-         <l pos="Adv" r1_par="(esim. katsoa ylen)">ylen</l>
+         <l pos="Adv" r1_par=(esim. katsoa ylen">ylen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="ylen 853e3488-344e-491d-a935-41c618cdf54b">
@@ -4607,7 +4607,7 @@ For the full license text, see the link above.
    </e>
    <e id="9467">
       <lg>
-         <l pos="Adv" r1_par="(totuudenmukaisesti)">oikein</l>
+         <l pos="Adv" r1_par=(totuudenmukaisesti">oikein</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="oikein 8e2aa01d-0fae-4ec3-b634-de111a061327">
@@ -4675,7 +4675,7 @@ For the full license text, see the link above.
    </e>
    <e id="10942">
       <lg>
-         <l pos="Adv" r1_par="(mus.)">presto</l>
+         <l pos="Adv" r1_par=(mus.">presto</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="presto 1d2c8be2-aa56-4ad1-8773-dffd12263f13">
@@ -4686,7 +4686,7 @@ For the full license text, see the link above.
    </e>
    <e id="11752">
       <lg>
-         <l pos="Adv" r1_par="(esim. ovi, ikkuna)">raollaan</l>
+         <l pos="Adv" r1_par=(esim. ovi, ikkuna">raollaan</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="raollaan a029c922-63a6-4021-9904-bdc42a3e6a57">
@@ -4808,7 +4808,7 @@ For the full license text, see the link above.
    </e>
    <e id="13913">
       <lg>
-         <l pos="Adv" r1_par="(asutuksesta)" comma=", -stä">syrjässä</l>
+         <l pos="Adv" r1_par=(asutuksesta" comma=", -stä">syrjässä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="syrjässä 30dd2f3c-2951-41f7-9dfd-3861f1a37402">
@@ -4819,7 +4819,7 @@ For the full license text, see the link above.
    </e>
    <e id="13916">
       <lg>
-         <l pos="Adv" r1_par="(asutuksesta)">syrjään</l>
+         <l pos="Adv" r1_par=(asutuksesta">syrjään</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="syrjään a12c1d9a-9069-48a1-a281-6bed8767536a">
@@ -5002,7 +5002,7 @@ For the full license text, see the link above.
    </e>
    <e id="17676">
       <lg>
-         <l pos="Adv" r1_par="(vastakohtana kumollaan)">ylössuin</l>
+         <l pos="Adv" r1_par=(vastakohtana kumollaan">ylössuin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="ylössuin 559d32ff-f65a-4044-b6b2-c94da27d825b">
@@ -5361,7 +5361,7 @@ For the full license text, see the link above.
    </e>
    <e id="1577">
       <lg>
-         <l pos="Adv" r1_par="(jaloista)">haarallaan</l>
+         <l pos="Adv" r1_par=(jaloista">haarallaan</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="haarallaan 8a64e091-cac0-40c5-924e-3d1e40b61daa">
@@ -5437,7 +5437,7 @@ For the full license text, see the link above.
    </e>
    <e id="2028">
       <lg>
-         <l pos="Adv" r1_par="(ränsistynyt)">heitteillä</l>
+         <l pos="Adv" r1_par=(ränsistynyt">heitteillä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="heitteillä 6c79343c-f5c9-48d8-94b7-39cb4067b7bd">
@@ -6309,7 +6309,7 @@ For the full license text, see the link above.
    </e>
    <e id="7893">
       <lg>
-         <l pos="Adv" r1_par="(enimmäkseen)">lähinnä</l>
+         <l pos="Adv" r1_par=(enimmäkseen">lähinnä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="lähinnä 45aac406-cff3-4747-9e24-aaa451d6fcf1">
@@ -6327,7 +6327,7 @@ For the full license text, see the link above.
    </e>
    <e id="8129">
       <lg>
-         <l pos="Adv" r1_par="(konkr. ja kuv.)">makeasti</l>
+         <l pos="Adv" r1_par=(konkr. ja kuv.">makeasti</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="makeasti 1fac8ab2-6090-4ca6-9161-9a53a3906853">
@@ -6547,7 +6547,7 @@ For the full license text, see the link above.
    </e>
    <e id="9290">
       <lg>
-         <l pos="Adv" r1_par="(astiasta tms.)">nurin</l>
+         <l pos="Adv" r1_par=(astiasta tms.">nurin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="nurin 4a208870-ab5d-4293-b8e7-594b27ad2999">
@@ -7683,7 +7683,7 @@ For the full license text, see the link above.
    </e>
    <e id="1349">
       <lg>
-         <l pos="Adv" r1_par="(= esimerkiksi)">esim.</l>
+         <l pos="Adv" r1_par=(= esimerkiksi">esim.</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="esim. 20587d0b-efd8-4505-9e1c-d8868635f2ad">
@@ -7693,7 +7693,7 @@ For the full license text, see the link above.
    </e>
    <e id="1521">
       <lg>
-         <l pos="Adv" r1_par="(mus.)">forte</l>
+         <l pos="Adv" r1_par=(mus.">forte</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="forte b3bcb03b-db3e-428d-bc7d-a9ba8f48b0de">
@@ -7773,7 +7773,7 @@ For the full license text, see the link above.
    </e>
    <e id="3424">
       <lg>
-         <l pos="Adv" r1_par="(jälkeen Kristuksen)">jKr</l>
+         <l pos="Adv" r1_par=(jälkeen Kristuksen">jKr</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="jKr fb067777-14cf-402a-92d1-4de377e4fce5">
@@ -7783,7 +7783,7 @@ For the full license text, see the link above.
    </e>
    <e id="3425">
       <lg>
-         <l pos="Adv" r1_par="(ja niin edelleen)">jne.</l>
+         <l pos="Adv" r1_par=(ja niin edelleen">jne.</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="jne. 834ba941-411e-43f7-96b1-316303e31cb3">
@@ -7803,7 +7803,7 @@ For the full license text, see the link above.
    </e>
    <e id="3441">
       <lg>
-         <l pos="Adv" r1_par="(ensimmäisenä)">johdossa</l>
+         <l pos="Adv" r1_par=(ensimmäisenä">johdossa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="johdossa c3dba3d1-21c6-4e8b-85fb-1470dc3e76f4">
@@ -8023,7 +8023,7 @@ For the full license text, see the link above.
    </e>
    <e id="8353">
       <lg>
-         <l pos="Adv" r1_par="(lähemmäs metsää, kauemmas asumuksesta)">metsemmäs</l>
+         <l pos="Adv" r1_par=(lähemmäs metsää, kauemmas asumuksesta">metsemmäs</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="metsemmäs e67a76d6-cff6-44f5-9238-b477ca79d0e9">
@@ -8033,7 +8033,7 @@ For the full license text, see the link above.
    </e>
    <e id="8354">
       <lg>
-         <l pos="Adv" r1_par="(lähempänä metsää, kauempana asumuksesta)">metsempänä</l>
+         <l pos="Adv" r1_par=(lähempänä metsää, kauempana asumuksesta">metsempänä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="metsempänä 69e199d0-c73a-4168-a5e8-991c389fd8ce">
@@ -8323,7 +8323,7 @@ For the full license text, see the link above.
    </e>
    <e id="14203">
       <lg>
-         <l pos="Adv" r1_par="(ei pysyvästi)">taitteella</l>
+         <l pos="Adv" r1_par=(ei pysyvästi">taitteella</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="taitteella 75115787-7989-493c-a238-7aab5f3f5912">
@@ -8393,7 +8393,7 @@ For the full license text, see the link above.
    </e>
    <e id="14843">
       <lg>
-         <l pos="Adv" r1_par="(tai muuta sellaista)">tms.</l>
+         <l pos="Adv" r1_par=(tai muuta sellaista">tms.</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="tms. 56de344b-9fa3-4470-8ddd-729c91734d8f">
@@ -8443,7 +8443,7 @@ For the full license text, see the link above.
    </e>
    <e id="16522">
       <lg>
-         <l pos="Adv" r1_par="(tav. lauma t. eläin)">veitallaan</l>
+         <l pos="Adv" r1_par=(tav. lauma t. eläin">veitallaan</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="veitallaan ea49a018-6b79-4bcf-9ecd-73261f0de9cb">
@@ -8543,7 +8543,7 @@ For the full license text, see the link above.
    </e>
    <e id="17644">
       <lg>
-         <l pos="Adv" r1_par="(oleminen)">yllettävissä</l>
+         <l pos="Adv" r1_par=(oleminen">yllettävissä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="yllettävissä ea9b089a-8df1-4972-9091-b0b1bc52f9c1">
@@ -8930,7 +8930,7 @@ For the full license text, see the link above.
    </e>
    <e id="1180">
       <lg>
-         <l pos="Adv" r1_par="(-)">ensi</l>
+         <l pos="Adv" r1_par=(-">ensi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="ensi cf99df28-6dbb-4241-a162-a9550be5e00d">

@@ -27,7 +27,7 @@ For the full license text, see the link above.
      </sourcenote></lics>
    <e id="1984">
       <lg>
-         <l pos="Interj" r1_par="(tervehdyksenä)">hei</l>
+         <l pos="Interj" r1_par=(tervehdyksenä">hei</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="hei 455aeda5-c9e9-43f5-b11e-08c9e28ba3ac">
@@ -67,7 +67,7 @@ For the full license text, see the link above.
    </e>
    <e id="3565">
       <lg>
-         <l pos="Interj" r1_par="(lievä kirosana)">jukolauta</l>
+         <l pos="Interj" r1_par=(lievä kirosana">jukolauta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="jukolauta 2e7d957c-22c5-4448-b8a8-aab3d429f846">

@@ -150,7 +150,7 @@ For the full license text, see the link above.
    </e>
    <e id="5595">
       <lg>
-         <l pos="Pron" r1_par=(part.">koko</l>
+         <l pos="Pron" r1_par="part.">koko</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="koko 00758045-c970-4efd-b274-a10d74be8dea">
@@ -273,7 +273,7 @@ For the full license text, see the link above.
    </e>
    <e id="14519 14520">
       <lg>
-         <l pos="Pron" r1_par=(kaksikko) (monikko">te</l>
+         <l pos="Pron" r1_par="kaksikko) (monikko">te</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="te c549bdcf-08a9-4610-8726-a4df77880f37">
@@ -308,7 +308,7 @@ For the full license text, see the link above.
    </e>
    <e id="15848">
       <lg>
-         <l pos="Pron" r1_par=(mon.">useimmat</l>
+         <l pos="Pron" r1_par="mon.">useimmat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="useimmat edcfbc3e-6bf0-495d-a855-8f16c8a114be">
@@ -318,7 +318,7 @@ For the full license text, see the link above.
    </e>
    <e id="17471">
       <lg>
-         <l pos="Pron" r1_par=(matem." r2_par=(mon.">yhdet</l>
+         <l pos="Pron" r1_par="matem." r2_par="mon.">yhdet</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="yhdet f7075ee6-9107-4e7f-96e6-dd74283d8e30">
@@ -705,7 +705,7 @@ For the full license text, see the link above.
    </e>
    <e id="8492">
       <lg>
-         <l pos="Pron" r1_par=(mon.">molemmat</l>
+         <l pos="Pron" r1_par="mon.">molemmat</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="molemmat 6169b0a6-7bfd-4719-ac1d-d45be751c024">

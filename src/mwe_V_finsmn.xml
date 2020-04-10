@@ -47,7 +47,7 @@ For the full license text, see the link above.
    </e>
    <e id="4009">
       <lg>
-         <l pos="V" r1_par=(esim. halkoja t. heiniä">kahmaista sylin täysi</l>
+         <l pos="V" r1_par="esim. halkoja t. heiniä">kahmaista sylin täysi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kahmaista sylin täysi 3b3ca3e3-3445-4491-9acf-50099c80d29c">
@@ -87,9 +87,9 @@ For the full license text, see the link above.
    </e>
    <e id="11193">
       <lg>
-         <l pos="V" r1_par=(yhtäkkiä">purskahtaa itkuun</l>
+         <l pos="V" r1_par="yhtäkkiä">purskahtaa itkuun</l>
       </lg>
-      <mg id="1">
+      <mg id="1111">
          <tg xml:lang="smn" tw_id="purskahtaa itkuun fdf2a388-d520-42dd-9bf0-9ee923076151">
             <t pos="V">čiärádiđ</t>
          </tg>
@@ -117,7 +117,7 @@ For the full license text, see the link above.
    </e>
    <e id="13978">
       <lg>
-         <l pos="V" r1_par=(tulivuoresta">syöstä laavaa</l>
+         <l pos="V" r1_par="tulivuoresta">syöstä laavaa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="syöstä laavaa 57849284-88e7-48bb-816e-0ffab2005e13">
@@ -300,7 +300,7 @@ For the full license text, see the link above.
    </e>
    <e id="7334">
       <lg>
-         <l pos="V" r1_par=(tuulesta">liehuttaa jtak</l>
+         <l pos="V" r1_par="tuulesta">liehuttaa jtak</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="liehuttaa jtak cc3440c7-a8d5-4b5f-99c6-16e8083faf29">
@@ -315,7 +315,7 @@ For the full license text, see the link above.
    </e>
    <e id="8936">
       <lg>
-         <l pos="V" r1_par=(eläimestä">napata suuhunsa</l>
+         <l pos="V" r1_par="eläimestä">napata suuhunsa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="napata suuhunsa 71fabf56-5e30-4db0-bdaf-15e730548831">

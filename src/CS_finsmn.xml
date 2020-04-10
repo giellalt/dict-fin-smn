@@ -27,7 +27,7 @@ For the full license text, see the link above.
      </sourcenote></lics>
    <e id="5845 5844">
       <lg>
-         <l pos="CS" r1_par=(kysymyssana) (alistuskonjunktio">koska</l>
+         <l pos="CS" r1_par="kysymyssana) (alistuskonjunktio">koska</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="koska 868c11d2-9b7c-45c8-8be7-37664b7c3016">
@@ -158,7 +158,7 @@ For the full license text, see the link above.
    </e>
    <e id="1086">
       <lg>
-         <l pos="CS" r1_par=(jne." comma=", -et, -ei">ellen</l>
+         <l pos="CS" r1_par="jne." comma=", -et, -ei">ellen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="ellen 326becf2-fd4c-4780-b113-f0d51e2167b7">

@@ -27,7 +27,7 @@ For the full license text, see the link above.
      </sourcenote></lics>
    <e id="3442">
       <lg>
-         <l pos="Po" r1_par=(takia">johdosta</l>
+         <l pos="Po" r1_par="takia">johdosta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="johdosta fc33d28d-9f46-48cc-9db5-372a3903bcc4">
@@ -67,7 +67,7 @@ For the full license text, see the link above.
    </e>
    <e id="10710">
       <lg>
-         <l pos="Po" r1_par=(jnk">pohjalta</l>
+         <l pos="Po" r1_par="jnk">pohjalta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="pohjalta 3ede2760-cdcc-4ec7-9f28-3b96f59a75c0">
@@ -97,7 +97,7 @@ For the full license text, see the link above.
    </e>
    <e id="11121">
       <lg>
-         <l pos="Po" r1_par=(välissä">puolessa</l>
+         <l pos="Po" r1_par="välissä">puolessa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="puolessa 37639f8c-99fe-4fef-89b4-19cd73c9a183">
@@ -118,7 +118,7 @@ For the full license text, see the link above.
    </e>
    <e id="751 752">
       <lg>
-         <l pos="Po" r1_par=(jhonk, jnnek) (jstak, jssak">asti</l>
+         <l pos="Po" r1_par="jhonk, jnnek) (jstak, jssak">asti</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="asti 2ee92c4a-5dfb-48fe-98de-47fc6fe76b84">
@@ -165,7 +165,7 @@ For the full license text, see the link above.
    </e>
    <e id="7900">
       <lg>
-         <l pos="Po" r1_par=(jstak">lähtien</l>
+         <l pos="Po" r1_par="jstak">lähtien</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="lähtien be6bd7eb-5340-4dd6-a6ca-d2795f7bbbb4">
@@ -200,7 +200,7 @@ For the full license text, see the link above.
    </e>
    <e id="632">
       <lg>
-         <l pos="Po" r1_par=(jk">armoilla</l>
+         <l pos="Po" r1_par="jk">armoilla</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="armoilla 3583b3b7-2f72-4cc2-ba73-6df6815e4cd5">

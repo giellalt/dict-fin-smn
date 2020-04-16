@@ -541,7 +541,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="hyväuskoinen 55918196-c42a-41ca-8cbd-000dab27aa1f">
-            <t pos="A" t_tld="~tájuttettee">tájuttittee</t>
+            <t pos="A" t_tld="~tájuttettee">tájuttettee</t>
          </tg>
       </mg>
    </e>
@@ -1967,7 +1967,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="ympyräsuinen a4e1a40d-10dd-4481-9157-e97be8cc87d4">
-            <t pos="A" t_tld="~jurbânjáálmág">jurbânjáálmâg</t>
+            <t pos="A" t_tld="~jurbânjáálmág">jurbânjáálmág</t>
          </tg>
       </mg>
    </e>
@@ -2031,7 +2031,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="hajamielinen 7bb8aff2-708f-4de1-8a56-b3d4273d6954">
-            <t pos="A">vájáldittee</t>
+            <t pos="A">vájáldettee</t>
             <t pos="A" attr="# muštottes">muštottem</t>
          </tg>
       </mg>
@@ -5957,7 +5957,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="gluteeniton 8d56cef9-d89d-4800-a080-5a2ff4e6ff03">
-            <t pos="A" attr="# -es">glutenittem</t>
+            <t pos="A" attr="# -es">gluuteenttem</t>
          </tg>
       </mg>
    </e>
@@ -6197,7 +6197,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="henkeäsalpaava 20f86de6-b3a9-4e78-9c01-83effe50e097">
-            <t pos="A">šyehkittittee</t>
+            <t pos="A">šyehkittettee</t>
          </tg>
       </mg>
    </e>
@@ -6237,7 +6237,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="herkkäuskoinen d069c2f3-e239-4d4b-91ec-0fd8f2e4ddbc">
-            <t pos="N" t_tld="~tájuttettee">tájuttittee</t>
+            <t pos="N" t_tld="~tájuttettee">tájuttettee</t>
          </tg>
       </mg>
    </e>
@@ -6557,7 +6557,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="hyytävä 64eafdd3-b570-4d8b-8e5d-ddda387a6bac">
-            <t pos="A">káđáldittee</t>
+            <t pos="A">káđáldettee</t>
          </tg>
       </mg>
    </e>
@@ -8353,7 +8353,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="laktoositon 91ce3b1b-b110-4b18-b9ce-53661e97718d">
-            <t pos="A" attr="# -es">laktoosittem</t>
+            <t pos="A" attr="# -es">laktoosttem</t>
          </tg>
       </mg>
    </e>
@@ -8533,7 +8533,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="luotettava ee19a7b3-ffaa-4273-8727-23c380c2ccab">
-            <t pos="N" t_tld="~ lyetittijjee ~ lyetittittee">lyetitteijee</t>
+            <t pos="N" t_tld="~ lyetittijjee ~ lyetittettee">lyetitteijee</t>
          </tg>
       </mg>
    </e>
@@ -13949,7 +13949,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="kelvollinen 347430ef-dc53-4404-82e0-38c03fbd4ed7">
             <t pos="A" wf="tohálii">tohálâš</t>
             <t pos="A" attr="# -s">tuhhiittettee</t>
-            <t pos="A" attr="# -s">monâttittee</t>
+            <t pos="A" attr="# -s">monâttettee</t>
          </tg>
       </mg>
    </e>
@@ -15448,7 +15448,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="välttävä 3e2d8bbc-822b-4a5b-9478-725b497cdc66">
-            <t pos="A">veltittittee</t>
+            <t pos="A">veltittettee</t>
          </tg>
       </mg>
    </e>
@@ -16407,7 +16407,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="harhaanjohtava 6f190bd5-6643-455c-ac47-905a226f173d">
-            <t pos="A" l_par="konkr., eksyttävä">čájádittee</t>
+            <t pos="A" l_par="konkr., eksyttävä">čájádettee</t>
          </tg>
       </mg>
       <mg id="2">
@@ -18102,7 +18102,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="kiero cf038e3f-97e2-4ab8-9c9b-e6dcd68c6d20">
-            <t pos="Adv" l_par="vino" t_tld="~vinnood">vinnjood</t>
+            <t pos="Adv" l_par="vino" t_tld="~vinnood">vinnood</t>
          </tg>
       </mg>
       <mg id="3">
@@ -18970,7 +18970,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="lihava 3d07bfc3-8ab0-4267-8e63-03bcace0048d">
             <t pos="A" attr="# pyeidis" wf="pyeidi">pyeidi</t>
-            <t pos="A" attr="# -is">puáidáh</t>
+            <t pos="A" attr="# -is">puáidáá</t>
          </tg>
       </mg>
       <mg id="2">

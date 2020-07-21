@@ -61549,6 +61549,11 @@ For the full license text, see the link above.
       <lg>
          <l pos="N">pyyntö</l>
       </lg>
+            <mg id="1">
+         <tg xml:lang="smn" tw_id="">
+            <t pos="N">tuoivâ</t>
+         </tg>
+      </mg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="pyyntö 51af6881-74cd-4fec-a6ba-4dfd9cda1619">
             <t pos="N">táttum</t>
@@ -87793,7 +87798,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="virkistyskalastus 90e02cb6-f0f2-4510-8473-1dcf969af85f">
-            <t pos="N">astoääigikuálástus</t>
+            <t pos="N">astoääigikuálástem</t>
          </tg>
       </mg>
    </e>
@@ -112320,6 +112325,11 @@ For the full license text, see the link above.
       <lg>
          <l pos="N">kalastus</l>
       </lg>
+      <mg id="1">
+         <tg xml:lang="smn" tw_id="">
+            <t pos="N">kuálástem</t>
+         </tg>
+      </mg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kalastus 6eb2adfb-9257-445d-b292-b77ffdb045e9">
             <t pos="N">kuálástus</t>

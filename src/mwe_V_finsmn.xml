@@ -67,7 +67,7 @@ For the full license text, see the link above.
    </e>
    <e id="4330">
       <lg>
-         <l pos="V" syn="karstata villaa">kartata villaa</l>
+         <l pos="V" syn="kartata villaa">karstata villaa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kartata villaa b65724fb-7e48-4234-871a-e17b309e5440">
@@ -131,7 +131,12 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="turistaa nenäänsä 58d4e0ed-d475-41ea-aab0-039c501a0126">
-            <t pos="V" wf="šnurom">šnurroođ</t>
+            <t pos="V" wf="šnurom" l_par="puhallella nenän kautta, erit. porosta, nenämatojen takia">šnurroođ</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn" tw_id="">
+            <t pos="V" l_par="niistää nenä">nissoođ</t>
          </tg>
       </mg>
    </e>
@@ -196,8 +201,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="purskahtaa nauruun be8933e3-699d-4be0-8ec1-5986a5582faf">
-            <t pos="V" wf="purccáám">purccáđ</t>
             <t pos="V" wf="ruáHás">ruáhásiđ</t>
+            <t pos="V" wf="purccáám">purccáđ</t>
          </tg>
       </mg>
    </e>
@@ -207,9 +212,9 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="ajaa pois 270da1d9-172b-4fc9-92f3-3176b99d70b4">
+            <t pos="V" wf="vyejeet">vyejettiđ</t>
             <t pos="V" wf="jaagiim">jaagiđ</t>
             <t pos="V" wf="šigom">šiggođ</t>
-            <t pos="V" wf="vyejeet">vyejettiđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -295,6 +300,11 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn" tw_id="harata vastaan 35dd6046-0060-485a-87ec-02975720ab3c">
             <t pos="V" l_par="esim. talutettaessa t. äkkiä pysähdyttäessä">cogâstâttâđ</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn" tw_id="">
+            <t pos="V" l_par="vastustaa, uhmata">vuástálistiđ</t>
          </tg>
       </mg>
    </e>

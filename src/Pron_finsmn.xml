@@ -196,7 +196,20 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="jossa bb518b15-13c8-4d31-b4d8-62d7718126dd">
-            <t pos="Adv">kost</t>
+            <t pos="Adv" l_par="maantieteellinen sijainti tärkeä">kost</t>
+            <xg>
+               <x>Minä synnyin Ivalossa,jossa asuin monta vuotta.</x>
+               <xt>Mun šoddim Avelist, kost aassim maŋgâ ive.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn" tw_id="jossa bb518b15-13c8-4d31-b4d8-62d7718126dd">
+            <t pos="Adv" l_par="muu kuin maantieteellinen sijainti tärkeä">mast</t>
+            <xg>
+               <x>Tässähän se on tämä niemi, jossa minulla on verkko.</x>
+               <xt>Taahân taat lii taat njargâ, mast must lii joddee.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -678,8 +691,12 @@ For the full license text, see the link above.
       <mg id="5">
          <tg xml:lang="smn" tw_id="mikä 7e0ee800-6271-4234-85b2-d0ee3b63b9bd">
             <t pos="Pron" l_par="mikä tahansa" t_tld="~seti-">säti-</t>
-            <t pos="Pron" wf="peri">mii</t>
-            <t pos="Pron" wf="váá">mii</t>
+            <xg>
+               <x>mikä tahansa ruoka</x>
+               <xt>sätipurrâmuš</xt>
+            </xg>
+            <t pos="Pron" mwe="y">mii peri</t>
+            <t pos="Pron" mwe="y">mii váá</t>
          </tg>
       </mg>
       <mg id="6">

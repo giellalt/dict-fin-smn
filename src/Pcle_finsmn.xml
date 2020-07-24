@@ -52,6 +52,19 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="irto- b5056cbe-b0bc-4c10-8ed8-b3d020d5dd7a">
             <t pos="Pcle">pođoi-</t>
+            <xg>
+               <x>yksinäinen ihminen; ilman taloa ja perhettä</x>
+               <xt>pođoi olmooš</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn" tw_id="">
+            <t pos="Pcle">luovâs</t>
+            <xg>
+               <x>irtokoira</x>
+               <xt>luovâs peenuv</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -72,6 +85,15 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="jospa c32bcf08-a3bf-4d3f-848b-3d80190c79b5">
             <t pos="Adv">väri</t>
+            <xg>
+               <x>Jospa et lähtisi.</x>
+               <xt>Väri jieh vuálgáččii.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn" tw_id="">
+            <t pos="Adv">jispa</t>
          </tg>
       </mg>
    </e>
@@ -91,7 +113,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kas 9666b0a4-94e9-4387-81b2-c597592e790f">
-            <t pos="Pron">kiäh</t>
+            <t pos="Pcle">kiäh</t>
          </tg>
       </mg>
    </e>
@@ -162,6 +184,8 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="-pä b803ef54-7908-4d6a-bdca-07665ce0d7b0">
             <t pos="Pcle" t_tld="~-kân">-gân</t>
+            <t pos="Pcle">-râk</t>
+            <t pos="Pcle">-poi</t>
          </tg>
       </mg>
    </e>
@@ -194,6 +218,14 @@ For the full license text, see the link above.
             <t pos="Pcle">-hân</t>
             <t pos="Pcle">-sun</t>
             <t pos="Pcle" t_tld="~ tibbii">tibi</t>
+            <xg>
+               <x>Minähän lähden verkot laskemaan.</x>
+               <xt>Mun tibi vuálgám jotteid suáppuđ.</xt>
+            </xg>
+            <xg>
+               <x>Mitenhän se sitten käy?.</x>
+               <xt>Na sun tibi, maht te kiävá?</xt>
+            </xg>
          </tg>
       </mg>
    </e>

@@ -111,7 +111,6 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="tervetuloa 312bbfd4-cdd5-4740-a32a-812b7db97278">
-            <t pos="N">pyereestpuáttim</t>
             <t pos="N">pyeripuáttim</t>
             <t pos="N">tiervâpuáttim</t>
          </tg>
@@ -124,6 +123,11 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="hus 86810b3c-36bf-4567-b755-e76c83c48e78">
             <t pos="Interj">hos</t>
+         </tg>
+      </mg>
+      <mg id="1">
+         <tg xml:lang="smn" tw_id="">
+            <t pos="Interj">fuos</t>
          </tg>
       </mg>
       <mg id="2">
@@ -155,6 +159,10 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="ah c3981103-0c31-446e-b2cb-b9ae714f2cf8">
             <t pos="Interj">kah</t>
+            <xg>
+               <x>Ah,sinä olet myös tullut.</x>
+               <xt>Kah, tun lah meid puáttám.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

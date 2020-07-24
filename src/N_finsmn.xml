@@ -5041,7 +5041,7 @@ For the full license text, see the link above.
    </e>
    <e id="10877">
       <lg>
-         <l pos="N" tt_auto="nenäsaivartaja Cephonomyia trompe">poron</l>
+         <l pos="N" tt_auto="Cephonomyia trompe">poron nenäsaivartaja</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="poron 7721bad9-5c9e-430c-9a05-f054760def58">
@@ -5129,6 +5129,32 @@ For the full license text, see the link above.
    <e id="14035">
       <lg>
          <l pos="N" r1_par="koipinahkasäärystin">säpäke</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn" tw_id="säpäke 22d7bd43-a0b8-4d4b-ab6c-931e164a63ce">
+            <t pos="N" r_par="mon.">káálsuh</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn" tw_id="säpäke f5c644a3-dff3-4f45-b71a-22c2ae6548e7">
+            <t pos="N" l_par="naisten" r_par="mon.">kamâspidoh</t>
+            <t pos="N" wf="pido">piddo</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn" tw_id="säpäke a82ea026-68a7-4a0e-a1aa-5c44c48a03bf">
+            <t pos="N" l_par="joissa m. haaraosa" r_par="mon.">kamâspuuvsah</t>
+         </tg>
+      </mg>
+      <mg id="4">
+         <tg xml:lang="smn" tw_id="säpäke 561a6dfe-22e3-4e50-b58b-bd830ae8203b">
+            <t pos="N" l_par="säpäkkeen alapään verka" syn_dash="-njäälmi">kamâspiddonjälmi</t>
+         </tg>
+      </mg>
+   </e>
+      <e id="14035">
+      <lg>
+         <l pos="N" r1_par="koipinahkasäärystin">säpikäs</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="säpäke 22d7bd43-a0b8-4d4b-ab6c-931e164a63ce">
@@ -5919,6 +5945,10 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="heinät 8bdc15bc-b2a6-4bb8-881a-28bfb03de0d9">
             <t pos="N" wf="liepâ">lieppâ</t>
+            <xg>
+               <x>Tässä kengässä on hyvät heinät.</x>
+               <xt>Taan kammuu siste lii šiev lieppâ.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7906,7 +7936,7 @@ For the full license text, see the link above.
    </e>
    <e id="8798">
       <lg>
-         <l pos="N">mäiskis</l>
+         <l pos="N" r1_par="ääni">mäiskis</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="mäiskis a35ec2e1-aacf-4ea8-b708-6bbc0768b6bb">
@@ -132346,6 +132376,16 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="smn">
             <t pos="N">čäittee</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sanavartalo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">sänimaadâ</t>
          </tg>
       </mg>
    </e>

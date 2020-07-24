@@ -41,8 +41,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="sekä ... että 3ceb01b5-d2a9-4585-ace2-9f2bece762c6">
-            <t pos="CC" wf="... já">sehe</t>
-            <t pos="CC" wf="... ete">sehe</t>
+            <t pos="CC" mwe="y">sehe... já"</t>
+            <t pos="CC" mwe="y">sehe... ete</t>
          </tg>
       </mg>
    </e>

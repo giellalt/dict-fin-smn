@@ -38,6 +38,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="koska 4173d8d5-b6db-4119-a6bc-a6a1e5abceae">
             <t pos="CS">tastko</t>
             <t pos="CS">ko</t>
+            <t pos="CS" mwe="y">tondiet ko</t>
          </tg>
       </mg>
    </e>
@@ -99,7 +100,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="vaikka eb07d58e-d461-4cb1-9ee2-ff40247b071b">
-            <t pos="CS" t_tld="~veik">vâik</t>
+            <t pos="CS" >veikkâ</t>
+            <t pos="CS" t_tld="~vâik">veik</t>
             <t pos="CS">jos</t>
          </tg>
       </mg>
@@ -153,18 +155,22 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="jottei 02ca2e33-e2e7-4f00-a1e5-e757e0f4d318">
             <t pos="CS" t_tld="~emas">amas</t>
+            <xg>
+               <x>Laita villasukat jotteivät jalat palellu.</x>
+               <xt>Piejâ ullosuhháid amas jyelgih kolmuđ.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e id="1086">
       <lg>
-         <l pos="CS" r1_par="jne." comma=", -et, -ei">ellen</l>
+         <l pos="CS" r1_par="minä" comma=", -et, -ei">ellen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="ellen 326becf2-fd4c-4780-b113-f0d51e2167b7">
-            <t pos="CS" mwe="y">jis jiem</t>
-            <t pos="CS" mwe="y">jis jieh</t>
-            <t pos="CS" r_par="jna." mwe="y">jis ij</t>
+            <t pos="CS" r_par="mun" mwe="y">jis jiem</t>
+            <t pos="CS" r_par="tun" mwe="y">jis jieh</t>
+            <t pos="CS" r_par="sun" mwe="y">jis ij</t>
          </tg>
       </mg>
    </e>
@@ -186,14 +192,18 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="ettei ec0fc404-c423-4918-acdb-b71d2e111760">
             <t pos="CS" t_tld="~ emas">amas</t>
+            <xg>
+               <x>Mene sisälle ettet kastu.</x>
+               <xt>Moonâ siisâ amas njuoskâđ.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="ettei 242171f5-fa3f-4a1b-9675-71aad7c0192a">
             <t pos="CS" l_par="syytä ilmoittamassa">vâi</t>
             <xg>
-               <x>mene sisälle ettet kastu"</x>
-               <xt>moonâ siisâ amas njuoskâđ</xt>
+               <x>Mene sisälle ettet kastu.</x>
+               <xt>Moonâ siisâ vâi jieh njuoskâ.</xt>
             </xg>
          </tg>
       </mg>

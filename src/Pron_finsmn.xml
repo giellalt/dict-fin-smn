@@ -695,7 +695,11 @@ For the full license text, see the link above.
                <x>mikä tahansa ruoka</x>
                <xt>sätipurrâmuš</xt>
             </xg>
+         </tg>
+         <tg xml:lang="smn">
             <t pos="Pron" mwe="y">mii peri</t>
+         </tg>
+         <tg xml:lang="smn">
             <t pos="Pron" mwe="y">mii váá</t>
          </tg>
       </mg>

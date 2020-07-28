@@ -20561,10 +20561,12 @@ For the full license text, see the link above.
       <mg id="5">
          <tg xml:lang="smn" tw_id="pitkä 6bde2075-a32c-4c48-b5a6-e1fe82ce2577">
             <t pos="A" l_par="olla pidempi t. ulkonevampi kuin muut esineet; olla pitkässä hihnassa koirasta" t_tld="~ kuuhij">kuhij</t>
-                        <xg>
+            <xg>
                <x>Miksi sidoit koiran niin pitkälle hihnalle?.</x>
                <xt>Mondiet čoonnih pennuu nuuvt kuhij?.</xt>
             </xg>
+         </tg>
+         <tg xml:lang="smn">
             <t pos="Adv">kuhheeht</t>
          </tg>
       </mg>

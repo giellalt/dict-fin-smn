@@ -9089,6 +9089,8 @@ For the full license text, see the link above.
                <x>siinä mielessä</x>
                <xt>ton tááhust</xt>
             </xg>
+         </tg>
+         <tg xml:lang="smn">
             <t pos="Adv">mielâst</t>
             <xg>
                <x>siinä mielessä</x>
@@ -9127,7 +9129,7 @@ For the full license text, see the link above.
       </mg>
    </e>
    <e id="11133">
-      <lg> 
+      <lg>
          <l pos="Adv">puolin</l>
       </lg>
       <mg id="1">

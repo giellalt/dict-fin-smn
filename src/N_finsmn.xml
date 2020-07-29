@@ -86406,18 +86406,18 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="veto 8d664323-6bd1-49f4-8d8c-c7b2c1ed923f">
-            <t pos="N" wf="kiäsu">kiäsu</t>
+            <t pos="N" wf="kiäsu" l_par="teonnimi">kiäsu</t>
          </tg>
       </mg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="veto 6328f631-91ed-4b79-8bf7-053f54a82da3">
-            <t pos="N" wf="piegâ">pieggâ</t>
+            <t pos="N" wf="piegâ" l_par="esim. ikkunan raoista puhaltava">pieggâ</t>
             <t pos="N" wf="jielâ">jielâ</t>
          </tg>
       </mg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="veto ea8a977a-bb83-4425-929d-1c1861f9cae3">
-            <t pos="N" wf="viäđu">viätu</t>
+            <t pos="N" wf="viäđu" l_par="vedonlyönnissä">viätu</t>
             <t pos="N" wf="háástu">hástu</t>
          </tg>
       </mg>
@@ -86574,7 +86574,7 @@ For the full license text, see the link above.
    </e>
    <e id="16798">
       <lg>
-         <l pos="N">vierivieressä</l>
+         <l pos="Adv">vierivieressä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="vierivieressä 9894e39d-cae6-4de4-bc7a-53142b46f858">
@@ -87530,7 +87530,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="vilunväre 8f6fefce-c226-462e-a204-6fe4c850c137">
-            <t pos="A" wf="uškás">uškes</t>
+            <t pos="N" wf="uškás">uškes</t>
          </tg>
       </mg>
    </e>
@@ -88100,7 +88100,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="vita bedf9dcf-f491-4afe-9ba7-bc2e54c3ed13">
-            <t pos="N" wf="syeVi">syevvi</t>
+            <t pos="N" wf="syeVi" l_par="kasvi">syevvi</t>
          </tg>
       </mg>
       <mg id="1">
@@ -88205,12 +88205,12 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="voi 00d6eb56-b7bc-41a8-915f-ba0dce3b342d">
-            <t pos="N" wf="vuojâ">vuojâ</t>
+            <t pos="N" wf="vuojâ" l_par="rasva">vuojâ</t>
          </tg>
       </mg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="voi 283e9688-4137-4a5a-9c79-56af6485da47">
-            <t pos="N">vuoi</t>
+            <t pos="N" l_par="interj.">vuoi</t>
             <t pos="N">o</t>
             <t pos="N">hei</t>
          </tg>
@@ -89238,6 +89238,11 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="välipala c9e77a2e-0bc7-41fb-9ef2-b5724b1e01dd">
             <t pos="N" syn_dash="-pitá">koskâpittá</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn" tw_id="välipala c9e77a2e-0bc7-41fb-9ef2-b5724b1e01dd">
+            <t pos="N" l_par="syötävä">peivipittá</t>
          </tg>
       </mg>
    </e>
@@ -90364,12 +90369,12 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="ympärileikkaus 3dea5f90-71be-4e6a-ae08-2962a45411b0">
-            <t pos="N" syn_dash="-čuoppâmvuođâ">pirrâčuoppâmvuotâ</t>
+            <t pos="N" syn_dash="-čuoppâmvuođâ" l_par="tapa">pirrâčuoppâmvuotâ</t>
          </tg>
       </mg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="ympärileikkaus 97a4a2dd-5f87-49dd-9dea-8a243bf92edb">
-            <t pos="N">pirrâčuoppâm</t>
+            <t pos="N" l_par="toimitus">pirrâčuoppâm</t>
          </tg>
       </mg>
    </e>
@@ -90469,13 +90474,13 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="yritys 3ca5c3b8-6f13-4ee5-a308-1bbe1973f9a3">
-            <t pos="N">keččâlem</t>
+            <t pos="N" l_par="koettaminen">keččâlem</t>
          </tg>
       </mg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="yritys 15854f10-5d1e-41ee-bf11-5a9902b61849">
             <t pos="N">irâttâs</t>
-            <t pos="N" wf="finnoduv">finnodâh</t>
+            <t pos="N" wf="finnoduv" l_par="kaupallinen">finnodâh</t>
          </tg>
       </mg>
    </e>
@@ -90555,12 +90560,12 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="yömyssy bf15d276-23b3-4e54-8f33-ee3c5ac28a96">
-            <t pos="N" syn_dash="-ceerhi" t_tld="~ ijjâcerkkâ -ceerhâ">ijjâcerkki</t>
+            <t pos="N" syn_dash="-ceerhi" t_tld="~ ijjâcerkkâ -ceerhâ" l_par="ryyppy">ijjâcerkki</t>
          </tg>
       </mg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="yömyssy 79427c02-c6fd-4d76-9fef-b2e3bf661ceb">
-            <t pos="N">ijjâkappeer</t>
+            <t pos="N" l_par="päähine">ijjâkappeer</t>
          </tg>
       </mg>
    </e>
@@ -91020,7 +91025,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="äärioikeisto 5c60e157-609f-4c0e-9ed5-31c3910ad8c9">
-            <t pos="N" syn_dash="-piäLuduv">robdâuálgispiäláldâh</t>
+            <t pos="N" syn_dash="-piäLuduv">robdâuálgispiäládâh</t>
          </tg>
       </mg>
    </e>
@@ -91132,8 +91137,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="aamiainen 8e0bd672-e159-4b6f-890b-969fd67ffc4b">
-            <t pos="N">iđedâs</t>
             <t pos="N" syn_dash="-pitá">iiđeedpittá</t>
+            <t pos="N">iđedâs</t>
             <t pos="N" syn_dash="-máállás _FT_ máállâs">iđedâsmäälis</t>
             <t pos="N">iđedâspurrâmuš</t>
          </tg>
@@ -91145,8 +91150,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="aamupala e40d300b-3bab-4aaf-8619-fa051acd74bd">
-            <t pos="N">iđedâs</t>
             <t pos="N" syn_dash="-pitá">iiđeedpittá</t>
+            <t pos="N">iđedâs</t>
             <t pos="N" syn_dash="-máállás _FT_ máállâs">iđedâsmäälis</t>
             <t pos="N">iđedâspurrâmuš</t>
          </tg>
@@ -91158,8 +91163,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="aamurusko 7461ff41-c837-41e7-afcd-35374ec9962e">
-            <t pos="N" syn_dash="-kuoksuu">iđedâskuávsui</t>
             <t pos="N" wf="kuoksuu">kuávsui</t>
+            <t pos="N" syn_dash="-kuoksuu">iđedâskuávsui</t>
             <t pos="N" syn_dash="-ruáđi">iđedâsruáđi</t>
          </tg>
       </mg>
@@ -91257,8 +91262,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="aforismi 6934cf98-8260-4e88-9727-28851eb5f128">
-            <t pos="N" wf="aforiismâ">aforismâ</t>
             <t pos="N">aforism</t>
+            <t pos="N" wf="aforiismâ">aforismâ</t>
          </tg>
       </mg>
    </e>
@@ -91476,8 +91481,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="aironlapa 396b23ca-6c9b-44b2-8ad0-165326309ec9">
-            <t pos="N" wf="liäđmá">liäđmá</t>
             <t pos="N" wf="leeđmi">leđmi</t>
+            <t pos="N" wf="liäđmá">liäđmá</t>
          </tg>
       </mg>
    </e>
@@ -91645,8 +91650,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="alkoholisti a896c8b6-085c-4000-94c3-2bffc22369e3">
-            <t pos="A-N">juhhee</t>
             <t pos="N">alkohollijgekevttee</t>
+            <t pos="A-N" l_par="pejorat.">juhhee</t>
          </tg>
       </mg>
    </e>
@@ -91688,7 +91693,6 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="alppivaltio 6dc9f3d5-72f3-4fe9-b4de-b1946b00ccc3">
-            <t pos="N">alppâriijkâ</t>
             <t pos="N" syn_dash="-riijhâ">alppârijkkâ</t>
          </tg>
       </mg>
@@ -91732,9 +91736,9 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="ankkuri 4b811b80-3e20-4df6-ae1c-e24a262d2d8f">
-            <t pos="N" wf="reegâ">reggâ</t>
             <t pos="N">ááhhár</t>
             <t pos="N">áákkár</t>
+            <t pos="N" wf="reegâ">reggâ</t>
          </tg>
       </mg>
    </e>
@@ -91778,7 +91782,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="apina a37967ab-62ba-490b-91fe-ec21e420925f">
             <t pos="N">apina</t>
-            <t pos="N">aapiin</t>
+            <t pos="N">aapin</t>
          </tg>
       </mg>
    </e>
@@ -91801,6 +91805,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="arki- 07a79652-e4f4-45b4-ad3e-0a42d0c4c544">
             <t pos="N">ainanneem-</t>
             <t pos="N">ano-</t>
+            <t pos="N">argâ-</t>
          </tg>
       </mg>
    </e>
@@ -91872,7 +91877,7 @@ For the full license text, see the link above.
    </e>
    <e id="698">
       <lg>
-         <l pos="N">asemesta</l>
+         <l pos="Adv">asemesta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="asemesta 27bddada-0b13-40b9-aca7-758a297b2769">
@@ -91898,9 +91903,9 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="asento e2139a1e-e0d3-4189-80c7-3a03bb51d7c1">
-            <t pos="N">stelliilmâs</t>
-            <t pos="N">stellildâs</t>
             <t pos="N" wf="stiäLu">stiällu</t>
+            <t pos="N">stellildâs</t>
+            <t pos="N">stelliilmâs</t>
          </tg>
       </mg>
    </e>
@@ -92121,8 +92126,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="autokatos 99a547c8-ba7b-44fb-a423-5137b1581a06">
-            <t pos="N">autokáttus</t>
             <t pos="N" syn_dash="-kááttus">autokááđus</t>
+            <t pos="N">autokáttus</t>
          </tg>
       </mg>
    </e>
@@ -92220,8 +92225,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="bussipysäkki bd2f084d-ff69-4199-b79a-e70bc70efb1e">
-            <t pos="N" syn_dash="-orostuv">bussiorostâh</t>
             <t pos="N" syn_dash="-orostuv">linjâšauto-orostâh</t>
+            <t pos="N" syn_dash="-orostuv">bussiorostâh</t>
          </tg>
       </mg>
    </e>
@@ -92365,7 +92370,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="elokuu 4d848d37-1331-431c-8909-fbe02789307f">
             <t pos="N" syn_dash="-máánu">porgemáánu</t>
-            <t pos="N" syn_dash="-máánu">elomáánu</t>
          </tg>
       </mg>
    </e>
@@ -92375,7 +92379,6 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="eläke 460380b1-ca18-4bad-a11b-d2d70ab7d3c7">
-            <t pos="N">iäláttâs</t>
             <t pos="N" wf="iäláttuv">iäláttâh</t>
          </tg>
       </mg>
@@ -92386,8 +92389,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="enemmistö 355100b2-8587-4ec0-a115-170f6a794c1a">
-            <t pos="N" wf="iänáduv">iänádâh</t>
             <t pos="N" syn_dash="-loVo">eenâbloho</t>
+            <t pos="N" wf="iänáduv">iänádâh</t>
          </tg>
       </mg>
    </e>
@@ -92531,8 +92534,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="esi-isä 5e401ee2-d5b0-4dad-9923-6ceb6ce7a643">
-            <t pos="N" syn_dash="-eeJi">ovdâeeči</t>
             <t pos="N" syn_dash="-eeJi">madâreeči</t>
+            <t pos="N" syn_dash="-eeJi">ovdâeeči</t>
          </tg>
       </mg>
    </e>
@@ -92769,7 +92772,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="fossiili 0794644d-4096-4908-bd06-6c6a4c68db80">
-            <t pos="N">fossiil</t>
+            <t pos="N">fossil</t>
             <t pos="N" mwe="y">keđgilum pasâttâs</t>
          </tg>
       </mg>
@@ -92883,6 +92886,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="hakaneula 136b2893-2bc3-4009-bff3-87b479626b7c">
             <t pos="N" syn_dash="-náálu">ruákkináálu</t>
             <t pos="N" syn_dash="-náálu">visesnáálu</t>
+            <t pos="N" syn_dash="-náálu">lukkânáálu</t>
          </tg>
       </mg>
    </e>
@@ -92904,8 +92908,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="halko 785eef30-424a-46f1-b233-ab354b1e5d3c">
-            <t pos="N" wf="čieskâs">čieskâs</t>
             <t pos="N" wf="háálgu">hálgu</t>
+            <t pos="N" wf="čieskâs">čieskâs</t>
          </tg>
       </mg>
    </e>
@@ -92915,6 +92919,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="halla 43b42195-0461-45a2-a873-f4f080dca430">
+            <t pos="N" wf="haLa">syelni</t>
             <t pos="N" wf="haLa">halla</t>
             <t pos="N" wf="háLá">hállá</t>
          </tg>
@@ -92937,7 +92942,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="hallitus 300a6b52-9a25-4c76-8aa0-a1b4d58e5c9a">
 			  <t pos="A" l_par="erit. valtio yhteydessä">haldâttâs</t>
-			 <t pos="N">stivrâ</t>
+			 <t pos="N" l_par="kunta, yhdistys tms.">stivrâ</t>
          </tg>
       </mg>
    </e>
@@ -93138,8 +93143,8 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="harrastus 77f56fa2-9989-48ec-9b8f-ed84b7e92c32">
             <t pos="N">puđâldâs</t>
-            <t pos="N" syn_dash="-ääji">ääigiääji</t>
-            <t pos="N">ääigiájánâs</t>
+            <t pos="N" syn_dash="-ääji">äigiääji</t>
+            <t pos="N">äigiájánâs</t>
          </tg>
       </mg>
    </e>
@@ -93264,7 +93269,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="helmikuu 7cdf9fcf-8322-48c2-b196-ac274196605f">
             <t pos="N" syn_dash="-máánu">kuovâmáánu</t>
-            <t pos="N" syn_dash="-máánu">helmimáánu</t>
          </tg>
       </mg>
    </e>
@@ -93365,7 +93369,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="hernekeitto 2d9f85f8-dbcc-4ad4-83b1-639687032945">
             <t pos="N" syn_dash="-määli _FT_ -mäle">herttâmääli</t>
-            <t pos="N" syn_dash="-máállás _FT_ -máállâs">herttâmäälis</t>
          </tg>
       </mg>
    </e>
@@ -93564,8 +93567,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="hoidokki 82f8f34c-55c5-4fed-8a69-8176104701ac">
-            <t pos="N" wf="keJâdeve">kejâdep</t>
             <t pos="N">piämmuhâs</t>
+            <t pos="N" wf="keJâdeve">kejâdep</t>
          </tg>
       </mg>
    </e>
@@ -93609,8 +93612,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="housunlahje 8994c518-bd60-4bb8-859d-7fe4816788b9">
-            <t pos="N" syn_dash="-njäälmi">puksânjälmi</t>
             <t pos="N" wf="leegâ">leggâ</t>
+            <t pos="N" syn_dash="-njäälmi">puksânjälmi</t>
          </tg>
       </mg>
    </e>
@@ -93620,7 +93623,6 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="hovioikeus fe3cb857-1291-4f49-b882-76b171e9b39d">
-            <t pos="N" syn_dash="-vuoigâdvuođâ">hovivuoigâdvuotâ</t>
             <t pos="N" syn_dash="-rievti">hoviriehti</t>
          </tg>
       </mg>
@@ -93632,7 +93634,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="huhtikuu be4d11a8-d930-4206-841d-92799a718264">
             <t pos="N" syn_dash="-máánu">cuáŋuimáánu</t>
-            <t pos="N" syn_dash="-máánu">huhtimáánu</t>
          </tg>
       </mg>
    </e>
@@ -93738,7 +93739,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="huolenpito b1a2f290-d529-4eb7-9af0-14bd3d866015">
             <t pos="A-N" t_tld="~huolâttim">huolâttem</t>
-            <t pos="N" wf="huolâ">huolâ</t>
+            <t pos="N" wf="huolâ" mwe="y">huolâ anneem</t>
          </tg>
       </mg>
    </e>
@@ -93770,8 +93771,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="huoneisto 28ca3b55-b226-4b47-8456-e057628bc8de">
-            <t pos="N" wf="vistástuv">vistástâh</t>
             <t pos="N" wf="vistáduv">vistádâh</t>
+            <t pos="N" wf="vistástuv">vistástâh</t>
          </tg>
       </mg>
    </e>
@@ -94027,8 +94028,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="hääpari 3b61f9e3-0c23-4ae9-9a95-4c49f530e7f4">
-            <t pos="N" wf="káálžá">kálžá</t>
             <t pos="N" syn_dash="-paarâ">hejâpaarâ</t>
+            <t pos="N" wf="káálžá">kálžá</t>
          </tg>
       </mg>
    </e>
@@ -94126,7 +94127,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="ikäihminen c4f12c7f-eaaf-48b7-8460-c1c0e082ef55">
-            <t pos="N" mwe="y">elilâm olmooš ulmuu</t>
+            <t pos="N" mwe="y">elilâm olmooš</t>
             <t pos="N" syn_dash="-ulmuu">aheolmooš</t>
          </tg>
       </mg>
@@ -94269,8 +94270,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="instituutio a6a96239-9a17-498d-92ad-107a8f75be7a">
-            <t pos="N">oornig</t>
             <t pos="N">instituutio</t>
+            <t pos="N">oornig</t>
          </tg>
       </mg>
    </e>
@@ -94502,9 +94503,9 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="jalkapohja fa937437-a87e-475b-9192-3b58ecdf70b7">
+            <t pos="N" syn_dash="-vuáđu">jyelgivuáđu</t>
             <t pos="N" syn_dash="-leepi">jyelgileppi</t>
             <t pos="N" syn_dash="-lääpi">jyelgiläppi</t>
-            <t pos="N" syn_dash="-vuáđu">jyelgivuáđu</t>
          </tg>
       </mg>
    </e>
@@ -94547,8 +94548,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="jalusta a2cbf03e-59ac-4421-8999-52484b5944c1">
-            <t pos="A-N" wf="vuáláá">vuálááš</t>
             <t pos="N" wf="jyelgi">jyelgi</t>
+            <t pos="A-N" wf="vuáláá">vuálááš</t>
          </tg>
       </mg>
    </e>
@@ -95002,7 +95003,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="jälkiruoka 08ba4bee-fa60-4e83-80b7-4e4563a82fa0">
             <t pos="N" t_tld="~pajalâš">pajalâš</t>
-            <t pos="N">pajaldâs</t>
             <t pos="N">monnjâpurrâmâš</t>
          </tg>
       </mg>
@@ -95213,12 +95213,6 @@ For the full license text, see the link above.
          <l pos="N" r1_par="esim. perunan tms. mukulakasvin naatti t. varsi, kasvi">kaali</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="kaali c4867dae-3703-495e-8ef6-fd2522f5576a">
-            <t pos="N">kaali</t>
-            <t pos="N" wf="kaalâ">kaalâ</t>
-         </tg>
-      </mg>
-      <mg id="1">
          <tg xml:lang="smn" tw_id="kaali d5ea1eee-7cb5-4fe0-9050-eb355d157202">
             <t pos="N" wf="kaalâ">kaalâ</t>
             <t pos="N">kaali</t>
@@ -95413,7 +95407,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="kananmuna fe83c89b-af98-48ce-a08d-251a0acf2d72">
             <t pos="N" syn_dash="-mane">känemane</t>
-            <t pos="N" syn_dash="-mane">käänimane</t>
          </tg>
       </mg>
    </e>
@@ -95434,8 +95427,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kangaspuut 791bff85-23cc-45fe-9b56-843918d43ee4">
-            <t pos="N" r_par="mon.">särgimuorah</t>
-            <t pos="N" r_par="mon.">kägismuorah</t>
+           <t pos="N" r_par="mon.">kägismuorah</t> 
+           <t pos="N" r_par="mon.">särgimuorah</t>
          </tg>
       </mg>
    </e>
@@ -95446,7 +95439,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="kangasturve 5b7e70d1-b68b-40d6-a4ae-af33d6eb04b4">
             <t pos="N" syn_dash="-lavnje _FT_ -laavnje">kuolbâlavnje</t>
-            <t pos="N" syn_dash="-lavŋe _FT_ -laavŋe">-lavŋe</t>
+            <t pos="N" syn_dash="-lavŋe _FT_ -laavŋe">lavŋe</t>
          </tg>
       </mg>
    </e>
@@ -95490,7 +95483,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="kansaneläke 2888ebdb-2635-4c96-a70a-18e3d99dccdb">
             <t pos="N" syn_dash="-iäláttuv">aalmugiäláttâh</t>
-            <t pos="N">aalmugiäláttâs</t>
          </tg>
       </mg>
    </e>
@@ -95521,8 +95513,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kapine e1dff4ea-5373-4f33-af40-7d15fa5e3d32">
-            <t pos="N" wf="eeđâ">ettâ</t>
             <t pos="N" wf="tiiŋgâ">tiŋgâ</t>
+            <t pos="N" wf="eeđâ">ettâ</t>
          </tg>
       </mg>
    </e>
@@ -95681,7 +95673,6 @@ For the full license text, see the link above.
             <t pos="N" syn_dash="-mááđu _FT_ -máđo">vuoggâmáátu</t>
             <t pos="N" syn_dash="-mááđu _FT_ -máđo">septimáátu</t>
             <t pos="N" syn_dash="-mááđu _FT_ -máđo">suándimáátu</t>
-            <t pos="N" syn_dash="-mááđu _FT_ -máđo">kastemáátu</t>
          </tg>
       </mg>
    </e>
@@ -95691,11 +95682,10 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kastike 9ebc43fa-6a14-4ae8-9ecc-a581049e5179">
+            <t pos="N">kastik</t>
             <t pos="N">puánjumâš</t>
             <t pos="N">puánjus</t>
             <t pos="N">kaastâ</t>
-            <t pos="N">kastik</t>
-            <t pos="N">soosi</t>
          </tg>
       </mg>
    </e>
@@ -95874,8 +95864,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kaura f00ce826-60fb-4bde-9dd5-0d1e13ac5803">
-            <t pos="N" wf="kavra">kavra</t>
             <t pos="N">haavvâr</t>
+            <t pos="N" wf="kavra">kavra</t>
          </tg>
       </mg>
    </e>
@@ -95885,9 +95875,9 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kaurapuuro 8a03dc23-a4e8-4dd3-bf00-9479cf58c80e">
+            <t pos="N" t_tld="~ kavrasuohâd">haavvârsuohâd</t>
             <t pos="N" t_tld="~ kavrasuohâd">kavrasuohâd</t>
             <t pos="N" t_tld="~kavrasuuvrâmsuohâd">kavrasuuvrâmsuohâd</t>
-            <t pos="N" t_tld="~ kavrasuohâd">haavvârsuohâd</t>
          </tg>
       </mg>
    </e>
@@ -95942,8 +95932,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kehotus 14fb96d6-b6cc-4e4e-b005-c468208a51af">
-            <t pos="N" wf="avžuu">aavžâ</t>
             <t pos="N">avžuuttâs</t>
+            <t pos="N" wf="avžuu">aavžâ</t>
          </tg>
       </mg>
    </e>
@@ -96011,7 +96001,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="keitto d21880a5-7eb1-49e1-aba0-8a118adbb212">
             <t pos="N" t_tld="~ mäle" wf="määli">määli</t>
-            <t pos="N" t_tld="~máállâs" wf="máállás">määlis</t>
          </tg>
       </mg>
    </e>
@@ -96033,7 +96022,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="kellari 52190c22-49ea-4190-9579-b0d8646a9ea2">
             <t pos="N">kiällár</t>
-            <t pos="N">kiällâr</t>
          </tg>
       </mg>
    </e>
@@ -96054,8 +96042,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kelpoisuusehto d1cd3fef-de7c-41ce-9b8b-cab46f5b6955">
-            <t pos="N" syn_dash="-iävtu">tohálâšvuođâiähtu</t>
-            <t pos="N" syn_dash="-iävtu">tohálâšvuotiähtu</t>
+            <t pos="N" syn_dash="-iävtu">tohálâšvuotâiähtu</t>
          </tg>
       </mg>
    </e>
@@ -96143,8 +96130,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kertakäyttö- 6cfd12b8-19ae-4534-a81c-d8143d71535e">
-            <t pos="N">kerdikiävttu-</t>
             <t pos="N">ohtiikevttim-</t>
+            <t pos="N">kerdikiävttu-</t>
          </tg>
       </mg>
    </e>
@@ -96309,9 +96296,9 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kiitos 03693ef1-1c15-44e1-bd93-e9e39d5c4905">
+            <t pos="N">takkâ</t>
             <t pos="N" wf="kijttos">kiijtos</t>
             <t pos="N" wf="kiijto">kijtto</t>
-            <t pos="N">takkâ</t>
             <t pos="N">spaassip</t>
          </tg>
       </mg>
@@ -96333,8 +96320,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kilpa a1ed34bd-39ea-4c40-a100-e9a71157d454">
-            <t pos="N" wf="kilbo">kilbo</t>
             <t pos="N" wf="kišto">kišto</t>
+            <t pos="N" wf="kilbo">kilbo</t>
          </tg>
       </mg>
    </e>
@@ -96400,8 +96387,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kirjailu cef2f75b-fc57-4dfc-9d6b-18d2b2db64b8">
-            <t pos="N" wf="kirje">kirje</t>
             <t pos="N">hervim</t>
+            <t pos="N" wf="kirje">kirje</t>
          </tg>
       </mg>
    </e>
@@ -96412,7 +96399,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="kirjain 916c47b7-819f-4c13-b3d0-6f6f845b2fbd">
             <t pos="N">puustav</t>
-            <t pos="N">puustuv</t>
          </tg>
       </mg>
    </e>
@@ -96422,8 +96408,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kirjanpito 0410e3df-8d31-4772-b6cb-802a5652852c">
-            <t pos="N" syn_dash="-tuálu">reekkigtuálu</t>
             <t pos="N" syn_dash="-tuálu">ruttâtuálu</t>
+            <t pos="N" syn_dash="-tuálu">reekkigtuálu</t>
          </tg>
       </mg>
    </e>
@@ -96433,8 +96419,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kirjanpitäjä 8564cf58-488a-40d1-bc62-5a4b592dd08e">
-            <t pos="N">reekkigtuállee</t>
             <t pos="N">ruttâtuállee</t>
+            <t pos="N">reekkigtuállee</t>
          </tg>
       </mg>
    </e>
@@ -96522,7 +96508,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="kirosana 5d7691b2-7594-42fd-82fa-c9ee289333f0">
             <t pos="N" syn_dash="-sääni _FT_ -säne">karosääni</t>
-            <t pos="N">korosääni</t>
          </tg>
       </mg>
    </e>
@@ -96555,7 +96540,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="kirves c359da2a-60b3-462c-86d2-b47b2b7c7d1c">
             <t pos="N" wf="áákšu">ákšu</t>
-            <t pos="N" wf="ááhšu">áhšu</t>
          </tg>
       </mg>
    </e>
@@ -96687,9 +96671,9 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kojetaulu fa14333c-9a8d-412d-8c61-1ee62e862e7d">
+            <t pos="N" syn_dash="-taavlu">ruustigtavlu</t>
             <t pos="N" syn_dash="-taavlu">tiŋgâtavlu</t>
             <t pos="N" syn_dash="-taavlu">ettâtavlu</t>
-            <t pos="N" syn_dash="-taavlu">ruustigtavlu</t>
          </tg>
       </mg>
    </e>
@@ -96769,8 +96753,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="koltansaame b4ba5814-2579-4737-9d70-88f9ea9fddb6">
-            <t pos="N" syn_dash="-kielâ">nuorttâlâškielâ</t>
             <t pos="N" syn_dash="-kielâ">nuorttâsämikielâ</t>
+            <t pos="N" syn_dash="-kielâ">nuorttâlâškielâ</t>
             <t pos="N" syn_dash="-kielâ">nuorttâkielâ</t>
          </tg>
       </mg>
@@ -96816,8 +96800,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="konsonantti 4fd56516-a2fa-4536-8c05-613fba796ef0">
-            <t pos="N" wf="konsonaantâ">konsonanttâ</t>
             <t pos="N">konsonant</t>
+            <t pos="N" wf="konsonaantâ">konsonanttâ</t>
          </tg>
       </mg>
    </e>
@@ -96886,6 +96870,11 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="koristenauha 1e975ad5-fac5-4232-9403-eb364f10ad3e">
             <t pos="N" wf="čuáldáttuv">čuáldáttâh</t>
             <t pos="N">čyeldim</t>
+         </tg>
+      </mg>
+      <mg id="1">
+         <tg xml:lang="smn" tw_id="">
+            <t pos="N">hervâpäddi</t>
          </tg>
       </mg>
    </e>
@@ -96974,8 +96963,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="korvakoru 8be02cf2-ff26-4482-88f8-fee8cf449068">
-            <t pos="N" syn_dash="-heervâ">peljihervâ</t>
             <t pos="N" syn_dash="-čiiŋâ">peljičiŋŋâ</t>
+            <t pos="N" syn_dash="-heervâ">peljihervâ</t>
          </tg>
       </mg>
    </e>
@@ -96985,8 +96974,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="korvaus e3abfb27-a326-412a-8837-73f4359e2daa">
-            <t pos="N" wf="lonnáás">lones</t>
             <t pos="N" syn_dash="-máávsu">sajanmáksu</t>
+            <t pos="N" wf="lonnáás">lones</t>
          </tg>
       </mg>
    </e>
@@ -97087,8 +97076,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="koura e03f4922-8490-4374-aaba-56af792670d6">
-            <t pos="N" wf="rááMá">rámmá</t>
             <t pos="N">kuámmir</t>
+            <t pos="N" wf="rááMá">rámmá</t>
          </tg>
       </mg>
    </e>
@@ -97120,11 +97109,11 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kramppi a7758fe7-2649-4146-89f4-4d6a405ce60f">
+            <t pos="N" wf="čarviittuv">čarviittâh</t>
+            <t pos="N" syn_dash="-kiäsáttuv">suonâkiäsáttâh</t>
             <t pos="N" t_tld="~aččin~haččin">aččinj</t>
             <t pos="N" t_tld="~aččân">aaččân</t>
-            <t pos="N" wf="čarviittuv">čarviittâh</t>
             <t pos="N" syn_dash="-riičâ">aččinriččâ</t>
-            <t pos="N" syn_dash="-kiäsáttuv">suonâkiäsáttâh</t>
          </tg>
       </mg>
    </e>
@@ -97134,8 +97123,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kriitikko 5ade8733-c333-42e1-8097-2708168a0a4c">
-            <t pos="N">kritijkkár</t>
             <t pos="N">árvuštellee</t>
+            <t pos="N">kritijkkár</t>
          </tg>
       </mg>
    </e>
@@ -97167,7 +97156,6 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kuhmu 466a0361-949a-45b8-a301-f139c25ca9d4">
-            <t pos="N" wf="kuhme">kuhme</t>
             <t pos="N" wf="päähi">päkki</t>
          </tg>
       </mg>
@@ -97487,13 +97475,13 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kurkku b8319306-b4e6-4861-8d85-fe54db2a5e59">
-            <t pos="N" wf="kuurkâ">kurkkâ</t>
+            <t pos="N" wf="kuurkâ" l_par="vihannes">kurkkâ</t>
             <t pos="N" wf="kuurku">kurkku</t>
          </tg>
       </mg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kurkku 6a43f2c6-7149-48ae-bc5b-78ed5fdf17a5">
-            <t pos="N" wf="čudduu">čuudâ</t>
+            <t pos="N" wf="čudduu" l_par="anat.">čuudâ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -97570,8 +97558,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kuukausi 41622162-3857-4143-ac8d-d35c7657c6ac">
-            <t pos="N" wf="máánu">máánu</t>
             <t pos="N" syn_dash="-paje">mánuppaje</t>
+            <t pos="N" wf="máánu">máánu</t>
          </tg>
       </mg>
    </e>
@@ -97594,7 +97582,7 @@ For the full license text, see the link above.
             <t pos="N" syn_dash="-spaabâ">arvespabbâ</t>
             <t pos="N">pođgee</t>
             <t pos="N" syn_dash="-seehâ">stáálujávvusekkâ</t>
-            <t pos="N" syn_dash="-puursâ">stáálupursâ</t>
+            <t pos="N" syn_dash="-puursâ">stáálupurssâ</t>
          </tg>
       </mg>
    </e>
@@ -97612,12 +97600,12 @@ For the full license text, see the link above.
    </e>
    <e id="6375">
       <lg>
-         <l pos="N">kuulemma</l>
+         <l pos="Interj">kuulemma</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kuulemma 9367322f-62ef-4321-a804-003001b4388c">
-            <t pos="N">kulloo</t>
-            <t pos="Adv">ušom</t>
+            <t pos="Interj">kulloo</t>
+            <t pos="Interj">ušom</t>
          </tg>
       </mg>
    </e>
@@ -97650,7 +97638,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="kuumemittari 1a186841-c2eb-4091-9541-4299c6fbd335">
             <t pos="N">kumeštâsmittár</t>
-            <t pos="N">kumestâsmittár</t>
          </tg>
       </mg>
    </e>
@@ -97671,9 +97658,9 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kuvajainen 4509fb75-cd10-48e8-bfce-175b47ac0d62">
-            <t pos="N" syn_dash="-kove">spejâlkove</t>
-            <t pos="N" syn_dash="-kove">speeijâlkove</t>
             <t pos="N">spejâlistem</t>
+            <t pos="N" syn_dash="-kove">speeijâlkove</t>
+            <t pos="N" syn_dash="-kove">spejâlkove</t>
          </tg>
       </mg>
    </e>
@@ -97705,9 +97692,9 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kyky a6eb02aa-164c-4f4c-b307-751c974eccb7">
+            <t pos="N" wf="ääpi">äppi</t>
             <t pos="N" wf="naavcâ">nahcâ</t>
             <t pos="N" r_par="mon.">naavcah</t>
-            <t pos="N" wf="ääpi">äppi</t>
          </tg>
       </mg>
    </e>
@@ -97717,9 +97704,9 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kylvö 98609bba-5974-4871-b394-56813ec833bd">
-            <t pos="N">eennâmkalvem</t>
             <t pos="N">kalvem</t>
             <t pos="N" wf="kolvuu">koolvâ</t>
+            <t pos="N">eennâmkalvem</t>
          </tg>
       </mg>
    </e>
@@ -97786,7 +97773,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="kyynärtaive 597fdaa2-8c3b-48f6-9319-6226f3f0f16a">
             <t pos="N" syn_dash="-kaavâ">käŋŋirkaavâ</t>
-            <t pos="N" syn_dash="-kaavâ">kietâkaavâ</t>
          </tg>
       </mg>
    </e>
@@ -97807,8 +97793,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kämmen 34b99f51-d1c2-4467-a5a5-dbb3b1030476">
-            <t pos="N" wf="kiämmán">keemâ</t>
-            <t pos="N">keemâd</t>
+            <t pos="N">kuámmir</t>
             <t pos="N">kietâkemâdâs</t>
             <t pos="N" syn_dash="-váimus">kietâvááimus</t>
          </tg>
@@ -97820,8 +97805,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kännykkä 5cc2dbf2-64db-44bc-9859-296d21ff6c55">
+            <t pos="N">kánnyk</t>
             <t pos="N">mätkipuhelin</t>
-            <t pos="N">kännyk</t>
          </tg>
       </mg>
    </e>
@@ -97832,7 +97817,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="käpyrauhanen 814a7c8c-c750-40d8-b1c1-ba69008f67d3">
             <t pos="N" syn_dash="-ráávsá">paaccâhráksá</t>
-            <t pos="N" syn_dash="-ráávsá">vuoiŋâsráksá</t>
          </tg>
       </mg>
    </e>
@@ -97842,9 +97826,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="käristys a27a60c3-bf08-4586-9231-442da44e627c">
-            <t pos="N" wf="steikkuu">steeikâ</t>
-            <t pos="N">steeikâ</t>
             <t pos="N" wf="steeihâ">steikkâ</t>
+            <t pos="N" wf="steikkuu">steeikâ</t>
          </tg>
       </mg>
    </e>
@@ -97877,8 +97860,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="käymälä d0c45360-261a-4e42-94cc-2c0474516e1b">
-            <t pos="N">hyysig</t>
             <t pos="N">hiivsig</t>
+            <t pos="N">hyysig</t>
          </tg>
       </mg>
    </e>
@@ -97922,8 +97905,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="käytös d7f21d44-7dd7-480b-8776-fc42af0f11ae">
-            <t pos="N">kevâttâs</t>
             <t pos="N">lattim</t>
+            <t pos="N">kevâttâs</t>
          </tg>
       </mg>
    </e>
@@ -97944,8 +97927,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="laiskuri 0ba5b6d9-8951-4c4d-b947-e6df0ee22be6">
-            <t pos="N" wf="láášká">lášká</t>
             <t pos="N" wf="šlaarvâ">šlarvâ</t>
+            <t pos="N" wf="láášká">lášká</t>
          </tg>
       </mg>
    </e>
@@ -97955,8 +97938,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="laite f00d9e0e-b00b-4348-aecd-0fe9d190f4b3">
+             <t pos="N">ruustig</t>
             <t pos="N">rakânâs</t>
-            <t pos="N">ruustig</t>
          </tg>
       </mg>
    </e>
@@ -97988,8 +97971,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="lakialoite 75d1dbb6-79c0-4184-90f2-944b998ee20b">
-            <t pos="N">lahâalgâttâs</t>
             <t pos="N" syn_dash="-alguu">lahâaalgâ</t>
+            <t pos="N">lahâalgâttâs</t>
          </tg>
       </mg>
    </e>
@@ -98054,9 +98037,9 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="lannoite 9241d574-1691-4033-bef3-600305911b0d">
+            <t pos="N" syn_dash="-kolvuu">viehâkoolvâ</t>
             <t pos="N" t_tld="~ suuvle" wf="suvle">suvle</t>
             <t pos="N" syn_dash="-suándi">isesuándi</t>
-            <t pos="N" syn_dash="-kolvuu">viehâkoolvâ</t>
          </tg>
       </mg>
    </e>
@@ -98281,8 +98264,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="leikki 6b2e1d87-32aa-4001-8c1e-06394e492061">
-            <t pos="N" wf="leeihâ">leikkâ</t>
             <t pos="Adv-N" wf="sierâ">sierâ</t>
+            <t pos="N" wf="leeihâ">leikkâ</t>
             <t pos="N" wf="stooVâ">stoohâ</t>
          </tg>
       </mg>
@@ -98405,7 +98388,6 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="lihakeitto bd73c819-3192-4214-be9a-77417f2323f5">
-            <t pos="N" syn_dash="-máállás _FT_ -máállâs">piärgumäälis</t>
             <t pos="N" syn_dash="-määli _FT_ -mäle">piärgumääli</t>
          </tg>
       </mg>
@@ -98438,8 +98420,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="linja-autopysäkki ad9b252d-f4ba-4664-80bb-6211523344a0">
+             <t pos="N" syn_dash="-orostuv">linjâšauto-orostâh</t>
             <t pos="N" syn_dash="-orostuv">bussiorostâh</t>
-            <t pos="N" syn_dash="-orostuv">linjâšauto-orostâh</t>
          </tg>
       </mg>
    </e>
@@ -98472,8 +98454,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="lipputanko 778bf80e-6d15-4956-b2e1-100e42d8ac39">
-            <t pos="N" syn_dash="-stáágu">laggâstággu</t>
             <t pos="N" syn_dash="-stáágu">lippustággu</t>
+            <t pos="N" syn_dash="-stáágu">laggâstággu</t>
          </tg>
       </mg>
    </e>
@@ -98517,7 +98499,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="lisäeläke 3ab39889-91ba-48a0-a2c4-965a30c5cd75">
             <t pos="N" syn_dash="-iäláttuv">laseiäláttâh</t>
-            <t pos="N">laseiäláttâs</t>
          </tg>
       </mg>
    </e>
@@ -98572,9 +98553,9 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="loisteputki 639b5571-c338-4269-962c-3073386605dd">
+            <t pos="N">čuovâpoccee</t>
             <t pos="N">šiärupoccee</t>
             <t pos="N">tuásupoccee</t>
-            <t pos="N">čuovâpoccee</t>
          </tg>
       </mg>
    </e>
@@ -98595,8 +98576,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="lumituisku fdf493d1-8b58-4fd7-8be4-73e197976969">
-            <t pos="N" syn_dash="-alme">muotâalme</t>
             <t pos="N" syn_dash="-puurgâ">muotâpurgâ</t>
+            <t pos="N" syn_dash="-alme">muotâalme</t>
          </tg>
       </mg>
    </e>
@@ -98606,10 +98587,10 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="lumppu 5b8a3e6b-5529-4d0f-89f5-f45cb18e5667">
-            <t pos="N" wf="rape">rappe</t>
             <t pos="N" t_tld="~ rimnje rimnje" wf="rimnjo">rimnjo</t>
             <t pos="N" wf="rimške">rimške</t>
             <t pos="N" t_tld="~ topârik">tobrik</t>
+            <t pos="N" wf="rape">rappe</t>
          </tg>
       </mg>
    </e>
@@ -98619,8 +98600,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="luomu d26ae13b-46f9-4f71-bf39-e12aea6e7403">
+            <t pos="N" r_par="= luándunálásâš" wf="luáná">luáná</t>
             <t pos="N" r_par="= luándumuáđusâš">luámu</t>
-            <t pos="N" r_par="= luándunáLásâš" wf="luáná">luáná</t>
          </tg>
       </mg>
    </e>
@@ -98654,9 +98635,9 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="luppakorva cc600e13-9b2f-46ef-a3d2-88e25c535793">
+            <t pos="N" syn_dash="-peelji">šluŋkkepelji</t>
             <t pos="N" wf="luŋke">luŋkke</t>
             <t pos="N" syn_dash="-peelji">luŋkkepelji</t>
-            <t pos="N" syn_dash="-peelji">šluŋkkepelji</t>
          </tg>
       </mg>
    </e>
@@ -98710,9 +98691,9 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="lähtö 4f730b58-aba8-41b4-b299-fcfc5611fde3">
-            <t pos="N">vuálgámuš</t>
             <t pos="N" wf="vuolguu">vuolgâ</t>
             <t pos="N">vyelgim</t>
+            <t pos="N">vuálgámuš</t>
          </tg>
       </mg>
    </e>
@@ -99032,8 +99013,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="matkapuhelin f550097b-b787-45bb-950f-652c7d997649">
+            <t pos="N">kánnyk</t>
             <t pos="N">mätkipuhelin</t>
-            <t pos="N">kännyk</t>
          </tg>
       </mg>
    </e>
@@ -99193,8 +99174,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="metsuri eca7f174-187b-4533-8ac7-91e3f00a5b73">
-            <t pos="N">meccipargee</t>
             <t pos="N">vyevdipargee</t>
+            <t pos="N">meccipargee</t>
          </tg>
       </mg>
    </e>
@@ -99302,8 +99283,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="metsäpäästäinen 7c70d76f-f7e9-404c-9368-db4076aaddaa">
-            <t pos="N" wf="velmâsáá">velmâsâš</t>
             <t pos="N" wf="viäđŋásáá">viäđŋásâš</t>
+            <t pos="N" wf="velmâsáá">velmâsâš</t>
          </tg>
       </mg>
    </e>
@@ -99324,9 +99305,9 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="miehistö 3186e656-0b0d-4dba-a463-ab60f8d5f8c8">
+            <t pos="N" syn_dash="-vieVâ">pargoviehâ</t>
             <t pos="N" t_tld="~almaidoh~almaiduh almaiduv">almaidâh</t>
             <t pos="Adv-N" wf="vieVâ">viehâ</t>
-            <t pos="N" syn_dash="-vieVâ">pargoviehâ</t>
          </tg>
       </mg>
    </e>
@@ -99369,8 +99350,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="moniste d5976e27-bca6-483c-a544-730889801c4b">
-            <t pos="N" wf="miäldus">miäldus</t>
             <t pos="N" l_par="m. luentomoniste" wf="máŋgus">mááŋgus</t>
+            <t pos="N" wf="miäldus">miäldus</t>
          </tg>
       </mg>
    </e>
@@ -99502,9 +99483,9 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="muuntaja b5c5b30d-a307-439b-bdd8-19e2335cb5be">
+            <t pos="N">rievdâdeijee</t>
             <t pos="N" wf="mulsân">muulsân</t>
             <t pos="N">muttee</t>
-            <t pos="N">rievdâdeijee</t>
          </tg>
       </mg>
    </e>
@@ -99514,8 +99495,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="myrkkysyötti a3776397-bb3a-46c2-a245-f3bd04b876b0">
-            <t pos="N" r_par="mon.">seeljah</t>
             <t pos="N" syn_dash="-seepti">mirkkâsepti</t>
+            <t pos="N" r_par="mon.">seeljah</t>
          </tg>
       </mg>
    </e>
@@ -99659,8 +99640,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="naava 899149eb-b75e-47ab-9709-a964312e583a">
-            <t pos="N" wf="jievjâ">jievjâ</t>
             <t pos="N">jievjâm</t>
+            <t pos="N" wf="jievjâ">jievjâ</t>
             <t pos="N" wf="naavâ">naavâ</t>
          </tg>
       </mg>
@@ -99694,8 +99675,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="nauraminen fbe31fbe-b5b8-4222-b1b3-17f5d5245dc0">
-            <t pos="N">povustem</t>
             <t pos="N">povvâstem</t>
+            <t pos="N">povustem</t>
          </tg>
       </mg>
    </e>
@@ -99705,8 +99686,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="nauru 859c3a5c-3edf-4960-9812-bca8c36802fe">
-            <t pos="N">povustem</t>
             <t pos="N">povvâstem</t>
+            <t pos="N">povustem</t>
          </tg>
       </mg>
    </e>
@@ -99995,9 +99976,9 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="oikeudenkäynti 31ddd0c8-2736-449b-8a89-aea909e52d75">
+            <t pos="N">riehtijotteem</t>
             <t pos="N" wf="ääši">äšši</t>
             <t pos="N" wf="tige">tigge</t>
-            <t pos="N">riehtijotteem</t>
          </tg>
       </mg>
    </e>
@@ -100007,7 +99988,6 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="oikeusapu b40a3214-8ac1-47ed-8bf7-eff9db3a08b9">
-            <t pos="N" syn_dash="-iše">vuoigâdvuotâise</t>
             <t pos="N" syn_dash="-iše">riehti-ise</t>
          </tg>
       </mg>
@@ -100030,7 +100010,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="olkapää dd52bb3c-2f63-48a7-9756-684bb0f567d1">
             <t pos="N" syn_dash="-uáivi">uálgátuáivi</t>
-            <t pos="N" syn_dash="-uáivi">uálgâtuáivi</t>
          </tg>
       </mg>
    </e>
@@ -100041,7 +100020,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="olut 9621408b-6642-4b31-81d5-d5e6c3188506">
             <t pos="N" wf="vuolâ">vuolâ</t>
-            <t pos="N" wf="vuolluu">vuolâ</t>
          </tg>
       </mg>
    </e>
@@ -100051,8 +100029,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="omistaja 3bc65986-82d6-481e-9c2d-e912ce13cec9">
-            <t pos="N">iäigád</t>
             <t pos="N">omâsteijee</t>
+            <t pos="N">iäigád</t>
          </tg>
       </mg>
    </e>
@@ -100062,7 +100040,6 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="onkiliero 8c82bb87-89fa-437e-a73a-ffdf26c72763">
-            <t pos="N" syn_dash="-mááđu _FT_ -máđo">kastemáátu</t>
             <t pos="N" syn_dash="-mááđu _FT_ -máđo">vuoggâmáátu</t>
             <t pos="N" syn_dash="-mááđu _FT_ -máđo">septimáátu</t>
             <t pos="N" syn_dash="-mááđu _FT_ -máđo">suándimáátu</t>
@@ -100087,8 +100064,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="opetus a0fcde64-282c-4b41-a0b3-47bd2d09afbf">
-            <t pos="N">opâttâs</t>
             <t pos="N">máttááttâs</t>
+            <t pos="N">opâttâs</t>
          </tg>
       </mg>
    </e>
@@ -100164,8 +100141,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="otus 0a4cfabe-b6d1-4edc-bc12-919f368fe8ec">
-            <t pos="N">eeleev</t>
             <t pos="N">huáđđoo</t>
+            <t pos="N">eeleev</t>
          </tg>
       </mg>
    </e>
@@ -100175,9 +100152,9 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="ovenkahva d0bedd02-6a34-42ea-8356-5227afd54114">
-            <t pos="N" wf="lehâstuv">lehâstâh</t>
             <t pos="N" syn_dash="-toppiittuv">uksâtoppiittâh</t>
             <t pos="N" syn_dash="-nuárvi">uksânuárvi</t>
+            <t pos="N" wf="lehâstuv">lehâstâh</t>
          </tg>
       </mg>
    </e>
@@ -100287,8 +100264,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="pakaste b4d8865f-ce6b-4896-a69a-11852e8dc473">
-            <t pos="N">kalmaattâs</t>
             <t pos="N" wf="kalmaattuv">kalmattâh</t>
+            <t pos="N">kalmaattâs</t>
          </tg>
       </mg>
    </e>
@@ -100309,8 +100286,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="palkanlaskija 03548a33-c8e2-4694-9f56-16f4d38cf3bb">
-            <t pos="N">päälhirekinistee</t>
             <t pos="N">pälkkirekinistee</t>
+            <t pos="N">päälhirekinistee</t>
          </tg>
       </mg>
    </e>
@@ -100342,7 +100319,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="pari 47232c58-e0e4-4ac0-b091-823e20da70cd">
-            <t pos="N">peeliš</t>
+            <t pos="N" l_par="parin toinen puolisko">peeliš</t>
             <t pos="N" syn_dash="-pele">parâpeeli</t>
             <t pos="N" wf="piäLálii">piälálâš</t>
             <t pos="N">piällâs</t>
@@ -100350,7 +100327,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="pari 4197e717-9c94-4e0b-8445-e433e55cd4fb">
-            <t pos="N" wf="paarâ">paarâ</t>
+            <t pos="N" wf="paarâ" l_par="kaksi">paarâ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -100360,7 +100337,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="pari adc92b18-7546-4138-a2c7-9c86e56eda91">
-            <t pos="N" wf="muádi">muáddi</t>
+            <t pos="N" wf="muádi" l_par="muutama">muáddi</t>
          </tg>
       </mg>
       <mg id="2">
@@ -100402,6 +100379,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="parturi 19331a01-6838-44ef-a857-978b7744d314">
+            <t pos="N">vuoptâčyeppee</t>
             <t pos="N">tuppájeijee</t>
             <t pos="N">pardur</t>
          </tg>
@@ -100525,7 +100503,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="perhe-eläke cc5567e7-9c2b-4a85-b755-99a65eb1473e">
             <t pos="N" syn_dash="-iäláttuv">peerâiäláttâh</t>
-            <t pos="N">peerâiäláttâs</t>
          </tg>
       </mg>
    </e>
@@ -100614,7 +100591,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="peruseläke c3b74091-34d3-4143-a8e4-adfafb309e24">
             <t pos="N" syn_dash="-iäláttuv">vuáđuiäláttâh</t>
-            <t pos="N">vuáđuiäláttâs</t>
          </tg>
       </mg>
    </e>
@@ -102684,7 +102660,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="sairaseläke 5bf12b4e-b111-40a2-bfd9-11e53994726b">
             <t pos="N" syn_dash="-iäláttuv">puoccâmiäláttâh</t>
-            <t pos="N">puoccâmiäláttâs</t>
          </tg>
       </mg>
    </e>
@@ -104076,7 +104051,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="syytinki d7f93414-7275-4e70-85ad-d19149d0b02c">
             <t pos="N">táluiäláttâs</t>
-            <t pos="N">iäláttâs</t>
          </tg>
       </mg>
    </e>
@@ -105503,7 +105477,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="työeläke 75e445c6-60cd-4f6b-a3bd-ccca399da536">
             <t pos="N" syn_dash="-iäláttuv">pargoiäláttâh</t>
-            <t pos="N">pargoiäláttâs</t>
          </tg>
       </mg>
    </e>
@@ -105514,7 +105487,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="työeläkelaki 14c0f6bc-78c2-415d-b63c-de4d862d55b3">
             <t pos="N" syn_dash="-laaVâ">pargoiäláttâhlaahâ</t>
-            <t pos="N" syn_dash="-laaVâ">pargoiäláttâslaahâ</t>
          </tg>
       </mg>
    </e>
@@ -105525,7 +105497,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="työeläkemaksu 27dd6c64-eb12-4a1d-a3ba-2a9e7147e9f8">
             <t pos="N" syn_dash="-máávsu">pargoiäláttâhmáksu</t>
-            <t pos="N" syn_dash="-máávsu">pargoiäláttâsmáksu</t>
          </tg>
       </mg>
    </e>
@@ -105559,7 +105530,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="työkyvyttömyyseläke 2ceee3bf-7fa3-4e58-8296-8334cc23d924">
             <t pos="N" syn_dash="-iäláttuv">pargonavcâttesvuođâiäláttâh</t>
-            <t pos="N">pargonavcâttesvuođâiäláttâs</t>
          </tg>
       </mg>
    </e>
@@ -106196,7 +106166,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="varhaiseläke 258faa25-e48c-4854-a340-2e37d221292d">
             <t pos="N" syn_dash="-iäláttuv">arâiäláttâh</t>
-            <t pos="N">arâiäláttâs</t>
          </tg>
       </mg>
    </e>

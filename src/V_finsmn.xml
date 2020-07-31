@@ -2210,7 +2210,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="avioitua 066a7608-57cc-4b0c-b409-fc73fafa5fc2">
-            <t pos="V" l_par="kuuluttaa itsensä avioliittoon">čälittiđ</t>
+            <t pos="V" l_par="kuuluttaa itsensä avioliittoon" mwe="y">kulluuttâs čälittiđ</t>
          </tg>
       </mg>
    </e>
@@ -2455,7 +2455,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="parkita 37dfa172-fe4d-49b8-9dd1-d1a874b994a4">
-            <t pos="V" l_par="olla parkittumassa nahoista _SEMIC_ tulla parkituksi nahoista" wf="ostoduVá">ostoduđ</t>
+            <t pos="V" l_par="olla parkittumassa nahoista; tulla parkituksi nahoista" wf="ostoduVá">ostoduđ</t>
          </tg>
       </mg>
    </e>
@@ -2707,14 +2707,14 @@ For the full license text, see the link above.
       <lg>
          <l pos="V">taivaltaa</l>
       </lg>
-      <mg id="1">
-         <tg xml:lang="smn" tw_id="taivaltaa d132c61e-3cf7-40af-9c4d-dc292cb3ece0">
-            <t pos="V" l_par="kulkea maitse vesimatkalla" wf="muáđhum">muátkuđ</t>
-         </tg>
-      </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="taivaltaa 03a85f5d-44c4-42fd-b449-974e1fde2858">
             <t pos="V" l_par="taittaa taivalta, samoilla, vaeltaa" wf="vaandârd">vandârdiđ</t>
+         </tg>
+      </mg>
+      <mg id="1">
+         <tg xml:lang="smn" tw_id="taivaltaa d132c61e-3cf7-40af-9c4d-dc292cb3ece0">
+            <t pos="V" l_par="kulkea maitse vesimatkalla" wf="muáđhum">muátkuđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -2812,7 +2812,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn" tw_id="voida c8f43d63-c7b7-4650-a0cd-26b0078623f3">
-            <t pos="V" l_par="voida pahoin" t_tld="~ kaggâđ" wf="kagâstiđ">vááimu</t>
+            <t pos="V" l_par="voida pahoin" t_tld="~ kaggâđ" wf="kagâstiđ" mwe="y">vááimu kaggâđ</t>
          </tg>
       </mg>
       <mg id="6">
@@ -3098,6 +3098,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="alkaa bc5622dc-466c-4700-b765-246fbcf78a69">
+            <t pos="V" syn_dash="-guáđám" t_tld="~ -kyettiđ -kuádám ~ -škyettiđ -škuáđám">-škyettiđ</t>
             <t pos="V" syn_dash="-guáđám" t_tld="~ -kyettiđ -kuádám ~ -škyettiđ -škuáđám">-gyettiđ</t>
          </tg>
       </mg>
@@ -15063,12 +15064,6 @@ For the full license text, see the link above.
       <mg id="11">
          <tg xml:lang="smn" tw_id="tulla bb2db7a1-92cb-45d5-9438-1ff816fae407">
             <t pos="V" l_par="äkkinäisesti jokin määrä, esim. vedestä veneeseen">almâsiđ</t>
-         </tg>
-      </mg>
-      <mg id="1">
-         <tg xml:lang="smn" tw_id="tulla df1b149d-5615-47a1-8ce7-c872ffcb6a26">
-            <t pos="V" wf="šoodâm šadda">šoddâđ</t>
-            <t pos="V" wf="puáđám">puáttiđ</t>
          </tg>
       </mg>
       <mg id="2">

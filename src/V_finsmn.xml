@@ -17609,8 +17609,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="delegoida b1ede5e2-f6bf-4123-b9bd-ad9e9c4ddeb3">
-            <t pos="V" wf="tojám">toijeeđ</t>
             <t pos="V" wf="delegistám">delegistiđ</t>
+            <t pos="V" wf="tojám">toijeeđ</t>
          </tg>
       </mg>
    </e>
@@ -19562,11 +19562,11 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="litistyä 9003fc7c-a68b-4193-a11c-088c6595b28c">
-            <t pos="V" wf="skuuččâg">skučâgiđ</t>
             <t pos="V" wf="tapčas">tapčasiđ</t>
             <t pos="V" wf="tebžâs">tebžâsiđ</t>
             <t pos="V" wf="tepčuum tiäpčoo">tepčuđ</t>
             <t pos="V" wf="teškâs">teškâsiđ</t>
+            <t pos="V" wf="skuuččâg">skučâgiđ</t>
          </tg>
       </mg>
    </e>
@@ -20398,13 +20398,13 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="pakottaa f99ddfd6-16ed-4c4d-aa06-e1daf33195e6">
-            <t pos="V" wf="poovčâst">povčâstiđ</t>
+            <t pos="V" wf="poovčâst" l_par="kivusta">povčâstiđ</t>
             <t pos="V" wf="čuácá">čuoccâđ</t>
          </tg>
       </mg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="pakottaa a921178a-f7f8-4baf-b9f0-f2e80e02bbf0">
-            <t pos="V" wf="paggiim päggee">paggiđ</t>
+            <t pos="V" wf="paggiim päggee" l_par="tekemäänjtak">paggiđ</t>
             <t pos="V" wf="páággut">páguttiđ</t>
          </tg>
       </mg>
@@ -23003,7 +23003,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="aikaansaada dd0e1fa7-053c-4b63-b46c-0b7dfc214848">
-            <t pos="V" wf="áigá">uážžuđ</t>
+            <t pos="V" mwe="y">uážžuđ áigá</t>
             <t pos="V" wf="ááštáš">áštášiđ</t>
             <t pos="V">selgâniđ</t>
             <t pos="V" wf="seelgât">selgâttiđ</t>
@@ -23679,7 +23679,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="eksyä 108130e0-89f9-40c3-8d10-a8b3e85def57">
-            <t pos="V" l_par="olla eksyksissä" wf="lappâsist">leđe</t>
+            <t pos="V" l_par="olla eksyksissä" mwe="y">leđe lappâsist</t>
          </tg>
       </mg>
       <mg id="3">
@@ -23943,7 +23943,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn" tw_id="erottaa 73093e6b-89ab-4d2c-ac88-fc9fa9be2733">
-            <t pos="V" l_par="antaa potkut" wf="meddâl">pieijâđ</t>
+            <t pos="V" l_par="antaa potkut" mwe="y">pieijâđ meddâl</t>
             <t pos="V">iäruttiđ</t>
          </tg>
       </mg>
@@ -23984,14 +23984,14 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn" tw_id="esiintyä f2647543-bc4c-41b9-8868-a072ebffd365">
-            <t pos="V" l_par="olla jssak" wf="kostnii">leđe</t>
+            <t pos="V" l_par="olla jssak" mwe="y">leđe kostnii</t>
             <t pos="V" wf="tiättoo">tiettuđ</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn" tw_id="esiintyä e0b53157-9a1e-4971-9a19-0c44b08b9355">
             <t pos="V" l_par="löytyä jstak" wf="kávnoo">kavnuđ</t>
-            <t pos="V" wf="kostnii">leđe</t>
+            <t pos="V" mwe="y">leđe kostnii</t>
          </tg>
       </mg>
    </e>
@@ -24841,7 +24841,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn" tw_id="harppoa 0724777a-24ef-4857-95aa-dca86ec628b8">
-            <t pos="V" l_par="astua epäluonnollisen pitkiä askeleita _SEMIC_ luistella pitkillä liuuilla" wf="hárččuluuvčâm hárččulâhš">hárččulâhčâđ</t>
+            <t pos="V" l_par="astua epäluonnollisen pitkiä askeleita; luistella pitkillä liuuilla" wf="hárččuluuvčâm hárččulâhš">hárččulâhčâđ</t>
          </tg>
       </mg>
    </e>
@@ -24961,7 +24961,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn" tw_id="haukkua 08419f7f-f1ce-41d4-91f2-bf1e27ec85e7">
-            <t pos="V" l_par="koirasta haukkua turhaan, hiljaa _SEMIC_ ihmisestä nalkuttaa erit. vaimo" wf="hälhistât">hälhistittiđ</t>
+            <t pos="V" l_par="koirasta haukkua turhaan, hiljaa; ihmisestä nalkuttaa erit. vaimo" wf="hälhistât">hälhistittiđ</t>
          </tg>
       </mg>
       <mg id="5">
@@ -25048,7 +25048,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn" tw_id="hautoa 9e1fc8bb-a6dd-4e16-a9a9-8042e01998a4">
-            <t pos="Pron" l_par="sinä se viihdyt sängyssä makoilemassa" wf="kal tom seeŋgâ lááláh">tun</t>
+            <t pos="Pron" l_par="sinä se viihdyt sängyssä makoilemassa" mwe="y">tun kal tom seeŋgâ lááláh</t>
          </tg>
       </mg>
    </e>
@@ -25118,7 +25118,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn" tw_id="havaita 773f482d-7ad3-4dc1-8070-110028c6f156">
-            <t pos="V" l_par="negatiivisessa mielessä _SEMIC_ epäillä jtak" wf="váávjám vávjá">vävjiđ</t>
+            <t pos="V" l_par="negatiivisessa mielessä; epäillä jtak" wf="váávjám vávjá">vävjiđ</t>
          </tg>
       </mg>
    </e>
@@ -25429,7 +25429,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="11">
          <tg xml:lang="smn" tw_id="heittää bec71670-1076-4e20-920d-dcaa5ae0a68d">
-            <t pos="Pron" l_par="minua pyörryttää, heittää päästä" t_tld="~ keessâš" wf="uáivi kiessâš">must</t>
+            <t pos="Pron" l_par="minua pyörryttää, heittää päästä" t_tld="~ keessâš" mwe="y">must uáivi kiessâš</t>
          </tg>
       </mg>
    </e>
@@ -25470,7 +25470,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn" tw_id="hellittää 02f0014e-ca7c-4f97-a031-239b1c123c78">
-            <t pos="V" l_par="antaa periksi" wf="piäRán">adeliđ</t>
+            <t pos="V" l_par="antaa periksi" mwe="y">adeliđ piärán</t>
          </tg>
       </mg>
    </e>
@@ -25999,8 +25999,8 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="hirvittää 21ebfb37-ede8-42f9-ae26-50280838b8b5">
-            <t pos="Pron" l_par="minua hirvittää" wf="poolâm">mun</t>
-            <t pos="Pron" wf="polâškuáđám">mun</t>
+            <t pos="Pron" l_par="minua hirvittää" mwe="y">mun poolâm</t>
+            <t pos="Pron" mwe="y">mun polâškuáđám</t>
          </tg>
       </mg>
    </e>
@@ -26016,7 +26016,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="hiukoa b277acbf-096c-44a9-a26d-db7fe9695af9">
-            <t pos="Pron" l_par="minua hiukoo" wf="koovvâč">muu</t>
+            <t pos="Pron" l_par="minua hiukoo" mwe="y">muu koovvâč</t>
          </tg>
       </mg>
    </e>
@@ -26483,7 +26483,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="huolehtia fc6d3c74-b779-4d66-b751-c1ffcaf21ef6">
             <t pos="V" wf="huolât">huolâttiđ</t>
-            <t pos="V" wf="huolâ">anneeđ</t>
+            <t pos="V" mwe="y">anneeđ huolâ</t>
             <t pos="V" wf="aitârdâm">aitârdiđ</t>
          </tg>
       </mg>
@@ -27130,11 +27130,10 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="hävettää 284ee638-15de-4abd-9260-53c50badb7a6">
             <t pos="V" wf="hepânâšâm">hepânâššâđ</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn" tw_id="hävettää 062637e5-ae70-4d32-bda8-67c439952434">
-            <t pos="Pron" l_par="minua hävettää" wf="hepânâšâm">mun</t>
+            <xg>
+               <x>minua hävettää</x>
+               <xt>mun hepânâšâm</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -27350,7 +27349,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="ilmaista f838866c-b9bb-49ba-8a8c-7dc20875e9b5">
-            <t pos="Adv" wf="pyehtiđ puávtám">olgos</t>
+            <t pos="V" wf="puávtám" mwe="y">olgos pyehtiđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -27541,7 +27540,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn" tw_id="irrottaa 6542cd97-f85f-411f-9d31-83c4cfac198f">
-            <t pos="V" l_par="repiä irti esim. etikettiä, rupea haavasta, turvetta maasta _SEMIC_ kuoria keitetystä perunasta" wf="njizám">njizzeđ</t>
+            <t pos="V" l_par="repiä irti esim. etikettiä, rupea haavasta, turvetta maasta; kuoria keitetystä perunasta" wf="njizám">njizzeđ</t>
          </tg>
       </mg>
       <mg id="6">
@@ -27660,8 +27659,8 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn" tw_id="istua 580d98c7-7b8a-49cb-835b-ee80bf2b7bea">
-            <t pos="V" l_par="lennosta laskeutuneena, erit. linnusta" wf="seivâgist">leđe</t>
-            <t pos="Adv" wf="orroođ">seivâgist</t>
+            <t pos="V" l_par="lennosta laskeutuneena, erit. linnusta" mwe="y">leđe seivâgist</t>
+            <t pos="V" mwe="y">orroođ seivâgist</t>
          </tg>
       </mg>
       <mg id="6">
@@ -27958,7 +27957,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="johtaa 847965d8-efcb-4eb1-9710-4ff8fa01dae4">
-            <t pos="V" l_par="olla ensimmäisenä" wf="njuNošist">leđe</t>
+            <t pos="V" l_par="olla ensimmäisenä" mwe="y">leđe njuNošist</t>
          </tg>
       </mg>
       <mg id="2">
@@ -28264,7 +28263,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="juontaa 72fa186a-b2dd-4f25-b14f-c6c180f4a66c">
-            <t pos="V" l_par="olla peräisin" wf="meddâl">leđe</t>
+            <t pos="V" l_par="olla peräisin" mwe="y">leđe meddâl</t>
             <t pos="V" wf="puáđám">puáttiđ</t>
          </tg>
       </mg>
@@ -29783,7 +29782,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kattaa 0429c0b2-08e1-4821-bbe8-dacbf1aea7f2">
-            <t pos="V" l_par="jkin asia _SEMIC_ kota louteella" wf="luávdám">luávdiđ</t>
+            <t pos="V" l_par="jkin asia; kota louteella" wf="luávdám">luávdiđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -31355,7 +31354,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn" tw_id="kolahtaa aef5641f-ce2d-4c90-beca-06c4c6f76c58">
-            <t pos="Pron" l_par="pääni kolahti jhk" wf="uáivi puŋkkái moosnii">must</t>
+            <t pos="Pron" l_par="pääni kolahti jhk" mwe="y">must uáivi puŋkkái moosnii</t>
          </tg>
       </mg>
    </e>
@@ -32110,7 +32109,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="7">
          <tg xml:lang="smn" tw_id="kuivua 2eeef8ea-8d00-4722-af9a-5cd99b09b945">
-            <t pos="V" l_par="panna kuivumaan erit. riuulle _SEMIC_ akt." t_tld="~ čuhčâdiđ">suhčâdiđ</t>
+            <t pos="V" l_par="panna kuivumaan erit. riuulle; akt." t_tld="~ čuhčâdiđ">suhčâdiđ</t>
             <t pos="V" l_par="pass." t_tld="~ čuhčâduđ čuhčâduum čuhčâduVá">suhčâduđ</t>
          </tg>
       </mg>
@@ -36702,12 +36701,12 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn" tw_id="muksauttaa 7c729a45-4dde-47c1-8b58-4114d539b79f">
-            <t pos="Pron" l_par="muksautin pääni" wf="puŋkkááttim uáiván">mun</t>
+            <t pos="Pron" l_par="muksautin pääni" mwe="y">mun puŋkkááttim uáiván</t>
          </tg>
       </mg>
       <mg id="5">
          <tg xml:lang="smn" tw_id="muksauttaa f8112c6b-7aa2-45e0-b42a-d1cad7299523">
-            <t pos="Pron" l_par="pääni muksahti jhk" wf="uáivi puŋkkái moosnii">must</t>
+            <t pos="Pron" l_par="pääni muksahti jhk" mwe="y">must uáivi puŋkkái moosnii</t>
          </tg>
       </mg>
    </e>
@@ -37477,7 +37476,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn" tw_id="nirsoilla ab5dd289-636f-4024-a1ad-e688b59df050">
             <t pos="V" l_par="raskaana olevasta naisesta, jolla ei ole ruokahalua esim. pahoinvoinnin takia" wf="vyesvist">vyesvistiđ</t>
-            <t pos="V" wf="vyesvistmin">leđe</t>
+            <t pos="V" mwe="y">leđe vyesvistmin</t>
          </tg>
       </mg>
    </e>
@@ -37537,11 +37536,10 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="nolottaa e0b63889-ace5-4211-bbc5-47b19099bfb1">
             <t pos="V" wf="hepânâšâm">hepânâššâđ</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn" tw_id="nolottaa 14f97fc3-b30f-4730-8352-a1e82a14a614">
-            <t pos="Pron" l_par="minua nolottaa" wf="hepânâšâm">mun</t>
+            <xg>
+               <x>minua nolottaa</x>
+               <xt>mun hepânâšâm</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -38208,7 +38206,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn" tw_id="ohentua 2987c5ef-4796-42de-818e-cac07a232fd1">
-            <t pos="V" l_par="nesteestä _SEMIC_ karvoituksesta _SEMIC_ havupuun neulasistosta, harsuuntua" wf="njáárbum">njárbuđ</t>
+            <t pos="V" l_par="nesteestä; karvoituksesta; havupuun neulasistosta, harsuuntua" wf="njáárbum">njárbuđ</t>
             <t pos="V" wf="njáárbud">njárbudiđ</t>
          </tg>
       </mg>
@@ -39943,16 +39941,16 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn" tw_id="peruuttaa 71e1fe71-73e5-4585-bcbc-75b706049138">
             <t pos="V" l_par="vetäytyä jstak konkr. ja abst." r_par="+ lok.">kiäsádâttâđ</t>
-            <t pos="V" wf="maasâd">keessiđ</t>
+            <t pos="V" mwe="y">keessiđ maasâd</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn" tw_id="peruuttaa 8111acd8-42b1-4412-8039-825d0f85c6cc">
             <t pos="V" l_par="esim. tilaisuus">maasâdkeessiđ</t>
             <t pos="V" wf="murdeet">murdettiđ</t>
-            <t pos="V" wf="orniimist">joskâđ</t>
-            <t pos="Pron" l_par="hän peruuttaa ehdotuksensa" wf="kiäsá maasâd iävtuttâsâs">sun</t>
-            <t pos="Pron" wf="kiäsádat iävtuttâsâst">sun</t>
+            <t pos="V" mwe="y">joskâđ orniimist</t>
+            <t pos="Pron" l_par="hän peruuttaa ehdotuksensa" mwe="y">sun kiäsá maasâd iävtuttâsâs</t>
+            <t pos="Pron" mwe="y">sun kiäsádat iävtuttâsâst</t>
          </tg>
       </mg>
    </e>
@@ -42137,7 +42135,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="pyörryttää 4d5c1323-be33-462a-a3e7-5cc24a5f0d7d">
-            <t pos="Pron" l_par="minua pyörryttää" t_tld="~ must uáivi keessâš _MWE3_" wf="uáivi kiessâš _MWE3_">must</t>
+            <t pos="Pron" l_par="minua pyörryttää" t_tld="~ must uáivi keessâš _MWE3_" mwe="y">must uáivi kiessâš</t>
          </tg>
       </mg>
    </e>
@@ -42533,7 +42531,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="raivata 2d082cc3-f435-426c-9471-719e5fea9b12">
-            <t pos="V" l_par="risut yms. pois esim. kentästä _SEMIC_ tavarat pois jstak" wf="raajâm rááJá">raaijâđ</t>
+            <t pos="V" l_par="risut yms. pois esim. kentästä; tavarat pois jstak" wf="raajâm rááJá">raaijâđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -44199,7 +44197,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn" tw_id="seota c03d9dab-e8a6-4f57-a299-b6827329d791">
-            <t pos="Pron" l_par="hän sekosi, tuli hulluksi" wf="láá mielah muivâšum">sust</t>
+            <t pos="Pron" l_par="hän sekosi, tuli hulluksi" mwe="y">sust láá mielah muivâšum</t>
          </tg>
       </mg>
    </e>
@@ -46067,7 +46065,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="tallettaa 87a1f8de-e806-427c-8e97-735e1f6ac6dc">
-            <t pos="V" l_par="esim. rahaa _SEMIC_ m. korjata talteen" wf="vuorkkiim vyerkkee">vuorkkiđ</t>
+            <t pos="V" l_par="esim. rahaa; m. korjata talteen" wf="vuorkkiim vyerkkee">vuorkkiđ</t>
          </tg>
       </mg>
       <mg id="2">

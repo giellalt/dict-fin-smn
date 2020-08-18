@@ -4102,7 +4102,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="kaaristelenkki e8ee8684-024c-47d7-9280-3938692a2656">
             <t pos="N" t_tld="~kááruin">káárunj</t>
-            <t pos="N" t_tld="~káárunj">kááruin</t>            
+            <t pos="N" t_tld="~káárunj">kááruin</t>
             <t pos="N" t_tld="~kááttuin">kááttunj</t>
             <t pos="N" t_tld="~kááttunj">kááttuin</t>
          </tg>
@@ -88117,7 +88117,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn" tw_id="vita 18a70c8a-ca6b-43c4-926c-73b39c28c325">
-            <t pos="N" l_par="vita alla" syn_dash="-vine">vyelnivine</t>  
+            <t pos="N" l_par="vita alla" syn_dash="-vine">vyelnivine</t>
             <t pos="N">maajeeldvine</t>
             <t pos="N">vyeleeldvine</t>
          </tg>
@@ -95427,7 +95427,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kangaspuut 791bff85-23cc-45fe-9b56-843918d43ee4">
-           <t pos="N" r_par="mon.">kägismuorah</t> 
+           <t pos="N" r_par="mon.">kägismuorah</t>
            <t pos="N" r_par="mon.">särgimuorah</t>
          </tg>
       </mg>

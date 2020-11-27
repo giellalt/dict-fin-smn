@@ -12143,7 +12143,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="ala a002239b-3a35-4fca-84fc-2251d14977b5">
-            <t pos="N" t_tld="~vijđodâh vijđoduv" wf="vijdoduv">vijdodâh</t>
+            <t pos="N" t_tld="~vijđodâh vijđoduv" wf="vijdoduv">vijđodâh</t>
          </tg>
       </mg>
       <mg id="1">
@@ -39808,7 +39808,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="laajuus 2ae3b168-aa82-4b23-b685-8f96c07fccb1">
-            <t pos="N" wf="vijdoduv">vijdodâh</t>
+            <t pos="N" wf="vijdoduv">vijđodâh</t>
          </tg>
       </mg>
    </e>
@@ -58022,7 +58022,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="pinta-ala 3c1fc591-e2ec-4815-843f-70ee01df5f88">
-            <t pos="N" t_tld="~ vijđodâh vijđoduv" wf="vijdoduv">vijdodâh</t>
+            <t pos="N" t_tld="~ vijđodâh vijđoduv" wf="vijdoduv">vijđodâh</t>
          </tg>
       </mg>
    </e>
@@ -105866,7 +105866,7 @@ For the full license text, see the link above.
    </e>
    <e id="15935">
       <lg>
-         <l pos="N">vaakasuoraan</l>
+         <l pos="Adv">vaakasuoraan</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="vaakasuoraan 6f85a539-8810-47fe-898f-feaf29ea509d">
@@ -107738,7 +107738,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="alue 48b99f76-7b63-445f-badd-431e35d05b3b">
-            <t pos="N" l_par="ala" t_tld="~ vijđodâh vijđoduv" wf="vijdoduv">vijdodâh</t>
+            <t pos="N" l_par="ala" t_tld="~ vijđodâh vijđoduv" wf="vijdoduv">vijđodâh</t>
          </tg>
       </mg>
    </e>
@@ -118656,21 +118656,19 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="mustelma 0a94bc93-aa92-4267-a3b0-f8a041cc39ad">
             <t pos="V" l_par="saada mustelmia" wf="sááppust">sápustiđ</t>
+            <xg>
+               <x>minulle tuli mustelma jalkaan</x>
+               <xt>must lii jyelgi sápustâm</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="mustelma ff208f5d-d30c-4c49-a025-a93b01bb14ea">
             <t pos="V" l_par="tulla mustelmaiseksi" wf="sápustâlâm">sápustâllâđ</t>
-         </tg>
-      </mg>
-      <mg id="3">
-         <tg xml:lang="smn" tw_id="mustelma 2c481bb3-7291-4ee4-a04f-851c0cef7453">
-            <t pos="Pron" l_par="minulle tuli mustelma jalkaan" wf="lii jyelgi sápustâm">must</t>
-         </tg>
-      </mg>
-      <mg id="4">
-         <tg xml:lang="smn" tw_id="mustelma fd3b6bef-bf68-4d11-9a89-d8f4a9a561a2">
-            <t pos="Pron" l_par="hän pieksi isoäitinsä niin että tämä tuli mustelmaiseksi" wf="caaimij ááhus nuuvt et tot sápustâlâi">tot</t>
+            <xg>
+               <x>Hän pieksi isoäitinsä niin että tämä tuli mustelmaiseksi.</x>
+               <xt>Tot caaimij ááhus nuuvt et tot sápustâlâi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

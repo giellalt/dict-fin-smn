@@ -32762,7 +32762,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="9">
          <tg xml:lang="smn" tw_id="kutoa 5dcf677c-f1cc-4717-829f-628fb150b502">
-            <t pos="N" l_par="verkon mittainen puolen silmän rivi" wf="movssáá">moovsâš</t>
+            <t pos="N" l_par="kutoa verkon mittainen puolen silmän rivi" wf="movssáá" mwe="y">kođđeeđ movssii</t>
          </tg>
       </mg>
    </e>
@@ -34268,11 +34268,6 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn" tw_id="levitellä d1e39d13-79e0-4fa8-83d2-3dd8473e84fc">
             <t pos="V" l_par="heiniä, olkia tms. kuivumaan" wf="liävum">liävvuđ</t>
-         </tg>
-      </mg>
-      <mg id="4">
-         <tg xml:lang="smn" tw_id="levitellä 043ca2fb-91b4-46ef-9927-364983ef5fc7">
-            <t pos="Adv" l_par="levitettynä kuivumaan heinistä, oljista tms.">liävvud</t>
          </tg>
       </mg>
    </e>
@@ -41320,11 +41315,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="pukeutua 73971d91-abbe-4245-88fd-b37c27d9c375">
             <t pos="V" wf="kárvudâđâm">kárvudâttâđ</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn" tw_id="pukeutua 9140362a-50b4-4702-9e06-5a37af77510c">
-            <t pos="Adv" l_par="olla pukeissa, riisuutumatta">ubbân</t>
          </tg>
       </mg>
    </e>

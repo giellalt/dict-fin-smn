@@ -18157,7 +18157,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="ihailla 75bb86cf-3f51-4e78-bf5f-76f94139fbef">
             <t pos="V" wf="lijkkuustâlâm">lijkkuustâllâđ</t>
-            <t pos="V" wf="ihastâlâm">ihastâllâđ</t>
+            <t pos="V" wf="ihastâlâm">ihástâllâđ</t>
          </tg>
       </mg>
    </e>
@@ -23204,7 +23204,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn" tw_id="aliarvioida 55a6c8df-c62b-4c71-8f04-c10bf32595b9">
-            <t pos="V" l_par="ylenkatsoa">pajeluukeččâđ</t>
+            <t pos="V" l_par="ylenkatsoa">pajaluvkeččâđ</t>
          </tg>
       </mg>
    </e>
@@ -24685,7 +24685,6 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn" tw_id="hapantua ebb67089-597f-4a41-98e5-23b1c51b76d2">
             <t pos="V" l_par="pilaantuen maitotuotteista" wf="jiesâluvá">jiesâluđ</t>
-            <t pos="V">jiesâluvá</t>
             <t pos="V" wf="jiessâg">jiesâgiđ</t>
          </tg>
       </mg>
@@ -26440,7 +26439,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="huohottaa 9d4f202c-8619-4bb4-8768-74f56f41367b">
-            <t pos="V" l_par="läähättää" wf="saađâm">aađđâđ</t>
+            <t pos="V" l_par="läähättää" wf="saađâm">saađđâđ</t>
             <t pos="V" wf="sooVâm saha">soohâđ</t>
          </tg>
       </mg>
@@ -26699,7 +26698,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn" tw_id="hyljeksiä 7d176b03-2b96-4385-b815-12ca9dbbaea4">
-            <t pos="V" l_par="halveksia" wf="V">pajaluv keččâđ</t>
+            <t pos="V" l_par="halveksia" wf="V">pajaluvkeččâđ</t>
          </tg>
       </mg>
    </e>
@@ -28159,7 +28158,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="6">
          <tg xml:lang="smn" tw_id="jumittua c16292d8-a89e-4324-b048-cbdb71193e94">
-            <t pos="V" l_par="vene kiinni matalikkoon kun vesi on matalalla" t_tld="~cohhuđ ~ cuohhuđ cuáhhoo">čohhuđ</t>
+            <t pos="V" l_par="vene kiinni matalikkoon kun vesi on matalalla" t_tld="~coohhuđ ~ cuohhuđ cuáhhoo">cohhuđ</t>
             <t pos="V" wf="cuáháduum cuáháduVá">cuáháduđ</t>
          </tg>
       </mg>
@@ -28388,7 +28387,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="6">
          <tg xml:lang="smn" tw_id="juuttua 86ba3b06-8097-4f95-ae48-b8b68917fbfe">
-            <t pos="V" l_par="vene kiinni matalikkoon kun vesi on matalalla" t_tld="~cohhuđ ~ cuohhuđ cuáhhoo">coohhuđ</t>
+            <t pos="V" l_par="vene kiinni matalikkoon kun vesi on matalalla" t_tld="~coohhuđ ~ cuohhuđ cuáhhoo">cohhuđ</t>
             <t pos="V" wf="cuáháduum cuáháduVá">cuáháduđ</t>
          </tg>
       </mg>
@@ -37081,11 +37080,6 @@ For the full license text, see the link above.
             <t pos="V" l_par="kutsuhuutoon vastaten" wf="täävist">tävistiđ</t>
          </tg>
       </mg>
-      <mg id="5">
-         <tg xml:lang="smn" tw_id="määkiä 444809b4-28c5-47c1-ad80-e3d51472e75c">
-            <t pos="V" l_par="alkaa määkiä">mäkigyettiđ</t>
-         </tg>
-      </mg>
    </e>
    <e id="8908">
       <lg>
@@ -42825,7 +42819,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="riistää 3e8a6d20-4ad6-4c04-82f0-2814214d3c08">
-            <t pos="V" l_par="hyväksikäyttää" wf="ávhâstâlam">ávhâstâllâđ</t>
+            <t pos="V" l_par="hyväksikäyttää" wf="ávhâstâlam">ávhástâllâđ</t>
          </tg>
       </mg>
    </e>

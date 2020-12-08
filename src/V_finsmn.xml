@@ -17564,8 +17564,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="arvata 9cdbc151-d32f-4559-961e-7d80566e0499">
-            <t pos="V">ärvidiđ</t>
             <t pos="V">ervidiđ</t>
+            <t pos="V">ärvidiđ</t>
          </tg>
       </mg>
    </e>
@@ -18101,7 +18101,6 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="hälyttää fa49b9b4-aa1c-4368-881e-1e68deb7a2f8">
             <t pos="V" l_par="erit. varoittaaksen jstak" wf="váárut">váruttiđ</t>
             <t pos="V" mwe="y">koččođ išán</t>
-            <t pos="V">hälyttiđ</t>
          </tg>
       </mg>
    </e>
@@ -25043,11 +25042,10 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn" tw_id="hautoa 0feef3f9-4b6f-4606-b811-8ff98a1c8cb3">
             <t pos="V" l_par="munia" wf="láálám lááLá">läälliđ</t>
-         </tg>
-      </mg>
-      <mg id="5">
-         <tg xml:lang="smn" tw_id="hautoa 9e1fc8bb-a6dd-4e16-a9a9-8042e01998a4">
-            <t pos="Pron" l_par="sinä se viihdyt sängyssä makoilemassa" mwe="y">tun kal tom seeŋgâ lááláh</t>
+             <xg>
+               <x>Sinä se viihdyt sängyssä makoilemassa.</x>
+               <xt>Tun kal tom seeŋgâ lááláh.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -25068,16 +25066,15 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn" tw_id="hautua fc3562ab-f146-4adc-abc9-72981966d493">
             <t pos="V" l_par="muna" wf="oolhâi">olkkâđ</t>
+             <xg>
+               <x>muna, jossa poikanen on kehittymässä</x>
+               <xt>olkkâm mane</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn" tw_id="hautua ec2493dd-2998-4ab6-a954-9b3cb1b56c01">
             <t pos="V" l_par="tee, kahvi" wf="časkam časka">časkeđ</t>
-         </tg>
-      </mg>
-      <mg id="5">
-         <tg xml:lang="smn" tw_id="hautua d555d3d2-de31-4d42-acce-471c167a819c">
-            <t pos="N" l_par="muna jossa poikanen on kehittymässä" mwe="y">olkkâm mane</t>
          </tg>
       </mg>
    </e>
@@ -25419,16 +25416,15 @@ For the full license text, see the link above.
       <mg id="9">
          <tg xml:lang="smn" tw_id="heittää 90f9ce9f-f116-4a9e-bb61-b1757d52a49e">
             <t pos="V" l_par="päässä, pyörryttää">kiesâččiđ</t>
+              <xg>
+               <x>minua pyörryttää, heittää päästä</x>
+               <xt>must uáivi kiessâš</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="10">
          <tg xml:lang="smn" tw_id="heittää 35991f87-0707-4408-bf34-4248c527bc01">
             <t pos="A" l_par="kova heittämään" attr="# -is">olgiš</t>
-         </tg>
-      </mg>
-      <mg id="11">
-         <tg xml:lang="smn" tw_id="heittää bec71670-1076-4e20-920d-dcaa5ae0a68d">
-            <t pos="Pron" l_par="minua pyörryttää, heittää päästä" t_tld="~ keessâš" mwe="y">must uáivi kiessâš</t>
          </tg>
       </mg>
    </e>
@@ -26011,11 +26007,10 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="hiukoa 7a2cc557-2335-4a67-865d-3e8b37759aab">
             <t pos="V" wf="kavveest">kavestiđ</t>
             <t pos="V">kovâččiđ</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn" tw_id="hiukoa b277acbf-096c-44a9-a26d-db7fe9695af9">
-            <t pos="Pron" l_par="minua hiukoo" mwe="y">muu koovvâč</t>
+             <xg>
+               <x>minua hiukoo</x>
+               <xt>muu koovvâč</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -30847,8 +30842,8 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="kirjata 48027001-8fdf-45c8-97f4-1d8816956aea">
             <t pos="V" wf="kirjeet">kirjettiđ</t>
             <xg>
-               <x>kirjattu kirje.</x>
-               <xt>kirjettum reeivâ.</xt>
+               <x>kirjattu kirje</x>
+               <xt>kirjettum reivâ</xt>
             </xg>
          </tg>
       </mg>
@@ -31379,33 +31374,34 @@ For the full license text, see the link above.
             <t pos="V" l_par="ääni">kolkkâliđ</t>
          </tg>
       </mg>
-      <mg id="4">
+      <mg id="2">
          <tg xml:lang="smn" tw_id="kolauttaa b41d3ab4-b0d8-4e23-b7df-c13aedb02f19">
             <t pos="V" l_par="kolkata, kolkata kuoliaaksi">čolkkâliđ</t>
          </tg>
       </mg>
-      <mg id="5">
+      <mg id="3">
          <tg xml:lang="smn" tw_id="kolauttaa 92392f04-fe92-4070-8e9b-12c7c3da82fa">
             <t pos="V" l_par="satuttaa jk jhk" wf="puŋkkáám">puŋkkáđ</t>
             <xg>
-               <x>kolautin pääni.</x>
-               <xt>mun puŋkkááttim uáiván.</xt>
+               <x>kolautin pääni</x>
+               <xt>mun puŋkkááttim uáiván</xt>
             </xg>
             <xg>
-               <x>pääni kolahti jhk.</x>
-               <xt>must uáivi puŋkkái moosnii.</xt>
+               <x>pääni kolahti jhk</x>
+               <xt>must uáivi puŋkkái moosnii</xt>
             </xg>
          </tg>
+      <mg id="4">
          <tg xml:lang="smn">
             <t pos="V" wf="nooigâm">noigâđ</t>
          </tg>
       </mg>
-      <mg id="6">
+      <mg id="5">
          <tg xml:lang="smn" tw_id="kolauttaa f739355e-4709-4407-b912-f897caa82965">
             <t pos="V" l_par="itsensä jhk" mwe="y">puŋkkááttiđ jieijâs</t>
          </tg>
       </mg>
-      <mg id="7">
+      <mg id="6">
          <tg xml:lang="smn" tw_id="kolauttaa 4013f057-8b13-47fb-803f-6157d092cde6">
             <t pos="V" l_par="päänsä jhk">julkkâliđ</t>
          </tg>

@@ -39936,7 +39936,15 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn" tw_id="peruuttaa 71e1fe71-73e5-4585-bcbc-75b706049138">
             <t pos="V" l_par="vetäytyä jstak konkr. ja abst." r_par="+ lok.">kiäsádâttâđ</t>
+            <xg>
+               <x>Hän peruuttaa ehdotuksensa.</x>
+               <xt>Sun kiäsádat iävtuttâsâst.</xt>
+            </xg>
             <t pos="V" mwe="y">keessiđ maasâd</t>
+            <xg>
+               <x>Hän peruuttaa ehdotuksensa.</x>
+               <xt>Sun kiäsá maasâd iävtuttâsâs.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="3">
@@ -39944,8 +39952,6 @@ For the full license text, see the link above.
             <t pos="V" l_par="esim. tilaisuus">maasâdkeessiđ</t>
             <t pos="V" wf="murdeet">murdettiđ</t>
             <t pos="V" mwe="y">joskâđ orniimist</t>
-            <t pos="Pron" l_par="hän peruuttaa ehdotuksensa" mwe="y">sun kiäsá maasâd iävtuttâsâs</t>
-            <t pos="Pron" mwe="y">sun kiäsádat iävtuttâsâst</t>
          </tg>
       </mg>
    </e>
@@ -42061,8 +42067,8 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="pyöristää 0a619aac-2aeb-46d9-89da-894f0956b602">
             <t pos="V" l_par="matem." wf="jurbiim jorbee">jurbiđ</t>
             <xg>
-               <x>pyöristin sen kymmeneen.</x>
-               <xt>mun jorbejim tom lohán.</xt>
+               <x>Pyöristin sen kymmeneen.</x>
+               <xt>Mun jorbejim tom lohán.</xt>
             </xg>
          </tg>
       </mg>
@@ -42120,12 +42126,11 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="pyörryttää 9902a725-23e6-4afd-b437-36a812e3d262">
             <t pos="V" wf="kiessâč">kiesâččiđ</t>
+            <xg>
+               <x>Minua pyörryttää.</x>
+               <xt>Must uáivi kiesâš.</xt>
+            </xg>
             <t pos="V" wf="keessâš">kesâččiđ</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn" tw_id="pyörryttää 4d5c1323-be33-462a-a3e7-5cc24a5f0d7d">
-            <t pos="Pron" l_par="minua pyörryttää" t_tld="~ must uáivi keessâš _MWE3_" mwe="y">must uáivi kiessâš</t>
          </tg>
       </mg>
    </e>
@@ -43624,12 +43629,6 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="salata 91207724-e8ae-426e-86c8-d6f7f9d3b8d8">
             <t pos="V" l_par="pitää salassa">anneeđ čiähusâst</t>
             <t pos="V">toollâđ syeligâsâst</t>
-            <xg>
-              <x>pitää piilossa</x>
-              <xt>anneeđ čiähusâst</xt>
-              <x>pitää salassa/salaisuutena</x>
-              <xt>toollâđ syeligâsâst</xt>
-            </xg>
          </tg>
       </mg>
       <mg id="1">

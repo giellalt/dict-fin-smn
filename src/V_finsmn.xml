@@ -31383,10 +31383,6 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="kolauttaa 92392f04-fe92-4070-8e9b-12c7c3da82fa">
             <t pos="V" l_par="satuttaa jk jhk" wf="puŋkkáám">puŋkkáđ</t>
             <xg>
-               <x>kolautin pääni</x>
-               <xt>mun puŋkkááttim uáiván</xt>
-            </xg>
-            <xg>
                <x>pääni kolahti jhk</x>
                <xt>must uáivi puŋkkái moosnii</xt>
             </xg>
@@ -31400,6 +31396,10 @@ For the full license text, see the link above.
       <mg id="5">
          <tg xml:lang="smn" tw_id="kolauttaa f739355e-4709-4407-b912-f897caa82965">
             <t pos="V" l_par="itsensä jhk" mwe="y">puŋkkááttiđ jieijâs</t>
+            <xg>
+               <x>kolautin pääni</x>
+               <xt>mun puŋkkááttim uáiván</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="6">
@@ -35855,7 +35855,11 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn" tw_id="lämmetä 3f85da5d-1300-4f2e-8ed8-a4bcd4154722">
-            <t pos="V" l_par="ilma on lämpimämpi kuin eilen" mwe="y">áimu lii ennuv linásub ko jieht</t>
+            <t pos="V" l_par="olla lämpimämpi" mwe="y">leđe linásub</t>
+            <xg>
+               <x>Ilma on lämpimämpi kuin eilen.</x>
+               <xt>Áimu lii ennuv linásub ko jieht.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -36117,7 +36121,11 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="makoilla b2e8590b-081b-47e3-adbf-be3531db75ee">
-            <t pos="Pron" l_par="sinä se viihdyt sängyssä makoilemassa" wf="kal tom seeŋgâ láláh">tun</t>
+            <t pos="Pron" l_par="hautoa, idiomi" wf="">läälliđ</t>
+            <xg>
+               <x>Sinä se viihdyt sängyssä makoilemassa.</x>
+               <xt>Tun kal tom seeŋgâ láláh.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -36680,26 +36688,24 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="muksauttaa 45c0f38f-e3a2-4fea-a811-ffb4f929d134">
             <t pos="V" l_par="jk jhk" wf="puŋkkáám">puŋkkáđ</t>
             <t pos="V" wf="nooigâm">noigâđ</t>
+            <xg>
+               <x>pääni muksahti jhk</x>
+               <xt>must uáivi puŋkkái moosnii</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="muksauttaa 050c9692-c098-4df3-be02-369a719bc00a">
             <t pos="V" l_par="itsensä jhk" wf="jieijâs">puŋkkááttiđ</t>
+            <xg>
+               <x>muksautin pääni</x>
+               <xt>mun puŋkkááttim uáiván</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn" tw_id="muksauttaa 52714954-8098-4f88-bd20-4de4e8c4081c">
             <t pos="V" l_par="päänsä">julkkâliđ</t>
-         </tg>
-      </mg>
-      <mg id="4">
-         <tg xml:lang="smn" tw_id="muksauttaa 7c729a45-4dde-47c1-8b58-4114d539b79f">
-            <t pos="Pron" l_par="muksautin pääni" mwe="y">mun puŋkkááttim uáiván</t>
-         </tg>
-      </mg>
-      <mg id="5">
-         <tg xml:lang="smn" tw_id="muksauttaa f8112c6b-7aa2-45e0-b42a-d1cad7299523">
-            <t pos="Pron" l_par="pääni muksahti jhk" mwe="y">must uáivi puŋkkái moosnii</t>
          </tg>
       </mg>
    </e>
@@ -39824,13 +39830,16 @@ For the full license text, see the link above.
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn" tw_id="pelätä 92274cef-4e7e-45d6-810f-1c6139e776c5">
-            <t pos="Adv" l_par="kyllä minua pelotti kovasti" mwe="y">kal muu polâttij čuvtij</t>
-         </tg>
-      </mg>
-      <mg id="4">
-         <tg xml:lang="smn" tw_id="pelätä 7480b271-37ae-4c44-848d-bb446f17d8a8">
-            <t pos="Pron" l_par="hän pelkäsi minua" mwe="y">tot must polâttij</t>
+         <tg xml:lang="smn" tw_id="pelottaa 5830a031-ac16-4a9b-ab9f-d9bd1f2d5f20">
+            <t pos="V" l_par="pelätä jtak" wf="poolât">polâttiđ</t>
+            <xg>
+               <x>kyllä minua pelotti kovasti</x>
+               <xt>kal muu polâttij čuuvtij</xt>
+            </xg>
+            <xg>
+               <x>hän pelkäsi minua</x>
+               <xt>tot must polâttij</xt>
+            </xg>
          </tg>
       </mg>
    </e>

@@ -44107,6 +44107,10 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn" tw_id="selvittää 04c53bc7-7147-4112-91be-70fbeb1ee246">
             <t pos="V" l_par="m. välinsä">čielgâdiđ</t>
+            <xg>
+               <x>He selvittävät välinsä.</x>
+               <xt>Suoi čielgâdáVá koskâvuođâs.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="3">
@@ -44117,11 +44121,6 @@ For the full license text, see the link above.
       <mg id="4">
          <tg xml:lang="smn" tw_id="selvittää 120b8f1e-1454-40fb-a8ee-46450c1ab403">
             <t pos="A" l_par="helposti selvitettävä esim. verkko" attr="# kálgus" wf="kálgus">káálgus</t>
-         </tg>
-      </mg>
-      <mg id="5">
-         <tg xml:lang="smn" tw_id="selvittää 9cf7ba53-724c-48b2-a478-4dc1af0014aa">
-            <t pos="Pron" l_par="he kaksi selvittävät välinsä" mwe="y">suoi čielgâdáVá koskâvuođâs</t>
          </tg>
       </mg>
    </e>
@@ -44170,6 +44169,10 @@ For the full license text, see the link above.
             <t pos="V" l_par="mennä järjiltään" wf="táájásk">tájáskiđ</t>
             <t pos="V" wf="mooivásk">moiváskiđ</t>
             <t pos="V" wf="muivâšuVá">muivâšuđ</t>
+            <xg>
+               <x>Hän sekosi, tuli hulluksi.</x>
+               <xt>Sust láá mielah muivâšum.</xt>
+            </xg>
             <t pos="V" wf="mielâttuVá">mielâttuđ</t>
          </tg>
       </mg>
@@ -44182,11 +44185,6 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn" tw_id="seota 34c14d30-7498-4c8d-bdc8-0fef4df3ecd5">
             <t pos="V" l_par="mennä sekaisin esim. tavaroista">siähániđ</t>
-         </tg>
-      </mg>
-      <mg id="4">
-         <tg xml:lang="smn" tw_id="seota c03d9dab-e8a6-4f57-a299-b6827329d791">
-            <t pos="Pron" l_par="hän sekosi, tuli hulluksi" mwe="y">sust láá mielah muivâšum</t>
          </tg>
       </mg>
    </e>
@@ -46443,6 +46441,8 @@ For the full license text, see the link above.
             <xg>
               <x>Se tekee hyvää.</x>
               <xt>Tot taha pyere.</xt>
+            </xg>
+            <xg>
               <x>Tule kirpputorille tekemään löytöjä!</x>
               <xt>Puáđi suámsurtorin toohâđ	kávnusijd!</xt>
             </xg>
@@ -50855,6 +50855,8 @@ For the full license text, see the link above.
              <xg>
 	           <x>Korostan, että...</x>
 		       <xt>Mun tiäduttâm, et...</xt>
+	         </xg>
+             <xg>
 	           <x>Murheellinen ääni korosti asian todellisuutta.</x>
 		       <xt>Murâšlâš jienâ tiäduttij ääši tuođâlâšvuođâ.</xt>
 	         </xg>
@@ -50885,6 +50887,8 @@ For the full license text, see the link above.
              <xg>
 	           <x>Ratkaisemme asian neuvottelemalla.</x>
 		       <xt>Mij čuávdip ääši ráđádâlmáin.</xt>
+	         </xg>
+             <xg>
 	           <x>Ratkaista vaikea ongelma.</x>
 		       <xt>Čuávdiđ vaigâdis čuolmâ.</xt>
 	         </xg>
@@ -50930,6 +50934,8 @@ For the full license text, see the link above.
              <xg>
 	           <x>Ellei pakkasella osaa pukeutua, paleltuu.</x>
 		       <xt>Jis ij puolâšin määti kárvudâttâđ, kolmuu.</xt>
+	         </xg>
+             <xg>
 	           <x>Lintuja oli kymmenittäin, ellei jo enemmänkin.</x>
 		       <xt>Lodeh lijjii luuvij mield, jis iä jo eenâb-uv.</xt>
 	         </xg>
@@ -50983,6 +50989,8 @@ For the full license text, see the link above.
              <xg>
 	           <x>Olimme jo sitä ennen vaihdelleet osoitteita.</x>
 		       <xt>Mij lâim jo tađe ovdil lonottâllâm čujottâsâid.</xt>
+	         </xg>
+             <xg>
 	           <x>Ympäri maailmaa ihmiset ovat puhuneet monia kieliä ja vaihdelleet niitä tilanteen ja puhekaverin kielitaidon mukaan.</x>
 		       <xt>Pirrâ maailm ulmuuh láá sárnum maŋgâ kielâ já lonottâllâm taid tilálâšvuođâ já sárnumkyeimi kielâtááiđu mield. </xt>
 	         </xg>
@@ -51008,6 +51016,8 @@ For the full license text, see the link above.
              <xg>
 	           <x>Jäykkäkouristusrokotus pitää uusia kymmenen vuoden välein.</x>
 		       <xt>Storgâčarviittâhpuákuttâs kalga uđâdiđ love ive kooskâi.</xt>
+	         </xg>
+             <xg>
 	           <x>Remontissa uusittiin ikkunat ja katto.</x>
 		       <xt>Remontist uđâdij laasâid já káátu.</xt>
 	         </xg>

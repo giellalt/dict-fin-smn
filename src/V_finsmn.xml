@@ -39940,6 +39940,8 @@ For the full license text, see the link above.
                <x>Hän peruuttaa ehdotuksensa.</x>
                <xt>Sun kiäsádat iävtuttâsâst.</xt>
             </xg>
+         </tg>
+         <tg xml:lang="smn" tw_id="peruuttaa 71e1fe71-73e5-4585-bcbc-75b706049138">
             <t pos="V" mwe="y">keessiđ maasâd</t>
             <xg>
                <x>Hän peruuttaa ehdotuksensa.</x>
@@ -42130,6 +42132,8 @@ For the full license text, see the link above.
                <x>Minua pyörryttää.</x>
                <xt>Must uáivi kiesâš.</xt>
             </xg>
+         </tg>
+         <tg xml:lang="smn" tw_id="pyörryttää 9902a725-23e6-4afd-b437-36a812e3d262">
             <t pos="V" wf="keessâš">kesâččiđ</t>
          </tg>
       </mg>
@@ -44167,12 +44171,18 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="seota 438d5024-6250-415a-95a5-ff0c224a37ff">
             <t pos="V" l_par="mennä järjiltään" wf="táájásk">tájáskiđ</t>
+         </tg>
+         <tg xml:lang="smn" tw_id="seota 438d5024-6250-415a-95a5-ff0c224a37ff">
             <t pos="V" wf="mooivásk">moiváskiđ</t>
+         </tg>
+         <tg xml:lang="smn" tw_id="seota 438d5024-6250-415a-95a5-ff0c224a37ff">
             <t pos="V" wf="muivâšuVá">muivâšuđ</t>
             <xg>
                <x>Hän sekosi, tuli hulluksi.</x>
                <xt>Sust láá mielah muivâšum.</xt>
             </xg>
+         </tg>
+         <tg xml:lang="smn" tw_id="seota 438d5024-6250-415a-95a5-ff0c224a37ff">
             <t pos="V" wf="mielâttuVá">mielâttuđ</t>
          </tg>
       </mg>

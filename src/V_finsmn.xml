@@ -7640,7 +7640,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="kuulla be230902-c683-4ac5-84d5-eaf5f4aee784">
-            <t pos="V" wf="kuulâm kuLá">kuullâđ</t>
+            <t hid="Hom1" pos="V" wf="kuulâm kuLá">kuullâđ</t>
          </tg>
       </mg>
    </e>
@@ -32807,7 +32807,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="kuulua 06b018a8-eb78-43bf-a920-355f7c86828b">
-            <t pos="V" l_par="kuulua jhk" wf="kuulâm kuLá">kuullâđ</t>
+            <t hid="Hom2" pos="V" l_par="kuulua jhk" wf="kuulâm kuLá">kuullâđ</t>
             <xg>
               <x>Mänty kuuluu Saamenmaan tavallisimpiin puihin.</x>
               <xt>Peeci kulá táválumosáid muoráid Säämist.</xt>

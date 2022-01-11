@@ -5293,8 +5293,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="ennen ba449f8f-f02c-46e1-a54b-f110225dfc51">
-            <t pos="Adv" t_tld="~ovdil">ovdâl</t>
-            <t pos="Adv">ovdâlist</t>
+            <t pos="Adv">ovdil</t>
          </tg>
       </mg>
       <mg id="2">
@@ -5304,7 +5303,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn" tw_id="ennen 6f87629a-b3e4-41d1-a691-a3d1c5c22988">
-            <t pos="Adv" l_par="aivan vähän ennen" t_tld="~ovdláhháá">ovdâláhháá</t>
+            <t pos="Adv" l_par="aivan vähän ennen">ovdláhháá</t>
          </tg>
       </mg>
       <mg id="4">

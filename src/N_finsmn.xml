@@ -80,6 +80,16 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="44">
+      <lg>
+         <l pos="N">miehitys</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N" wf="">haaldunväldim</t>
+         </tg>
+      </mg>
+   </e>
    <e id="162">
       <lg>
          <l pos="N">aikalainen</l>
@@ -5940,7 +5950,7 @@ For the full license text, see the link above.
    </e>
    <e id="2022">
       <lg>
-         <l pos="N" r1_par="kengässä">heinät</l>
+         <l pos="N" r1_par="mon.">heinät</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="heinät 8bdc15bc-b2a6-4bb8-881a-28bfb03de0d9">

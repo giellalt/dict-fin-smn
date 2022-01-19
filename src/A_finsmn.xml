@@ -16571,10 +16571,14 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="hedelmällinen 663931ec-82b6-4df9-bd4f-8ec148810363">
+            <t pos="A" l_par="satoisa" wf="heeđâlmlii">heeđâlmlâš</t>
+         </tg>
+      </mg>
+      <mg id="1">
+         <tg l_par="rehevä" xml:lang="smn" tw_id="hedelmällinen 663931ec-82b6-4df9-bd4f-8ec148810363">
             <t pos="A" wf="šadolii">šadolâš</t>
             <t pos="A">šoddâlâs</t>
             <t pos="A" attr="# -is">šoddiš</t>
-            <t pos="A" wf="heeđâlmlii">heeđâlmlâš</t>
          </tg>
       </mg>
       <mg id="2">
@@ -18840,7 +18844,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn" tw_id="köyhä a285839a-f8ec-48eb-b10d-f1caff398ed3">
             <t pos="A" attr="# kievhis">kievhi</t>
-            <t pos="A" wf="keevhi">kevhi</t>
          </tg>
       </mg>
       <mg id="2">
@@ -18855,8 +18858,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="laiha 4d92294c-5755-4921-b5e7-dd29a93b0e72">
-            <t pos="A" attr="# kuoirâ" wf="kuoirâs">kuoirâs</t>
             <t pos="A" attr="# ruoinâ" wf="ruoinâs">ruoinâs</t>
+            <t pos="A" l_par="erityisesti Pohjois-Inarissa" attr="# kuoirâ" wf="kuoirâs">kuoirâs</t>
          </tg>
       </mg>
       <mg id="2">
@@ -21661,7 +21664,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="syvä 8ed54978-1f0d-4a19-b801-765584f1770f">
             <t pos="A" attr="# jieŋŋâlis _AT_ jieŋŋâlâs _AT_ jieŋâlis">jieŋŋâl</t>
             <t pos="A" attr="# kieŋŋâlis _AT_ kieŋŋâlâs _AT_ kieŋâlis">kieŋŋâl</t>
-            <t pos="A" attr="# čieŋâlis _AT_ čieŋâlâs _AT_ čieŋâlis" t_tld="~ čieŋŋâl # čieŋŋâlis _AT_ čieŋŋâlâs _AT_ čieŋâlis">čieŋâl</t>
+            <t pos="A" attr="# čieŋâlis _AT_ čieŋâlâs _AT_ čieŋâlis" t_tld="~ čieŋâl # čieŋŋâlis _AT_ čieŋŋâlâs _AT_ čieŋâlis">čieŋŋâl</t>
          </tg>
       </mg>
       <mg id="2">

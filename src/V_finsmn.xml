@@ -27874,7 +27874,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="janottaa 469c6fc3-160f-433c-b58b-84856acac5df">
-            <t pos="V">leđe koškoost</t>
+            <t pos="Phrase">leđe koškoost</t>
             <xg>
                <x>Minua janottaa.</x>
                <xt>Mun lam koškoost.</xt>
@@ -32711,7 +32711,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn" tw_id="kutistua 2e2d1bc8-d71c-4ab0-a1cc-ec3b14c9eb2b">
             <t pos="V" l_par="erit. huopua" wf="tuopâluVá">tuopâluđ</t>
-            <t pos="V">moonnâđ tuápán</t>
+            <t pos="Phrase">moonnâđ tuápán</t>
          </tg>
       </mg>
       <mg id="3">
@@ -43671,7 +43671,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn" tw_id="salata 91207724-e8ae-426e-86c8-d6f7f9d3b8d8">
             <t pos="V" l_par="pitää salassa">anneeđ čiähusâst</t>
-            <t pos="V">toollâđ syeligâsâst</t>
+            <t pos="Phrase">toollâđ syeligâsâst</t>
          </tg>
       </mg>
       <mg id="1">
@@ -46366,7 +46366,7 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn" tw_id="tarkkailla 01be9fc1-6620-4807-b110-877dd7e96f8f">
             <t pos="V" l_par="pitää silmällä" mwe="y">anneeđ čalmevárdái</t>
-            <t pos="V">leđe čalmevárdái</t>
+            <t pos="Phrase">leđe čalmevárdái</t>
             <t pos="V" mwe="y">anneeđ čalmeest</t>
          </tg>
       </mg>
@@ -50152,7 +50152,7 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="V">tulla araksi</l>
+         <l pos="Phrase">tulla araksi</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -50732,7 +50732,7 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="V">olla varaa</l>
+         <l pos="Phrase">olla varaa</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -50925,7 +50925,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="V">leđe (kostnii)</t>
+            <t pos="Phrase">leđe (kostnii)</t>
              <xg>
 	           <x>Ivalon kylä sijaitsee Inarin kunnassa.</x>
 		       <xt>Avveel markkân lii Aanaar kieldâst.</xt>
@@ -50971,7 +50971,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="V">pieijâđ almosin</t>
+            <t pos="Phrase">pieijâđ almosin</t>
              <xg>
 	           <x>Asia julkistettiin eilen.</x>
 		       <xt>Äšši piejui almosin jieht.</xt>
@@ -50985,8 +50985,8 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="V">jis ij</t>
-            <t pos="V">jis iä</t>
+            <t pos="Phrase">jis ij</t>
+            <t pos="Phrase">jis iä</t>
              <xg>
 	           <x>Ellei pakkasella osaa pukeutua, paleltuu.</x>
 		       <xt>Jis ij puolâšin määti kárvudâttâđ, te kalmoo.</xt>

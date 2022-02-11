@@ -52255,7 +52255,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="näytäntö 4118d858-5b3b-41e5-b4a4-2685c5512ade">
-            <t pos="N">čaaitâlm uási</t>
+            <t pos="Phrase">čaaitâlm uási</t>
          </tg>
       </mg>
       <mg id="1">
@@ -131847,11 +131847,11 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="N">epäsuora kysymyslause</l>
+         <l pos="Phrase">epäsuora kysymyslause</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="N">epinjuolgâ koččâmušceelhâ</t>
+            <t pos="Phrase">epinjuolgâ koččâmušceelhâ</t>
          </tg>
       </mg>
    </e>
@@ -131887,7 +131887,7 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="N">suora lainaus</l>
+         <l pos="Phrase">suora lainaus</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -132001,7 +132001,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="N">nobdum heterovuotâ</t>
+            <t pos="Phrase">nobdum heterovuotâ</t>
          </tg>
       </mg>
    </e>
@@ -132087,11 +132087,11 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="N">kolmas sukupuoli</l>
+         <l pos="Phrase">kolmas sukupuoli</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="N">kuálmád suhâpeeli</t>
+            <t pos="Phrase">kuálmád suhâpeeli</t>
          </tg>
       </mg>
    </e>
@@ -132736,7 +132736,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="N">ideaal tile</t>
+            <t pos="Phrase">ideaal tile</t>
          </tg>
       </mg>
    </e>
@@ -133276,7 +133276,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="N">koskâpuddâsâš aassâmviste</t>
+            <t pos="Phrase">koskâpuddâsâš aassâmviste</t>
          </tg>
       </mg>
    </e>
@@ -133556,7 +133556,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="N">siähálâs kulttuur</t>
+            <t pos="Phrase">siähálâs kulttuur</t>
          </tg>
       </mg>
    </e>

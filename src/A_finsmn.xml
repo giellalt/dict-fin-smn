@@ -16575,10 +16575,10 @@ For the full license text, see the link above.
          </tg>
       </mg>
       <mg id="1">
-         <tg l_par="rehevä" xml:lang="smn" tw_id="hedelmällinen 663931ec-82b6-4df9-bd4f-8ec148810363">
-            <t pos="A" wf="šadolii">šadolâš</t>
-            <t pos="A">šoddâlâs</t>
-            <t pos="A" attr="# -is">šoddiš</t>
+         <tg xml:lang="smn" tw_id="hedelmällinen 663931ec-82b6-4df9-bd4f-8ec148810363">
+            <t pos="A" l_par="rehevä" wf="šadolii">šadolâš</t>
+            <t pos="A" l_par="rehevä">šoddâlâs</t>
+            <t pos="A" l_par="rehevä" attr="# -is">šoddiš</t>
          </tg>
       </mg>
       <mg id="2">

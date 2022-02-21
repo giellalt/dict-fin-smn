@@ -2789,19 +2789,19 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="voida aa35726f-2ed7-47bf-8512-248472c061f7">
-                <xg>
-	             <x>Kyllä minä voin auttaa.</x>
-		         <xt>Kale mun puávtám išediđ.</xt>
-	            </xg>
             <t pos="V" l_par="pystyä" wf="puávtám">pyehtiđ</t>
+            <xg>
+               <x>Kyllä minä voin auttaa.</x>
+		         <xt>Kale mun puávtám išediđ.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="voida d2bb61dd-8051-4e56-b1dc-97719a2072f6">
             <t pos="V" l_par="rauhassa tehdä jtak" wf="stooigâm">stoigâđ</t>
-                 <xg>
-	             <x>Lâi nuuvt korrâ miänu et mun jiem pissim uáđđiđ.</x>
-		         <xt>Oli niin kova meteli, etten voinut nukkua.</xt>
+               <xg>
+                  <x>Lâi nuuvt korrâ miänu et mun jiem pissim uáđđiđ.</x>
+	   	         <xt>Oli niin kova meteli, etten voinut nukkua.</xt>
 	            </xg>
             <t pos="V" wf="pissiim pissee">pissiđ</t>
          </tg>
@@ -2810,9 +2810,9 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="voida fdcff8c5-95ca-4109-9114-808410014e66">
             <t pos="V" l_par="olosta" wf="vajam vaJa">vaijeeđ</t>
             <t pos="V" wf="ciävzám">cevziđ</t>
-                <xg>
-	             <x>Pekka voi huonosti.</x>
-		         <xt>Pekka vaja hyeneeht.</xt>
+               <xg>
+	                <x>Pekka voi huonosti.</x>
+		            <xt>Pekka vaja hyeneeht.</xt>
 	            </xg>
          </tg>
       </mg>
@@ -19837,8 +19837,8 @@ For the full license text, see the link above.
              <xg>
                <x> En malttanut olla tulematta.</x>
                <xt>Jiem maaššâm leđe puáđihánnáá.</xt>
-            </xg>         
-            <t pos="V" wf="mááltám">mälttiđ</t>          
+            </xg>
+            <t pos="V" wf="mááltám">mälttiđ</t>
              <xg>
                <x> En malttanut olla siellä niin pitkään.</x>
                <xt>Jiem mun málttám orroođ tobbeen nuuvt kuhháá.</xt>
@@ -34060,7 +34060,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn" tw_id="laverrella c1ef663a-6a62-481e-b4b4-cb48b6be7d97">
             <t pos="V" l_par="kieliä, paljastaa salaisuus" wf="čulliim čollee">čulliđ</t>
          </tg>
-      </mg>   
+      </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="laverrella 78eb2546-aa88-4a1f-b6d4-c5019520b0e6">
             <t pos="V" l_par="juoruta" wf="šlaaddârd">šladârdiđ</t>
@@ -51037,7 +51037,7 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="V">vaihdella</l>         
+         <l pos="V">vaihdella</l>
       </lg>
       <mg>
          <tg xml:lang="smn">

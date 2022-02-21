@@ -2798,12 +2798,12 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn" tw_id="voida d2bb61dd-8051-4e56-b1dc-97719a2072f6">
+            <t pos="V" wf="pissiim pissee">pissiđ</t>
             <t pos="V" l_par="rauhassa tehdä jtak" wf="stooigâm">stoigâđ</t>
                <xg>
                   <x>Lâi nuuvt korrâ miänu et mun jiem pissim uáđđiđ.</x>
 	   	         <xt>Oli niin kova meteli, etten voinut nukkua.</xt>
 	            </xg>
-            <t pos="V" wf="pissiim pissee">pissiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -14269,8 +14269,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="tarttua fde5dc31-6932-4dac-9df9-fba049def230">
-            <t pos="V" l_par="kiinni jhk" >tarvaniđ</t>
-            <t pos="V" l_par=""  wf="voovdâm vavda">vovdâđ</t>
+            <t pos="V" l_par="kiinni jhk">tarvaniđ</t>
+            <t pos="V" l_par="" wf="voovdâm vavda">vovdâđ</t>
              <xg>
 	           <x>Kala tarttui verkkoon.</x>
 		       <xt>Kyeli tarvânij viärmán.</xt>
@@ -18498,12 +18498,12 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="jännittyä c8e3363d-4e0f-44f2-812e-8d3f2b9598c2">
-            <t pos="V"  r1_par="ihmisestä" wf="jiärástuVá">jiärástuđ</t>
+            <t pos="V" l_par="ihmisestä" wf="jiärástuVá">jiärástuđ</t>
          </tg>
       </mg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="jännittyä c8e3363d-4e0f-44f2-812e-8d3f2b9598c2">
-            <t pos="V"  r1_par="esim. jousesta" wf="keldâšuVá">keldâšuđ</t>
+            <t pos="V" l_par="esim. jousesta" wf="keldâšuVá">keldâšuđ</t>
          </tg>
       </mg>
    </e>
@@ -19838,6 +19838,8 @@ For the full license text, see the link above.
                <x> En malttanut olla tulematta.</x>
                <xt>Jiem maaššâm leđe puáđihánnáá.</xt>
             </xg>
+         </tg>
+         <tg xml:lang="smn">
             <t pos="V" wf="mááltám">mälttiđ</t>
              <xg>
                <x> En malttanut olla siellä niin pitkään.</x>
@@ -22011,14 +22013,13 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn" tw_id="tuijottaa 4c22e4a4-4383-42d7-bdbc-a62d08dacfb5">
+            <t pos="V" wf="kávkkáám kávkkáá">kávkkáđ</t>
+            <t pos="V" wf="kaivaam">kaivađ</t>
             <t pos="V" wf="kaavhâm kávkká">kavkkâđ</t>
                         <xg>
                <x> Mekin katsoa tuijotimme, kun joutsenet lensivät.</x>
                <xt>Mij-uv kaavhâim keččâđ ko njuuvčah kirdii.</xt>
             </xg>
-
-            <t pos="V" wf="kávkkáám kávkkáá">kávkkáđ</t>
-            <t pos="V" wf="kaivaam">kaivađ</t>
          </tg>
       </mg>
    </e>

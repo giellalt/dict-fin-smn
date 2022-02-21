@@ -30,12 +30,12 @@ For the full license text, see the link above.
          <l pos="CS" r1_par="kysymyssana, alistuskonjunktio">koska</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="koska 868c11d2-9b7c-45c8-8be7-37664b7c3016">
+         <tg xml:lang="smn">
             <t pos="CS">kuás</t>
          </tg>
       </mg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="koska 4173d8d5-b6db-4119-a6bc-a6a1e5abceae">
+         <tg xml:lang="smn">
             <t pos="CS">tastko</t>
             <t pos="CS">ko</t>
             <t pos="CS" mwe="y">tondiet ko</t>
@@ -47,7 +47,7 @@ For the full license text, see the link above.
          <l pos="CS">kunnes</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="kunnes 05cb7936-21cc-45cd-8bca-4dfd0b6b5a49">
+         <tg xml:lang="smn">
             <t pos="CS">tassaaš</t>
          </tg>
       </mg>
@@ -57,18 +57,18 @@ For the full license text, see the link above.
          <l pos="CS">sillä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="sillä 7c2791cd-f73c-4e90-930a-a32010a64d47">
+         <tg xml:lang="smn">
             <t pos="CS">tastko</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn" tw_id="sillä 16bc124b-5e1b-46d7-9ade-be9051897331">
+         <tg xml:lang="smn">
             <t pos="Pron" l_par="sillä aikaa kun" wf="aaigij ko">toi</t>
             <t pos="Adv" wf="ko">talle</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn" tw_id="sillä a04df5c9-683d-4e33-a3c5-2edd7b365f59">
+         <tg xml:lang="smn">
             <t pos="Adv" l_par="sillä lailla">nuuvt</t>
          </tg>
       </mg>
@@ -78,7 +78,7 @@ For the full license text, see the link above.
          <l pos="CS">jos</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="jos 33353bda-322c-4557-82b0-48bb7e903509">
+         <tg xml:lang="smn">
             <t pos="CS" t_tld="~jos">jis</t>
          </tg>
       </mg>
@@ -88,7 +88,7 @@ For the full license text, see the link above.
          <l pos="CS">kuin</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="kuin c2c0eee8-aa41-411b-9558-826fad854e10">
+         <tg xml:lang="smn">
             <t pos="CS" t_tld="~kuo">ko</t>
             <t pos="Adv" t_tld="~tegu">tego</t>
          </tg>
@@ -99,8 +99,8 @@ For the full license text, see the link above.
          <l pos="CS">vaikka</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="vaikka eb07d58e-d461-4cb1-9ee2-ff40247b071b">
-            <t pos="CS" >veikkâ</t>
+         <tg xml:lang="smn">
+            <t pos="CS">veikkâ</t>
             <t pos="CS" t_tld="~vâik">veik</t>
             <t pos="CS">jos</t>
          </tg>
@@ -111,14 +111,14 @@ For the full license text, see the link above.
          <l pos="CS">että</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="että 0b6dd9d4-2ff5-4321-8bda-0aa2b101aeb8">
+         <tg xml:lang="smn">
             <t pos="CS">et</t>
             <t pos="CS">ete</t>
             <t pos="CS">it</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn" tw_id="että 9ea903a9-1d5f-4fe8-9aad-2405eb77931a">
+         <tg xml:lang="smn">
             <t pos="CS" l_par="syytä ilmoittamassa">vâi</t>
             <xg>
                <x>lue läksyt, että opit</x>
@@ -132,7 +132,7 @@ For the full license text, see the link above.
          <l pos="CS">jotta</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="jotta 61159d28-7e83-4b51-9783-f541128651c6">
+         <tg xml:lang="smn">
             <t pos="CS">vâi</t>
             <t pos="CS">vuoi</t>
          </tg>
@@ -143,7 +143,7 @@ For the full license text, see the link above.
          <l pos="CS">jollen</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="jollen fdbc2145-1d6d-42ac-8d09-20988bb191b8">
+         <tg xml:lang="smn">
             <t pos="CS" t_tld="~jos jiem" mwe="y">jis jiem</t>
          </tg>
       </mg>
@@ -153,7 +153,7 @@ For the full license text, see the link above.
          <l pos="CS">jottei</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="jottei 02ca2e33-e2e7-4f00-a1e5-e757e0f4d318">
+         <tg xml:lang="smn">
             <t pos="CS" t_tld="~emas">amas</t>
             <xg>
                <x>Laita villasukat jotteivät jalat palellu.</x>
@@ -167,7 +167,7 @@ For the full license text, see the link above.
          <l pos="CS" r1_par="minä" comma=", -et, -ei">ellen</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="ellen 326becf2-fd4c-4780-b113-f0d51e2167b7">
+         <tg xml:lang="smn">
             <t pos="CS" r_par="mun" mwe="y">jis jiem</t>
             <t pos="CS" r_par="tun" mwe="y">jis jieh</t>
             <t pos="CS" r_par="sun" mwe="y">jis ij</t>
@@ -179,7 +179,7 @@ For the full license text, see the link above.
          <l pos="CS">kunpa</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="kunpa 13d07eae-379b-4098-bb96-f15ae8414105">
+         <tg xml:lang="smn">
             <t pos="CS">kuo</t>
             <t pos="Adv">väri</t>
          </tg>
@@ -190,7 +190,7 @@ For the full license text, see the link above.
          <l pos="CS" comma=", -en, -et">ettei</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="ettei ec0fc404-c423-4918-acdb-b71d2e111760">
+         <tg xml:lang="smn">
             <t pos="CS" t_tld="~ emas">amas</t>
             <xg>
                <x>Mene sisälle ettet kastu.</x>
@@ -199,7 +199,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn" tw_id="ettei 242171f5-fa3f-4a1b-9675-71aad7c0192a">
+         <tg xml:lang="smn">
             <t pos="CS" l_par="syytä ilmoittamassa">vâi</t>
             <xg>
                <x>Mene sisälle ettet kastu.</x>
@@ -213,7 +213,7 @@ For the full license text, see the link above.
          <l pos="CS">kun</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="kun 65c84993-cde3-4598-a542-320ba49e189c">
+         <tg xml:lang="smn">
             <t pos="Adv-CS">ko</t>
             <t pos="Pron">kođe</t>
             <t pos="Adv-CS">kuo</t>
@@ -221,12 +221,12 @@ For the full license text, see the link above.
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn" tw_id="kun 2f4240d6-6f02-4a99-b2a8-413f8a7ebc5a">
+         <tg xml:lang="smn">
             <t pos="Adv-CS" l_par="ajasta">kuás</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn" tw_id="kun 5a949f66-7d2f-4624-b397-79861bca2d5f">
+         <tg xml:lang="smn">
             <t pos="Pron" l_par="kun sitten">kođe</t>
          </tg>
       </mg>

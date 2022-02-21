@@ -30,7 +30,7 @@ For the full license text, see the link above.
          <l pos="A">tuki- ja liikuntavammainen</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="tuki- ja liikuntavammainen 9560aaa0-34ad-42f2-8e50-3b18373cfc2c">
+         <tg xml:lang="smn">
             <t pos="A" syn_dash="-vádulii" mwe="3">tuuvdâ- já lihâdemvádulâš</t>
          </tg>
       </mg>
@@ -40,7 +40,7 @@ For the full license text, see the link above.
          <l pos="A" r1_par="porotokasta">yhdessä pysyvä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="yhdessä pysyvä 9b40cd1d-c2a2-42d3-b559-0784d98d320e">
+         <tg xml:lang="smn">
             <t pos="A" attr="# -s">čuákkáá</t>
          </tg>
       </mg>
@@ -50,7 +50,7 @@ For the full license text, see the link above.
          <l pos="A" r1_par="poronvasa">emää rakastava</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="emää rakastava cc70952b-9f3c-406f-9791-f25cab138cdb">
+         <tg xml:lang="smn">
             <t pos="N">ennieccee</t>
             <t pos="A" attr="# -s">iäccáá</t>
          </tg>
@@ -61,7 +61,7 @@ For the full license text, see the link above.
          <l pos="A">katsomisen arvoinen</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="katsomisen arvoinen 15bd50e6-111c-4d5a-8261-6206a0dc2758">
+         <tg xml:lang="smn">
             <t pos="A">kejâttettee</t>
             <t pos="A">uáinittep</t>
             <t pos="A">uáinittittee</t>

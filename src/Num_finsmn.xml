@@ -30,7 +30,7 @@ For the full license text, see the link above.
          <l pos="Num">kahdeksankymmentä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="kahdeksankymmentä 22736887-7cb8-4eb0-ae9f-ba4864b3bd03">
+         <tg xml:lang="smn">
             <t pos="Num" wf="käävcilov">kähcilov</t>
          </tg>
       </mg>
@@ -40,7 +40,7 @@ For the full license text, see the link above.
          <l pos="Num">kaksikymmentä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="kaksikymmentä 8fa3674e-eab1-42c3-9e47-ed8e31f77f69">
+         <tg xml:lang="smn">
             <t pos="Num" wf="kyevtlov">kyehtlov</t>
          </tg>
       </mg>
@@ -50,7 +50,7 @@ For the full license text, see the link above.
          <l pos="Num">kaksitoista</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="kaksitoista a2e308be-47d0-4455-90b2-2cc14c4b2cc8">
+         <tg xml:lang="smn">
             <t pos="Num" t_tld="~kyehtnubáloh -nubálov">kyehtinubáloh</t>
          </tg>
       </mg>
@@ -60,7 +60,7 @@ For the full license text, see the link above.
          <l pos="Num">kolmas</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="kolmas 1ba086fe-e862-42b7-8029-aef376e6d337">
+         <tg xml:lang="smn">
             <t pos="A" t_tld="~kuálmâd">kuálmád</t>
          </tg>
       </mg>
@@ -70,7 +70,7 @@ For the full license text, see the link above.
          <l pos="Num">kolmekymmentä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="kolmekymmentä aacb9e4f-6f17-4eb3-902d-c36266ef9418">
+         <tg xml:lang="smn">
             <t pos="Num" wf="kuulmâlov">kulmâlov</t>
          </tg>
       </mg>
@@ -80,7 +80,7 @@ For the full license text, see the link above.
          <l pos="Num">kolmetoista</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="kolmetoista 6b12a052-8481-4cf2-9aa7-d4fdfe9d4859">
+         <tg xml:lang="smn">
             <t pos="Num" syn_dash="-nubálov">kulmânubáloh</t>
          </tg>
       </mg>
@@ -90,7 +90,7 @@ For the full license text, see the link above.
          <l pos="Num">kuusikymmentä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="kuusikymmentä d6fd44a9-208d-4f3a-bae3-b5e24a94d4b5">
+         <tg xml:lang="smn">
             <t pos="Num" wf="kuđâlov">kutlov</t>
          </tg>
       </mg>
@@ -100,7 +100,7 @@ For the full license text, see the link above.
          <l pos="Num">neljäkymmentä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="neljäkymmentä 3ea150ff-a2f4-4a84-822f-d0e3ccd89d11">
+         <tg xml:lang="smn">
             <t pos="Num" wf="neeljilov">neljilov</t>
          </tg>
       </mg>
@@ -110,7 +110,7 @@ For the full license text, see the link above.
          <l pos="Num">neljätoista</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="neljätoista fc3b47ac-3da8-4fb8-8d3d-686023373269">
+         <tg xml:lang="smn">
             <t pos="Num" syn_dash="-nubálov">neljinubáloh</t>
          </tg>
       </mg>
@@ -120,7 +120,7 @@ For the full license text, see the link above.
          <l pos="Num">parikymmentä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="parikymmentä f95dbc4f-ba8c-4290-b585-5dd87159e62e">
+         <tg xml:lang="smn">
             <t pos="Num" t_tld="~ muádlov">muáddilov</t>
          </tg>
       </mg>
@@ -130,7 +130,7 @@ For the full license text, see the link above.
          <l pos="Num">seitsemänkymmentä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="seitsemänkymmentä 91bef4d9-f58d-47c1-af1d-13ebb9b84a8b">
+         <tg xml:lang="smn">
             <t pos="Num">čiččâmlov</t>
          </tg>
       </mg>
@@ -140,7 +140,7 @@ For the full license text, see the link above.
          <l pos="Num">seitsemänsataa</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="seitsemänsataa 5af94dc6-2091-4976-92ad-0ec64f3a4ec3">
+         <tg xml:lang="smn">
             <t pos="Num">čiččâmčyeđe</t>
          </tg>
       </mg>
@@ -150,7 +150,7 @@ For the full license text, see the link above.
          <l pos="Num">seitsemäntoista</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="seitsemäntoista a8584ee2-2585-4dd6-954b-30f548c0495f">
+         <tg xml:lang="smn">
             <t pos="Num" syn_dash="-nubálov">čiččâmnubáloh</t>
          </tg>
       </mg>
@@ -160,7 +160,7 @@ For the full license text, see the link above.
          <l pos="Num">toistakymmentä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="toistakymmentä 8a447d75-077a-43d0-bd04-8fce6ad520f6">
+         <tg xml:lang="smn">
             <t pos="Num" wf="nubálov">nubáloh</t>
          </tg>
       </mg>
@@ -170,7 +170,7 @@ For the full license text, see the link above.
          <l pos="Num">viisikymmentä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="viisikymmentä 1a52b6bb-44a1-4ffa-83b4-f4cca5e8f49b">
+         <tg xml:lang="smn">
             <t pos="Num" wf="viđâlov">vitlov</t>
          </tg>
       </mg>
@@ -180,7 +180,7 @@ For the full license text, see the link above.
          <l pos="Num">viisisataa</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="viisisataa e34d8ddb-2b6f-4329-9c89-943358943e84">
+         <tg xml:lang="smn">
             <t pos="Num">vittâčyeđe</t>
          </tg>
       </mg>
@@ -190,7 +190,7 @@ For the full license text, see the link above.
          <l pos="Num">viisitoista</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="viisitoista d0e27f0f-1cc4-4712-8be7-f98ea37edaa5">
+         <tg xml:lang="smn">
             <t pos="Num" syn_dash="-nubálov">vitnubáloh</t>
          </tg>
       </mg>
@@ -200,7 +200,7 @@ For the full license text, see the link above.
          <l pos="Num">yhdeksänkymmentä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="yhdeksänkymmentä a3b642cd-8849-45d6-a647-10498e12d0c3">
+         <tg xml:lang="smn">
             <t pos="Num" wf="oovcelov">ohcelov</t>
          </tg>
       </mg>
@@ -210,7 +210,7 @@ For the full license text, see the link above.
          <l pos="Num">yhdeksäntoista</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="yhdeksäntoista e1782ad5-80f3-4e25-a133-109076d25bcc">
+         <tg xml:lang="smn">
             <t pos="Num" syn_dash="-nubálov">oovcenubáloh</t>
          </tg>
       </mg>
@@ -220,7 +220,7 @@ For the full license text, see the link above.
          <l pos="Num">yksitoista</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="yksitoista 5b37b89b-724f-4b26-8b9f-69925af7aa8b">
+         <tg xml:lang="smn">
             <t pos="Num" syn_dash="-nubálov">ohtnubáloh</t>
          </tg>
       </mg>
@@ -230,17 +230,17 @@ For the full license text, see the link above.
          <l pos="Num">kahdeksan</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="kahdeksan 2e081af0-4330-440d-83eb-be305dd687f4">
+         <tg xml:lang="smn">
             <t pos="Num">käävci</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn" tw_id="kahdeksan ede3c417-d3a3-444d-98b7-9af19605665a">
+         <tg xml:lang="smn">
             <t pos="N" l_par="ihmistä" wf="káhcás _FT_ káhtsâs">käävcis</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn" tw_id="kahdeksan ac7f2cdc-e135-4afb-bbc5-a8ff4153c487">
+         <tg xml:lang="smn">
             <t pos="Adv" l_par="kahdeksan kertaa">kahcii</t>
          </tg>
       </mg>
@@ -250,17 +250,17 @@ For the full license text, see the link above.
          <l pos="Num">kaksi</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="kaksi d435bf2f-04cd-4682-b5dd-4cd4fa15ce4a">
+         <tg xml:lang="smn">
             <t pos="Num" wf="kyevti">kyehti</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn" tw_id="kaksi 154b6310-1837-4772-ae08-b40bc37d64ce">
+         <tg xml:lang="smn">
             <t pos="N" l_par="ihmistä" wf="kuáhtá _FT_ kuáhtás">kyevtis</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn" tw_id="kaksi 24df01bb-53a4-456a-b930-f237786c3b04">
+         <tg xml:lang="smn">
             <t pos="Adv" l_par="kahdesti, kaksi kertaa">kuohtii</t>
          </tg>
       </mg>
@@ -270,22 +270,22 @@ For the full license text, see the link above.
          <l pos="Num">kolme</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="kolme ce87e6aa-ef1c-4397-becb-ebb6699d30aa">
+         <tg xml:lang="smn">
             <t pos="Num" wf="kuulmâ">kulmâ</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn" tw_id="kolme 292407f2-616d-408e-a96b-dccd5fb57222">
+         <tg xml:lang="smn">
             <t pos="A" l_par="kolmen ihmisen joukko" wf="kulmâs">kuulmâs</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn" tw_id="kolme 99d29b39-3fc3-4cc7-a468-f14aaa7d886e">
+         <tg xml:lang="smn">
             <t pos="N" l_par="kolmittain muusta kuin ihmisistä">kuulmâi-kuulmâi</t>
          </tg>
       </mg>
       <mg id="4">
-         <tg xml:lang="smn" tw_id="kolme d7ba3f14-7850-4bc0-9872-62a72611b9b1">
+         <tg xml:lang="smn">
             <t pos="Adv" l_par="kolme kertaa, kolmesti">kulmii</t>
          </tg>
       </mg>
@@ -295,22 +295,22 @@ For the full license text, see the link above.
          <l pos="Num">kymmenen</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="kymmenen 219b7360-1ef0-4f2d-9a8a-94e90f724fe0">
+         <tg xml:lang="smn">
             <t pos="Num" wf="love">love</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn" tw_id="kymmenen 2a1e1663-a9c1-43d0-a688-f4de1e8ee44e">
+         <tg xml:lang="smn">
             <t pos="N" l_par="numero, kymppi" wf="lovváá">lovvááš</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn" tw_id="kymmenen 251d2af7-4755-4323-9ba8-a29cc67f47c0">
+         <tg xml:lang="smn">
             <t pos="A" l_par="ihmistä" wf="lohháás">loves</t>
          </tg>
       </mg>
       <mg id="4">
-         <tg xml:lang="smn" tw_id="kymmenen 9d2e2bc6-4d17-43d9-ad66-949a3d7a8a9f">
+         <tg xml:lang="smn">
             <t pos="Adv" l_par="kymmenen kertaa, kymmenesti">luhhii</t>
          </tg>
       </mg>
@@ -320,17 +320,17 @@ For the full license text, see the link above.
          <l pos="Num">neljä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="neljä 50bd391b-e5fa-4d83-8e7c-956bd414060b">
+         <tg xml:lang="smn">
             <t pos="Num" wf="neelji">nelji</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn" tw_id="neljä 40cd80e2-ea55-49d1-b0b4-b464d15da5f3">
+         <tg xml:lang="smn">
             <t pos="N" l_par="ihmistä, neljän ihmisen joukko" wf="niäljás">neeljis</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn" tw_id="neljä d6895a1a-e425-4838-b7f2-2091a7a740ee">
+         <tg xml:lang="smn">
             <t pos="Adv" l_par="neljä kertaa, neljästi">neljii</t>
          </tg>
       </mg>
@@ -340,17 +340,17 @@ For the full license text, see the link above.
          <l pos="Num">seitsemän</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="seitsemän 0c720ed8-b9c4-4800-9408-cbd22470e5fa">
+         <tg xml:lang="smn">
             <t pos="Num">čiččâm</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn" tw_id="seitsemän f43eab74-9dad-41f2-8bed-b146342a1465">
+         <tg xml:lang="smn">
             <t pos="A" l_par="ihmistä, seitsemän ihmisen joukko">čiččâmâs</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn" tw_id="seitsemän beb8cc64-7bbf-4f51-8a4d-e43723ba90d9">
+         <tg xml:lang="smn">
             <t pos="Adv" l_par="seitsemän kertaa, seitsemästi">čiččii</t>
          </tg>
       </mg>
@@ -360,17 +360,17 @@ For the full license text, see the link above.
          <l pos="Num">viisi</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="viisi 2f3a6ee7-4eee-4a88-8024-3cf07427078a">
+         <tg xml:lang="smn">
             <t pos="Num" wf="viiđâ">vittâ</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn" tw_id="viisi a2b9848e-30f1-4484-a7fb-41e0e9edec3b">
+         <tg xml:lang="smn">
             <t pos="A" l_par="ihmistä" wf="vittâs">viiđâs</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn" tw_id="viisi d7dd2092-a720-4480-a09e-9c2a0efe5315">
+         <tg xml:lang="smn">
             <t pos="Adv" l_par="viidesti, viisi kertaa">vittii</t>
          </tg>
       </mg>
@@ -380,17 +380,17 @@ For the full license text, see the link above.
          <l pos="Num">yhdeksän</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="yhdeksän 74581355-b920-4cd0-a96d-c0161820e2a2">
+         <tg xml:lang="smn">
             <t pos="Num">oovce</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn" tw_id="yhdeksän 83fcb53e-e554-41b8-978f-621dc8dc29e9">
+         <tg xml:lang="smn">
             <t pos="A" l_par="yhdeksän ihmistä">oovces</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn" tw_id="yhdeksän ca2b8575-985c-4e5f-a015-90f3650b0d70">
+         <tg xml:lang="smn">
             <t pos="Adv" l_par="yhdeksän kertaa">ohcii</t>
          </tg>
       </mg>

@@ -30,12 +30,12 @@ For the full license text, see the link above.
          <l pos="CC">niin</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="niin 29d02aeb-af99-4bba-9b61-82676c2c0928">
+         <tg xml:lang="smn">
             <t pos="CC">naa</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn" tw_id="niin 68878859-0c85-402a-96ab-f0b4b107db4b">
+         <tg xml:lang="smn">
             <t pos="CS">tegu</t>
          </tg>
       </mg>
@@ -45,7 +45,7 @@ For the full license text, see the link above.
          <l pos="CC">vaan</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="vaan 6b9d40d6-d4c9-4568-b6dc-38d9c8b28b16">
+         <tg xml:lang="smn">
             <t pos="CC">pic</t>
             <t pos="Adv">váá</t>
             <t pos="CC" t_tld="~mutâ">mut</t>
@@ -57,7 +57,7 @@ For the full license text, see the link above.
          <l pos="CC">tai</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="tai 74d0bb93-94ff-4a96-9717-bddbc158a828">
+         <tg xml:lang="smn">
             <t pos="CC" t_tld="~ađai">adai</t>
             <t pos="CC">tâi</t>
             <t pos="CC" t_tld="~teikkâ">teikâ</t>
@@ -69,7 +69,7 @@ For the full license text, see the link above.
          <l pos="CC">vai</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="vai 5c420bf0-0a94-452a-8889-79294eeed183">
+         <tg xml:lang="smn">
             <t pos="CC">vâi</t>
             <t pos="CC">vuoi</t>
          </tg>
@@ -80,7 +80,7 @@ For the full license text, see the link above.
          <l pos="CC">sekä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="sekä 0c6755cf-0146-47f5-8ac3-80c234279bbc">
+         <tg xml:lang="smn">
             <t pos="Adv-CC">sehe</t>
          </tg>
       </mg>
@@ -90,7 +90,7 @@ For the full license text, see the link above.
          <l pos="CC" comma=", elikkä">eli</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="eli 80bcc8dc-0388-4151-95a9-9222fa7a6f89">
+         <tg xml:lang="smn">
             <t pos="CC">ađai</t>
             <t pos="CC">adai</t>
             <t pos="CC">taihe</t>
@@ -102,7 +102,7 @@ For the full license text, see the link above.
          <l pos="CC">mutta</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="mutta 5a2032be-a1e0-4744-98ec-1de593cacd21">
+         <tg xml:lang="smn">
             <t pos="CC-CS" t_tld="~mutâ">mut</t>
             <t pos="CC-CS" t_tld="~mut">mutâ</t>
             <t pos="CC">pic</t>
@@ -114,12 +114,12 @@ For the full license text, see the link above.
          <l pos="CC">eikä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="eikä 1108c57c-9f2f-4b07-aa3b-3ca388cb0880">
+         <tg xml:lang="smn">
             <t pos="CC" t_tld="~ege">ige</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn" tw_id="eikä 3e65b3d7-e8c6-4327-906c-477675c33ee5">
+         <tg xml:lang="smn">
             <t pos="CC" l_par="eivätkä">iäge</t>
          </tg>
       </mg>
@@ -129,12 +129,12 @@ For the full license text, see the link above.
          <l pos="CC">ja</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="ja a19658f5-4745-4cfa-8cf0-7f0d801e052b">
+         <tg xml:lang="smn">
             <t pos="CC" t_tld="~ja">já</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn" tw_id="ja b3735aa3-b3ac-4841-95c5-283d1cef9258">
+         <tg xml:lang="smn">
             <t pos="CC" l_par="ja niin">jeđe</t>
          </tg>
       </mg>
@@ -144,7 +144,7 @@ For the full license text, see the link above.
          <l pos="CC">kaipa</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="kaipa 1cdf40cc-5985-4917-959b-dc99a4b2e7d0">
+         <tg xml:lang="smn">
             <t pos="CC">mai</t>
          </tg>
       </mg>

@@ -30,7 +30,7 @@ For the full license text, see the link above.
          <l pos="Adv">alta päin</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="alta päin 94659be5-7076-40ea-9f89-9010355863c1">
+         <tg xml:lang="smn">
             <t pos="Po">vyeleeld</t>
          </tg>
       </mg>
@@ -40,7 +40,7 @@ For the full license text, see the link above.
          <l pos="Adv">juurta jaksaen</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="juurta jaksaen d1952095-97f4-4b98-9f63-f57eab0c3b09">
+         <tg xml:lang="smn">
             <t pos="Adv" t_tld="~rekkân">râkkân</t>
          </tg>
       </mg>
@@ -50,7 +50,7 @@ For the full license text, see the link above.
          <l pos="Adv">nipin napin</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="nipin napin 007213ba-2cec-4fb3-b929-a9d8dbcf922b">
+         <tg xml:lang="smn">
             <t pos="Adv">het-het</t>
          </tg>
       </mg>
@@ -60,7 +60,7 @@ For the full license text, see the link above.
          <l pos="Adv">niukin naukin</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="niukin naukin 176c1b6a-9086-47bc-ad4e-1b4e4b66d847">
+         <tg xml:lang="smn">
             <t pos="Adv">het-het</t>
          </tg>
       </mg>
@@ -70,7 +70,7 @@ For the full license text, see the link above.
          <l pos="Adv">ristiin rastiin</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="ristiin rastiin ff41228b-455d-4ea1-9bab-f61e20c1fdb9">
+         <tg xml:lang="smn">
             <t pos="Adv-N">ruossâd</t>
          </tg>
       </mg>
@@ -80,7 +80,7 @@ For the full license text, see the link above.
          <l pos="Adv">alun perin</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="alun perin 6136fc8a-bffc-410d-927d-ea433124b5aa">
+         <tg xml:lang="smn">
             <t pos="Adv">álguáálgust</t>
             <t pos="Adv">algâaalgâst</t>
          </tg>
@@ -91,7 +91,7 @@ For the full license text, see the link above.
          <l pos="Adv">hujan hajan</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="hujan hajan 84f1a4dc-0431-43d1-8687-8de40bd59a3f">
+         <tg xml:lang="smn">
             <t pos="Adv">hiloi</t>
             <t pos="Adv" mwe="y">hilui hálui</t>
          </tg>
@@ -102,7 +102,7 @@ For the full license text, see the link above.
          <l pos="Adv">sikin sokin</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="sikin sokin 82f818ca-009d-4487-8c45-e791b385ea40">
+         <tg xml:lang="smn">
             <t pos="Adv">hiloi</t>
             <t pos="Adv" mwe="y">hilui hálui</t>
          </tg>
@@ -113,13 +113,13 @@ For the full license text, see the link above.
          <l pos="Adv">sen verran</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="sen verran 2ba70582-20d7-450e-84aa-6155cd6872c4">
+         <tg xml:lang="smn">
             <t pos="Adv">tommit</t>
             <t pos="Adv">tommittáá</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn" tw_id="sen verran 4b87068d-fd3e-4205-b265-96e00337b9b6">
+         <tg xml:lang="smn">
             <t pos="Adv" l_par="puhuteltavan lähellä t. häneen liityvään viitaten">tiemmit</t>
          </tg>
       </mg>
@@ -129,7 +129,7 @@ For the full license text, see the link above.
          <l pos="Adv" comma=", tavalla">eri tavoin</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="eri tavoin 88318a63-fcd3-4aea-9997-824e0b6631c5">
+         <tg xml:lang="smn">
             <t pos="Adv">eresnáál</t>
          </tg>
       </mg>
@@ -139,7 +139,7 @@ For the full license text, see the link above.
          <l pos="Adv">jollakin lailla</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="jollakin lailla 5a2cd723-2dd4-40b9-81c3-379a2e06c881">
+         <tg xml:lang="smn">
             <t pos="Adv">mottoomnáál</t>
          </tg>
       </mg>
@@ -149,7 +149,7 @@ For the full license text, see the link above.
          <l pos="Adv">kaiken kaikkiaan</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="kaiken kaikkiaan b386b897-8a18-44e0-aac2-4ace36f02e54">
+         <tg xml:lang="smn">
             <t pos="Adv">puohnâssân</t>
          </tg>
       </mg>
@@ -159,7 +159,7 @@ For the full license text, see the link above.
          <l pos="Adv">kaikin voimin</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="kaikin voimin 4e6e8a37-595a-4b96-9222-3a35cae47ff6">
+         <tg xml:lang="smn">
             <t pos="N">viehân</t>
          </tg>
       </mg>
@@ -169,7 +169,7 @@ For the full license text, see the link above.
          <l pos="Adv">sen jälkeen</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="sen jälkeen 94decdec-6ba6-4075-b846-f8ad84bf0c4c">
+         <tg xml:lang="smn">
             <t pos="Adv">tastmaŋa</t>
          </tg>
       </mg>
@@ -179,7 +179,7 @@ For the full license text, see the link above.
          <l pos="Adv">sitä vastoin</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="sitä vastoin 3f02cdc2-621c-482f-9711-3057216d0011">
+         <tg xml:lang="smn">
             <t pos="Adv">peeicâ</t>
          </tg>
       </mg>
@@ -189,7 +189,7 @@ For the full license text, see the link above.
          <l pos="Adv">tyhjin toimin</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="tyhjin toimin 6f05dbbe-a5be-486d-86d8-7df7f0c291e9">
+         <tg xml:lang="smn">
             <t pos="Adv">nuhtán</t>
          </tg>
       </mg>
@@ -199,7 +199,7 @@ For the full license text, see the link above.
          <l pos="Adv">tällä kertaa</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="tällä kertaa 3d9f7974-47c1-41af-810d-ada37d838678">
+         <tg xml:lang="smn">
             <t pos="Pcle" t_tld="~-ges ~ -kis~-kes">-gis</t>
             <t pos="Pcle" mwe="y">taan tove</t>
          </tg>
@@ -210,7 +210,7 @@ For the full license text, see the link above.
          <l pos="Adv">tällä tavoin</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="tällä tavoin 7b531be2-1bc3-461b-9097-c541f3f6986b">
+         <tg xml:lang="smn">
             <t pos="Adv">tánávt</t>
          </tg>
       </mg>
@@ -220,7 +220,7 @@ For the full license text, see the link above.
          <l pos="Adv">sinne tänne</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="sinne tänne 9090015c-3638-4859-b64b-4110f96d1a4b">
+         <tg xml:lang="smn">
             <t pos="Adv" t_tld="~ tuáhuntehin">tuáhunteehin</t>
             <t pos="Adv">setitoho</t>
          </tg>
@@ -231,12 +231,12 @@ For the full license text, see the link above.
          <l pos="Adv">silloin tällöin</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="silloin tällöin 41cebee5-8acd-447b-bf62-cb98d96c9ff3">
+         <tg xml:lang="smn">
             <t pos="Adv">tyellittälli</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn" tw_id="silloin tällöin 0739768c-76df-4b26-95b2-7cf01cdae8eb">
+         <tg xml:lang="smn">
             <t pos="Adv" l_par="kerran, harvoin">ohtii</t>
          </tg>
       </mg>
@@ -246,13 +246,13 @@ For the full license text, see the link above.
          <l pos="Adv">sitä kautta</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn" tw_id="sitä kautta 40669d31-1a72-4fe7-9f27-b912021c5266">
+         <tg xml:lang="smn">
             <t pos="Adv">togopeht</t>
             <t pos="Adv">togo</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn" tw_id="sitä kautta 74114b19-6ef3-431c-9889-487ed5a460f1">
+         <tg xml:lang="smn">
             <t pos="Adv" l_par="puhuteltavan läheltä">tiegu</t>
          </tg>
       </mg>

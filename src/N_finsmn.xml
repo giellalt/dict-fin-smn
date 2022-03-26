@@ -47,6 +47,14 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N" wf="tuođâ">tuotâ</t>
+            <xg>
+               <x>Tot lii tuotâ.</x>
+               <xt>Se on totta.</xt>
+            </xg>
+            <xg>
+               <x>aaibâs tuotâ</x>
+               <xt>ihan totta</xt>
+            </xg>
          </tg>
       </mg>
    </e>

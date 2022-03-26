@@ -4084,6 +4084,19 @@ For the full license text, see the link above.
             <t pos="V" l_par="tulla veltoksi, voimattomaksi" wf="vyeimittuum vyeimittuVá">vyeimittuđ</t>
          </tg>
       </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="A-N" wf="njuorrâs">njuorâs</t>
+                <xg>
+               <x>En pysynyt seisaallanikaan, kun olin niin heikko ja voimaton.</x>
+               <xt>Jiem pissoom čuožâdgin, ko lijjim nuuvt njuorâs já vyeimittem.</xt>
+            </xg>
+              <xg>
+               <x>Minun käteni ovat veltot.</x>
+               <xt>Muu kieđah láá njuorrâseh.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e id="16649">
       <lg>
@@ -16622,23 +16635,43 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="1992">
+    <e id="1992">
       <lg>
          <l pos="A">heikko</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" attr="# hiäjus" wf="hiäju">hiäju</t>
+               <xg>
+               <x>Sämikielâi sajattâh ohtsâškoddeest lii lamaš kuhháá hiäju.</x>
+               <xt>Saamen kielten asema yhteiskunnassa on ollut pitkään huono.</xt>
+            </xg>
+            <xg>
+               <x>Jalka oli niin heikko, etten pysynyt suksien päällä.</xt>
+               <xt>Jyelgi lâi nuuvt hiäju, et jiem pissoom savehij alne.</xt>
+            </xg>
+            <xg>
+             <x>Käden puristus oli heikko ja voimaton.</x>
+               <xt>Kieđâ čarvim lâi hiäju já njuorâs.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
-            <t pos="A-N" l_par="heiveröinen" wf="njuorrâs">njuorâs</t>
+         <tg xml:lang="smn" tw_id="voimaton 5fa98c22-d9d1-4b31-81c2-4b97d356c827">
+            <t pos="A-N" l_par="veltto" wf="njuorrâs">njuorâs</t>
+                <xg>
+               <x>En pysynyt seisaallanikaan, kun olin niin heikko ja voimaton.</x>
+               <xt>Jiem pissoom čuožâdgin, ko lijjim nuuvt njuorâs já vyeimittem.</xt>
+            </xg>
+              <xg>
+               <x>Minun käteni ovat veltot.</x>
+               <xt>Muu kieđah láá njuorrâseh.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="A" l_par="voimaton" attr="# fámuttis _AT_ fámuttemes">fámuttim</t>
+            <t pos="A" l_par="voimaton" attr="# fámuttes _AT_ fámuttemes">fámuttem</t>
             <t pos="A" attr="# vyeimittemes _AT_ vyeimittes">vyeimittem</t>
          </tg>
       </mg>
@@ -16649,12 +16682,29 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="A" l_par="herkästi rikkoutuva esine" attr="# rašes" wf="raše">rase</t>
+            <t pos="A" l_par="herkästi rikkoutuva, heikkotekoinen" attr="# rašes" wf="raše">raše</t>
+            <xg>
+               <x>Tot šalde lii hirmâd raše.</x>
+               <xt>Se silta on kauhean heikko.</xt>
+            </xg>
+            <xg>
+               <x>Kieđâ čarvim lâi hiäju já njuorâs.</x>
+               <xt>Käden puristus oli heikko ja veltto.</xt>
+            </xg>
+              <xg>
+               <x>Muu kieđah láá njuorrâseh.</x>
+               <xt>Minun käteni ovat veltot.</xt>
+            </xg>
+
          </tg>
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
             <t pos="N" l_par="tuulesta" attr="# luážis" wf="luáži">luážži</t>
+               <xg>
+               <x>Tääl lii luážži.</x>
+               <xt>Nyt tuulee heikosti.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="7">

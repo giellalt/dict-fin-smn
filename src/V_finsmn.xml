@@ -3325,6 +3325,10 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" wf="aasâm">aassâđ</t>
+            <xg>
+               <x>Hän asuu perheineen Inarissa.</x>
+               <xt>Sun áásá perruinis Anarist.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -35500,6 +35504,14 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" wf="luuVâm lohá">luuhâđ</t>
+            <xg>
+               <x>Hän lukee lehteä.</x>
+               <xt>Sun lohá loostâ.</xt>
+            </xg>
+            <xg>
+               <x>Minä aion lukea papiksi.</x>
+               <xt>Mun ááigum luuhâđ pappân.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
@@ -35750,6 +35762,14 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" wf="vuálgám">vyelgiđ</t>
+            <xg>
+               <x>Minä lähden kylälle.</x>
+               <xt>Mun vuálgám markkânân.</xt>
+            </xg>
+            <xg>
+               <x>Minun oli pakko lähteä.</x>
+               <xt>Must lâi pággu vyelgiđ.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
@@ -39350,9 +39370,20 @@ For the full license text, see the link above.
          </tg>
       </mg>
       <mg id="2">
+         <tg xml:lang="smn" tw_id="palvoa 50f741f6-b2e7-482a-9f85-8fc8047f6f9f">
+            <t pos="V">komerdiđ</t>
+            <xg>
+	      <x>Jo aikojen alusta saakka ihmiset ovat palvoneet Kuuta.</x>
+	      <xt>Jo aigij aalgâ rääjist ulmuuh láá komerdâm Mánudáá.</xt>
+	   </xg>
+         </tg>
+      </mg>
+      <mg id="3">
          <tg xml:lang="smn">
             <t pos="V" mwe="y">anneeđ idolin</t>
          </tg>
+      </mg>
+	 </tg>
       </mg>
    </e>
    <e id="9989">

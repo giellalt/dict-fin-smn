@@ -32,6 +32,14 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv" wf="tuođâ">tuotâ</t>
+            <xg>
+	            <x>Se on totta.</x>
+	            <xt>Tot lii tuotâ.</xt>
+	        </xg>
+	        <xg>
+	            <x>Se on totta.</x>
+	            <xt>Tot lii tuotâ.</xt>
+	        </xg>
          </tg>
       </mg>
       <mg id="2">
@@ -3744,7 +3752,15 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv">aainâs-uv</t>
+            <t pos="Adv">aainâskin</t>
+             <xg>
+	            <x>En minä ainakaan aio lähteä.</x>
+	            <xt>Jiem mun aainâskin ááigu vyelgiđ.</xt>
+	        </xg>
+	        <xg>
+	            <x>Ei hän ainakaan opettajaksi haluaisi.</x>
+	            <xt>Ij sun aainâskin máttáátteijen halijdiččii.</xt>
+	        </xg>
             <t pos="Adv">kuittâg</t>
          </tg>
       </mg>
@@ -3756,7 +3772,23 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">aainâs</t>
+            <xg>
+	            <x>Kuumuuteen on kuollut ainakin 30 ihmistä.</x>
+	            <xt>Kumásân láá jáámmám aainâs 30 olmožid.</xt>
+	        </xg>
+	             <xg>
+	            <x>Ainakin harmaalokki on oppinut elämään kaupungissa kerrostalojen katolla.</x>
+	            <xt>Aainâs stuorrâlodde lii oppâm eelliđ kaavpugist ollâ táálui káátu alne.</xt>
+	        </xg>       
             <t pos="Adv">aainâs-uv</t>
+               <xg>
+	            <x>Inarinsaame elää ainakin sata vuotta.</x>
+	            <xt>Anarâškielâ iälá aainâs-uv čyeti ihheed.</xt>
+	        </xg>
+            <xg>
+	            <x>Ravintola on suljettu ainakin 30.5. saakka.</x>
+	            <xt>Raavvâdviäsu lii kiddâ aainâs-uv 30.5. räi.</xt>
+	        </xg>         
             <t pos="Adv">kuittâg</t>
          </tg>
       </mg>
@@ -3768,7 +3800,19 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">tuš</t>
+            <xg>
+	            <x>Kilpailuun osallistuu ainoastaan kolme venettä.</x>
+	            <xt>Kiišton uásálisteh tuš kulmâ kárbá.</xt>
+	        </xg>
             <t pos="Adv">tuše</t>
+            <xg>
+	            <x>Minulla on ainoastaan yksi puuvene.</x>
+	            <xt>Must lii tuše ohtâ muorâkäärbis.</xt>
+	        </xg>
+            <xg>
+	            <x>Pihalla näkyi ainoastaan poroja..</x>
+	            <xt>Šiljoost uáinojii tuše poccuuh.</xt>
+	        </xg>
          </tg>
       </mg>
    </e>
@@ -4930,6 +4974,14 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="Adv" t_tld="~aštuu ~ aštus~oštus~uštus ~ eštus">eštuu</t>
             <t pos="Adv">tuođâi</t>
+                <xg>
+	            <x>Täällä on todella kuuma.</x>
+	            <xt>Tääbbin lii tuođâi paahâs.</xt>
+	        </xg>
+                <xg>
+	            <x>Sanoiko hän todella niin?</x>
+	            <xt>Eeđâi-uv sun tuođâi nuuvt?</xt>
+	        </xg>	        
          </tg>
       </mg>
    </e>
@@ -4940,7 +4992,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">tušás</t>
-            <t pos="Adv">tušij</t>
          </tg>
       </mg>
    </e>

@@ -2256,6 +2256,11 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="A" attr="# -es">vuáđuttem</t>
             <t pos="N" l_par="turha, joutava" attr="# tušes" wf="tuše">tušše</t>
+            <xg>
+               <x>En halua kuulla niitä joutavia tarinoita.</x>
+               <xt>Jiem haalijd taid tušes saavâid kuullâđ.</xt>
+            </xg>
+
          </tg>
       </mg>
    </e>

@@ -3216,21 +3216,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="15299">
-      <lg>
-         <l pos="N">turha</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N" attr="# tušes" wf="tuše">tušše</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn">
-            <t pos="V" l_par="pitää jtak turhana" wf="tuššááš">tusášiđ</t>
-         </tg>
-      </mg>
-   </e>
    <e id="15934">
       <lg>
          <l pos="N" r1_par="m. matem.">vaakasuora</l>

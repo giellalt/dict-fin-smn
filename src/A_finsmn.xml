@@ -4584,6 +4584,34 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+     <e id="14980003">
+      <lg>
+         <l pos="A">tosi</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="A" wf="tuođâ">tuotâ</t>
+            <xg>
+	            <x>Se on totta.</x>
+	            <xt>Tot lii tuotâ.</xt>
+	        </xg>
+         </tg>
+      </mg>
+   </e>
+      <e id="14980004">
+      <lg>
+         <l pos="A">todella</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+	          <t pos="A">tuođâi</t>
+             <xg>
+	            <x>Se on todella kaunis.</x>
+	            <xt>Tot lii tuođâi muččâd.</xt>
+	        </xg>
+         </tg>
+      </mg>
+   </e>   
    <e id="13731">
       <lg>
          <l pos="A" r1_par="matem.">suorakulmainen</l>

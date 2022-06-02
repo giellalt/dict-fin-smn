@@ -25,29 +25,6 @@ For the full license text, see the link above.
      Please also note that the entries are not necessarily sorted,
      or could be wrongly sorted.
      </sourcenote></lics>
-     <e id="14980">
-      <lg>
-         <l pos="Adv">tosi</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="Adv" wf="tuođâ">tuotâ</t>
-            <xg>
-	            <x>Se on totta.</x>
-	            <xt>Tot lii tuotâ.</xt>
-	        </xg>
-	        <xg>
-	            <x>Se on totta.</x>
-	            <xt>Tot lii tuotâ.</xt>
-	        </xg>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn">
-            <t pos="Adv" l_par="vastauksena">tuođâi</t>
-         </tg>
-      </mg>
-   </e>
    <e id="2730">
       <lg>
          <l pos="Adv">hyvänsä</l>
@@ -383,8 +360,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">muuneeld</t>
-            <t pos="Adv">ovdâkietân</t>
-            <t pos="Adv">oovdeldkietân</t>
          </tg>
       </mg>
    </e>
@@ -486,7 +461,6 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv">iävtutátulávt</t>
             <t pos="Adv">rijjâtátulávt</t>
          </tg>
       </mg>
@@ -548,7 +522,7 @@ For the full license text, see the link above.
             <t pos="Po" l_par="vastikään, jäljiltä">viđá</t>
             <xg>
                <x>juuri ammuttu</x>
-               <xt>pääččim viđá</xt>
+               <xt>pääččimviđá</xt>
             </xg>
          </tg>
       </mg>
@@ -847,7 +821,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">jiešmeidlist</t>
-            <t pos="Adv">jiešalnees</t>
          </tg>
       </mg>
    </e>
@@ -1559,7 +1532,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv">suámálávt</t>
+            <t pos="Adv">häävskiht</t>
          </tg>
       </mg>
    </e>
@@ -1619,7 +1592,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv">fijnásávt</t>
+            <t pos="Adv">fijnáht</t>
          </tg>
       </mg>
    </e>
@@ -2239,7 +2212,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv">kejimield</t>
+            <t pos="Adv">loopân</t>
          </tg>
       </mg>
       <mg id="1">
@@ -2669,7 +2642,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv">vasteeht</t>
+            <t pos="Adv">fasteeht</t>
          </tg>
       </mg>
    </e>
@@ -2689,7 +2662,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv" mwe="y">čuođij mild</t>
+            <t pos="Adv" mwe="y">čuođij mield</t>
          </tg>
       </mg>
    </e>
@@ -3478,7 +3451,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Po">kooskân</t>
-            <t pos="Po">kyevtkooskân</t>
          </tg>
       </mg>
    </e>
@@ -3568,7 +3540,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv" mwe="y">ovtâi mild</t>
+            <t pos="Adv" mwe="y">ovtâi mield</t>
          </tg>
       </mg>
    </e>
@@ -3740,9 +3712,10 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <t pos="Adv">ovdil</t>
             <t pos="Adv">ovdâlist</t>
             <t pos="Adv">tolebáá</t>
-            <t pos="Adv">tooleeb</t>
+            <t pos="Adv">tooleeb</t>          
          </tg>
       </mg>
    </e>
@@ -3810,7 +3783,7 @@ For the full license text, see the link above.
 	            <xt>Must lii tuše ohtâ muorâkäärbis.</xt>
 	        </xg>
             <xg>
-	            <x>Pihalla näkyi ainoastaan poroja..</x>
+	            <x>Pihalla näkyi ainoastaan poroja.</x>
 	            <xt>Šiljoost uáinojii tuše poccuuh.</xt>
 	        </xg>
          </tg>
@@ -3892,7 +3865,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">algâaalgâst</t>
-            <t pos="Adv">álguáálgust</t>
          </tg>
       </mg>
    </e>
@@ -3950,7 +3922,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">jieht</t>
-            <t pos="Adv" l_par="eilispäivänä">jiehtinâš</t>
+            <t pos="Adv" l_par="eilispäivänä">jiehtinâs</t>
          </tg>
       </mg>
    </e>
@@ -3992,7 +3964,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv">vuosmuštáá</t>
+            <t pos="Adv">vuosmustáá</t>
             <t pos="Adv">vuossâmustáá</t>
             <t pos="Adv">vuoččin</t>
          </tg>

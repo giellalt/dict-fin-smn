@@ -32,6 +32,10 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" attr="# čapis">čappâd</t>
+            <xg>
+	            <x>Toinen sukka oli musta, toinen ruskea.</x>
+	            <xt>Nubbe sukká lâi čappâd, nubbe ruškâd.</xt>
+	        </xg>
          </tg>
       </mg>
    </e>
@@ -41,7 +45,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A" attr="# murrišâs">murriš</t>
+            <t pos="A" attr="# murrišis">murriš</t>
          </tg>
       </mg>
    </e>

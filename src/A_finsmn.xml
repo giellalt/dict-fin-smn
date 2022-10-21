@@ -76,6 +76,10 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" attr="# -s">áijáá</t>
+            <xg>
+	            <x>Se on aikaavievä tehtävä.</x>
+	            <xt>Tot lii áijáás pargo.</xt>
+	        </xg>
          </tg>
       </mg>
    </e>
@@ -156,6 +160,10 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" t_tld="~áánsâšmettum">áánsášmettum</t>
+            <xg>
+	            <x>Se on ansaitsematon kunnia.</x>
+	            <xt>Tot lii áánsášmettum kunnee.</xt>
+	        </xg>
          </tg>
       </mg>
    </e>
@@ -1329,16 +1337,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="12709">
-      <lg>
-         <l pos="A">sanottava</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N">etâmâš</t>
-         </tg>
-      </mg>
-   </e>
    <e id="12770">
       <lg>
          <l pos="A">satavuotias</l>
@@ -1899,16 +1897,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="17300">
-      <lg>
-         <l pos="A">vähemmistövaltuutettu</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="A" syn_dash="-váldálii">ucceeblohováldálâš</t>
-         </tg>
-      </mg>
-   </e>
    <e id="17348">
       <lg>
          <l pos="A">väkivaltainen</l>
@@ -2274,8 +2262,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A" syn_dash="-táválii">epitáválâš</t>
             <t pos="N">spiekâsteijee</t>
+            <t pos="A" syn_dash="-táválii">epitáválâš</t>
          </tg>
       </mg>
    </e>
@@ -19125,6 +19113,10 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="A" attr="# pyeidis" wf="pyeidi">pyeidi</t>
             <t pos="A" attr="# -is">puáidáá</t>
+            <xg>
+               <x>Rasvaisia ne läskit muutenkin olivat.</x>
+               <xt>Puáidááh toh pyeidih mudoi-uv lijjii.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
@@ -19533,7 +19525,6 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A" t_tld="~merhâšeijee">merhâšijjee</t>
             <t pos="A">merhâšittee</t>
          </tg>
       </mg>

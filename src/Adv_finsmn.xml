@@ -3978,7 +3978,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="Adv">vistig</t>
             <t pos="Adv">vist</t>
-            <t pos="Adv">vuosmuštáá</t>
+            <t pos="Adv">vuosmustáá</t>
             <t pos="Adv">vuossâmustáá</t>
             <t pos="Adv">vuoččin</t>
          </tg>
@@ -7752,6 +7752,16 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">vahâgist</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="125921">
+      <lg>
+         <l pos="Adv">esimerkiksi</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="Adv">ovdâmerkkân</t>
          </tg>
       </mg>
    </e>

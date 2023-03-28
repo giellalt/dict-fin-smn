@@ -5345,6 +5345,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" wf="čiärustuum čiärustuVá">čiärustuđ</t>
+            <t pos="V" l_par="saada jku itkemään" wf="čiärut">čiäruttiđ</t>
          </tg>
       </mg>
    </e>
@@ -7327,6 +7328,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" wf="njaaVâm">njaahâđ</t>
+            <t pos="V" wf="njaaVâm">komárduđ</t>
          </tg>
       </mg>
    </e>
@@ -14917,6 +14919,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" wf="oLášuVá">olášuđ</t>
+            <t pos="V" wf="oLášittuVá">olášittuđ</t>
          </tg>
       </mg>
    </e>
@@ -17147,11 +17150,16 @@ For the full license text, see the link above.
    </e>
    <e id="17637">
       <lg>
-         <l pos="V" r1_par="joki">ylittää</l>
+         <l pos="V">ylittää</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" wf="moovsám">mokseđ</t>
+            <t pos="V" l_par="joki" wf="moovsám">mokseđ</t>
+         </tg>
+      </mg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="V" l_par="raja, tie" wf="ra'stalditám">rastaldittiđ</t>
          </tg>
       </mg>
    </e>
@@ -20753,7 +20761,7 @@ For the full license text, see the link above.
    </e>
    <e id="11157">
       <lg>
-         <l pos="V" r1_par="jäniksestä">puputtaa</l>
+         <l pos="V" r1_par="pöllön tuottama ääni">puputtaa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -27771,6 +27779,11 @@ For the full license text, see the link above.
             <t pos="V" l_par="alkaa yhtäkkiä itkeä">čiärádiđ</t>
          </tg>
       </mg>
+      <mg id="4">
+         <tg xml:lang="smn">
+            <t pos="V" l_par="kyynelehtiä" wf="koonjâld">konjâldiđ</t>
+         </tg>
+      </mg>
    </e>
    <e id="3293">
       <lg>
@@ -28598,7 +28611,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="esim. kokouksesta" wf="jieijâs">ornijdiđ</t>
+            <t pos="V" l_par="esim. kokouksesta" wf="oornijd">ornijdiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -45354,6 +45367,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" l_par="kutistua" wf="snoorrân">snorâniđ</t>
+            <t pos="V">kiäsásiđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -46839,6 +46853,11 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t pos="V" l_par="kosteutta, huurtua" wf="savđa">sovđâđ</t>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="V" l_par="nesteytyä" wf="lávvá">lavvâđ</t>
          </tg>
       </mg>
    </e>
@@ -51114,6 +51133,50 @@ For the full license text, see the link above.
 	           <x>Remontissa uusittiin ikkunat ja katto.</x>
 		       <xt>Remontist uđâduvvojii laasah já káttu.</xt>
 	         </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">altistua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">painâšuđ</t>
+             <xg>
+	           <x>Monet koululaiset altistuivat flunssalle.</x>
+		       <xt>Maaŋgah škovlâliih painâšuvvii leencun.</xt>
+	         </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vahveta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">nanosmuđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">alakirjoittaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">vuáláčäälliđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kyynelehtiä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">konjâldiđ</t>
          </tg>
       </mg>
    </e>

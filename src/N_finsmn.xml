@@ -121573,7 +121573,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N" l_par="yleisnimitys _SEMIC_ m. kuolinpesä" wf="peesi">peesi</t>
+            <t pos="N" l_par="yleisnimitys; m. kuolinpesä" wf="peesi">peesi</t>
          </tg>
       </mg>
       <mg id="2">
@@ -124503,7 +124503,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="panna kuivumaan erit. riuulle _SEMIC_ akt." t_tld="~ čuhčâdiđ">suhčâdiđ</t>
+            <t pos="V" l_par="panna kuivumaan erit. riuulle; akt." t_tld="~ čuhčâdiđ">suhčâdiđ</t>
             <t pos="N" l_par="pass." t_tld="~ čuhčâduđ čuhčâduum čuhčâduVá">suhčâduđ</t>
          </tg>
       </mg>
@@ -126763,7 +126763,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="N" l_par="muuttua syksyiseksi t. syksyisemmäksi _SEMIC_ joutua syksyn yllättämäksi" wf="čohčâluum čohčâluVá">čohčâluđ</t>
+            <t pos="N" l_par="muuttua syksyiseksi t. syksyisemmäksi; joutua syksyn yllättämäksi" wf="čohčâluum čohčâluVá">čohčâluđ</t>
          </tg>
       </mg>
    </e>

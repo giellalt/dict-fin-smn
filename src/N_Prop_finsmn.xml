@@ -1995,3 +1995,1255 @@ For the full license text, see the link above.
       </mg>
    </e>
 </r>
+<r>
+   <e src="http://www.wikidata.org/entity/Q98">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Tyynimeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Kuálhismeerâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1239">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Intian valtameri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">India väldimeerâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1247">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Karibianmeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Karibiameerâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q4918">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Välimeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Koskâmeerâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1693">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pohjanmeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Tavemeerâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q13924">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Adrianmeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Adriameerâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q14686">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Suomenlahti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Suomâluohtâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q23406">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Punainenmeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Ruopsismeerâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q34675">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Persianlahti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Persialuohtâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q350134">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pohjois-Atlantti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Tave-Atlant</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q41735">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Irlanninmeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Irlandmeerâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q45823">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Barentsinmeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Barentsmeerâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q47545">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Norjanmeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Taažâmeerâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1482804">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Etelä-Atlantti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Maadâ-Atlant</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q58705">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Arabianmeri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Arabiameerâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="item">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">itemLabelFi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">itemLabelSmn</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q61">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Washington</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Washington, D.C.</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q64">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Berliini</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Berlin</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q70">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Bern</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Bern</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q101418">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Lobamba</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Lobamba</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q437">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Ljubljana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Ljubljana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q84">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Lontoo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Lontoo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q585">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Oslo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Oslo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q472">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Sofia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Sofia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q90">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pariisi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Pariisi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q85">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kairo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Kairo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q649">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Moskova</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Moskova</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q48329">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Maarianhamina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Maarianhamina</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q220">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Rooma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Rooma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q216">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Vilna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Vilna</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q956">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Peking</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Peking</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q994">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Tbilisi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Tbilisi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3718">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Dakar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Dakar</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1085">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Praha</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Praha</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3726">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Banjul</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Banjul</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q167551">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Gitega</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Gitega</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q168652">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Hargeisa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Hargeisa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1362">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Islamabad</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Islamabad</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1486">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Buenos Aires</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Buenos Aires</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3748">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Monrovia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Monrovia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3751">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Praia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Praia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1515">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Abidjan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Abidjan</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3761">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Accra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Accra</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1530">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Bagdad</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Bagdad</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3780">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Freetown</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Freetown</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3768">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Yamoussoukro</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Yamoussoukro</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3787">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Abuja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Abuja</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3792">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Lomé</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Lomé</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3805">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Amman</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Amman</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1555">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Guatemala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Guatemala</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1563">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Havanna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Havanna</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3808">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Yaoundé</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Yaoundé</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3818">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Malabo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Malabo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1748">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kööpenhamina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Kööbenhaammân</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3820">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Beirut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Beirut</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3825">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Libreville</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Libreville</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1754">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Tukholma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Tukholma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3832">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Bangui</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Bangui</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1757">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Helsinki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Helsig</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3856">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Nikosia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Nikosia</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1770">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Tallinna</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Tallinna</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3859">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kigali</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Kigali</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3866">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Dodoma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Dodoma</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1780">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Bratislava</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Bratislava</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3870">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Nairobi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Nairobi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3876">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Lilongwe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Lilongwe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1781">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Budapest</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Budapest</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1844">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Vaduz</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Vaduz</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3889">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Maputo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Maputo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3881">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Lusaka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Lusaka</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1848">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">San Marino</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">San Marino</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3894">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kampala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Kampala</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3897">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Luanda</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Luanda</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1858">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Hanoi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Hanoi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3901">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Moroni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Moroni</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3915">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Antananarivo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Antananarivo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3909">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Maseru</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Maseru</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3904">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Mbabane</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Mbabane</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1861">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Bangkok</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Bangkok</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3921">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Harare</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Harare</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3926">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Pretoria</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Pretoria</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3919">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Gaborone</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Gaborone</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1863">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Andorra la Vella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Andorra la Vella</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1865">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kuala Lumpur</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Kuala Lumpur</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3932">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">São Tomé</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">São Tomé</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3940">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Victoria</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Victoria, Seychelleh</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3935">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Windhoek</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Windhoek</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1867">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Taipei</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Taipei</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1899">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kiova</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Kiova</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3929">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Port Louis</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Port Louis</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1947">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Juba</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Juba</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q5465">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kapkaupunki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Kapkaavpug</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q1963">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Khartum</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Khartum</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q8678">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Rio de Janeiro</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Rio de Janeiro</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q2449">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Mogadishu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Mogadishu</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q9248">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Baku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Baku</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q2471">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Sanaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Sanaa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q9347">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Malé</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Malé</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q2868">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Lima</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Lima</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q2900">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Quito</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Quito</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q9365">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Dušanbe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Dušanbe</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3001">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Paramaribo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Paramaribo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q11194">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Sarajevo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Sarajevo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3110">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">San Salvador</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">San Salvador</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3114">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Canberra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Canberra</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3238">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Tegucigalpa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Tegucigalpa</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3274">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Managua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Managua</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q19689">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Tirana</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Tirana</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3551">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Rabat</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Rabat</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3561">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Alger</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Alger</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q23436">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Edinburgh</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Edinburgh</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3579">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Tripoli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Tripoli</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3604">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Djibouti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Djibouti</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3616">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Teheran</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Teheran</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3642">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Asmara</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Asmara</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3659">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">N’Djamena</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">N'Djamena</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q3703">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Bamako</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Bamako</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q31487">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Krakova</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Krakova</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q34261">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Port-au-Prince</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Port-au-Prince</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q34692">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Kingston</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Kingston</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q34820">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Santo Domingo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Santo Domingo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q35381">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Colombo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Colombo</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q36168">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Bridgetown</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Bridgetown</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q37701">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Bloemfontein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Bloemfontein</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="http://www.wikidata.org/entity/Q38834">
+      <lg>
+         <l pos="N" type="Prop" sem_type="Plc">Nukuʻalofa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N" type="Prop">Nukuʻalofa</t>
+         </tg>
+      </mg>
+   </e>
+</r>

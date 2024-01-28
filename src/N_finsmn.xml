@@ -25963,8 +25963,15 @@ For the full license text, see the link above.
          <l pos="N">julkisuus</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+        <tg xml:lang="smn">
+	  <re>avoimuus</re>
             <t pos="N" wf="almolâšvuođâ">almolâšvuotâ</t>
+         </tg>
+      </mg>
+      <mg id="1">
+        <tg xml:lang="smn">
+	  <re>tunnettuus</re>
+            <t pos="N" wf="almolâšvuođâ">pegâlmâšvuotâ</t>
          </tg>
       </mg>
    </e>

@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../giella-core/dicts/scripts/gt_dictionary.css" type="text/css"?>
-<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css" type="text/css"?>
+<?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
+<?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
+<?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
+<?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../giella-core/dicts/scripts/gt_dictionary.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="finsmn" xml:lang="fin">
    <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
@@ -25963,8 +25965,15 @@ For the full license text, see the link above.
          <l pos="N">julkisuus</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+        <tg xml:lang="smn">
+	  <re>avoimuus</re>
             <t pos="N" wf="almolâšvuođâ">almolâšvuotâ</t>
+         </tg>
+      </mg>
+      <mg id="1">
+        <tg xml:lang="smn">
+	  <re>tunnettuus</re>
+            <t pos="N" wf="almolâšvuođâ">pegâlmâšvuotâ</t>
          </tg>
       </mg>
    </e>

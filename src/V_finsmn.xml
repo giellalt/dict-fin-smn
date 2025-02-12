@@ -44085,11 +44085,9 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t pos="V" l_par="nousta seisomaan" wf="čuožžit">čuožžiittiđ</t>
-            <t pos="V">čuážžuliđ</t>
+	          <re>nousta seisomaan</re>
             <t pos="V">čyežžiliđ</t>
-            <t pos="V" wf="čuožžâst">čuožâstiđ</t>
-            <t pos="V" wf="čyežžit">čyežittiđ</t>
+            <t pos="V">čuážžuliđ</t>
          </tg>
       </mg>
    </e>
@@ -50266,6 +50264,10 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="smn">
             <t pos="V">čuožâstiđ</t>
+            <xg>
+	            <x>Jos kovasti säikähtää, niin veri seisahtuu.<x>
+		            <xt>Jis čuuvtij suorgân, te vorrâ čuožžâst.<xt>
+			            </xg>
          </tg>
       </mg>
    </e>

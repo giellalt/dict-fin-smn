@@ -100133,7 +100133,8 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N" t_tld="~máttááttijjee">máttáátteijee</t>
-            <t pos="N" t_tld="~opâttijjee">opâtteijee</t>
+            <t pos="N" t_tld="~opâtteijjee">opâtteijee</t>
+            <t pos="N" t_tld="~opâttijjee">opâttijjee</t>
          </tg>
       </mg>
    </e>
@@ -100282,25 +100283,23 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+     <e id="980414">
+      <lg>
+         <l pos="N">paino</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N" wf="tiädu">tiäddu</t>
+         </tg>
+      </mg>
+   </e>
    <e id="9808 9806">
       <lg>
-         <l pos="N" r1_par="tuotantolaitos, esim. punnus">paino</l>
+         <l pos="N" r1_par="tuotantolaitos">painopaikka</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N">teddilemlágádâs</t>
-            <t pos="N">teddilemviäsu</t>
-         </tg>
-      </mg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N" wf="tedduu">teedâ</t>
-            <t pos="N" wf="tiädu">tiäddu</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn">
-            <t pos="N" l_par="raskaus" syn_dash="-vuođâ">lussâdvuotâ</t>
          </tg>
       </mg>
    </e>
@@ -100343,8 +100342,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N" wf="kalmaattuv">kalmattâh</t>
-            <t pos="N">kalmaattâs</t>
+            <t pos="N" wf="kalmattuv">kalmattâh</t>
+            <t pos="N">kalmattâs</t>
          </tg>
       </mg>
    </e>

@@ -128283,22 +128283,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="15070">
-      <lg>
-         <l pos="N">tukkiutua</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="V" wf="tággu">tágguđ</t>
-            <t pos="V" wf="toppâs">toppâsiđ</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn">
-            <t pos="V" l_par="korvista" wf="juáđgoo">jođguđ</t>
-         </tg>
-      </mg>
-   </e>
    <e id="15071">
       <lg>
          <l pos="N">tukko</l>

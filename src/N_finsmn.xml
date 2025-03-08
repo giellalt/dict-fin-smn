@@ -99184,7 +99184,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N" t_tld="~stáinár">stáinâr</t>
+            <t pos="N" t_tld="~stáinár">stáinár</t>
             <t pos="N" syn_dash="-kyele">kissákyeli</t>
          </tg>
       </mg>
@@ -99430,7 +99430,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N" l_par="m. luentomoniste" wf="máŋgus">mááŋgus</t>
-            <t pos="N" wf="miäldus">miäldus</t>
          </tg>
       </mg>
    </e>
@@ -99674,8 +99673,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N">muávloo</t>
-            <t pos="N">miävloo</t>
-            <t pos="N">möŋgee</t>
             <t pos="N">pehhee</t>
          </tg>
       </mg>
@@ -99755,7 +99752,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N">povvâstem</t>
-            <t pos="N">povustem</t>
+            <t pos="N">povvustem</t>
          </tg>
       </mg>
    </e>
@@ -100122,7 +100119,6 @@ For the full license text, see the link above.
             <t pos="N" syn_dash="-mááđu _FT_ -máđo">vuoggâmáátu</t>
             <t pos="N" syn_dash="-mááđu _FT_ -máđo">septimáátu</t>
             <t pos="N" syn_dash="-mááđu _FT_ -máđo">suándimáátu</t>
-            <t pos="N" syn_dash="-mááđu _FT_ -máđo">lapsemáátu</t>
          </tg>
       </mg>
    </e>
@@ -100267,7 +100263,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N" wf="kiäJu">kiäčču</t>
-            <t pos="N" wf="kiäju">kiäju</t>
          </tg>
       </mg>
    </e>

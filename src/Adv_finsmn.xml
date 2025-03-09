@@ -3,7 +3,7 @@
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../giella-core/dicts/scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/finsmn.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="finsmn" xml:lang="fin">
    <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
   <lic xml:lang="en">
@@ -3728,6 +3728,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">aainâskin</t>
+            <t pos="Adv">kuittâg</t>
              <xg>
 	            <x>En minä ainakaan aio lähteä.</x>
 	            <xt>Jiem mun aainâskin ááigu vyelgiđ.</xt>
@@ -3736,7 +3737,6 @@ For the full license text, see the link above.
 	            <x>Ei hän ainakaan opettajaksi haluaisi.</x>
 	            <xt>Ij sun aainâskin máttáátteijen halijdiččii.</xt>
 	        </xg>
-            <t pos="Adv">kuittâg</t>
          </tg>
       </mg>
    </e>
@@ -3747,6 +3747,8 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">aainâs</t>
+            <t pos="Adv">aainâs-uv</t>
+            <t pos="Adv">kuittâg</t>
             <xg>
 	            <x>Kuumuuteen on kuollut ainakin 30 ihmistä.</x>
 	            <xt>Kumásân láá jáámmám aainâs 30 olmožid.</xt>
@@ -3755,7 +3757,6 @@ For the full license text, see the link above.
 	            <x>Ainakin harmaalokki on oppinut elämään kaupungissa kerrostalojen katolla.</x>
 	            <xt>Aainâs stuorrâlodde lii oppâm eelliđ kaavpugist ollâ táálui káátu alne.</xt>
 	        </xg>       
-            <t pos="Adv">aainâs-uv</t>
                <xg>
 	            <x>Inarinsaame elää ainakin sata vuotta.</x>
 	            <xt>Anarâškielâ iälá aainâs-uv čyeti ihheed.</xt>
@@ -3764,7 +3765,6 @@ For the full license text, see the link above.
 	            <x>Ravintola on suljettu ainakin 30.5. saakka.</x>
 	            <xt>Raavvâdviäsu lii kiddâ aainâs-uv 30.5. räi.</xt>
 	        </xg>         
-            <t pos="Adv">kuittâg</t>
          </tg>
       </mg>
    </e>
@@ -3775,11 +3775,11 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">tuš</t>
+            <t pos="Adv">tuše</t>
             <xg>
 	            <x>Kilpailuun osallistuu ainoastaan kolme venettä.</x>
 	            <xt>Kiišton uásálisteh tuš kulmâ kárbá.</xt>
 	        </xg>
-            <t pos="Adv">tuše</t>
             <xg>
 	            <x>Minulla on ainoastaan yksi puuvene.</x>
 	            <xt>Must lii tuše ohtâ muorâkäärbis.</xt>

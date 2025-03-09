@@ -3,7 +3,7 @@
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../giella-core/dicts/scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/finsmn.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="finsmn" xml:lang="fin">
    <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
   <lic xml:lang="en">
@@ -26875,24 +26875,6 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="A">talouspoliittinen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smn">
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">raikas</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smn">
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">lauantainen</l>
       </lg>
       <mg>
@@ -27507,15 +27489,6 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="smn">
             <t pos="A">čuuvtij tehelâš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">harkinnanvarainen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smn">
          </tg>
       </mg>
    </e>

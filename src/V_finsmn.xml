@@ -16860,6 +16860,16 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="17215">
+      <lg>
+         <l pos="V">vuolaista</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="V" wf="vuolâst">vuolâstiđ</t>
+         </tg>
+      </mg>
+   </e>
    <e id="17216">
       <lg>
          <l pos="V">vuoleskella</l>
@@ -20724,6 +20734,18 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="V" wf="pulččáám">pulččáđ</t>
             <t pos="V" wf="pulččeet">pulčettiđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="11035">
+      <lg>
+         <l pos="V" r1_par="imeväisestä, joka on saanut liikaa maitoa">pulautella</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="V" wf="čolom">čolloođ</t>
+            <t pos="V" wf="čovláttâlâm">čovláttâllâđ</t>
+            <t pos="V" wf="čovleet">čovlettiđ</t>
          </tg>
       </mg>
    </e>

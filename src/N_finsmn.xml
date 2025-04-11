@@ -88589,16 +88589,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="17215">
-      <lg>
-         <l pos="N">vuolaista</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="V" wf="vuolâst">vuolâstiđ</t>
-         </tg>
-      </mg>
-   </e>
    <e id="17218">
       <lg>
          <l pos="N" r1_par="haarapäinen työkalu">vuolin</l>
@@ -101430,18 +101420,6 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="N">slalom</t>
             <t pos="N">puáibildem</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="11035">
-      <lg>
-         <l pos="N" r1_par="imeväisestä, joka on saanut liikaa maitoa">pulautella</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="V" wf="čolom">čolloođ</t>
-            <t pos="V" wf="čovláttâlâm">čovláttâllâđ</t>
-            <t pos="V" wf="čovleet">čovlettiđ</t>
          </tg>
       </mg>
    </e>

@@ -28368,4 +28368,224 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="A">kärsivä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">killájeijee</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">notko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">njuáski</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">helteinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">paahâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">rivo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">nyeski</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">pahantapainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">skilottem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ehyt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">čavos</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">joutavanpäiväinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">jyevdiv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kumara</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">kavraa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">loppunut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">puoh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kalvas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">kuovgâd</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">härskiintynyt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">kuástáá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sisukas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">noccáá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">osaamaton</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">čyerbi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kujeellinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">ilbâd</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">oikullinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">skuánnáá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">arkipäiväinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">argâpiäiválâš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">äidinkielinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">eenikielâlâš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ympäripyöreä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">pirrâjuurbâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">yhdenvertainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">oovtâviärdásâš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">looginen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">loogilâš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">armollinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">ármugâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">armollinen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="A">ármulâš</t>
+         </tg>
+      </mg>
+   </e>
 </r>

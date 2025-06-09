@@ -51232,4 +51232,442 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="V">keretä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">kiergâniđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sietä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">šohâniđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">pihkaantua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">kásáttuđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hommailla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">roossâđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">nesteytyä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">lavvâđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">pajuttua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">puájuiduđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">levetä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">kobdániđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vaihtua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">mulsâšuđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">murustua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">murâniđ</t>
+            <t pos="V">smiärruđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kaveta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">kiäzzuđ</t>
+            <t pos="V">kiäzzániđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tutustuttaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">uápásmittiđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">perehdyttää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">uápásmittiđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ihastella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">ihástâllâđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kiinnostua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">kiddiistuđ</t>
+            <t pos="V">kiäsuttuđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">testata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">testađ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">raportoida</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">raportistiđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kiinnittyä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">kiddâniđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">nuuhkia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">njunniistâllâđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kontrolloida</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">kontrollistiđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">keretä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">kiergâniđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">pihkaantua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">kásáttuđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sietä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">šohâniđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">hommailla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">roossâđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">nesteytyä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">lavvâđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">pajuttua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">puájuiduđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">levetä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">kobdániđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vaihtua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">mulsâšuđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">murustua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">murâniđ</t>
+            <t pos="V">smiärruđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kaveta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">kiäzzuđ</t>
+            <t pos="V">kiäzzániđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tutustuttaa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">uápásmittiđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">perehdyttää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">uápásmittiđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kiinnostua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">kiddiistuđ</t>
+            <t pos="V">kiäsuttuđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ihastella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">ihástâllâđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">testata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">testađ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kiinnostua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">kiddiistuđ</t>
+            <t pos="V">kiäsuttuđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">raportoida</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">raportistiđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">testata</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">testađ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">nuuhkia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">njunniistâllâđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kontrolloida</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">kontrollistiđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kiinnittyä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">kiddâniđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kaveta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">kiäzzuđ</t>
+            <t pos="V">kiäzzániđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ihastella</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">ihástâllâđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">entistää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">ovdištiđ</t>
+         </tg>
+      </mg>
+   </e>
 </r>

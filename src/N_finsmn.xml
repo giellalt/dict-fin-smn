@@ -192,7 +192,7 @@ For the full license text, see the link above.
    </e>
    <e id="1204">
       <lg>
-         <l pos="N" r1_par="(matem.)">epäjatkuva</l>
+         <l pos="N" re="matem.">epäjatkuva</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -222,7 +222,7 @@ For the full license text, see the link above.
    </e>
    <e id="1397">
       <lg>
-         <l pos="N" r1_par="(talon ja sydämen">eteinen</l>
+         <l pos="N" re="talon ja sydämen">eteinen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">

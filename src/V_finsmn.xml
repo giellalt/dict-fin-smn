@@ -14303,7 +14303,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="V" l_par="kiinni t. taakse koukkumaisista esineistä">kokkâsiđ</t>
              <xg>
-	           <x>Kengän (nutukas) kärki tarttui juureen.</x>
+	           <x>Kengän kärki tarttui juureen.</x>
 		       <xt>Kaamuvnjune kokkâsij viäddás.</xt>
 	         </xg>
          </tg>
@@ -28339,7 +28339,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="V" l_par="ajatus juontaa juurensa (jstak" r_par="kostnii" mwe="y">juurdâ lii meddâl</t>
+            <t pos="V" l_par="ajatus juontaa juurensa jstak" r_par="kostnii" mwe="y">juurdâ lii meddâl</t>
             <t pos="V" r_par="kostnii" mwe="y">juurdâ puátá</t>
          </tg>
       </mg>
@@ -51010,7 +51010,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="Phrase">leđe (kostnii)</t>
+            <t pos="Phrase">leđe kostnii</t>
              <xg>
 	           <x>Ivalon kylä sijaitsee Inarin kunnassa.</x>
 		       <xt>Avveel markkân lii Aanaar kieldâst.</xt>

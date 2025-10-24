@@ -141015,4 +141015,524 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="N">molekyyli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">molekyyl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">protoni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">proton</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">isotooppi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">isotoop</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vesimolekyyli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čäcimolekyyl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">työskentely</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">porgâm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">massaluku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">massaloho</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">perusopetus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">vuáđumáttááttâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">elektroni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">elektroon</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kiehumispiste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">tuldimčyegis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vuosiluokka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">iheluokka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">oksidi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">oksid</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">dioksidi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">dioksid</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">teknologia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">teknologia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ajattelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">jurdâččem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">puolimetalli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">pelimetall</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">opetussuunnitelma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">máttááttâsvuávám</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">etanoli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">etanol</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">yläkoulu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">paješkovlâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vetysidos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">vetyčoonâš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">varoitusmerkki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">varuttâsmerkkâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">natrium</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">natrium</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">naisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">nissoonvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">liukoisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kásáneijeevuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">laitteisto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">piergâseh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hiiliatomi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čiđđâaatoom</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">dipoli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">diipool</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vetyatomi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">vetyaatoom</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vesimittari</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čäcimittár</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">merkkikieli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">merkkâkielâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kolvi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kolvi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hyödyntäminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">ävkinannem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ymmärtäminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">iberdem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tritium</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">tritium</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">toteuttaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">olášuttem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">taus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">tuáváás</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">skooppi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">skooppi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">saavuttaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">juksâm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">puhtaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">putesvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">pohtiminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">hundâruššâm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">paloturvallisuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">puálutorvolâšvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">pääpaino</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">váldutiáddu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mikroskooppi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">mikroskooppi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mielenkiinto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">perustume</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">metalliseos</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">meetaalsevuttâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">luonnontiede</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">luándutieđâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">litium</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">litium</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lähiympäristö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">aldapiirâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">koonti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čokkim</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">käsittely</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kieđâvuššâm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">jalanjälki</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">luoddâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">jakautuminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">juáháášem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">harjoitustehtävä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">hárjuttáspargopittá</t>
+         </tg>
+      </mg>
+   </e>
 </r>

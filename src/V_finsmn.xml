@@ -52022,4 +52022,34 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="V">koostua</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">čokkâsuđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">perehtyä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">uápásmuđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">eriyttää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">sierrânistiđ</t>
+         </tg>
+      </mg>
+   </e>
 </r>

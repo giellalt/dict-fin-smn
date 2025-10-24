@@ -21,7 +21,7 @@ perusopetus	N	vuáđumáttááttâs
 palatsi	N	paalaac
 ajattelu	N	jurdâččem
 chia	N	chia
-itsevaltias	N	
+itsevaltias	N	jiešváldálâš
 suurvalta	N	stuorrâväldi
 opetussuunnitelma	N	máttááttâsvuávám
 itsevaltius	N	jiešváldálâšvuotâ
@@ -32,23 +32,23 @@ maailmanpolitiikka	N	maailmpolitiik
 kirkkokunta	N	kirkkokodde
 keisarikunta	N	kiäisárkodde
 inkvisiittori	N	inkvisiittor
-harhaoppi	N	
+harhaoppi	N	puástuoppâ
 asemasota	N	sajattâhsuáti
 anekauppa	N	
 vastarinta	N	
-supervalta	N	
+supervalta	N	superváldi
 ryöstöretki	N	rievedemmätki
 renessanssiaika	N	renessansäigi
 rakentaminen	N	huksim
 protestantti	N	protestant
-porukka	N	
-pohdinta	N	
+porukka	N	juávku
+pohdinta	N	hundâruššâm
 painovoima	N	tiädduvyeimi
-olka	N	
+olka	N	uálgátuáivi
 olemassaolo	N	
 neuvostotasavalta	N	sovjettäsiväldi
 naisasialiike	N	nissoonäššilihâttâh
-maalaus	N	
+maalaus	N	máálem
 käytetty	N	kevttum
 hionta	N	saijeem
 filosofi	N	filosof
@@ -61,24 +61,25 @@ toimija	N	tuáimee
 ruutitynnyri	N	ruvdâšaavâ
 ristiretki	N	ristâmätki
 puolalainen	N	puolalâš
-punakaarti	N	
-porvaristo	N	
-orjuus	N	
-oivallus	N	
+punakaarti	N	ruopsiskaarti
+porvaristo	N	puárváreh
+orjuus	N	uárjivuotâ
+oivallus	N	hoksám
 nimeke	N	
 natsi	N	nacci-
-mykeneläinen	N	
+mykeneläinen	N	mŧkenelâš
 maihinnousu	N	enâmânpajanem
 maanviljelys	N	eennâmviljâlem
+karjanpito	N	šiiveettuálu
 liittokunta	N	littokodde
-kutsuttu	N	
 kiirastuli	N	
 kaupunkivaltio	N	kaavpugstaatâ
-käsitys	N	uáinu
-kannatus	N	kyedittâs
+<<<<<<< HEAD
+käsitys	N	uáinu	ibárdâs
+kannatus	N	kyedittem
 kannattaja	N	kyeditteijee
-kädellinen	N	
-juutalaisvaino	N	
+kädellinen	N	kieđâlâš
+juutalaisvaino	N	juutâlâšváinottem
 jatkumo	N	
 hajanainen	N	
 fasisti	N	fasist

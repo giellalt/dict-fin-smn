@@ -3,7 +3,7 @@
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../giella-core/dicts/scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/finsmn.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="finsmn" xml:lang="fin">
    <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
   <lic xml:lang="en">
@@ -171,7 +171,7 @@ For the full license text, see the link above.
    </e>
    <e id="5530 5531">
       <lg>
-         <l pos="Adv" r1_par="(adverbi, subst.">kohta</l>
+         <l pos="Adv" >kohta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -222,8 +222,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="Adv">párásist</t>
          </tg>
-      </mg>
-      <mg id="1">
+      </mg>      <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv" l_par="juuri nyt" mwe="y">eidu tääl</t>
          </tg>
@@ -256,7 +255,7 @@ For the full license text, see the link above.
    </e>
    <e id="12855 12856 12857">
       <lg>
-         <l pos="Adv" r1_par="(esim. aineksista, mieleltään, sotkussa">sekaisin</l>
+         <l pos="Adv" r1_par="esim. aineksista, mieleltään, sotkussa">sekaisin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -510,7 +509,7 @@ For the full license text, see the link above.
    </e>
    <e id="3675">
       <lg>
-         <l pos="Adv" r1_par="(part.">juuri</l>
+         <l pos="Adv" r1_par="part.">juuri</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -587,7 +586,7 @@ For the full license text, see the link above.
    </e>
    <e id="12005">
       <lg>
-         <l pos="Adv" r1_par="(ei ehjä">rikki</l>
+         <l pos="Adv" r1_par="ei ehjä">rikki</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -632,7 +631,7 @@ For the full license text, see the link above.
    </e>
    <e id="16426">
       <lg>
-         <l pos="Adv" r1_par="(adv.">vasta</l>
+         <l pos="Adv" r1_par="adv.">vasta</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -662,7 +661,7 @@ For the full license text, see the link above.
    </e>
    <e id="13086">
       <lg>
-         <l pos="Adv" r1_par="(pron." comma=", -nä">siitä</l>
+         <l pos="Adv" r1_par="pron." comma=", -nä">siitä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -778,7 +777,7 @@ For the full license text, see the link above.
    </e>
    <e id="13307">
       <lg>
-         <l pos="Adv" r1_par="(+ komp.">sitä</l>
+         <l pos="Adv" r1_par="+ komp.">sitä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -798,7 +797,7 @@ For the full license text, see the link above.
    </e>
    <e id="17528">
       <lg>
-         <l pos="Adv" r1_par="(samaa">yhtä</l>
+         <l pos="Adv" r1_par="samaa">yhtä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1194,7 +1193,7 @@ For the full license text, see the link above.
    </e>
    <e id="11475">
       <lg>
-         <l pos="Adv" r1_par="(kuluttua">päästä</l>
+         <l pos="Adv" r1_par="kuluttua">päästä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1370,7 +1369,7 @@ For the full license text, see the link above.
    </e>
    <e id="968">
       <lg>
-         <l pos="Adv" r1_par="(käsin">edeltä</l>
+         <l pos="Adv" r1_par="käsin">edeltä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -1990,7 +1989,7 @@ For the full license text, see the link above.
    </e>
    <e id="5521">
       <lg>
-         <l pos="Adv" r1_par="(käsistä">kohmeessa</l>
+         <l pos="Adv" r1_par="käsistä">kohmeessa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2000,7 +1999,7 @@ For the full license text, see the link above.
    </e>
    <e id="5716">
       <lg>
-         <l pos="Adv" r1_par="(teuras">kontallaan</l>
+         <l pos="Adv" r1_par="teuras">kontallaan</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2245,7 +2244,7 @@ For the full license text, see the link above.
    </e>
    <e id="7875">
       <lg>
-         <l pos="Adv" r1_par="(jtak">lähelle</l>
+         <l pos="Adv" r1_par="jtak">lähelle</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2549,7 +2548,7 @@ For the full license text, see the link above.
    </e>
    <e id="11387">
       <lg>
-         <l pos="Adv" r1_par="(ei poikittain">päittäin</l>
+         <l pos="Adv" r1_par="ei poikittain">päittäin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2650,7 +2649,7 @@ For the full license text, see the link above.
    </e>
    <e id="12444">
       <lg>
-         <l pos="Adv" r1_par="(valosta">räikeästi</l>
+         <l pos="Adv" r1_par="valosta">räikeästi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2840,7 +2839,7 @@ For the full license text, see the link above.
    </e>
    <e id="13379">
       <lg>
-         <l pos="Adv" r1_par="(suorana">sojollaan</l>
+         <l pos="Adv" r1_par="suorana">sojollaan</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -2880,7 +2879,7 @@ For the full license text, see the link above.
    </e>
    <e id="13936">
       <lg>
-         <l pos="Adv" r1_par="(maassa t. vedessä" comma=", -ltä">syvällä</l>
+         <l pos="Adv" r1_par="maassa t. vedessä" comma=", -ltä">syvällä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3094,7 +3093,7 @@ For the full license text, see the link above.
    </e>
    <e id="15605">
       <lg>
-         <l pos="Adv" r1_par="(konkr.">täpärästi</l>
+         <l pos="Adv" r1_par="konkr.">täpärästi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3134,7 +3133,7 @@ For the full license text, see the link above.
    </e>
    <e id="15737">
       <lg>
-         <l pos="Adv" r1_par="(ulkomuistista">ulkoa</l>
+         <l pos="Adv" r1_par="ulkomuistista">ulkoa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3378,7 +3377,7 @@ For the full license text, see the link above.
    </e>
    <e id="17034">
       <lg>
-         <l pos="Adv" r1_par="(oleva">vinottain</l>
+         <l pos="Adv" r1_par="oleva">vinottain</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3548,7 +3547,7 @@ For the full license text, see the link above.
    </e>
    <e id="17589">
       <lg>
-         <l pos="Adv" r1_par="(esim. katsoa ylen">ylen</l>
+         <l pos="Adv" r1_par="esim. katsoa ylen">ylen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -3728,6 +3727,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">aainâskin</t>
+            <t pos="Adv">kuittâg</t>
              <xg>
 	            <x>En minä ainakaan aio lähteä.</x>
 	            <xt>Jiem mun aainâskin ááigu vyelgiđ.</xt>
@@ -3736,7 +3736,6 @@ For the full license text, see the link above.
 	            <x>Ei hän ainakaan opettajaksi haluaisi.</x>
 	            <xt>Ij sun aainâskin máttáátteijen halijdiččii.</xt>
 	        </xg>
-            <t pos="Adv">kuittâg</t>
          </tg>
       </mg>
    </e>
@@ -3747,6 +3746,8 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">aainâs</t>
+            <t pos="Adv">aainâs-uv</t>
+            <t pos="Adv">kuittâg</t>
             <xg>
 	            <x>Kuumuuteen on kuollut ainakin 30 ihmistä.</x>
 	            <xt>Kumásân láá jáámmám aainâs 30 olmožid.</xt>
@@ -3755,7 +3756,6 @@ For the full license text, see the link above.
 	            <x>Ainakin harmaalokki on oppinut elämään kaupungissa kerrostalojen katolla.</x>
 	            <xt>Aainâs stuorrâlodde lii oppâm eelliđ kaavpugist ollâ táálui káátu alne.</xt>
 	        </xg>       
-            <t pos="Adv">aainâs-uv</t>
                <xg>
 	            <x>Inarinsaame elää ainakin sata vuotta.</x>
 	            <xt>Anarâškielâ iälá aainâs-uv čyeti ihheed.</xt>
@@ -3764,7 +3764,6 @@ For the full license text, see the link above.
 	            <x>Ravintola on suljettu ainakin 30.5. saakka.</x>
 	            <xt>Raavvâdviäsu lii kiddâ aainâs-uv 30.5. räi.</xt>
 	        </xg>         
-            <t pos="Adv">kuittâg</t>
          </tg>
       </mg>
    </e>
@@ -3775,11 +3774,11 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">tuš</t>
+            <t pos="Adv">tuše</t>
             <xg>
 	            <x>Kilpailuun osallistuu ainoastaan kolme venettä.</x>
 	            <xt>Kiišton uásálisteh tuš kulmâ kárbá.</xt>
 	        </xg>
-            <t pos="Adv">tuše</t>
             <xg>
 	            <x>Minulla on ainoastaan yksi puuvene.</x>
 	            <xt>Must lii tuše ohtâ muorâkäärbis.</xt>
@@ -4681,7 +4680,7 @@ For the full license text, see the link above.
    </e>
    <e id="9467">
       <lg>
-         <l pos="Adv" r1_par="(totuudenmukaisesti">oikein</l>
+         <l pos="Adv" r1_par="totuudenmukaisesti">oikein</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4750,7 +4749,7 @@ For the full license text, see the link above.
    </e>
    <e id="10942">
       <lg>
-         <l pos="Adv" r1_par="(mus.">presto</l>
+         <l pos="Adv" r1_par="mus.">presto</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4761,7 +4760,7 @@ For the full license text, see the link above.
    </e>
    <e id="11752">
       <lg>
-         <l pos="Adv" r1_par="(esim. ovi, ikkuna">raollaan</l>
+         <l pos="Adv" r1_par="esim. ovi, ikkuna">raollaan</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4883,7 +4882,7 @@ For the full license text, see the link above.
    </e>
    <e id="13913">
       <lg>
-         <l pos="Adv" r1_par="(asutuksesta" comma=", -stä">syrjässä</l>
+         <l pos="Adv" r1_par="asutuksesta" comma=", -stä">syrjässä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -4894,7 +4893,7 @@ For the full license text, see the link above.
    </e>
    <e id="13916">
       <lg>
-         <l pos="Adv" r1_par="(asutuksesta">syrjään</l>
+         <l pos="Adv" r1_par="asutuksesta">syrjään</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5084,7 +5083,7 @@ For the full license text, see the link above.
    </e>
    <e id="17676">
       <lg>
-         <l pos="Adv" r1_par="(vastakohtana kumollaan">ylössuin</l>
+         <l pos="Adv" r1_par="vastakohtana kumollaan">ylössuin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5442,7 +5441,7 @@ For the full license text, see the link above.
    </e>
    <e id="1577">
       <lg>
-         <l pos="Adv" r1_par="(jaloista">haarallaan</l>
+         <l pos="Adv" r1_par="jaloista">haarallaan</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -5518,7 +5517,7 @@ For the full license text, see the link above.
    </e>
    <e id="2028">
       <lg>
-         <l pos="Adv" r1_par="(ränsistynyt">heitteillä</l>
+         <l pos="Adv" r1_par="ränsistynyt">heitteillä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6386,7 +6385,7 @@ For the full license text, see the link above.
    </e>
    <e id="7893">
       <lg>
-         <l pos="Adv" r1_par="(enimmäkseen">lähinnä</l>
+         <l pos="Adv" r1_par="enimmäkseen">lähinnä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6404,7 +6403,7 @@ For the full license text, see the link above.
    </e>
    <e id="8129">
       <lg>
-         <l pos="Adv" r1_par="(konkr. ja kuv.">makeasti</l>
+         <l pos="Adv" r1_par="konkr. ja kuv.">makeasti</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -6624,7 +6623,7 @@ For the full license text, see the link above.
    </e>
    <e id="9290">
       <lg>
-         <l pos="Adv" r1_par="(astiasta tms.">nurin</l>
+         <l pos="Adv" r1_par="astiasta tms.">nurin</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7769,7 +7768,7 @@ For the full license text, see the link above.
    </e>
    <e id="1349">
       <lg>
-         <l pos="Adv" r1_par="(= esimerkiksi">esim.</l>
+         <l pos="Adv" r1_par="= esimerkiksi">esim.</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7779,7 +7778,7 @@ For the full license text, see the link above.
    </e>
    <e id="1521">
       <lg>
-         <l pos="Adv" r1_par="(mus.">forte</l>
+         <l pos="Adv" r1_par="mus.">forte</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7859,7 +7858,7 @@ For the full license text, see the link above.
    </e>
    <e id="3424">
       <lg>
-         <l pos="Adv" r1_par="(jälkeen Kristuksen">jKr</l>
+         <l pos="Adv" r1_par="jälkeen Kristuksen">jKr</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7869,7 +7868,7 @@ For the full license text, see the link above.
    </e>
    <e id="3425">
       <lg>
-         <l pos="Adv" r1_par="(ja niin edelleen">jne.</l>
+         <l pos="Adv" r1_par="ja niin edelleen">jne.</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -7889,7 +7888,7 @@ For the full license text, see the link above.
    </e>
    <e id="3441">
       <lg>
-         <l pos="Adv" r1_par="(ensimmäisenä">johdossa</l>
+         <l pos="Adv" r1_par="ensimmäisenä">johdossa</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8109,7 +8108,7 @@ For the full license text, see the link above.
    </e>
    <e id="8353">
       <lg>
-         <l pos="Adv" r1_par="(lähemmäs metsää, kauemmas asumuksesta">metsemmäs</l>
+         <l pos="Adv" r1_par="lähemmäs metsää, kauemmas asumuksesta">metsemmäs</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8119,7 +8118,7 @@ For the full license text, see the link above.
    </e>
    <e id="8354">
       <lg>
-         <l pos="Adv" r1_par="(lähempänä metsää, kauempana asumuksesta">metsempänä</l>
+         <l pos="Adv" r1_par="lähempänä metsää, kauempana asumuksesta">metsempänä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8410,7 +8409,7 @@ For the full license text, see the link above.
    </e>
    <e id="14203">
       <lg>
-         <l pos="Adv" r1_par="(ei pysyvästi">taitteella</l>
+         <l pos="Adv" r1_par="ei pysyvästi">taitteella</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8480,7 +8479,7 @@ For the full license text, see the link above.
    </e>
    <e id="14843">
       <lg>
-         <l pos="Adv" r1_par="(tai muuta sellaista">tms.</l>
+         <l pos="Adv" r1_par="tai muuta sellaista">tms.</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8530,7 +8529,7 @@ For the full license text, see the link above.
    </e>
    <e id="16522">
       <lg>
-         <l pos="Adv" r1_par="(tav. lauma t. eläin">veitallaan</l>
+         <l pos="Adv" r1_par="tav. lauma t. eläin">veitallaan</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -8630,7 +8629,7 @@ For the full license text, see the link above.
    </e>
    <e id="17644">
       <lg>
-         <l pos="Adv" r1_par="(oleminen">yllettävissä</l>
+         <l pos="Adv" r1_par="oleminen">yllettävissä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -9018,11 +9017,11 @@ For the full license text, see the link above.
    </e>
    <e id="1180">
       <lg>
-         <l pos="Adv" r1_par="(-">ensi</l>
+         <l pos="Adv">ensi</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv" r_par="-">vuosâ</t>
+            <t pos="Adv">vuosâ</t>
             <xg>
                <x>Niillä minä kyllä ensi hätään pärjään.</x>
                <xt>Tooin mun kale vuosâ iätán piergiim.</xt>
@@ -9304,6 +9303,915 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">jiešalnees</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mistään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">koggoon#mistään</t>
+            <t pos="Adv">kosten</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">paikoiltaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">sajestis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">et</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">jieh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">edeltäpäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">oovdâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kymmenesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">luhhii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mitenkään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">mahten</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">paikoilleen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">sajasis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kyllähän</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">mai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">paikoillaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">sajestis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">missään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">kosten</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mihinkään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">kuussân</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">taitavasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">čeeppiht#taitavasti</t>
+            <t pos="Adv">čiäppáht</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">päähän</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">keš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">peräänsä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">maŋŋaalsis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">seitsemästi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">čiččii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sadasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">čuottii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">minnekään</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">kuussân</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">jäljestäpäin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">maajaabeln</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">esille</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">oovdân#esille</t>
+            <t pos="Adv">uáinimnáál#esille</t>
+            <t pos="Adv">čáittusân</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">viidesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">vittii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">varmaankin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">almaa#varmaankin</t>
+            <t pos="Adv">ama#varmaankin</t>
+            <t pos="Adv">amahân#varmaankin</t>
+            <t pos="Adv">amal#varmaankin</t>
+            <t pos="Adv">vaarâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kylläkin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">amal</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kolmesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">kulmii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">jäljestä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">maajeeld</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vieressä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">paaldâst</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mistä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">kogo#mistä</t>
+            <t pos="Adv">kost</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vahingossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">vahâgist</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">erilleen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">erinis#erilleen</t>
+            <t pos="Adv">ohtuunis#erilleen</t>
+            <t pos="Adv">sierâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">taakseen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">maŋŋaalsis#taakseen</t>
+            <t pos="Adv">tuáhásis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">yksikseen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">ohtuunis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vikaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">endurân</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vierestä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">paaldâst</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">varalta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">muuneeld#varalta</t>
+            <t pos="Adv">verrin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">näkösälle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">uáinusân</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">humalassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">uáivist</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alusta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">vuálááš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">niinhän</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">tehân</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">luotani</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">lunnáán</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lopussa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">puoh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">täsmällisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">minttâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">päivällä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">peiviv</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">pakoon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">patârâsân</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">näkösällä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">uáinusist</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">luotaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">lunnees</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">luoksesi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">luusâd</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">luo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">keččin#luo</t>
+            <t pos="Adv">kuuvl#luo</t>
+            <t pos="Adv">luusâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kierosti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">puunjij</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">samalla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">siämmást</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">oikealla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">uálgispeln</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">näkyvissä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">uáinusist</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">näkyviin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">uáinusân</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">luotasi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">lunnáád</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">luonani</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">lunnáán</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kallelleen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">kárŋá#kallelleen</t>
+            <t pos="Adv">njihhood</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">samanaikaisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">siämmást#samanaikaisesti</t>
+            <t pos="Adv">siämmáá_ääigi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">milloinkaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">kuássin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">luonasi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">lunnáád</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">luonaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">lunnees</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">luokseni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">luussân#luokseni</t>
+            <t pos="Adv">luusân</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">luokseen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">luussâs#luokseen</t>
+            <t pos="Adv">luusâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">vyeln#alta</t>
+            <t pos="Adv">vyelni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ahtaalla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">naggâsist#ahtaalla</t>
+            <t pos="Adv">naggâsávt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">vinossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">ponnjood#vinossa</t>
+            <t pos="Adv">poonjeeld#vinossa</t>
+            <t pos="Adv">vinnjood#vinossa</t>
+            <t pos="Adv">vinnood</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">täyteen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">lađâsáid#täyteen</t>
+            <t pos="Adv">lađâsááid#täyteen</t>
+            <t pos="Adv">naggâ#täyteen</t>
+            <t pos="Adv">tievâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mukanani</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">miäldán</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mukaani</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">miäldán</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">koukussa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">kuáhin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">etukenossa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">njihhood</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">etukenoon</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">njihhood</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">aamulla</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">iđedist</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mukanasi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">miäldád</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mukanaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">mieldis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mukaasi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">miäldád</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">mukaansa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">mieldis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">muinoin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">tovle</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">tavallisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">táválávt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">pareittain</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">parâluvâi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ylhäältä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">paijeen</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">useammin</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">täävjib</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">läheltä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">alda</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">edestä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">oovdâst#edestä</t>
+            <t pos="Adv">ovdebist</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">varovasti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">várugávt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">eksyksissä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">lappâsist</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">täydellisesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">tievâslávt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">oikeassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">vuoigâdist</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">lyhyesti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">uánihávt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alhaalta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">vyeln#alhaalta</t>
+            <t pos="Adv">vyelni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">alapuolelle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="Adv">vuoluubel</t>
          </tg>
       </mg>
    </e>

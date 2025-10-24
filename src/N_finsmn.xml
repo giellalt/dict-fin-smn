@@ -3,7 +3,7 @@
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
-<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../giella-core/dicts/scripts/gt_dictionary.dtd">
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/finsmn.dtd">
 <r xmlns:xhtml="http://www.w3.org/1999/xhtml" id="finsmn" xml:lang="fin">
    <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
   <lic xml:lang="en">
@@ -192,7 +192,7 @@ For the full license text, see the link above.
    </e>
    <e id="1204">
       <lg>
-         <l pos="N" r1_par="(matem.)">epäjatkuva</l>
+         <l pos="N" re="matem.">epäjatkuva</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -222,7 +222,7 @@ For the full license text, see the link above.
    </e>
    <e id="1397">
       <lg>
-         <l pos="N" r1_par="(talon ja sydämen">eteinen</l>
+         <l pos="N" re="talon ja sydämen">eteinen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -42341,16 +42341,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N">čuággálm</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="7230">
-      <lg>
-         <l pos="N">lekutella</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="V" wf="sodâstâlâm">sodâstâllâđ</t>
          </tg>
       </mg>
    </e>
@@ -88599,16 +88589,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="17215">
-      <lg>
-         <l pos="N">vuolaista</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="V" wf="vuolâst">vuolâstiđ</t>
-         </tg>
-      </mg>
-   </e>
    <e id="17218">
       <lg>
          <l pos="N" r1_par="haarapäinen työkalu">vuolin</l>
@@ -101440,18 +101420,6 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="N">slalom</t>
             <t pos="N">puáibildem</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="11035">
-      <lg>
-         <l pos="N" r1_par="imeväisestä, joka on saanut liikaa maitoa">pulautella</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="V" wf="čolom">čolloođ</t>
-            <t pos="V" wf="čovláttâlâm">čovláttâllâđ</t>
-            <t pos="V" wf="čovleet">čovlettiđ</t>
          </tg>
       </mg>
    </e>
@@ -116629,11 +116597,6 @@ For the full license text, see the link above.
          <l pos="N">lautta</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="N">väri</t>
-         </tg>
-      </mg>
-      <mg id="2">
          <tg xml:lang="smn">
             <t pos="N" l_par="pieni">puárree</t>
          </tg>
@@ -135038,6 +135001,1326 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="N">tubákkâššâm</t>
             <t pos="N">porgottâllâm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">objekti</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N">objekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">subjekti</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N">subjekt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">elukka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">ellee</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">silmukka-ansa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kielâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">reppu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">reppu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">emä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">enni</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ahkionpohja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kieggi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ruokko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">piämmu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">liekanaru</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kievđâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">asemassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">saajeest</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">puukonnysä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kulppo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">puukonnysä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">skoče</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">männynranka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">pecičuskâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kapistus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">tiŋgâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">leivänpaistotikku</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čuággálm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kärsijä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">killájeijee</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tukijalka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">cagge</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">palanen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">pittá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">palanen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">pittááš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">pönkkä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">cagge</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">päähän</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">keš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">paikassa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">saajeest</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kulkija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">jottee</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">notko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">njuáski</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">epäily</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">arvâlus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">epäily</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">arvâlâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">epäily</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">vävjim</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">karhuressu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kuobžâluási</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">verkonhavas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čuáli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vakio-</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">fastâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tasamatala</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">lavđâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">pässintalja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">vierccâdâh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mäntysuo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">karrii</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kalannahka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čuomâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ulkopinta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">olgooš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ulkopinta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">uulguš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">alus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">vyeli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hatturesu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">loccâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hatturesu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">šävkki</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">harjaannus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">hárjánem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">alusta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">vuálááš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">-resu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">ryemčči</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">veneenlotja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">luáđjá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kulku-</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kolgo-</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kuivaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kuškim</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kuivaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kuškâdem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">jääräpäisyys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">ceggâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">jääräpäisyys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">nocce</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">jääräpäisyys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">nággárvuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">-kulu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">ryemčči</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ressukka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">riäpu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hanska</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kiistâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hanska</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">suormâhât</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">puuhiili</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čiđđâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">linnunkieppi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čieppâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">linnunkieppi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čiepâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kysely</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">koijâdâllâm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">jyly</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">juucâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hillanraakile</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čoorooh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hillanraakile</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čorohâš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vähäisyys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">uccáávuotâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">pikkuvauva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">njuorâhpáárnáš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">luo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">keččin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">luo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kuuvl</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">luo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">luusâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">syyspeuranpyynti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">ordo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">painatus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">teddilem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">opinto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">uáppu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">näkeminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">uáinim</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">huutaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čuárvum</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ajaminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">vyeijim</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">verkonliina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">vuopsâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vasta-</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">viđá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vaatimennahka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">álduduh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">taikko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">taikko</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">luonaan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">lunnees</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kiinnitysnuora</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">karâstâh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">olemassaolo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">áimu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">nukkuminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">uáđđim</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kiilu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kiijlu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kiilu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kiilu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kasvatus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">pajasšoddâdem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vatsakipukohtaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čuávjitoppiittâh</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">valvoja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">koccee</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">urheilija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">valastâllee</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">jatko</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">jotkâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">hyppy</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">njuškim</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">versio</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">versio</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">suvi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">algâkeesi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">miinus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">miinus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">media</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">media</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lento</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kirdem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">korjaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">reemoont</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">korjaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">tivvoom</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">termi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">termâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">neuvottelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">ráđádâllâm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">massa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">massa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">luennoitsija</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">luvâldâllee</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kärsimys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kierdâmâš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kärsimys</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">killáámuš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">asuja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">orroo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ajattelu</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">jurdâččem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tunneli</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">tunnel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">omanlainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">jieškote-uvlágán</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">käsittely</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kuorrâm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vastaaja</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">västideijee</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mikro</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">mikro</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kertaus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kiärdum</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">aktivisti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">aktivist</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">yhdenvertainen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">oovtâviärdásâš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">viljely</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">viljâlem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vasen-</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čižet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">trauma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">trauma</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tiimi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">tiimi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sisäministeriö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">sisašijministeriö</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">sihteeristö</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čäällimkodde</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ohjelmointi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">ohjelmistem</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">näppylä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">mááináš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">näppylä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">mäini</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">näppylä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čikâlâs</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">nälänhätä</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">nelgi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">nauhoitus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">paddim</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mopo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">moopeed</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">mopo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">mopo</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">koodi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">koodi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kaverus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">skipárâš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">jugurtti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">juugurt</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">jaosto</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">juávus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">istuminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">ištâm</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">istuminen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">čokkám</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">helikopteri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">helikopter</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ansajono</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="N">kärdi</t>
          </tg>
       </mg>
    </e>

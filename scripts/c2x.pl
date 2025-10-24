@@ -13,9 +13,9 @@ while (<>)
 
 {
 	chomp ;
-#	my ($lemma, $POS, $trans) = split /\t/ ;
-	my ($lemma, $POS, $trans, $trans2) = split /\t/ ;
-	my ($lemma, $POS, $trans, $trans2, $trans3) = split /\t/ ;
+	my ($lemma, $POS, $trans) = split /\t/ ;
+#	my ($lemma, $POS, $trans, $trans2) = split /\t/ ;
+#	my ($lemma, $POS, $trans, $trans2, $trans3) = split /\t/ ;
 #	my ($lemma, $POS, $trans, $trans2, $trans3, $trans4, $trans5, $ex, $exj) = split /\t/ ;
 	print STDOUT "   <e>\n";
 	print STDOUT "      <lg>\n";
@@ -24,7 +24,7 @@ while (<>)
 	print STDOUT "      <mg>\n";
 	print STDOUT "         <tg xml:lang=\"smn\">\n";
 	print STDOUT "            <t pos=\"$POS\">$trans</t>\n";
-	print STDOUT "            <t pos=\"$POS\">$trans2</t>\n";
+#	print STDOUT "            <t pos=\"$POS\">$trans2</t>\n";
 #	print STDOUT "            <t pos=\"$POS\">$trans3</t>\n";
 #	print STDOUT "            <t pos=\"$POS\">$trans4</t>\n";
 #	print STDOUT "            <t pos=\"$POS\">$trans5</t>\n";

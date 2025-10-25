@@ -60,6 +60,20 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e id="149801">
+      <lg>
+         <l pos="N">monumentti</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t pos="N" wf="monument">monument</t>
+            <xg>
+               <x>Sänikirje lii kielâlâš monument.</x>
+               <xt>Sanakirja on kielellinen monumentti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e id="6083">
       <lg>
          <l pos="N">kulta</l>

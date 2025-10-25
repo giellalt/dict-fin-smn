@@ -1,14 +1,8 @@
-yksinvaltias
+yksinvaltias	N	
 punakaarti	N	
 valtakamppailu	N	
 muinaislinna	N	
-ruutitynnyri
-
-
-
-
-
-
+ruutitynnyri	N	
 wiki	N	wiki
 murrosvaihe	N	
 synty	N	šoddâam
@@ -17,9 +11,7 @@ sivilisaatio	N	sivilisaatio
 reformaatio	N	reformaatio
 vuosiluokka	N	iheluokka
 pienoiskuva	N	smavvâkove
-perusopetus	N	vuáđumáttááttâs
 palatsi	N	paalaac
-ajattelu	N	jurdâččem
 chia	N	chia
 itsevaltias	N	jiešváldálâš
 suurvalta	N	stuorrâväldi
@@ -39,19 +31,15 @@ vastarinta	N
 supervalta	N	superváldi
 ryöstöretki	N	rievedemmätki
 renessanssiaika	N	renessansäigi
-rakentaminen	N	huksim
 protestantti	N	protestant
 porukka	N	juávku
 pohdinta	N	hundâruššâm
-painovoima	N	tiädduvyeimi
 olka	N	uálgátuáivi
-olemassaolo	N	
 neuvostotasavalta	N	sovjettäsiväldi
 naisasialiike	N	nissoonäššilihâttâh
 maalaus	N	máálem
 käytetty	N	kevttum
 hionta	N	saijeem
-filosofi	N	filosof
 alkutaival	N	algâmätki
 alkutaipale	N	algâmätki
 varhaiskeskiaika	N	arâkoskâäigi
@@ -60,7 +48,6 @@ valistusaika	N	čuovviittâsäigi
 toimija	N	tuáimee
 ruutitynnyri	N	ruvdâšaavâ
 ristiretki	N	ristâmätki
-puolalainen	N	puolalâš
 punakaarti	N	ruopsiskaarti
 porvaristo	N	puárváreh
 orjuus	N	uárjivuotâ
@@ -69,35 +56,30 @@ nimeke	N
 natsi	N	nacci-
 mykeneläinen	N	mŧkenelâš
 maihinnousu	N	enâmânpajanem
-maanviljelys	N	eennâmviljâlem
-karjanpito	N	šiiveettuálu
+maanviljelys	N	šiiveettuálu
 liittokunta	N	littokodde
 kiirastuli	N	
 kaupunkivaltio	N	kaavpugstaatâ
-<<<<<<< HEAD
-käsitys	N	uáinu	ibárdâs
-kannatus	N	kyedittem
-kannattaja	N	kyeditteijee
+käsitys	N	ibárdâs
+kannatus	N	kyetittem
+kannattaja	N	kyetitteijjee
 kädellinen	N	kieđâlâš
 juutalaisvaino	N	juutâlâšváinottem
 jatkumo	N	
-hajanainen	N	
-fasisti	N	fasist
+fasisti	N	
 edistysaskel	N	
 ane	N	
 ymmärtäminen	N	
 yksinvaltias	N	
-vuotias	N	
-versio	N	versio
 valtakamppailu	N	
-vallankumousjohtaja	N	väldikomettemhovdâ
+vallankumousjohtaja	N	
 valistusaate	N	
-välirauha	N	koskâráávhu
+välirauha	N	
 työväestö	N	
 työväenliike	N	
 teloitus	N	
 taru	N	
-soveltaminen	N	heiviittem
+taita	N	
 sosialismi	N	
 selviytyminen	N	
 rauhansopimus	N	
@@ -107,30 +89,27 @@ perspektiivi	N
 peilisali	N	
 pankkiiri	N	
 orastus	N	
-operaatio	N	operaatio
 newton	N	
 murto	N	
 murros	N	
 muinaislinna	N	
 muinaisjäännös	N	
-moduuli	N	mooduul
+moduuli	N	
 malline	N	
-maanviljelykulttuuri	N	eennâmviljâlemkulttuur
-lukuvuosi	N	luuhâmihe
+maanviljelykulttuuri	N	
+lukuvuosi	N	
 löytöretki	N	
-lama	N	luámu (vapaa-aika)	luámi (rako)
+lama	N	
 laivasto	N	
 lahjoitus	N	
 lähialue	N	
 läänityslaitos	N	
 lääninherra	N	
 kritiikki	N	
-kreikkalainen	N	
 kommunismi	N	
 kiinnostus	N	
 keskusvalta	N	
 katkaisu	N	
-käsittely	N	
 kansallisuusaate	N	
 kalmisto	N	
 kalliomaalaus	N	
@@ -155,9 +134,6 @@ ympärysvalta	N
 ylipäänsä	N	
 yksipuoluemaa	N	
 yhteiskuntaluokka	N	
-yhtäläisyys	N	
-yhdenvertainen	N	
-w	N	
 vuosiansio	N	
 voimakeino	N	
 vastauskonpuhdistus	N	
@@ -167,12 +143,9 @@ valta-asema	N
 vallankäyttö	N	
 välitila	N	
 valistusfilosofia	N	
-vaikutusvalta	N	
-vahvistaminen	N	
 uuvutus	N	
 uskonsota	N	
 uskonelämä	N	
-ulkopuolinen	N	
 ulkopolitiikka	N	
 uhkakuva	N	
 työväenpuolue	N	
@@ -184,10 +157,8 @@ toteutus	N
 toimintamuoto	N	
 todistusaineisto	N	
 tieteenala	N	
-testamentti	N	
 terrorismi	N	
 terrori	N	
-termi	N	
 teollisuustyöväki	N	
 teknologia	N	
 teesi	N	
@@ -213,9 +184,7 @@ sanoja	N
 romahtaminen	N	
 rikoksentekijä	N	
 rikkominen	N	
-rauhanomainen	N	
 rauhanehto	N	
-ranskalainen	N	
 radiolähetys	N	
 pyhimys	N	
 pyhiinvaellus	N	
@@ -236,7 +205,6 @@ painostus	N
 painopiste	N	
 osallistuja	N	
 oppineisto	N	
-opinto	N	
 omenapuu	N	
 olosuhde	N	
 oikee	N	
@@ -254,7 +222,6 @@ monijumalaisuus	N
 monialayhtymä	N	
 ministeriö	N	
 mielijohde	N	
-media	N	
 matemaatikko	N	
 määräysvalta	N	
 lukutaito	N	
@@ -264,7 +231,6 @@ liittolainen	N
 levittäminen	N	
 leviäminen	N	
 lentokonetehdas	N	
-lento	N	
 lassi	N	
 länsirintama	N	
 länsimaa	N	
@@ -330,7 +296,6 @@ erilaisuus	N
 epäkohta	N	
 elinkeinorakenne	N	
 elämäntyyli	N	
-brittiläinen	N	
 blokki	N	
 auktoriteetti	N	
 argumentointi	N	

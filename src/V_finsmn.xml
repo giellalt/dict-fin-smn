@@ -43696,11 +43696,83 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" wf="puáđám">puáttiđ</t>
+            <xg>
+              <x>Minä saavuin Inariin perjantaina.</x>
+              <xt>Mun poottim Anarân vástuppeeivi.</xt>
+            </xg>
+            <xg>
+              <x>Kahvilaan voi saapua myös tietokoneen kanssa.</x>
+              <xt>Kähviviistán puáhtá puáttiđ meid tiätumašináin.</xt>
+            </xg>
+            <xg>
+              <x>Mistä voin tarkistaa onko pakettini saapunut?</x>
+              <xt>Kost mun puávtám tärhistiđ, et lii-uv muu pakkeet puáttám?</xt>
+            </xg>
+            <xg>
+              <x>Lähetyksesi ei ole vielä saapunut perille.</x>
+              <xt>Tuu vuolgâttem pakkeet/reivâ ij lah val puáttám.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="ajoissa" wf="pyevtit">pyevtittiđ</t>
+            <t pos="V" l_par="saavuttaa" wf="juávdá">juovdâđ</t>
+              <xg>
+              <x>Lumimyräkkä saapui Suomeen.</x>
+              <xt>Purgâ juovdâi Suomân.</xt>
+            </xg>
+              <xg>
+              <x>Kevät saapui Suomeen aikaisemmin kuin edellisenä vuonna.</x>
+              <xt>Kiđđâ poođij ~ juovdâi Suomân tooleeb ko tijmá.</xt>
+            </xg>
+              <xg>
+              <x>Ensimmäiset joutsenet saapuivat Inariin.</x>
+              <xt>Vuosmuuh njuuvčah pottii ~ juovdii Anarân.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="V" l_par="erit. negatiivisista asioista, kuten taudeista" wf="juksá">juksâđ</t>
+              <xg>
+              <x>Korona saapui myös Samoalle.</x>
+              <xt>Korona juuvsâi meid Samoa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg id="4">
+         <tg xml:lang="smn">
+            <t pos="V" l_par="saapua ajoissa" wf="pyevtit">pyevtittiđ</t>
+              <xg>
+              <x>Hautajaisiin saapui myös kuninkaallisia vieraita.</x>
+              <xt>Hävdidmáid pyevtittii meid kunâgâsliih kyesih.</xt>
+            </xg>
+            </tg>
+                  </mg>
+      <mg id="5">
+         <tg xml:lang="smn">
+            <t pos="V" l_par="toimituksesen perille saapumisesta" wf="puáhtoo">puohtuđ</t>
+              <xg>
+              <x>Pikkupanda saapui iltapäivällä Suomeen Helsinki-Vantaan lentoasemalle.</x>
+              <xt>Uccâpandaš puohtui ehidispeeivi Suomân Helsig-Vantaa kirdemkiädán.</xt>
+            </xg>
+              <xg>
+              <x>Ensimmäinen kuorma saapui eilen.</x>
+              <xt>Vuosmuš kyermi puohtui jieht.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg id="6">
+         <tg xml:lang="smn">
+            <t pos="V" l_par="olla saatavilla" wf="lii finniimist">leđe finniimist</t>
+              <xg>
+              <x>Uusi sähköpostisovellus saapui iPadille ja Android-tableteille.</x>
+              <xt>Uđđâ šleđgâpostâheiviittâs lii finniimist iPadân já Andreoid-tabletáid.</xt>
+            </xg>
+              <xg>
+              <x>Uutuustuote saapui myymäläämme.</x>
+              <xt>Uđđâ puovtâ lii tääl finniimist mii puuvdâst.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -43747,7 +43819,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="V" l_par="pitää salassa">anneeđ čiähusâst</t>
+            <t pos="V" l_par="pitää salassa">anneeđ čiähusist</t>
             <t pos="Phrase">toollâđ syeligâsâst</t>
          </tg>
       </mg>

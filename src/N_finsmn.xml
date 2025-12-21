@@ -99011,7 +99011,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N" wf="máinus">mááinus</t>
-            <t pos="N">reklaam</t>
          </tg>
       </mg>
    </e>
@@ -99712,7 +99711,6 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="N">jievjâm</t>
             <t pos="N" wf="jievjâ">jievjâ</t>
-            <t pos="N" wf="naavâ">naavâ</t>
          </tg>
       </mg>
    </e>
@@ -99734,6 +99732,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <t pos="N">kosostâh</t>
             <t pos="N" wf="heŋgâstuv">heŋgâstâh</t>
             <t pos="N">pivtâsheŋgiittâs</t>
          </tg>
@@ -99757,7 +99756,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N">povvâstem</t>
-            <t pos="N">povustem</t>
+            <t pos="N">povvustem</t>
          </tg>
       </mg>
    </e>
@@ -99790,7 +99789,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N" wf="ravviittuv">ravviittâh</t>
-            <t pos="N" wf="rađđiittuv">rađđiittâh</t>
          </tg>
       </mg>
    </e>
@@ -99801,9 +99799,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N">ravvim</t>
-            <t pos="N">ravvimpalvâlus</t>
-            <t pos="N">ravviittâs</t>
-            <t pos="N" t_tld="~raađđim">rađđim</t>
          </tg>
       </mg>
    </e>
@@ -99825,7 +99820,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N" t_tld="~ fiskisrääsi -rääsi">fiskisrääsi</t>
-            <t pos="N" t_tld="~ viskisrääsi -rääsi">viskisrääsi</t>
          </tg>
       </mg>
    </e>
@@ -99858,7 +99852,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N" wf="njiže">njižže</t>
-            <t pos="N" wf="njaMa">njamma</t>
          </tg>
       </mg>
    </e>
@@ -99891,7 +99884,6 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N" wf="elefaanti">elefantti</t>
             <t pos="N">elefant</t>
          </tg>
       </mg>
@@ -100288,7 +100280,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N">teddilemlágádâs</t>
+            <t pos="N">teddilemsaje</t>
          </tg>
       </mg>
    </e>

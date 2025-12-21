@@ -3,8 +3,7 @@
     xml:lang ( nob | sme | sma | swe | eng | deu | smn | fin | fkv | sms | myv | mhr | sjd | rus | smj ) #IMPLIED
 >
 <!ATTLIST r
-      id ( smenob | nobsme | smnfin | finsmn | finsme | fkvnob | smnsme | smjsme | smesmn | smesmj | smesma | smefin | smasme | smamul | nobsma | smafin | swesma | smeeng |
-      nobsmj ) #IMPLIED >
+      id ( finsmn ) #IMPLIED >
 
 
 <!-- the header -->
@@ -57,7 +56,7 @@
       ader CDATA #IMPLIED
       v_type ( rv ) #IMPLIED
       pos ( A | N | V | Adv | Po | Pr | Pron | Rel | Pers | Det | I | Interj | Pcle |
-            Num | CC | CS | Prop | Proppl | G3 | Actor | Npl | Adp |
+            Num | CC | CS | Prop | Proppl | Actor | Npl | Adp |
             Prsprc | Phrase | Fp-Cmp | Lp-Cmp | Cmp | mwe | X | Xxx | Qu | Abbr | Clt |
             Phrase_N | Phrase_A | Phrase_V | Phrase_Adv ) #REQUIRED
       attr CDATA #IMPLIED

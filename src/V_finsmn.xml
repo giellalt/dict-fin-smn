@@ -4382,7 +4382,17 @@ For the full license text, see the link above.
  </e>
  <e id="2404">
     <lg>
-       <l comma=", hoiketa" pos="V" r1_par="pitkästä ja pyöreästä esineestä, lumesta, ihmisestä">hoikentua</l>
+       <l pos="V" r1_par="pitkästä ja pyöreästä esineestä, lumesta, ihmisestä">hoikentua</l>
+    </lg>
+    <mg id="1">
+       <tg xml:lang="smn">
+          <t pos="V" wf="siägum">siägguđ</t>
+       </tg>
+    </mg>
+ </e>
+ <e id="2404b">
+    <lg>
+       <l pos="V" r1_par="pitkästä ja pyöreästä esineestä, lumesta, ihmisestä">hoiketa</l>
     </lg>
     <mg id="1">
        <tg xml:lang="smn">
@@ -19565,7 +19575,18 @@ For the full license text, see the link above.
  </e>
  <e id="7303">
     <lg>
-       <l comma=", levetä" pos="V">leventyä</l>
+       <l pos="V">leventyä</l>
+    </lg>
+    <mg id="1">
+       <tg xml:lang="smn">
+          <t pos="V" wf="kobdom">kobdođ</t>
+          <t pos="V">kobdániđ</t>
+       </tg>
+    </mg>
+ </e>
+ <e id="7303b">
+    <lg>
+       <l pos="V">levetä</l>
     </lg>
     <mg id="1">
        <tg xml:lang="smn">

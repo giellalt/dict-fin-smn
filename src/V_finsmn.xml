@@ -54435,16 +54435,22 @@ For the full license text, see the link above.
         <t pos="V" wf="uážum">uážžuđ</t>
 
         <xg>
-          <x>Mun ožžum fiijnâ suhháid šoddâmpeivlähjin.</x>
+          <x>Sain hienot sukat syntymäpäivälahjaksi.</x>
 
-          <xt>Sain hienot sukat syntymäpäivälahjaksi.</xt>
+          <xt>Mun ožžum fiijnâ suhháid šoddâmpeivlähjin.</xt>
+        </xg>
+
+        <xg>
+          <x>Olet saanut paljon aikaan.</x>
+
+          <xt>Tun lah uážžum ennuv ááigán. </xt>
         </xg>
       </tg>
     </mg>
 
     <mg id="2">
       <tg xml:lang="smn">
-        <re>saada tehdyksi jtak, olla saatavilla</re>
+        <re>onnistua saamaan, erit. jstak ansaitusta tai tavoitellusta</re>
 
         <t l_par="esim. tehdyksi, olla saatavilla" pos="V"
         wf="finniim finnee">finniđ</t>
@@ -54454,21 +54460,47 @@ For the full license text, see the link above.
 
           <xt>Viijmâg mun finnejim artikkâl valmâšin.</xt>
         </xg>
+
+        <xg>
+          <x>Mistä olet lohia saanut?</x>
+
+          <xt>Kost lah luosâid finnim?</xt>
+        </xg>
+
+        <xg>
+          <x>Saan palkan aina kuun puolivälissä.</x>
+
+          <xt>a. Mun finniim päälhi ain máánu pelimuddoost.</xt>
+        </xg>
+
+        <xg>
+          <x>Minä sain sen lahjaksi.</x>
+
+          <xt>Mun finnejim tom skeŋkkân.</xt>
+        </xg>
+
+        <xg>
+          <x>Hän toi ne nahat, jotka hän oli sinä päivänä saanut.</x>
+
+          <xt>Sun puovtij taid naahkijd, maid sun ton peeivi lâi finnim.</xt>
+        </xg>
       </tg>
     </mg>
 
     <mg id="3">
       <tg xml:lang="smn">
-        <re>saada tietää, kuulla tms.</re>
+        <re>saada tietää, nähdä tms.</re>
 
         <t l_par="voida, pystyä tekemään jtak" pos="V" wf="puáđám">puáttiđ</t>
 
         <xg>
-          <x>Minä en saanut tietää siitä asiasta mitään. </x>
+          <x>Minä en saanut tietää siitä asiasta mitään.</x>
 
           <xt>Mun jiem puáttám tiettiđ ton ääšist maiden.</xt>
+        </xg>
 
-          <xt>Minä en saanut nähdä sitä koskaan. </xt>
+        <xg>
+          <x>Minä en saanut nähdä sitä koskaan.</x>
 
           <xt>Mun jiem puáttám uáiniđ tom kuássin.</xt>
         </xg>
@@ -54477,13 +54509,50 @@ For the full license text, see the link above.
 
     <mg id="4">
       <tg xml:lang="smn">
+        <re>yrittää saada jtak irti, kiinni tms.</re>
+
         <t l_par="yrittää saada jtak" pos="V" wf="uážžud">uážudiđ</t>
+
+        <xg>
+          <x>Pitkään yritin irrottaa naulaa ennen kuin onnistuin.</x>
+
+          <xt>Kuhháá mun uážudim tom spijkkár seeinist ovdilgo vuolgij.</xt>
+        </xg>
+
+        <xg>
+          <x>Yritin saada sitä härkää kiinni.</x>
+
+          <xt>Mun uázudim tom eergi.</xt>
+        </xg>
+
+        <xg>
+          <x>Nuortenneuvoston tavoitteena on ollut saada toimelle vakituinen
+          rahoitus.</x>
+
+          <xt>Nuorâirääđi ulmen lii lamaš uážudiđ tooimân fastâ ruttâdem.</xt>
+        </xg>
       </tg>
     </mg>
 
     <mg id="5">
       <tg xml:lang="smn">
+        <re>passiivi, onnistua saamaan jtak</re>
+
         <t l_par="tulla saaduksi" pos="V" wf="finnâšuVá">finnâšuđ</t>
+
+        <xg>
+          <x>Ne asiat, jotka nyt on saatu, eivät ole tulleet itsestään.</x>
+
+          <xt>Toh ääših, moh láá taan räi finnâšum, iä lah puáttám
+          jiešmeidlist.</xt>
+        </xg>
+
+        <xg>
+          <x>Inarin kylälle oli saatu tie läpikulkukuntoon vuonna 1925.</x>
+
+          <xt>Aanaar markkânân lâi finnâšum maađij čoođâjotteemoornigân ive
+          1925. </xt>
+        </xg>
       </tg>
     </mg>
 
@@ -54494,10 +54563,28 @@ For the full license text, see the link above.
       </tg>
     </mg>
 
-    <mg id="7">
+    <mg>
       <tg xml:lang="smn">
-        <t l_par="saada aikaan" pos="V" wf="áigá">uážžuđ</t>
+        <t>selgâttiđ </t>
       </tg>
+
+      <xg>
+        <x>Faanin ko lâš, jiem ákšunoovdâ seelgât. </x>
+
+        <xt>Hittoako lienee, en saa kirvesvartta aikaiseksi.</xt>
+      </xg>
+
+      <xg>
+        <x>Hädin tuskin saa sanaa suustaan.</x>
+
+        <xt>Sun illá sääni seelgât. </xt>
+      </xg>
+
+      <xg>
+        <x>En saa kirjoitetuksi. </x>
+
+        <xt>Jiem seelgât čäälliđ.</xt>
+      </xg>
     </mg>
 
     <mg id="8">
@@ -54505,8 +54592,6 @@ For the full license text, see the link above.
         <t pos="V" wf="ááštáš">áštášiđ</t>
 
         <t pos="V">selgâniđ</t>
-
-        <t pos="V" wf="seelgât">selgâttiđ</t>
       </tg>
     </mg>
 
@@ -54530,13 +54615,6 @@ For the full license text, see the link above.
     <mg id="11">
       <tg xml:lang="smn">
         <t l_par="saada käsiinsä" pos="V" wf="fattiim">fattiđ</t>
-      </tg>
-    </mg>
-
-    <mg id="12">
-      <tg xml:lang="smn">
-        <t l_par="saada alkunsa, sietä, lisääntyä" pos="V"
-        wf="šooHân">šohâniđ</t>
       </tg>
     </mg>
 

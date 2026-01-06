@@ -1,6 +1,6 @@
 <!ELEMENT r (lics?, e+, xhtml:script?) >
 <!ATTLIST r xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml"
-    xml:lang ( nob | sme | sma | swe | eng | deu | smn | fin | fkv | sms | myv | mhr | sjd | rus | smj ) #IMPLIED
+    xml:lang ( fin ) #IMPLIED
 >
 <!ATTLIST r
       id ( finsmn ) #IMPLIED >
@@ -103,7 +103,7 @@
 
 <!ELEMENT mg (semantics?, l_ref?, dg?, tg+, xg* ) >
 <!ATTLIST mg
-      xml:lang ( sme | nob | fin | swe | rus | smn ) #IMPLIED
+      xml:lang ( smn ) #IMPLIED
       rest CDATA #IMPLIED
 >
 <!ATTLIST mg id CDATA #IMPLIED >
@@ -122,7 +122,7 @@
 >
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
 <!ATTLIST re
-    xml:lang ( nob | sme | sma | smn | swe | eng | deu | lat) #IMPLIED
+    xml:lang ( fin | lat) #IMPLIED
 >
 <!ATTLIST re x ( fad ) #IMPLIED >
 <!ATTLIST re comment CDATA #IMPLIED >
@@ -151,7 +151,7 @@
                   | grammarexpl |Prop | Indef | G3 | NomAg | Coll | Recipr | Pers
                   | grammar | Refl | Dem | Poss | Logo | Rel | Interr | TV | IV ) #IMPLIED >
 <!ATTLIST t lang ( swe | nob ) #IMPLIED >
-<!ATTLIST t xml:lang ( nob | sme | sma | swe | eng | deu ) #IMPLIED >
+<!ATTLIST t xml:lang ( smn ) #IMPLIED >
 <!ATTLIST t src CDATA #IMPLIED >
 <!ATTLIST t l_par CDATA #IMPLIED >
 <!ATTLIST t wf CDATA #IMPLIED >
@@ -173,14 +173,14 @@
 <!-- translation_comment = for Oahpa use -->
 
 <!ELEMENT tf (#PCDATA) > <!-- Translation phrase -->
-<!ATTLIST tf pos ( phrase  ) #IMPLIED >
-<!ATTLIST tf lang ( swe | nob ) #IMPLIED >
-<!ATTLIST tf xml:lang ( nob | sme | sma | swe | eng | deu ) #IMPLIED >
+<!ATTLIST tf pos ( phrase ) #IMPLIED >
+<!ATTLIST tf lang ( smn ) #IMPLIED >
+<!ATTLIST tf xml:lang ( smn ) #IMPLIED >
 
 
 <!ELEMENT te (#PCDATA) > <!-- Translation explanation -->
-<!ATTLIST te lang ( swe | nob ) #IMPLIED >
-<!ATTLIST te xml:lang ( nob | sme | sma | swe | eng | deu ) #IMPLIED >
+<!ATTLIST te lang ( smn ) #IMPLIED >
+<!ATTLIST te xml:lang ( smn ) #IMPLIED >
 <!ATTLIST te pos ( phrase ) #IMPLIED >
 
 <!ELEMENT xg ((x, xt+)+)>

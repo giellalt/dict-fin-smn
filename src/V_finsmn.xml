@@ -43675,42 +43675,125 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <re>vastaanottaa jtak</re>
+            <re>vastaanottaa jtak, ei suurta merkityseroa verbien välillä</re>
             <t pos="V" wf="uážum">uážžuđ</t>
+            <t pos="V">finniđ</t>
             <xg>
-               <x>Sain hienot sukat syntymäpäivälahjaksi.</x>
-               <xt>Mun ožžum fiijnâ suhháid šoddâmpeivlähjin.</xt>
+               <x>Sain häneltä hienot sukat.</x>
+               <xt>Mun ožžum sust fiijnâ suhháid.</xt>
             </xg>
             <xg>
-               <x>Olet saanut paljon aikaan.</x>
-               <xt>Tun lah uážžum ennuv ááigán.</xt>
+               <x>Minä sain sen lahjaksi. </x>
+               <xt>Mun finnejim tom skeŋkkân.</xt>
             </xg>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <re>onnistua saamaan, erit. jstak ansaitusta tai tavoitellusta</re>
-            <t l_par="esim. tehdyksi, olla saatavilla" pos="V" wf="finniim finnee">finniđ</t>
+            <re>saada - Inf; olla lupa, saada lupa</re>
+            <t l_par="esim. tehdyksi, olla saatavilla" pos="V" wf="finniim finnee">uážžuđ</t>
             <xg>
-               <x>Vihdoin sain artikkelin valmiiksi.</x>
-               <xt>Viijmâg mun finnejim artikkâl valmâšin.</xt>
+               <x>Sinne et saa mennä yksin</x>
+               <xt>Tohon jieh uážu moonnâđ ohtuu</xt>
             </xg>
             <xg>
-               <x>Mistä olet lohia saanut?</x>
-               <xt>Kost lah luosâid finnim?</xt>
+               <x>Minä sain ostaa uuden tietokoneen koululle. </x>
+               <xt>Mun ožžum uástiđ uđđâ tiätumaašin škoovlân.</xt>
             </xg>
             <xg>
-               <x>Saan palkan aina kuun puolivälissä.</x>
-               <xt>a. Mun finniim päälhi ain máánu pelimuddoost.</xt>
+               <x>Saanko tulla sisään?</x>
+               <xt>Uážum-uv puáttiđ siisâ?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="???">
+            <re>saada + substantiivi lupa</re>
+            <t l_par="saada lupa" pos="V">uážžuđ</t>
+            <t pos="V">finniđ</t>
+            <xg>
+               <x>Sain luvan käyttää opettajan autoa. </x>
+               <xt>Mun finnejim love, et puávtám kevttiđ máttáátteijee auto.</xt>
             </xg>
             <xg>
-               <x>Minä sain sen lahjaksi.</x>
-               <xt>Mun finnejim tom skeŋkkân.</xt>
+               <x>Siihen sinä kyllä helposti saat luvan. </x>
+               <xt>Toos tun kale älkkeht uážuh love.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="???">
+            <re>Onnistua jssak tehtävässä, vastaanottaa jtak ansaittua, hankkimaan</re>
+            <t pos="V">finniđ</t>
+         </tg>
+         <xg>
+            <x>Miten kurssista saa hyvän arvosanan? </x>
+            <xt>Maht kuursâst finnee šiev árvusääni?</xt>
+         </xg>
+         <xg>
+            <x>Saan palkan aina kuun puolivälissä. </x>
+            <xt>Mun finniim päälhi ain máánu pelimuddoost.</xt>
+         </xg>
+         <xg>
+            <x>Mistä olet lohia saanut? </x>
+            <xt>Kost luosâid lah finnim? </xt>
+         </xg>
+      </mg>
+      <mg>
+         <tg xml:lang="???">
+            <re>5. Yrittää tehdä t. saada jtak</re>
+            <t>uážudiđ</t>
+            <xg>
+               <x>Pitkään yritin saada naulaa irti seinästä ennen kuin se lähti. </x>
+               <xt>– Kuhháá mun uážudim tom spijkkár seeinist ovdilgo vuolgij.</xt>
             </xg>
             <xg>
-               <x>Hän toi ne nahat, jotka hän oli sinä päivänä saanut.</x>
-               <xt>Sun puovtij taid naahkijd, maid sun ton peeivi lâi finnim.</xt>
+               <x>Yritin saada sitä härkää kiinni. </x>
+               <xt>Mun uážudim tom eergi.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="???">
+            <re>Yrittää tehdä t. saada jtak</re>
+            <t pos="V">selgâttiđ</t>
+            <xg>
+               <x>Hittoako lienee, en saa kirvesvartta aikaiseksi. </x>
+               <xt>Faanin ko lâš, jiem ákšunoovdâ seelgât</xt>
+            </xg>
+            <xg>
+               <x>Hän ei saanut yhtään lasta. </x>
+               <xt>Tot ij selgâttâm oovtâgin päärni.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="???">
+            <re>Verbit synonyymeja</re>
+            <t pos="V">selgâniđ</t>
+            <xg>
+               <x>Minä en saanut lähdettyä sinne. </x>
+               <xt>Mun jiem selgânâm toho vyelgiđ</xt>
+            </xg>
+            <xg>
+               <x>Minä en saanut sitä tehtyä. </x>
+               <xt>Mun jiem selgânâm tom porgâđ.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="???">
+            <re>älykäs sloistus tänne</re>
+            <t pos="V">nakkaniđ</t>
+            <xg>
+               <x>Vaatteita en vieläkään saanut ripustettua kuivumaan. </x>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="???">
+            <t>raja tässä</t>
          </tg>
       </mg>
       <mg id="3">
@@ -43809,6 +43892,14 @@ For the full license text, see the link above.
             <t l_par="saada muutamia kaloja verkolla" pos="V" wf="rippáát">ripáttiđ</t>
          </tg>
       </mg>
+      <ig>
+         <i>Saada päähänsä </i>
+         <it>uážžuđ uáivásis</it>
+      </ig>
+      <ig>
+         <i>Hädin tuskin saa sanaa suustaan. </i>
+         <it>Illá sääni seelgât.</it>
+      </ig>
    </e>
    <e id="12533">
       <lg>

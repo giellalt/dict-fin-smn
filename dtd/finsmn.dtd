@@ -18,7 +18,7 @@
 <!ELEMENT a (#PCDATA)>
 <!ELEMENT i (#PCDATA)>
 
-<!ELEMENT e (lg, semantics?, stem*, sources?, mg+) >
+<!ELEMENT e (lg, semantics?, stem*, sources?, mg+, ig* ) >
 <!ATTLIST e
       src CDATA #IMPLIED
       id CDATA #IMPLIED
@@ -110,8 +110,19 @@
 <!ATTLIST mg src CDATA #IMPLIED >
 <!ATTLIST mg x ( fad ) #IMPLIED >
 
-<!ELEMENT dg ( d ) >
+
+<!-- definition  -->
+<!ELEMENT dg ( re?, d, dt? ) >
 <!ELEMENT d (#PCDATA) >
+<!ELEMENT dt (#PCDATA) >
+
+
+<!-- Idiom phrases, faste uttrykk -->
+<!ELEMENT ig ( i+, id?, it+)+ >
+<!ELEMENT i (#PCDATA) >
+<!ELEMENT id (#PCDATA) >
+<!ELEMENT it (#PCDATA) >
+
 
 <!ELEMENT tg (semantics?, re?,  ( ((t, stem*, l_ref?) | tf | te ))+, xg*, syng?) >
 <!ATTLIST tg
@@ -139,14 +150,6 @@
           | Adv-N | N-Pron | Adv-CC | Adv-Pron | Adv-CS | CC-CS | A-N | Adv-Po | CMP | A-Adv | Adv-Po-Pron | A-Adv-Pron | A-Adv-N | Adv-N-Po | N-Po | Po-Pron | A-Pron | Foc_gis | Foc_han ) #IMPLIED >
 <!ATTLIST t reg CDATA #IMPLIED >
 <!ATTLIST t tt_auto CDATA #IMPLIED >
-
-<!--
-<!ATTLIST t pos ( a | S  | n  | v |
-            adv | p | pr | po | det |
-            pron | prop | i | interj | cc | cs | im | npl | num |
-            pcle | s  | prsprc | phrase | fp-cmp | lp-cmp | cmp | x  | xxx |
-      phrase_n | phrase_a | phrase_v | phrase_adv | g3 | NomAg | mwe ) #IMPLIED >
--->
 <!ATTLIST t type ( expl
                   | grammarexpl |Prop | Indef | G3 | NomAg | Coll | Recipr | Pers
                   | grammar | Refl | Dem | Poss | Logo | Rel | Interr | TV | IV ) #IMPLIED >

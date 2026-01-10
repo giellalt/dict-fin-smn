@@ -23,52 +23,26 @@
       src CDATA #IMPLIED
       id CDATA #IMPLIED
 >
-<!ELEMENT lg (l+, l_ref*, lemma_ref*, lsub*, lc*, stem*, analysis*, mini_paradigm*, algu?, orig?) >
-<!ELEMENT lemma_ref (#PCDATA) >
+<!ELEMENT lg (l+, l_ref*, analysis*, mini_paradigm*, algu?, orig?) >
 <!ELEMENT analysis (#PCDATA)* >
 <!ELEMENT orig (#PCDATA) >
 <!ELEMENT mini_paradigm (analysis+) >
 <!ELEMENT l (#PCDATA) >
 <!ATTLIST l
-      pos ( A | N | V | Adv |
-      Adv-CC | Adv-CS | Adv-N | Adv-N-Po | Adv-Po | Adv-Pron | CC-CS |
-      N-Po | N-Pron | Po-Pron |
-      Po | Pron | Pers | Interj | Pcle |
-            Num | CC | CS | 
-            Phrase | CMP | X ) #REQUIRED
+      pos ( A | Adv | CC | CS | Pcle | Po | Pron |
+            Interj | N | Num | Phrase | V  ) #REQUIRED
       attr CDATA #IMPLIED
-      type ( Rel | Pers | Indef | Refl | Dem | interr |
-             pre | post | ord | TV | IV | actor | G3 | G7 | NomAg |
-	     Ord | Prop | Recipr | Coll | Interr | Logo ) #IMPLIED
+      type ( Prop ) #IMPLIED
       tt_auto CDATA #IMPLIED
       r1_par CDATA #IMPLIED
       r2_par CDATA #IMPLIED
 >
-<!ATTLIST l mwe CDATA #IMPLIED >
 <!ATTLIST l comma CDATA #IMPLIED >
 <!ATTLIST l syn CDATA #IMPLIED >
-<!ATTLIST l sem_type ( Obj | Plc | Fem | Org | Mal | Txt ) #IMPLIED >
-<!ATTLIST l hid CDATA #IMPLIED >
-<!ATTLIST l src CDATA #IMPLIED >
+<!ATTLIST l sem_type ( Plc ) #IMPLIED >
 <!ATTLIST l re CDATA #IMPLIED >
 <!ATTLIST l tt CDATA #IMPLIED >
 
-<!-- decl: i indeclineable -->
-
-<!-- lsub = frequent subform of lemma -->
-<!ELEMENT lsub (#PCDATA) >
-<!ATTLIST lsub
-      attr ( ok | no ) #IMPLIED
-      type ( rel | pers | indef | refl | pre | post | ord ) #IMPLIED
->
-<!ATTLIST lsub src CDATA #IMPLIED >
-
-
-<!-- lc = lemma comment, misused as stem field -->
-<!ELEMENT lc (#PCDATA) >
-<!ELEMENT semantics (sem | sem* ) >
-<!ATTLIST sem
-    name CDATA #IMPLIED >
 
 <!-- algu = lemma IDs in the algu database -->
 <!ELEMENT algu EMPTY >
@@ -77,23 +51,6 @@
 <!ATTLIST algu
       sanue_id CDATA #REQUIRED >
 
-
-<!-- the real stem field -->
-<!ELEMENT stem (#PCDATA) >
-<!ATTLIST stem
-      class ( bisyllabic | trisyllabic | contracted ) #IMPLIED
->
-
-<!ELEMENT sources (frequency?, geography*) >
-
-<!ELEMENT frequency EMPTY >
-<!ATTLIST frequency
-      class ( common | rare ) #IMPLIED
->
-<!ELEMENT geography EMPTY >
-<!ATTLIST geography
-      class ( other | south | mid | north ) #IMPLIED
->
 <!--      name CDATA #REQUIRED -->
 
 <!ELEMENT sem EMPTY >

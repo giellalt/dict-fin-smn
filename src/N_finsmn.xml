@@ -26357,17 +26357,17 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N" syn_dash="-riessâm">ruotâsmumriesâ</t>
+            <t pos="N">ruotâsmumriesâ</t>
          </tg>
       </mg>
    </e>
    <e id="3689">
       <lg>
-         <l pos="N" syn_or="tai -ritilä">juustonkuivausverkko</l>
+         <l pos="N">juustonkuivausverkko</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N" syn_dash="-siđe">vuástásite</t>
+            <t pos="N">vuástásite</t>
          </tg>
       </mg>
    </e>
@@ -141524,6 +141524,16 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="smn">
             <t pos="N">hárjuttáspargopittá</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="17447">
+      <lg>
+         <l pos="N">väärti</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t l_par="ystävä, tuttava" pos="N">veerdi</t>
          </tg>
       </mg>
    </e>

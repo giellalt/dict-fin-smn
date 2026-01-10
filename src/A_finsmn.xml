@@ -2859,7 +2859,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t attr="luovâs" l_par="irraallaan oleva" pos="Adv-N" wf="luovvâs">luovâs</t>
+            <t attr="luovâs" l_par="irraallaan oleva" pos="A" wf="luovvâs">luovâs</t>
             <t pos="A">pođoi</t>
          </tg>
       </mg>
@@ -3766,7 +3766,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t l_par="esim. tiessä" pos="A-Adv">njuolgâdâs</t>
+            <t l_par="esim. tiessä" pos="A">njuolgâdâs</t>
          </tg>
       </mg>
    </e>
@@ -4018,17 +4018,12 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Adv">rijjâ</t>
+            <t pos="A">rijjâ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
             <t l_par="paimentamaton lauma t. eläin" pos="A" wf="veitâlii">veitâlâs</t>
-         </tg>
-      </mg>
-      <mg id="3">
-         <tg xml:lang="smn">
-            <t l_par="vapaasti" pos="A-Adv">rijjâ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -4146,9 +4141,9 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="njuorrâs">njuorâs</t>
+            <t pos="A" wf="njuorrâs">njuorâs</t>
             <xg>
-               <x>En pysynyt seisaallanikaan, kun olin niin heikko ja voimaton.</x>
+               <x>En pysynyt seisaallanikaan, kun olin niin veltto ja voimaton.</x>
                <xt>Jiem pissoom čuožâdgin, ko lijjim nuuvt njuorâs já vyeimittem.</xt>
             </xg>
             <xg>
@@ -4343,11 +4338,6 @@ For the full license text, see the link above.
       <lg>
          <l pos="A">väärti</l>
       </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t l_par="ystävä, tuttava" pos="Adv-N">veerdi</t>
-         </tg>
-      </mg>
       <mg id="2">
          <tg xml:lang="smn">
             <t l_par="veroinen" pos="A">verttâ</t>
@@ -4963,7 +4953,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Adv-Pron">áinoo</t>
+            <t pos="A">áinoo</t>
          </tg>
       </mg>
    </e>
@@ -4973,7 +4963,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Adv-Pron">áinoo</t>
+            <t pos="A">áinoo</t>
          </tg>
       </mg>
    </e>
@@ -4993,7 +4983,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="áigálii">áigálâš</t>
+            <t pos="A" wf="áigálii">áigálâš</t>
          </tg>
       </mg>
    </e>
@@ -5383,7 +5373,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Adv" t_tld="~áávus">ávus</t>
+            <t pos="A" t_tld="~áávus">ávus</t>
          </tg>
       </mg>
    </e>
@@ -5563,7 +5553,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">ellee</t>
+            <t pos="A">ellee</t>
          </tg>
       </mg>
    </e>
@@ -5844,7 +5834,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Adv">eromâš</t>
+            <t pos="A">eromâš</t>
          </tg>
       </mg>
    </e>
@@ -6074,7 +6064,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">suorâg</t>
+            <t pos="A">suorâg</t>
          </tg>
       </mg>
    </e>
@@ -6214,7 +6204,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" t_tld="~ tääjig ~ taajig">taajâg</t>
+            <t pos="A" t_tld="~ tääjig ~ taajig">taajâg</t>
          </tg>
       </mg>
    </e>
@@ -6224,7 +6214,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">aicâlmâs</t>
+            <t pos="A">aicâlmâs</t>
          </tg>
       </mg>
    </e>
@@ -6484,7 +6474,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" t_tld="~ tääjig ~ taajig">taajâg</t>
+            <t pos="A" t_tld="~ tääjig ~ taajig">taajâg</t>
          </tg>
       </mg>
    </e>
@@ -6514,7 +6504,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">syeđđee</t>
+            <t pos="A">syeđđee</t>
          </tg>
       </mg>
    </e>
@@ -7044,7 +7034,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">immeelmáttum</t>
+            <t pos="A">immeelmáttum</t>
          </tg>
       </mg>
    </e>
@@ -7260,7 +7250,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" t_tld="~kyehtilâš kyehtilii" wf="kyehtiláá">kyehtilâš</t>
+            <t pos="A" t_tld="~kyehtilâš kyehtilii" wf="kyehtiláá">kyehtilâš</t>
          </tg>
       </mg>
    </e>
@@ -7426,7 +7416,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">luávdee</t>
+            <t pos="A">luávdee</t>
          </tg>
       </mg>
    </e>
@@ -7657,7 +7647,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">kildee</t>
+            <t pos="A">kildee</t>
          </tg>
       </mg>
    </e>
@@ -7877,7 +7867,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" syn_dash="-čievvâg">kuulmâčievâg</t>
+            <t pos="A" syn_dash="-čievvâg">kuulmâčievâg</t>
          </tg>
       </mg>
    </e>
@@ -8117,7 +8107,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" syn_dash="-čievvâg">maaŋgâčievâg</t>
+            <t pos="A" syn_dash="-čievvâg">maaŋgâčievâg</t>
          </tg>
       </mg>
    </e>
@@ -8343,7 +8333,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">mavresteijee</t>
+            <t pos="A">mavresteijee</t>
          </tg>
       </mg>
    </e>
@@ -8363,7 +8353,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t attr="fanttâ" pos="A-N" t_tld="~ vaantâs vanttâs # vanttâ" wf="fanttâs">faantâs</t>
+            <t attr="fanttâ" pos="A" t_tld="~ vaantâs vanttâs # vanttâ" wf="fanttâs">faantâs</t>
          </tg>
       </mg>
    </e>
@@ -9018,7 +9008,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" syn_dash="-piäLálii">maaŋgâpiälálâš</t>
+            <t pos="A" syn_dash="-piäLálii">maaŋgâpiälálâš</t>
          </tg>
       </mg>
    </e>
@@ -9088,7 +9078,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="miättás">mieđes</t>
+            <t pos="A" wf="miättás">mieđes</t>
          </tg>
       </mg>
    </e>
@@ -9108,7 +9098,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="miättás">mieđes</t>
+            <t pos="A" wf="miättás">mieđes</t>
          </tg>
       </mg>
    </e>
@@ -9228,7 +9218,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t attr="-s" pos="A-Adv">ráđđáá</t>
+            <t attr="-s" pos="A">ráđđáá</t>
          </tg>
       </mg>
    </e>
@@ -9518,7 +9508,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Adv">lukkuš</t>
+            <t pos="A">lukkuš</t>
          </tg>
       </mg>
    </e>
@@ -9528,7 +9518,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">vuovdâ</t>
+            <t pos="A">vuovdâ</t>
          </tg>
       </mg>
    </e>
@@ -9744,7 +9734,17 @@ For the full license text, see the link above.
    </e>
    <e id="9898">
       <lg>
-         <l pos="A" syn_or="t. -hajuinen">palaneenmakuinen</l>
+         <l pos="A">palaneenmakuinen</l>
+      </lg>
+      <mg id="1">
+         <tg xml:lang="smn">
+            <t attr="skerčâ" pos="A">skeerčâ</t>
+         </tg>
+      </mg>
+   </e>
+   <e id="9898b">
+      <lg>
+         <l pos="A">palaneenhajuinen</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -10098,7 +10098,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="piäiválii">piäiválâš</t>
+            <t pos="A" wf="piäiválii">piäiválâš</t>
          </tg>
       </mg>
    </e>
@@ -10258,8 +10258,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="rákkásii">rákkásâš</t>
-            <t pos="A-N" wf="">rähistum</t>
+            <t pos="A" wf="rákkásii">rákkásâš</t>
+            <t pos="A" wf="">rähistum</t>
          </tg>
       </mg>
    </e>
@@ -10614,7 +10614,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" syn_dash="-sullâsii">siämmáásullâsâš</t>
+            <t pos="A" syn_dash="-sullâsii">siämmáásullâsâš</t>
          </tg>
       </mg>
    </e>
@@ -10694,7 +10694,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t attr="čielgâ" pos="A-Adv" wf="čielgâs">čielgâs</t>
+            <t attr="čielgâ" pos="A" wf="čielgâs">čielgâs</t>
          </tg>
       </mg>
    </e>
@@ -10704,7 +10704,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Pron">taggaar</t>
+            <t pos="A">taggaar</t>
          </tg>
       </mg>
    </e>
@@ -10754,7 +10754,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">siskáldâs</t>
+            <t pos="A">siskáldâs</t>
          </tg>
       </mg>
    </e>
@@ -10854,7 +10854,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="hámálii">hámálâš</t>
+            <t pos="A" wf="hámálii">hámálâš</t>
          </tg>
       </mg>
    </e>
@@ -10884,7 +10884,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="spiitaallii">spiitaallâš</t>
+            <t pos="A" wf="spiitaallii">spiitaallâš</t>
          </tg>
       </mg>
    </e>
@@ -11451,7 +11451,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" syn_dash="-čievvâg">čuhâčievâg</t>
+            <t pos="A" syn_dash="-čievvâg">čuhâčievâg</t>
          </tg>
       </mg>
    </e>
@@ -11531,7 +11531,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">piergejeijee</t>
+            <t pos="A">piergejeijee</t>
          </tg>
       </mg>
    </e>
@@ -11671,7 +11671,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="kaškos">kaškos</t>
+            <t pos="A" wf="kaškos">kaškos</t>
          </tg>
       </mg>
    </e>
@@ -11802,7 +11802,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">tulcesčievâg</t>
+            <t pos="A">tulcesčievâg</t>
          </tg>
       </mg>
    </e>
@@ -11882,7 +11882,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Adv" wf="tievâslii">tievâslâš</t>
+            <t pos="A" wf="tievâslii">tievâslâš</t>
          </tg>
       </mg>
    </e>
@@ -11892,7 +11892,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="ollás">oles</t>
+            <t pos="A" wf="ollás">oles</t>
          </tg>
       </mg>
    </e>
@@ -11942,7 +11942,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">olgoldâs</t>
+            <t pos="A">olgoldâs</t>
          </tg>
       </mg>
    </e>
@@ -12342,7 +12342,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="ruonnâs">ruonâs</t>
+            <t pos="A" wf="ruonnâs">ruonâs</t>
          </tg>
       </mg>
    </e>
@@ -12372,7 +12372,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="skeelmâ">skelmâ</t>
+            <t pos="A" wf="skeelmâ">skelmâ</t>
          </tg>
       </mg>
    </e>
@@ -12392,7 +12392,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">vannee</t>
+            <t pos="A">vannee</t>
          </tg>
       </mg>
    </e>
@@ -12493,7 +12493,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">kuásutteijee</t>
+            <t pos="A">kuásutteijee</t>
          </tg>
       </mg>
    </e>
@@ -12563,7 +12563,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" syn_dash="-kiđđii">moonnâmkiiđâš</t>
+            <t pos="A" syn_dash="-kiđđii">moonnâmkiiđâš</t>
          </tg>
       </mg>
    </e>
@@ -12653,7 +12653,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">virgetahhee</t>
+            <t pos="A">virgetahhee</t>
          </tg>
       </mg>
    </e>
@@ -12893,7 +12893,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Adv" t_tld="~ ohtsâš ohtsii" wf="ohtâsii">ohtâsâš</t>
+            <t pos="A" t_tld="~ ohtsâš ohtsii" wf="ohtâsii">ohtâsâš</t>
          </tg>
       </mg>
    </e>
@@ -13054,7 +13054,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">almosčuovviitteijee</t>
+            <t pos="A">almosčuovviitteijee</t>
          </tg>
       </mg>
    </e>
@@ -13332,7 +13332,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">ármugâs</t>
+            <t pos="A">ármugâs</t>
             <t pos="A" wf="ármulii">ármulâš</t>
          </tg>
       </mg>
@@ -13443,7 +13443,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Adv" t_tld="~eresláván">ereslágán</t>
+            <t pos="A" t_tld="~eresláván">ereslágán</t>
             <t pos="A" syn_dash="-muáđusii">eresmuáđusâš</t>
          </tg>
       </mg>
@@ -13465,7 +13465,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Adv">eromâš</t>
+            <t pos="A">eromâš</t>
             <t pos="A">sierânâs</t>
          </tg>
       </mg>
@@ -13498,7 +13498,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">kaaidâs</t>
+            <t pos="A">kaaidâs</t>
             <t pos="Adv">kukken</t>
          </tg>
       </mg>
@@ -13858,7 +13858,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" wf="almoos">almos</t>
-            <t attr="čielgâ" pos="A-Adv" wf="čielgâs">čielgâs</t>
+            <t attr="čielgâ" pos="A" wf="čielgâs">čielgâs</t>
          </tg>
       </mg>
    </e>
@@ -13924,7 +13924,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" wf="pudâlii">pudâlâš</t>
-            <t pos="A-N" syn_dash="-pajalii">äigipajalâš</t>
+            <t pos="A" syn_dash="-pajalii">äigipajalâš</t>
          </tg>
       </mg>
    </e>
@@ -13934,8 +13934,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Pron">maggaar</t>
-            <t pos="A-Pron">mabdem</t>
+            <t pos="A">maggaar</t>
+            <t pos="A">mabdem</t>
             <xg>
                <x>Niin löysi sieltä kauniin sulan, jollaista kuningas eiollut vielä nähnyt.</x>
                <xt>Te kaavnâi tobbeen mučis puužâ, mabdem kunâgâs ij lam vala uáinám.</xt>
@@ -14261,7 +14261,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="hámálii">hámálâš</t>
+            <t pos="A" wf="hámálii">hámálâš</t>
             <t pos="A" t_tld="~ perttis perttisâs">peertis</t>
             <t attr="mučis" pos="A">muččâd</t>
          </tg>
@@ -14309,7 +14309,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="A" wf="koMálii">komálâš</t>
             <t pos="N" wf="suámálii">suámálâš</t>
-            <t pos="A-N">ärttig</t>
+            <t pos="A">ärttig</t>
          </tg>
       </mg>
    </e>
@@ -14319,9 +14319,9 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">koommâr</t>
+            <t pos="A">koommâr</t>
             <t pos="N" wf="skoŋkkâs">skooŋkâs</t>
-            <t pos="A-Adv" t_tld="~čuumâld">čuumâl</t>
+            <t pos="A" t_tld="~čuumâld">čuumâl</t>
          </tg>
       </mg>
    </e>
@@ -14366,7 +14366,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t attr="pegâlmâs" pos="A">peeggâlm</t>
             <t pos="A">pegâlmâs</t>
-            <t pos="A-N">piäggálm</t>
+            <t pos="A">piäggálm</t>
             <t pos="A">mááinuh</t>
             <t pos="A" wf="kuodduustuvvii">kuodduustuvvâš</t>
             <t pos="A">kulluuhâš</t>
@@ -14401,7 +14401,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="cievnâs">cievnâs</t>
+            <t pos="A" wf="cievnâs">cievnâs</t>
             <t attr="cievnâ" pos="A">XXX</t>
             <t attr="skerčâ" pos="A">skeerčâ</t>
          </tg>
@@ -14560,7 +14560,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" syn_dash="-čolmâg">čoođâčoolmâg</t>
-            <t pos="A-N" wf="mieLâsii">mielâsâš</t>
+            <t pos="A" wf="mieLâsii">mielâsâš</t>
          </tg>
       </mg>
    </e>
@@ -14582,7 +14582,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="hámálii">hámálâš</t>
+            <t pos="A" wf="hámálii">hámálâš</t>
             <t pos="A" wf="formaallii">formaallâš</t>
          </tg>
       </mg>
@@ -14705,7 +14705,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" wf="luholii">luholâš</t>
-            <t pos="A-N" wf="uáSálii">uásálâš</t>
+            <t pos="A" wf="uáSálii">uásálâš</t>
             <xg>
                <x>Hän eli onnellisena koko ikänsä.</x>
                <xt>Sun eelij uásálâžžân ubâ avvees.</xt>
@@ -14719,7 +14719,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">eimâskâs</t>
+            <t pos="A">eimâskâs</t>
             <t attr="-paas" pos="A">tullâpaa</t>
          </tg>
       </mg>
@@ -14752,7 +14752,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="árbálii">árbálâš</t>
+            <t pos="A" wf="árbálii">árbálâš</t>
             <t pos="A" wf="genetiiklii">genetiiklâš</t>
          </tg>
       </mg>
@@ -14953,7 +14953,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" t_tld="~syeLimâs">syeligâs</t>
-            <t pos="A-N" wf="čiäHus">čiävus</t>
+            <t pos="A" wf="čiäHus">čiävus</t>
          </tg>
       </mg>
    </e>
@@ -14986,7 +14986,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" syn_dash="-nommâsii">siämmáánommâsâš</t>
-            <t pos="A-N" syn_dash="-nommâsii">oovtnommâsâš</t>
+            <t pos="A" syn_dash="-nommâsii">oovtnommâsâš</t>
          </tg>
       </mg>
    </e>
@@ -15042,7 +15042,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" t_tld="~tallaš tallaa">tallaaš</t>
-            <t pos="Adv-CS" wf="tassaa">tassaaš</t>
+            <t pos="Adv" wf="tassaa">tassaaš</t>
          </tg>
       </mg>
    </e>
@@ -15118,7 +15118,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t attr="čuhâ" pos="A-N" r_par="-" wf="čuuhâs">čuuvâs</t>
+            <t attr="čuhâ" pos="A" r_par="-" wf="čuuhâs">čuuvâs</t>
             <t attr="čuhâlâs _AT_ čuha" pos="A">čuuhâl</t>
             <t attr="-as" pos="A">čuhâlis</t>
          </tg>
@@ -15266,7 +15266,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" wf="toimâlii">toimâlâš</t>
-            <t pos="A-N">tuáimee</t>
+            <t pos="A">tuáimee</t>
          </tg>
       </mg>
    </e>
@@ -15298,7 +15298,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">puáttee</t>
+            <t pos="A">puáttee</t>
             <t pos="A">puátteš</t>
          </tg>
       </mg>
@@ -15354,7 +15354,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" t_tld="~tuáskistijjee">tuáskisteijee</t>
+            <t pos="A" t_tld="~tuáskistijjee">tuáskisteijee</t>
             <t pos="A">livze-</t>
          </tg>
       </mg>
@@ -15485,7 +15485,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A">vátávâš</t>
-            <t pos="A-N">vättee</t>
+            <t pos="A">vättee</t>
          </tg>
       </mg>
    </e>
@@ -15495,7 +15495,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" syn_dash="-vuáláá">kamevuálááš</t>
+            <t pos="A" syn_dash="-vuáláá">kamevuálááš</t>
             <t pos="A">kamo-</t>
          </tg>
       </mg>
@@ -15649,7 +15649,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="N" t_tld="~iberdijjee">iberdeijee</t>
-            <t pos="A-N" t_tld="~viettejeijee">fiettejeijee</t>
+            <t pos="A" t_tld="~viettejeijee">fiettejeijee</t>
          </tg>
       </mg>
    </e>
@@ -15681,7 +15681,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" t_tld="~viettejeijee">fiettejeijee</t>
+            <t pos="A" t_tld="~viettejeijee">fiettejeijee</t>
             <t pos="A" wf="fiätulii">fiätulâš</t>
          </tg>
       </mg>
@@ -15754,7 +15754,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t attr="naggâ" pos="Adv-N" wf="naggâs">naagâs</t>
+            <t attr="naggâ" pos="A" wf="naggâs">naagâs</t>
          </tg>
       </mg>
       <mg id="3">
@@ -15903,7 +15903,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t attr="-es" pos="A-Adv">pietittem</t>
+            <t attr="-es" pos="A">pietittem</t>
             <t attr="-s" pos="Adv">piättáá</t>
          </tg>
       </mg>
@@ -15939,7 +15939,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t attr="korrâ" l_par="kova" pos="A-N" wf="korrâs">koorâs</t>
+            <t attr="korrâ" l_par="kova" pos="A" wf="korrâs">koorâs</t>
          </tg>
       </mg>
       <mg id="1">
@@ -16084,7 +16084,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Adv" t_tld="~áávus">ávus</t>
+            <t pos="A" t_tld="~áávus">ávus</t>
          </tg>
       </mg>
       <mg id="2">
@@ -16189,7 +16189,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t l_par="elävä" pos="A-N">ellee</t>
+            <t l_par="elävä" pos="A">ellee</t>
          </tg>
       </mg>
       <mg id="2">
@@ -16316,7 +16316,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t attr="oskottes" l_par="uskoton, uskonnoton" pos="A-N">oskottem</t>
+            <t attr="oskottes" l_par="uskoton, uskonnoton" pos="A">oskottem</t>
          </tg>
       </mg>
    </e>
@@ -16412,7 +16412,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t l_par="mieluinen" pos="A-N" wf="mieLâsii">mielâsâš</t>
+            <t l_par="mieluinen" pos="A" wf="mieLâsii">mielâsâš</t>
          </tg>
       </mg>
       <mg id="4">
@@ -16528,7 +16528,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t attr="tátuttes" l_par="tahdoton" pos="A-N">tátuttem</t>
+            <t attr="tátuttes" l_par="tahdoton" pos="A">tátuttem</t>
          </tg>
       </mg>
    </e>
@@ -16583,7 +16583,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t attr="fanttâ" l_par="varma, osaava" pos="A-N" t_tld="~ vaantâs vanttâs # vanttâ"
+            <t attr="fanttâ" l_par="varma, osaava" pos="A" t_tld="~ vaantâs vanttâs # vanttâ"
             wf="fanttâs">faantâs</t>
             <t l_par="kokenut" pos="A">hárjánâm</t>
          </tg>
@@ -16717,7 +16717,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t l_par="erit. tuli" pos="A-N">kuárdee</t>
+            <t l_par="erit. tuli" pos="A">kuárdee</t>
          </tg>
       </mg>
       <mg id="3">
@@ -16749,7 +16749,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg tw_id="voimaton 5fa98c22-d9d1-4b31-81c2-4b97d356c827" xml:lang="smn">
-            <t l_par="veltto" pos="A-N" wf="njuorrâs">njuorâs</t>
+            <t l_par="veltto" pos="A" wf="njuorrâs">njuorâs</t>
             <xg>
                <x>En pysynyt seisaallanikaan, kun olin niin heikko ja voimaton.</x>
                <xt>Jiem pissoom čuožâdgin, ko lijjim nuuvt njuorâs já vyeimittem.</xt>
@@ -16809,7 +16809,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="njuorrâs">njuorâs</t>
+            <t pos="A" wf="njuorrâs">njuorâs</t>
          </tg>
       </mg>
       <mg id="2">
@@ -16889,7 +16889,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t l_par="heiveröinen" pos="A-N" wf="njuorrâs">njuorâs</t>
+            <t l_par="heiveröinen" pos="A" wf="njuorrâs">njuorâs</t>
          </tg>
       </mg>
    </e>
@@ -17198,7 +17198,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t l_par="kuulovammainen" pos="A-N" syn_dash="-vádulii">kuullâmvádulâš</t>
+            <t l_par="kuulovammainen" pos="A" syn_dash="-vádulii">kuullâmvádulâš</t>
          </tg>
       </mg>
       <mg id="3">
@@ -17263,7 +17263,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t attr="-s" l_par="maistuva" pos="A-N">njaddee</t>
+            <t attr="-s" l_par="maistuva" pos="A">njaddee</t>
          </tg>
       </mg>
    </e>
@@ -17737,7 +17737,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t l_par="esim. neste" pos="A-N">kolgee</t>
+            <t l_par="esim. neste" pos="A">kolgee</t>
          </tg>
       </mg>
       <mg id="2">
@@ -17747,7 +17747,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t l_par="esim. asia" pos="A-N" wf="piäiválii">piäiválâš</t>
+            <t l_par="esim. asia" pos="A" wf="piäiválii">piäiválâš</t>
          </tg>
       </mg>
       <mg id="4">
@@ -17774,7 +17774,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t l_par="puhumaton" pos="A-N">sárnuttem</t>
+            <t l_par="puhumaton" pos="A">sárnuttem</t>
          </tg>
       </mg>
    </e>
@@ -17789,7 +17789,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t attr="jieŊâkolmâ" pos="A-N" syn_dash="-kolmâs">jieŋâkoolmâs</t>
+            <t attr="jieŊâkolmâ" pos="A" syn_dash="-kolmâs">jieŋâkoolmâs</t>
             <t pos="A">jieŋâ-</t>
          </tg>
       </mg>
@@ -17879,7 +17879,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="A" t_tld="~ -láván">-lágán</t>
-            <t pos="A-N" wf="sullâsii">sullâsâš</t>
+            <t pos="A" wf="sullâsii">sullâsâš</t>
          </tg>
       </mg>
       <mg id="2">
@@ -17982,7 +17982,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t attr="kyermis" l_par="esim. jauhot" pos="A-N" wf="kuármá">kyermis</t>
+            <t attr="kyermis" l_par="esim. jauhot" pos="A" wf="kuármá">kyermis</t>
          </tg>
       </mg>
       <mg id="4">
@@ -18064,7 +18064,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">suálnum</t>
+            <t pos="A">suálnum</t>
          </tg>
       </mg>
       <mg id="2">
@@ -18105,7 +18105,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="kaidâs">kaaidâs</t>
+            <t pos="A" wf="kaidâs">kaaidâs</t>
          </tg>
       </mg>
       <mg id="2">
@@ -18146,7 +18146,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t attr="käVilis _AT_ käVilâs" pos="A">käävvil</t>
-            <t l_par="ovela" pos="A-N" wf="skeelmâ">skelmâ</t>
+            <t l_par="ovela" pos="A" wf="skeelmâ">skelmâ</t>
             <t attr="viehis" l_par="viekas" pos="A" wf="viäkkás">viehis</t>
          </tg>
       </mg>
@@ -18170,7 +18170,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t l_par="ihminen, heittiö" pos="A-N">eimâskâs</t>
+            <t l_par="ihminen, heittiö" pos="A">eimâskâs</t>
          </tg>
       </mg>
    </e>
@@ -18386,7 +18386,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t attr="kujes" l_par="vihlova" pos="A-N" wf="kuje">kuje</t>
+            <t attr="kujes" l_par="vihlova" pos="A" wf="kuje">kuje</t>
          </tg>
       </mg>
       <mg id="3">
@@ -18676,7 +18676,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t attr="korrâ" l_par="m. ankara" pos="A-N" wf="korrâs">koorâs</t>
+            <t attr="korrâ" l_par="m. ankara" pos="A" wf="korrâs">koorâs</t>
          </tg>
       </mg>
       <mg id="3">
@@ -18686,7 +18686,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t attr="iŋŋâ" l_par="kuivumisen takia kova esim. jäkälä t. muu kasvillisuus" pos="A-N"
+            <t attr="iŋŋâ" l_par="kuivumisen takia kova esim. jäkälä t. muu kasvillisuus" pos="A"
             wf="iŋŋâs iiŋŋâs">iiŋâs</t>
          </tg>
       </mg>
@@ -18762,7 +18762,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t l_par="kuiva maa veden vastakohtana" pos="A-N" t_tld="~košknjâš~košknjuš">koškánjâš</t>
+            <t l_par="kuiva maa veden vastakohtana" pos="A" t_tld="~košknjâš~košknjuš">koškánjâš</t>
          </tg>
       </mg>
       <mg id="5">
@@ -19265,7 +19265,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t l_par="erinomainen" pos="A-Adv">eromâš</t>
+            <t l_par="erinomainen" pos="A">eromâš</t>
          </tg>
       </mg>
    </e>
@@ -19579,7 +19579,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t l_par="outo, omituinen" pos="A-N">ärttig</t>
+            <t l_par="outo, omituinen" pos="A">ärttig</t>
          </tg>
       </mg>
       <mg id="2">
@@ -19609,13 +19609,13 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Pron">maggaar</t>
+            <t pos="A">maggaar</t>
             <t pos="N">mabdem</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t l_par="minkäänlainen" pos="A-Pron">maggaargin</t>
+            <t l_par="minkäänlainen" pos="A">maggaargin</t>
          </tg>
       </mg>
    </e>
@@ -19744,7 +19744,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="miättás">mieđes</t>
+            <t pos="A" wf="miättás">mieđes</t>
          </tg>
       </mg>
       <mg id="2">
@@ -19828,7 +19828,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t l_par="hento" pos="A-N" wf="njuorrâs">njuorâs</t>
+            <t l_par="hento" pos="A" wf="njuorrâs">njuorâs</t>
          </tg>
       </mg>
       <mg id="3">
@@ -19985,7 +19985,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t attr="asettes _AT_ asettemes" l_par="litteistä esineistä" pos="A-N">asettem</t>
+            <t attr="asettes _AT_ asettemes" l_par="litteistä esineistä" pos="A">asettem</t>
          </tg>
       </mg>
       <mg id="3">
@@ -20045,7 +20045,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t l_par="erikoinen, outo" pos="A-N">ärttig</t>
+            <t l_par="erikoinen, outo" pos="A">ärttig</t>
             <t attr="omâs" pos="A" wf="oommâs">oomâs</t>
          </tg>
       </mg>
@@ -20071,7 +20071,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">ärttig</t>
+            <t pos="A">ärttig</t>
          </tg>
       </mg>
       <mg id="2">
@@ -20113,7 +20113,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t l_par="masentunut" pos="A-N" wf="šlunde">šlunde</t>
+            <t l_par="masentunut" pos="A" wf="šlunde">šlunde</t>
          </tg>
       </mg>
       <mg id="4">
@@ -20183,7 +20183,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="skeelmâ">skelmâ</t>
+            <t pos="A" wf="skeelmâ">skelmâ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -20892,7 +20892,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t l_par="viinasta toistuvasti päihtynyt ihminen, juoppo" pos="A-N">juhhee</t>
+            <t l_par="viinasta toistuvasti päihtynyt ihminen, juoppo" pos="A">juhhee</t>
          </tg>
       </mg>
    </e>
@@ -21033,7 +21033,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t attr="arvâs" l_par="runsas" pos="A-N" wf="arvâs">aarvâs</t>
+            <t attr="arvâs" l_par="runsas" pos="A" wf="arvâs">aarvâs</t>
          </tg>
       </mg>
       <mg id="2">
@@ -21138,7 +21138,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t attr="arvâs" l_par="reilu" pos="A-N" wf="arvâs">aarvâs</t>
+            <t attr="arvâs" l_par="reilu" pos="A" wf="arvâs">aarvâs</t>
          </tg>
       </mg>
    </e>
@@ -21208,7 +21208,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">pyeccee</t>
+            <t pos="A">pyeccee</t>
          </tg>
       </mg>
       <mg id="2">
@@ -21320,7 +21320,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t attr="čielgâ" pos="A-Adv" wf="čielgâs">čielgâs</t>
+            <t attr="čielgâ" pos="A" wf="čielgâs">čielgâs</t>
          </tg>
       </mg>
       <mg id="2">
@@ -21341,8 +21341,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N">nabdem</t>
-            <t pos="A-Pron">taggaar</t>
+            <t pos="A">nabdem</t>
+            <t pos="A">taggaar</t>
             <t pos="A" syn_dash="-muđusii" t_tld="~ tommuáđusâš -muáđusii ~ tonmuáđusâš -muáđusii">tommuđusâš</t>
          </tg>
       </mg>
@@ -21695,7 +21695,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t l_par="myötämielinen" pos="A" syn_dash="-mielâlii">mietimielâlâš</t>
-            <t pos="A-N" wf="miättás">mieđes</t>
+            <t pos="A" wf="miättás">mieđes</t>
          </tg>
       </mg>
       <mg id="2">
@@ -21877,7 +21877,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t l_par="tasavälein oleva t. tapahtuva" pos="A-N" syn_dash="-koskâsii">merikoskâsâš</t>
+            <t l_par="tasavälein oleva t. tapahtuva" pos="A" syn_dash="-koskâsii">merikoskâsâš</t>
          </tg>
       </mg>
    </e>
@@ -22007,7 +22007,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t attr="torgâttemes _AT_ torgâttes" pos="A">torgâttem</t>
-            <t pos="A-N">koolmâs</t>
+            <t pos="A">koolmâs</t>
          </tg>
       </mg>
       <mg id="2">
@@ -22103,7 +22103,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t attr="tuolbâ" l_par="litteä" pos="A-N" wf="tuolbâs">tuolbâs</t>
+            <t attr="tuolbâ" l_par="litteä" pos="A" wf="tuolbâs">tuolbâs</t>
          </tg>
       </mg>
       <mg id="4">
@@ -22164,7 +22164,7 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t attr="čuhâlâs _AT_ čuha" l_par="suippo" pos="A">čuuhâl</t>
-            <t attr="čuhâ" pos="A-N" r_par="-" wf="čuuhâs">čuuvâs</t>
+            <t attr="čuhâ" pos="A" r_par="-" wf="čuuhâs">čuuvâs</t>
          </tg>
       </mg>
       <mg id="3">
@@ -22321,7 +22321,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t attr="tuáMiris" l_par="riuska" pos="A-N">tuámmir</t>
+            <t attr="tuáMiris" l_par="riuska" pos="A">tuámmir</t>
          </tg>
       </mg>
    </e>
@@ -22331,7 +22331,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t attr="fanttâ" l_par="harjaantunut" pos="A-N" t_tld="~ vaantâs vanttâs # vanttâ"
+            <t attr="fanttâ" l_par="harjaantunut" pos="A" t_tld="~ vaantâs vanttâs # vanttâ"
             wf="fanttâs">faantâs</t>
             <t pos="A">távástum</t>
          </tg>
@@ -22403,7 +22403,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-N" wf="tobdos">tobdos</t>
+            <t pos="A" wf="tobdos">tobdos</t>
             <t pos="N" wf="tubdâs">tuubdâs</t>
          </tg>
       </mg>
@@ -22449,7 +22449,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t attr="pastettemes _AT_ pastettes" l_par="terästä" pos="A-N">pastettem</t>
+            <t attr="pastettemes _AT_ pastettes" l_par="terästä" pos="A">pastettem</t>
             <t attr="tulces" pos="A" wf="tulce">tulcce</t>
          </tg>
       </mg>
@@ -22460,7 +22460,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t l_par="terästä t. asiasta" pos="A-N" wf="tiellâs">tielâs</t>
+            <t l_par="terästä t. asiasta" pos="A" wf="tiellâs">tielâs</t>
          </tg>
       </mg>
       <mg id="4">
@@ -22480,7 +22480,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t l_par="muotoilultaan" pos="A-N" wf="hámálii">hámálâš</t>
+            <t l_par="muotoilultaan" pos="A" wf="hámálii">hámálâš</t>
          </tg>
       </mg>
    </e>
@@ -22592,7 +22592,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t l_par="esim. jk esine t. asia" pos="A-N" syn_dash="-vuáláá">vááimuvuálááš</t>
+            <t l_par="esim. jk esine t. asia" pos="A" syn_dash="-vuáláá">vááimuvuálááš</t>
          </tg>
       </mg>
    </e>
@@ -22602,8 +22602,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t l_par="kokonainen" pos="A-N" wf="ollás">oles</t>
-            <t pos="A-N" wf="tievvâs">tievâs</t>
+            <t l_par="kokonainen" pos="A" wf="ollás">oles</t>
+            <t pos="A" wf="tievvâs">tievâs</t>
          </tg>
       </mg>
       <mg id="2">
@@ -22613,7 +22613,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t l_par="reunojaan myöten, kukkuroilleen astiasta" pos="A-Adv" t_tld="~čuumâld">čuumâl</t>
+            <t l_par="reunojaan myöten, kukkuroilleen astiasta" pos="A" t_tld="~čuumâld">čuumâl</t>
          </tg>
       </mg>
       <mg id="4">
@@ -22664,7 +22664,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t attr="rävis" l_par="ihmisestä" pos="A-N" wf="ráávvás">räävis</t>
+            <t attr="rävis" l_par="ihmisestä" pos="A" wf="ráávvás">räävis</t>
          </tg>
       </mg>
       <mg id="2">
@@ -22869,7 +22869,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t attr="korrâ" l_par="voimakas eläimestä" pos="A-N" wf="korrâs">koorâs</t>
+            <t attr="korrâ" l_par="voimakas eläimestä" pos="A" wf="korrâs">koorâs</t>
          </tg>
       </mg>
       <mg id="3">
@@ -23138,7 +23138,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="A" wf="muođuu">muáđuuš</t>
             <t pos="A">verttâ</t>
-            <t pos="A-N" wf="viärdágáá">viärdágâš</t>
+            <t pos="A" wf="viärdágáá">viärdágâš</t>
             <t pos="A" wf="viärdásii">viärdásâš</t>
          </tg>
       </mg>
@@ -23304,7 +23304,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t l_par="jossa on konk. vika t. vamma" pos="A-N" wf="vádulii">vádulâš</t>
+            <t l_par="jossa on konk. vika t. vamma" pos="A" wf="vádulii">vádulâš</t>
          </tg>
       </mg>
    </e>
@@ -23342,7 +23342,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t attr="korrâ" l_par="kova, ankara" pos="A-N" wf="korrâs">koorâs</t>
+            <t attr="korrâ" l_par="kova, ankara" pos="A" wf="korrâs">koorâs</t>
          </tg>
       </mg>
       <mg id="4">
@@ -23352,7 +23352,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <t attr="korrâ" l_par="kahvista" pos="A-N" wf="korrâs">koorâs</t>
+            <t attr="korrâ" l_par="kahvista" pos="A" wf="korrâs">koorâs</t>
          </tg>
       </mg>
    </e>
@@ -23419,7 +23419,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t attr="korrâ" l_par="voimakas eläimestä" pos="A-N" wf="korrâs">koorâs</t>
+            <t attr="korrâ" l_par="voimakas eläimestä" pos="A" wf="korrâs">koorâs</t>
          </tg>
       </mg>
       <mg id="3">
@@ -23553,7 +23553,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t attr="ahevâs _AT_ ahheevâs _AT_ ahevis" l_par="ikävä, tylsistyttävä" pos="A-N">ahheev</t>
+            <t attr="ahevâs _AT_ ahheevâs _AT_ ahevis" l_par="ikävä, tylsistyttävä" pos="A">ahheev</t>
          </tg>
       </mg>
    </e>

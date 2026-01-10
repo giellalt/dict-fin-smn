@@ -1333,7 +1333,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Adv" t_tld="~ávus">áávus</t>
+            <t pos="Adv" t_tld="~ávus">áávus</t>
          </tg>
       </mg>
    </e>
@@ -2063,7 +2063,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Adv" t_tld="~čuumâld">čuumâl</t>
+            <t pos="Adv" t_tld="~čuumâld">čuumâl</t>
          </tg>
       </mg>
    </e>
@@ -3251,7 +3251,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Adv">rijjâ</t>
+            <t pos="Adv">rijjâ</t>
          </tg>
       </mg>
    </e>
@@ -4047,8 +4047,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Adv">eromâš</t>
-            <t pos="A-Adv-N">tuotâ</t>
+            <t pos="Adv">eromâš</t>
+            <t pos="Adv-N">tuotâ</t>
             <t pos="Adv">uáli</t>
             <xg>
                <x>Tot lii uáli pyeri.</x>
@@ -5963,7 +5963,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Adv" attr="# -es">pietittem</t>
+            <t pos="Adv" attr="# -es">pietittem</t>
             <t pos="Adv" attr="# -s">piättáá</t>
          </tg>
       </mg>
@@ -7030,7 +7030,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Adv">ruossâlâs</t>
+            <t pos="Adv">ruossâlâs</t>
          </tg>
       </mg>
       <mg id="2">
@@ -7045,7 +7045,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Adv">ruossâlâs</t>
+            <t pos="Adv">ruossâlâs</t>
          </tg>
       </mg>
       <mg id="2">

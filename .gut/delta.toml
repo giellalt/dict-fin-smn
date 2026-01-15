@@ -1,0 +1,12 @@
+template = ""
+rev_id = 4
+template_sha = "87be02986858c4b7ae5e8613b6f951c3c209b221"
+
+[replacements]
+__LICENSE__ = "CC-BY-4.0"
+__UND2C_SRC__ = "fi"
+__UND2C_TRG__ = "smn"
+__UNDEFINED_SOURCE__ = "Finnish"
+__UNDEFINED_TARGET__ = "Inari Saami"
+__UND_SRC__ = "fin"
+__UND_TRG__ = "smn"

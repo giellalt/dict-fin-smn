@@ -114,6 +114,7 @@
 <!ATTLIST t xml:lang ( smn ) #IMPLIED >
 <!ATTLIST t src CDATA #IMPLIED >
 <!ATTLIST t l_par CDATA #IMPLIED >
+<!ATTLIST t re CDATA #IMPLIED >
 <!ATTLIST t wf CDATA #IMPLIED >
 <!ATTLIST t t_tld CDATA #IMPLIED >
 <!ATTLIST t syn_dash CDATA #IMPLIED >

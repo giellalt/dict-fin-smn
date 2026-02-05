@@ -25,8 +25,8 @@ def fix_re_attributes(filepath: str):
 
     text = filepath.read_text(encoding="utf-8")
 
-    # 1) Convert any <t ... re="VALUE" ...> into: <re>VALUE</re>\n<t ... (without the re attribute)
-    t_re = re.compile(r'(<t\b[^>]*?)\s+re="([^"]*)"([^>]*>)', flags=re.IGNORECASE)
+    # 1) Convert any <t ... l_par="VALUE" ...> into: <re>VALUE</re>\n<t ... (without the re attribute)
+    t_re = re.compile(r'(<t\b[^>]*?)\s+l_par="([^"]*)"([^>]*>)', flags=re.IGNORECASE)
     def _repl(m):
         start = m.group(1)   # part of <t ... before re
         val = m.group(2)     # re value

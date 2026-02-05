@@ -2386,8 +2386,6 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t attr="-s" pos="A">sijvuu</t>
-            <t l_par="vain attr." pos="A">sijvo</t>
-            <t attr="čurgis _AT_ čurgâdis" pos="A">čurgâd</t>
          </tg>
       </mg>
    </e>
@@ -2522,15 +2520,18 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t attr="avgâdis _AT_ avgâdâs" pos="A">avgâd</t>
-            <t attr="jolgis _AT_ jolgâ" l_par="tasainen" pos="A">jolgâd</t>
+	    <xg>
+	      <x>tulla aukeaksi</x>
+	      <xt>jalgodiđ</xt>
+	    </xg>
          </tg>
       </mg>
-      <mg id="2">
-         <tg xml:lang="smn">
-            <t l_par="tulla aukeaksi" pos="V" wf="jalgood">jalgodiđ</t>
+      <mg>
+	<tg xml:lang="smn">
+            <t l_par="tasainen" pos="A">jolgâd</t>
          </tg>
       </mg>
-   </e>
+  </e>
    <e id="845">
       <lg>
          <l pos="A">avara</l>
@@ -2594,12 +2595,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t l_par="olla epäluuloinen, m. mustasukkainen" pos="V" wf="poolât">polâttiđ</t>
-         </tg>
-      </mg>
-      <mg id="3">
-         <tg xml:lang="smn">
-            <t l_par="hän epäili vaimoaan" mwe="y" pos="Pron">tot káálgus polâttij</t>
+            <t l_par="olla epäluuloinen" pos="V" wf="poolât">polâttiđ</t>
          </tg>
       </mg>
    </e>
@@ -2649,16 +2645,6 @@ For the full license text, see the link above.
             <t attr="-s" pos="A">suvráá</t>
          </tg>
       </mg>
-      <mg id="3">
-         <tg xml:lang="smn">
-            <t attr="kuásti" l_par="eltaantunut, pilaantunut liha, kala, rasva" pos="A" wf="kuástá">kuástis</t>
-         </tg>
-      </mg>
-      <mg id="4">
-         <tg xml:lang="smn">
-            <t attr="riččâ" l_par="kitkerä, karvas" pos="A" wf="riččâs">riičâs</t>
-         </tg>
-      </mg>
    </e>
    <e id="1854">
       <lg>
@@ -2673,11 +2659,6 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t l_par="tulla, muuttua harmaaksi" pos="V" wf="ráánáásm">ránásmiđ</t>
-         </tg>
-      </mg>
-      <mg id="3">
-         <tg xml:lang="smn">
-            <t l_par="harmaat hiukset" pos="N" wf="vuoptah">jievjâ</t>
          </tg>
       </mg>
    </e>
@@ -16215,12 +16196,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t l_par="eltaantunut maku" pos="A" syn_dash="-smaakâ">havrâsmakkâ</t>
-         </tg>
-      </mg>
-      <mg id="4">
-         <tg xml:lang="smn">
-            <t l_par="eltaantuneen haju" pos="N" syn_dash="-oopsâ">havrâopsâ</t>
+            <t attr="kuásti" pos="A" wf="kuástá">kuástis</t>
          </tg>
       </mg>
    </e>

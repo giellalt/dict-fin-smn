@@ -43675,7 +43675,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <re>vastaanottaa jtak, ei suurta merkityseroa verbien välillä</re>
+            <re>vastaanottaa jtak; saada lupa: saada (verbi)+ lupa (substantiivi</re>
             <t pos="V" wf="uážum">uážžuđ</t>
             <t pos="V">finniđ</t>
             <xg>
@@ -43683,21 +43683,29 @@ For the full license text, see the link above.
                <xt>Mun ožžum sust fiijnâ suhháid.</xt>
             </xg>
             <xg>
-               <x>Minä sain sen lahjaksi. </x>
+               <x>Minä sain sen lahjaksi.</x>
                <xt>Mun finnejim tom skeŋkkân.</xt>
+            </xg>
+            <xg>
+               <x>Sain luvan käyttää opettajan autoa.</x>
+               <xt>Ožžum love, et puávtám kevttiđ máttáátteijee auto.</xt>
+            </xg>
+            <xg>
+               <x>Siihen sinä kyllä helposti saat luvan.</x>
+               <xt>Toos tun kale älkkeht finniih love.</xt>
             </xg>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <re>saada - Inf; olla lupa, saada lupa</re>
+            <re>saada lupa tehdä jtak: uážžuđ + infinitiivi</re>
             <t l_par="esim. tehdyksi, olla saatavilla" pos="V" wf="finniim finnee">uážžuđ</t>
             <xg>
                <x>Sinne et saa mennä yksin</x>
-               <xt>Tohon jieh uážu moonnâđ ohtuu</xt>
+               <xt>Tohon jieh uážu moonnâđ ohtuu.</xt>
             </xg>
             <xg>
-               <x>Minä sain ostaa uuden tietokoneen koululle. </x>
+               <x>Minä sain ostaa uuden tietokoneen koululle.</x>
                <xt>Mun ožžum uástiđ uđđâ tiätumaašin škoovlân.</xt>
             </xg>
             <xg>
@@ -43708,61 +43716,28 @@ For the full license text, see the link above.
       </mg>
       <mg>
          <tg xml:lang="smn">
-            <re>saada + substantiivi lupa</re>
-            <t l_par="saada lupa" pos="V">uážžuđ</t>
-            <t pos="V">finniđ</t>
-            <xg>
-               <x>Sain luvan käyttää opettajan autoa. </x>
-               <xt>Mun finnejim love, et puávtám kevttiđ máttáátteijee auto.</xt>
-            </xg>
-            <xg>
-               <x>Siihen sinä kyllä helposti saat luvan. </x>
-               <xt>Toos tun kale älkkeht uážuh love.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="smn">
-            <re>Onnistua jssak tehtävässä, vastaanottaa jtak ansaittua, hankkimaan</re>
-            <t pos="V">finniđ</t>
-         </tg>
-         <xg>
-            <x>Miten kurssista saa hyvän arvosanan? </x>
-            <xt>Maht kuursâst finnee šiev árvusääni?</xt>
-         </xg>
-         <xg>
-            <x>Saan palkan aina kuun puolivälissä. </x>
-            <xt>Mun finniim päälhi ain máánu pelimuddoost.</xt>
-         </xg>
-         <xg>
-            <x>Mistä olet lohia saanut? </x>
-            <xt>Kost luosâid lah finnim? </xt>
-         </xg>
-      </mg>
-      <mg>
-         <tg xml:lang="smn">
-            <re>5. Yrittää tehdä t. saada jtak</re>
+            <re>Yrittää saada jtak</re>
             <t>uážudiđ</t>
             <xg>
-               <x>Pitkään yritin saada naulaa irti seinästä ennen kuin se lähti. </x>
-               <xt>– Kuhháá mun uážudim tom spijkkár seeinist ovdilgo vuolgij.</xt>
+               <x>Pitkään yritin saada naulaa irti seinästä ennen kuin se lähti.</x>
+               <xt>Kuhháá mun uážudim tom spijkkár seeinist ovdilgo vuolgij.</xt>
             </xg>
             <xg>
-               <x>Yritin saada sitä härkää kiinni. </x>
+               <x>Yritin saada sitä härkää kiinni.</x>
                <xt>Mun uážudim tom eergi.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="smn">
-            <re>Yrittää tehdä t. saada jtak</re>
+            <re>Yrittää saada jtak aikaiseksi mutta epäonnistua</re>
             <t pos="V">selgâttiđ</t>
             <xg>
-               <x>Hittoako lienee, en saa kirvesvartta aikaiseksi. </x>
+               <x>Hittoako lienee, en saa kirvesvartta aikaiseksi.</x>
                <xt>Faanin ko lâš, jiem ákšunoovdâ seelgât</xt>
             </xg>
             <xg>
-               <x>Hän ei saanut yhtään lasta. </x>
+               <x>Hän ei saanut yhtään lasta.</x>
                <xt>Tot ij selgâttâm oovtâgin päärni.</xt>
             </xg>
          </tg>
@@ -43771,34 +43746,38 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <re>Verbit synonyymeja</re>
             <t pos="V">selgâniđ</t>
+            <t pos="V">nakkaniđ</t>
             <xg>
-               <x>Minä en saanut lähdettyä sinne. </x>
+               <x>Minä en saanut lähdettyä sinne.</x>
                <xt>Mun jiem selgânâm toho vyelgiđ</xt>
             </xg>
             <xg>
-               <x>Minä en saanut sitä tehtyä. </x>
+               <x>Minä en saanut sitä tehtyä.</x>
                <xt>Mun jiem selgânâm tom porgâđ.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="smn">
-            <re>älykäs sloistus tänne</re>
-            <t pos="V">nakkaniđ</t>
             <xg>
-               <x>Vaatteita en vieläkään saanut ripustettua kuivumaan. </x>
-               <xt/>
+               <x>Vaatteita en vieläkään saanut ripustettua kuivumaan.</x>
+               <xt>Mun jiem valagin nakkanâm heŋgâstiđ pihtâsijd kuškâđ.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="smn">
-            <t>raja tässä</t>
+            <re>saada kiinni</re>
+            <t l_par="" pos="V">fattiđ</t>
+            <xg>
+               <x>En saanut palloa kiinni.</x>
+               <xt>Mun jiem fattim páálu. </xt>
+            </xg>
+            <xg>
+               <x>Meidän täytyy saada staalo kiinni ennen kuin se karkaa.</x>
+               <xt>Mij ferttip fattiđ stáálu ovdilgo tot kárgáá.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <re>saada tietää, nähdä tms.</re>
+            <re>saada tietää, saada nähdä tms.</re>
             <t l_par="voida, pystyä tekemään jtak" pos="V" wf="puáđám">puáttiđ</t>
             <xg>
                <x>Minä en saanut tietää siitä asiasta mitään.</x>
@@ -43812,7 +43791,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <re>yrittää saada jtak irti, kiinni tms.</re>
+            <re>yrittää saada vaivalloinen työ tehtyä</re>
             <t l_par="yrittää saada jtak" pos="V" wf="uážžud">uážudiđ</t>
             <xg>
                <x>Pitkään yritin irrottaa naulaa ennen kuin onnistuin.</x>
@@ -43842,63 +43821,19 @@ For the full license text, see the link above.
             </xg>
          </tg>
       </mg>
-      <mg id="6">
-         <tg xml:lang="smn">
-            <t l_par="onnistua saamaan jtak harvinaista" pos="V" wf="koVom">kovvoođ</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="smn">
-            <t>selgâttiđ</t>
-         </tg>
-         <xg>
-            <x>Faanin ko lâš, jiem ákšunoovdâ seelgât.</x>
-            <xt>Hittoako lienee, en saa kirvesvartta aikaiseksi.</xt>
-         </xg>
-         <xg>
-            <x>Hädin tuskin saa sanaa suustaan.</x>
-            <xt>Sun illá sääni seelgât.</xt>
-         </xg>
-         <xg>
-            <x>En saa kirjoitetuksi.</x>
-            <xt>Jiem seelgât čäälliđ.</xt>
-         </xg>
-      </mg>
-      <mg id="8">
-         <tg xml:lang="smn">
-            <t pos="V" wf="ááštáš">áštášiđ</t>
-            <t pos="V">selgâniđ</t>
-         </tg>
-      </mg>
-      <mg id="9">
-         <tg xml:lang="smn">
-            <t l_par="erit. jtk" pos="V">nakkaniđ</t>
-            <t pos="V" wf="káárum ij kááru">káárruđ</t>
-            <t l_par="tehdä todeksi, panna toimeksi" pos="V" wf="áimud">áimudiđ</t>
-         </tg>
-      </mg>
-      <mg id="10">
-         <tg xml:lang="smn">
-            <t l_par="saada oikeutetusti osakseen" pos="V" wf="ááštáš">áštášiđ</t>
-         </tg>
-      </mg>
-      <mg id="11">
-         <tg xml:lang="smn">
-            <t l_par="saada käsiinsä" pos="V" wf="fattiim">fattiđ</t>
-         </tg>
-      </mg>
       <mg id="13">
          <tg xml:lang="smn">
+            <re>saada kaloja verkolla</re>
             <t l_par="saada muutamia kaloja verkolla" pos="V" wf="rippáát">ripáttiđ</t>
+            <xg>
+               <x>Kyllä sieltä aina muutaman kalan saa.</x>
+               <xt>Kal tobbeen ain mottoom kuálááš rippáát.</xt>
+            </xg>
          </tg>
       </mg>
       <ig>
-         <i>Saada päähänsä </i>
-         <it>uážžuđ uáivásis</it>
-      </ig>
-      <ig>
-         <i>Hädin tuskin saa sanaa suustaan. </i>
-         <it>Illá sääni seelgât.</it>
+         <i>Mistä hän sen on saanut päähänsä?</i>
+         <it>Kost sun tom lii uážžum uáivásis?</it>
       </ig>
    </e>
    <e id="12533">
@@ -43907,6 +43842,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>tulla itse, henkilöstä</re>
             <t pos="V" wf="puáđám">puáttiđ</t>
             <xg>
                <x>Minä saavuin Inariin perjantaina.</x>
@@ -43928,6 +43864,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
+            <re>joutua, ajasta odottelun jälkeen</re>
             <t l_par="saavuttaa" pos="V" wf="juávdá">juovdâđ</t>
             <xg>
                <x>Lumimyräkkä saapui Suomeen.</x>
@@ -43935,16 +43872,17 @@ For the full license text, see the link above.
             </xg>
             <xg>
                <x>Kevät saapui Suomeen aikaisemmin kuin edellisenä vuonna.</x>
-               <xt>Kiđđâ poođij ~ juovdâi Suomân tooleeb ko tijmá.</xt>
+               <xt>Kiđđâ juovdâi Suomân tooleeb ko tijmá.</xt>
             </xg>
             <xg>
                <x>Ensimmäiset joutsenet saapuivat Inariin.</x>
-               <xt>Vuosmuuh njuuvčah pottii ~ juovdii Anarân.</xt>
+               <xt>Vuosmuuh njuuvčah juovdii Anarân.</xt>
             </xg>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
+            <re>tavoittaa, tulla jhk</re>
             <t l_par="erit. negatiivisista asioista, kuten taudeista" pos="V" wf="juksá">juksâđ</t>
             <xg>
                <x>Korona saapui myös Samoalle.</x>
@@ -43954,6 +43892,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
+            <re>ehtiä kiireiltään; neutraalimpi puáttiđ myös mahdollinen, ks. 1</re>
             <t l_par="saapua ajoissa" pos="V" wf="pyevtit">pyevtittiđ</t>
             <xg>
                <x>Hautajaisiin saapui myös kuninkaallisia vieraita.</x>
@@ -43963,6 +43902,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
+            <re>Toimituksen perille saattaminen</re>
             <t l_par="toimituksesen perille saapumisesta" pos="V" wf="puáhtoo">puohtuđ</t>
             <xg>
                <x>Pikkupanda saapui iltapäivällä Suomeen Helsinki-Vantaan lentoasemalle.</x>
@@ -43976,6 +43916,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
+            <re>Olla saatavilla</re>
             <t l_par="olla saatavilla" pos="V" wf="lii finniimist">leđe finniimist</t>
             <xg>
                <x>Uusi sähköpostisovellus saapui iPadille ja Android-tableteille.</x>

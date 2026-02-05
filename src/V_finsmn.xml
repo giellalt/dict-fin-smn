@@ -43767,7 +43767,7 @@ For the full license text, see the link above.
             <t l_par="" pos="V">fattiđ</t>
             <xg>
                <x>En saanut palloa kiinni.</x>
-               <xt>Mun jiem fattim páálu. </xt>
+               <xt>Mun jiem fattim páálu.</xt>
             </xg>
             <xg>
                <x>Meidän täytyy saada staalo kiinni ennen kuin se karkaa.</x>
@@ -44983,11 +44983,6 @@ For the full license text, see the link above.
             <t pos="V" wf="pánáiditám">pánáidittiđ</t>
          </tg>
       </mg>
-      <mg id="4">
-         <tg xml:lang="smn">
-            <t attr="# -s" l_par="ihminen joka osaa hyvin melodiat" pos="A">nuottii</t>
-         </tg>
-      </mg>
    </e>
    <e id="13380">
       <lg>
@@ -45788,7 +45783,16 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>jkta jstak asiasta; ei tuomioistuimessa</re>
             <t pos="V" wf="suujât">sujâttiđ</t>
+            <xg>
+               <x>Hän syytti minua rahojen katoamisesta.</x>
+               <xt>Sun sujâttij muu ruđâi lappuumist.</xt>
+            </xg>
+            <xg>
+               <x>Älä syytä minua siitä asiasta!</x>
+               <xt>Ele suujât muu tien ääšist!</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
@@ -45798,7 +45802,12 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
+            <re>Erit. tuomioistuimessa</re>
             <t l_par="erit. tuomioistuimessa" pos="V" wf="ášáskut">ášáskuttiđ</t>
+            <xg>
+               <x>Rikosilmoituksen tekeminen on ainoa laillinen tapa syyttää rikoksen tekijää.</x>
+               <xt>Rikosalmottâs toohâm lii áinoo lavâlâš tääpi ášáskuttiđ rikkoos tahhee.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -45935,7 +45944,16 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>Tuntea kipua</re>
             <t pos="V" wf="poovčâst">povčâstiđ</t>
+            <xg>
+               <x>Minulla on jalka kipeä.</x>
+               <xt>Must jyelgi poovčâst.</xt>
+            </xg>
+            <xg>
+               <x>Minulla on pää kipeä.</x>
+               <xt>Must uáivi poovčâst.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
@@ -45955,13 +45973,32 @@ For the full license text, see the link above.
       </mg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>Hajottaa jtak</re>
             <t l_par="m. rahaa pienemmäksi" pos="V" wf="cuovkkiim cyevkkee">cuovkkiđ</t>
+            <xg>
+               <x>Poliisit aikoivat särkeä oven.</x>
+               <xt>Pooliseh aiguu cuovkkiđ uuvsâ.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
+            <re>Hajottaa, frekv.</re>
             <t l_par="pidemmän aikaa" pos="V" wf="cuávhum">cuávkkuđ</t>
-            <t l_par="särkeä t. vaihtaa rahaa pienemmäksi" pos="V" wf="cuovkkiim cyevkkee">cuovkkiđ</t>
+            <xg>
+               <x>Hirvet kiima-aikana särkivät puuaitaa niin kuin halusivat.</x>
+               <xt>Soorvah roovvâd ääigi cuovkkuu muorâääiđi maht halidii.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="???">
+            <re>Särkeä rahaa</re>
+            <t pos="V">cuovkkiđ</t>
+            <xg>
+               <x>Voitko särkeä sataeurosen?</x>
+               <xt>Puávtáh-uv cuovkkiđ čyetieurosii?</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="3">

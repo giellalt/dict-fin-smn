@@ -48822,48 +48822,61 @@ For the full license text, see the link above.
    </e>
    <e id="14040 14041">
       <lg>
-         <l pos="V" r1_par="kivistää, rikkoa">särkeä</l>
+         <l pos="V" r1_par="kivistää, rikkoa">särkeä 1</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <re>Tuntea kipua</re>
+            <re>Olla kipeä: jalka, käsi, pää, korva</re>
             <t pos="V" wf="poovčâst">povčâstiđ</t>
             <xg>
-               <x>Minulla on jalka kipeä.</x>
+               <x>Minulla särkee jalkaa.</x>
                <xt>Must jyelgi poovčâst.</xt>
             </xg>
             <xg>
-               <x>Minulla on pää kipeä.</x>
-               <xt>Must uáivi poovčâst.</xt>
+               <x>Hänellä särkee korvaa.</x>
+               <xt>Sust pelji poovčâst.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="???">
+            <re>Olla kipeä: selkä</re>
+            <t>leđe raše </t>
+            <xg>
+               <x>Minulla särkee selkää.</x>
+               <xt>Must lii čielgi raše.</xt>
             </xg>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <re>aristaa jtk esim. jalkaa, päätä</re>
+            <re>Aristaa jtak, esim. jalkaa, päätä</re>
             <t pos="V" wf="anam">anneeđ</t>
+            <xg>
+               <x>Sillä härällä särkee jalkaa. </x>
+               <xt>Tot ergi juolgijn ana.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <re>erit. reumaattisesta kivusta</re>
+            <re>Olla kipeä, erityisen kovasta kivusta</re>
             <t pos="V" wf="čirgom">čirgođ</t>
+            <xg>
+               <x>Minulla särkee korvaa.</x>
+               <xt>Must pelji čirgo.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <re>paleltuneesta raajasta</re>
+            <re>Paleltuneesta raajasta</re>
             <t pos="V" wf="tuuvhest">tuvhestiđ</t>
          </tg>
       </mg>
       <mg id="1">
          <tg xml:lang="smn">
-            <re>Hajottaa jtak</re>
-            <t l_par="m. rahaa pienemmäksi" pos="V" wf="cuovkkiim cyevkkee">cuovkkiđ</t>
-            <xg>
-               <x>Poliisit aikoivat särkeä oven.</x>
-               <xt>Pooliseh aiguu cuovkkiđ uuvsâ.</xt>
-            </xg>
+            <t l_par="m. rahaa pienemmäksi" pos="V" wf="cuovkkiim cyevkkee">s</t>
          </tg>
       </mg>
       <mg id="2">
@@ -48878,22 +48891,40 @@ For the full license text, see the link above.
       </mg>
       <mg>
          <tg xml:lang="???">
-            <re>Särkeä rahaa</re>
-            <t pos="V">cuovkkiđ</t>
-            <xg>
-               <x>Voitko särkeä sataeurosen?</x>
-               <xt>Puávtáh-uv cuovkkiđ čyetieurosii?</xt>
-            </xg>
+            <t pos="V">s</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
             <re>yrittää vaihtaa t. särkeä rahaa pienemmäksi</re>
             <t pos="V">cuovkkiittâllâđ</t>
+            <xg>
+               <x>Hän yritti särkeä satasta (sadan markan seteliä).</x>
+               <xt>Sun cuovkkiittâlâi čyetimárkkásii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-      <e id="14045">
+   <e>
+      <lg>
+         <l pos="V">särkeä 2</l>
+      </lg>
+      <mg>
+         <tg xml:lang="???">
+            <re>JHajottaa jtak, särkeä rahaa pienemmäksi</re>
+            <t pos="V">cuovkkiđ</t>
+            <xg>
+               <x>Poliisit aikoivat särkeä oven</x>
+               <xt>Pooliseh aiguu cuovkkiđ uuvsâ.</xt>
+            </xg>
+            <xg>
+               <x>Voitko särkeä sataeurosen?</x>
+               <xt>Puávtáh-uv cuovkkiđ čyetieurosii?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e id="14045">
       <lg>
          <l pos="V">särkyä</l>
       </lg>

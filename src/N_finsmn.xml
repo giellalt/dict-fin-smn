@@ -52261,7 +52261,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Phrase">čaaitâlm uási</t>
+            <t  t_type="Phrase">čaaitâlm uási</t>
          </tg>
       </mg>
       <mg id="1">
@@ -94077,7 +94077,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="A-Adv">heeppâd</t>
+            <t pos="N">heeppâd</t>
             <t pos="N" wf="heeppâdvuođâ">heeppâdvuotâ</t>
          </tg>
       </mg>
@@ -131796,11 +131796,11 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="Phrase">epäsuora kysymyslause</l>
+         <l  t_type="Phrase">epäsuora kysymyslause</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="Phrase">epinjuolgâ koččâmušceelhâ</t>
+            <t  t_type="Phrase">epinjuolgâ koččâmušceelhâ</t>
          </tg>
       </mg>
    </e>
@@ -131836,7 +131836,7 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="Phrase">suora lainaus</l>
+         <l  t_type="Phrase">suora lainaus</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
@@ -131950,7 +131950,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="Phrase">nobdum heterovuotâ</t>
+            <t  t_type="Phrase">nobdum heterovuotâ</t>
          </tg>
       </mg>
    </e>
@@ -132036,11 +132036,11 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kolmas sukupuoli</l>
+         <l  t_type="Phrase">kolmas sukupuoli</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="Phrase">kuálmád suhâpeeli</t>
+            <t  t_type="Phrase">kuálmád suhâpeeli</t>
          </tg>
       </mg>
    </e>
@@ -132685,7 +132685,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="Phrase">ideaal tile</t>
+            <t  t_type="Phrase">ideaal tile</t>
          </tg>
       </mg>
    </e>
@@ -133225,7 +133225,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="Phrase">koskâpuddâsâš aassâmviste</t>
+            <t  t_type="Phrase">koskâpuddâsâš aassâmviste</t>
          </tg>
       </mg>
    </e>
@@ -133505,7 +133505,7 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <t pos="Phrase">siähálâs kulttuur</t>
+            <t  t_type="Phrase">siähálâs kulttuur</t>
          </tg>
       </mg>
    </e>

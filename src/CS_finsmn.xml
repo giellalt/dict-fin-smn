@@ -216,15 +216,15 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-CS">ko</t>
+            <t pos="CS">ko</t>
             <t pos="Pron">kođe</t>
-            <t pos="Adv-CS">kuo</t>
+            <t pos="CS">kuo</t>
             <t pos="Adv">jo</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="Adv-CS" l_par="ajasta">kuás</t>
+            <t pos="CS" l_par="ajasta">kuás</t>
          </tg>
       </mg>
       <mg id="3">

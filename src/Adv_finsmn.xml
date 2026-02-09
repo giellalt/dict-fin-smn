@@ -559,7 +559,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="Adv-Pron" l_par="kaikki">puoh</t>
+            <t pos="Adv" l_par="kaikki">puoh</t>
             <t pos="Adv">viisut</t>
          </tg>
       </mg>
@@ -620,7 +620,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po" l_par="abst.">suulâst</t>
+            <t pos="Adv" l_par="abst.">suulâst</t>
          </tg>
       </mg>
       <mg id="2">
@@ -665,8 +665,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Pron" t_tld="~ taste">tast</t>
-            <t pos="Adv-Pron" t_tld="~ tieđee">tieđe</t>
+            <t pos="Adv" t_tld="~ taste">tast</t>
+            <t pos="Adv" t_tld="~ tieđee">tieđe</t>
             <t pos="Adv">tissáá</t>
             <t pos="Adv">togo</t>
          </tg>
@@ -921,7 +921,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-N" t_tld="~mane">mane</t>
+            <t pos="Adv" t_tld="~mane">mane</t>
             <t pos="Adv">mondiet</t>
          </tg>
       </mg>
@@ -1013,7 +1013,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <t pos="Adv-CS" l_par="siihen asti">tassaaš</t>
+            <t pos="Adv" l_par="siihen asti">tassaaš</t>
          </tg>
       </mg>
    </e>
@@ -1363,7 +1363,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">ovdiibeln</t>
+            <t pos="Adv">ovdiibeln</t>
          </tg>
       </mg>
    </e>
@@ -1393,7 +1393,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">ovdiibeln</t>
+            <t pos="Adv">ovdiibeln</t>
          </tg>
       </mg>
    </e>
@@ -1463,7 +1463,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-N">sierâ</t>
+            <t pos="Adv">sierâ</t>
          </tg>
       </mg>
    </e>
@@ -1483,7 +1483,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">oovdân</t>
+            <t pos="Adv">oovdân</t>
          </tg>
       </mg>
    </e>
@@ -1503,7 +1503,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">haaldust</t>
+            <t pos="Adv">haaldust</t>
          </tg>
       </mg>
    </e>
@@ -1713,7 +1713,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-N">vaarâ</t>
+            <t pos="Adv">vaarâ</t>
          </tg>
       </mg>
    </e>
@@ -2083,7 +2083,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-N">jaamâs</t>
+            <t pos="Adv">jaamâs</t>
          </tg>
       </mg>
    </e>
@@ -2258,7 +2258,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">aldasáid</t>
+            <t pos="Adv">aldasáid</t>
          </tg>
       </mg>
    </e>
@@ -2562,7 +2562,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">oolâ</t>
+            <t pos="Adv">oolâ</t>
          </tg>
       </mg>
    </e>
@@ -2793,7 +2793,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">siisâ</t>
+            <t pos="Adv">siisâ</t>
          </tg>
       </mg>
    </e>
@@ -2803,7 +2803,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po-Pron">siste</t>
+            <t pos="Adv">siste</t>
          </tg>
       </mg>
    </e>
@@ -2923,7 +2923,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">tyehin</t>
+            <t pos="Adv">tyehin</t>
          </tg>
       </mg>
    </e>
@@ -2933,7 +2933,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po" t_tld="~ maaŋaabeln">maajaabeln</t>
+            <t pos="Adv" t_tld="~ maaŋaabeln">maajaabeln</t>
          </tg>
       </mg>
    </e>
@@ -2943,7 +2943,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">keežild</t>
+            <t pos="Adv">keežild</t>
          </tg>
       </mg>
    </e>
@@ -3107,7 +3107,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-N">pokkâ</t>
+            <t pos="Adv">pokkâ</t>
          </tg>
       </mg>
    </e>
@@ -3157,7 +3157,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">ulguubeln</t>
+            <t pos="Adv">ulguubeln</t>
          </tg>
       </mg>
    </e>
@@ -3591,7 +3591,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">paijeel</t>
+            <t pos="Adv">paijeel</t>
          </tg>
       </mg>
    </e>
@@ -3621,7 +3621,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">paajaabeln</t>
+            <t pos="Adv">paajaabeln</t>
          </tg>
       </mg>
    </e>
@@ -3631,7 +3631,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">pajas</t>
+            <t pos="Adv">pajas</t>
          </tg>
       </mg>
    </e>
@@ -3681,7 +3681,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">piällást</t>
+            <t pos="Adv">piällást</t>
          </tg>
       </mg>
    </e>
@@ -3875,7 +3875,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">oovdân</t>
+            <t pos="Adv">oovdân</t>
             <t pos="Po">ovdiibel</t>
          </tg>
       </mg>
@@ -3899,7 +3899,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">oovdâst</t>
+            <t pos="Adv">oovdâst</t>
             <t pos="Adv">ovdebist</t>
          </tg>
       </mg>
@@ -3933,7 +3933,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Pron">iänááš</t>
+            <t pos="Adv">iänááš</t>
             <t pos="Adv">iänáážin</t>
          </tg>
       </mg>
@@ -4035,7 +4035,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-N">sierâ</t>
+            <t pos="Adv">sierâ</t>
             <t pos="Adv">ohtuunis</t>
             <t pos="Adv">erinis</t>
          </tg>
@@ -4048,7 +4048,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">eromâš</t>
-            <t pos="Adv-N">tuotâ</t>
+            <t pos="Adv">tuotâ</t>
             <t pos="Adv">uáli</t>
             <xg>
                <x>Tot lii uáli pyeri.</x>
@@ -4150,7 +4150,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-N">luovâs</t>
+            <t pos="Adv">luovâs</t>
             <t pos="Adv">pođoi</t>
             <t pos="Adv">pođos</t>
          </tg>
@@ -4186,8 +4186,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-CS">ko</t>
-            <t pos="Adv-CS">kuás</t>
+            <t pos="Adv">ko</t>
+            <t pos="Adv">kuás</t>
          </tg>
       </mg>
    </e>
@@ -4280,7 +4280,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">maajeeld</t>
-            <t pos="Adv-Po" t_tld="~maaŋaabeln">maajaabeln</t>
+            <t pos="Adv" t_tld="~maaŋaabeln">maajaabeln</t>
          </tg>
       </mg>
    </e>
@@ -4290,7 +4290,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">maŋa</t>
+            <t pos="Adv">maŋa</t>
             <t pos="Adv">maŋadist</t>
          </tg>
       </mg>
@@ -4358,7 +4358,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Po" l_par="jtak">kaskoo</t>
-            <t pos="Adv-N-Po">kuávdoo</t>
+            <t pos="Adv">kuávdoo</t>
             <t pos="Adv">kyevdil</t>
             <xg>
                <x>Hän seisoo keskellä lattiaa.</x>
@@ -4440,8 +4440,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">njeigâ</t>
-            <t pos="N-Po">vuástá</t>
+            <t pos="Adv">njeigâ</t>
+            <t pos="Adv">vuástá</t>
          </tg>
       </mg>
    </e>
@@ -4499,7 +4499,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="Adv">mahte</t>
             <t pos="CS">tegu</t>
-            <t pos="Adv-CS">nuuvtko</t>
+            <t pos="CS">nuuvtko</t>
          </tg>
       </mg>
    </e>
@@ -4566,7 +4566,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Po">lasseen</t>
-            <t pos="Adv-Po">oolâ</t>
+            <t pos="Adv">oolâ</t>
             <xg>
                <x>Se söi ensin ja ryyppäsi viiniä päälle/lisäksi.</x>
                <xt>Tot puurâi vistig já te julestij viijne oolâ.</xt>
@@ -4909,9 +4909,9 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">oppeet</t>
-            <t pos="Adv-Pron">taas</t>
+            <t pos="Adv">taas</t>
             <t pos="Adv" t_tld="~vist">vest</t>
-            <t pos="Adv-CC" t_tld="~vuot">vuod</t>
+            <t pos="Adv" t_tld="~vuot">vuod</t>
          </tg>
       </mg>
    </e>
@@ -4974,7 +4974,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">kuuvl</t>
+            <t pos="Adv">kuuvl</t>
             <t pos="Po" t_tld="~luusâ">luus</t>
          </tg>
       </mg>
@@ -4986,7 +4986,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Adv">vissâ</t>
-            <t pos="Adv-N">vaarâ</t>
+            <t pos="Adv">vaarâ</t>
          </tg>
       </mg>
    </e>
@@ -5225,7 +5225,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po" t_tld="~vyeln">vyelni</t>
+            <t pos="Adv" t_tld="~vyeln">vyelni</t>
          </tg>
       </mg>
       <mg id="2">
@@ -5261,7 +5261,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-N" t_tld="~ávus">áávus</t>
+            <t pos="Adv" t_tld="~ávus">áávus</t>
          </tg>
       </mg>
       <mg id="2">
@@ -5303,7 +5303,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="Adv-Po" l_par="enemmän kuin">paijeel</t>
+            <t pos="Adv" l_par="enemmän kuin">paijeel</t>
             <xg>
                <x>maksaa enemmän kuin satasen kilolta</x>
                <xt>máksá paijeel čyettin kiilust</xt>
@@ -5347,7 +5347,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">oovdân</t>
+            <t pos="Adv">oovdân</t>
          </tg>
       </mg>
       <mg id="2">
@@ -5383,7 +5383,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="Adv-Po" l_par="asia">oovdân</t>
+            <t pos="Adv" l_par="asia">oovdân</t>
          </tg>
       </mg>
       <mg id="3">
@@ -5834,14 +5834,14 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">maŋa</t>
-            <t pos="Adv-Po" t_tld="~ maŊa tast" mwe="y">tast maŋa</t>
-            <t pos="Adv-Po" mwe="y">maŋa ko</t>
+            <t pos="Adv">maŋa</t>
+            <t pos="Adv" t_tld="~ maŊa tast" mwe="y">tast maŋa</t>
+            <t pos="Adv" mwe="y">maŋa ko</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="Adv-Po" l_par="lisäksi">oolâ</t>
+            <t pos="Adv" l_par="lisäksi">oolâ</t>
          </tg>
       </mg>
    </e>
@@ -5979,7 +5979,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Pron">ohtân</t>
+            <t pos="Adv">ohtân</t>
             <t pos="Adv">tove</t>
          </tg>
       </mg>
@@ -6005,7 +6005,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-N-Po" l_par="jtak">koskân</t>
+            <t pos="Adv" l_par="jtak">koskân</t>
          </tg>
       </mg>
       <mg id="2">
@@ -6215,7 +6215,7 @@ For the full license text, see the link above.
             <t pos="Adv">joo</t>
             <t pos="Adv">joo-o</t>
             <t pos="Adv" t_tld="~kale">kal</t>
-            <t pos="Adv-CC">naa</t>
+            <t pos="Adv">naa</t>
          </tg>
       </mg>
       <mg id="2">
@@ -6290,7 +6290,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="Po">kiäčán</t>
             <t pos="Adv">kiäččá</t>
-            <t pos="Adv-Po">kuuvl</t>
+            <t pos="Adv">kuuvl</t>
             <t pos="Po" t_tld="~luus">luusâ</t>
          </tg>
       </mg>
@@ -6344,7 +6344,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">alda</t>
+            <t pos="Adv">alda</t>
          </tg>
       </mg>
       <mg id="2">
@@ -6389,7 +6389,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Pron">iänááš</t>
+            <t pos="Adv">iänááš</t>
             <t pos="Adv">enâmustáá</t>
             <t pos="Adv" t_tld="~ aldemustáá">aldemust</t>
          </tg>
@@ -6479,12 +6479,12 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-CS">kuás</t>
+            <t pos="Adv">kuás</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="Adv-CS" l_par="alistuskonj.">ko</t>
+            <t pos="Adv" l_par="alistuskonj.">ko</t>
          </tg>
       </mg>
       <mg id="3">
@@ -6534,7 +6534,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="Adv-Pron" l_par="miten monesti" wf="kollii">mon</t>
+            <t pos="Adv" l_par="miten monesti" wf="kollii">mon</t>
          </tg>
       </mg>
       <mg id="3">
@@ -6549,7 +6549,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">fáárun</t>
+            <t pos="Adv">fáárun</t>
             <t pos="Adv" t_tld="~ mild">mieldi</t>
          </tg>
       </mg>
@@ -6580,7 +6580,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">fáárust</t>
+            <t pos="Adv">fáárust</t>
             <t pos="Adv" t_tld="~ mild">mieldi</t>
          </tg>
       </mg>
@@ -6606,7 +6606,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">maŋa</t>
+            <t pos="Adv">maŋa</t>
             <t pos="Adv" t_tld="~majeláá">maŋeláá</t>
          </tg>
       </mg>
@@ -6769,7 +6769,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">maŋŋaal</t>
+            <t pos="Adv">maŋŋaal</t>
             <t pos="Po">piärán</t>
          </tg>
       </mg>
@@ -6823,7 +6823,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po" l_par="katkennut, katkaistu">rasta</t>
+            <t pos="Adv" l_par="katkennut, katkaistu">rasta</t>
          </tg>
       </mg>
       <mg id="2">
@@ -6944,15 +6944,15 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="Adv-N" l_par="jhk suuntaan">kuávlun</t>
+            <t pos="Adv" l_par="jhk suuntaan">kuávlun</t>
             <t pos="Po">kulen</t>
             <t pos="Po">kulij</t>
-            <t pos="Adv-Po">kuuvl</t>
+            <t pos="Adv">kuuvl</t>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t pos="Adv-Po" l_par="päin, vasten">njeigâ</t>
+            <t pos="Adv" l_par="päin, vasten">njeigâ</t>
          </tg>
       </mg>
    </e>
@@ -6977,7 +6977,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">alne</t>
+            <t pos="Adv">alne</t>
             <t pos="Adv">pajalist</t>
             <t pos="Adv">paajeeld</t>
          </tg>
@@ -7126,7 +7126,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po-Pron">siste</t>
+            <t pos="Adv">siste</t>
          </tg>
       </mg>
       <mg id="2">
@@ -7151,7 +7151,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">siisâ</t>
+            <t pos="Adv">siisâ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -7174,13 +7174,13 @@ For the full license text, see the link above.
             <t pos="Adv" t_tld="~šet">šât</t>
             <t pos="Adv">sittá</t>
             <t pos="Adv">talle</t>
-            <t pos="Adv-CS">te</t>
+            <t pos="Adv">te</t>
             <t pos="Adv">nuuvt</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="Adv-CS" l_par="sitten aikaisemmin">tassaaš</t>
+            <t pos="Adv" l_par="sitten aikaisemmin">tassaaš</t>
          </tg>
       </mg>
    </e>
@@ -7206,7 +7206,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Po">maŋas</t>
-            <t pos="Adv-Po">tuáhá</t>
+            <t pos="Adv">tuáhá</t>
          </tg>
       </mg>
       <mg id="2">
@@ -7499,7 +7499,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N-Po" l_par="esim. olla jtak vastaan">vuástá</t>
+            <t pos="N" l_par="esim. olla jtak vastaan">vuástá</t>
          </tg>
       </mg>
       <mg id="2">
@@ -7525,12 +7525,12 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N-Po">vuástá</t>
+            <t pos="N">vuástá</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="Adv-Po" l_par="erit. nojallaan">njeigâ</t>
+            <t pos="Adv" l_par="erit. nojallaan">njeigâ</t>
          </tg>
       </mg>
    </e>
@@ -7540,7 +7540,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-N">veerdi</t>
+            <t pos="Adv">veerdi</t>
             <t pos="Po">verd</t>
          </tg>
       </mg>
@@ -7662,12 +7662,12 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po" l_par="esim. tien, joen">rasta</t>
+            <t pos="Adv" l_par="esim. tien, joen">rasta</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="Adv-Po" l_par="esim. tunturin, katon, ymmärryksen">paijeel</t>
+            <t pos="Adv" l_par="esim. tunturin, katon, ymmärryksen">paijeel</t>
          </tg>
       </mg>
       <mg id="3">
@@ -7682,12 +7682,12 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">pirrâ</t>
+            <t pos="Adv">pirrâ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t pos="Adv-Po" l_par="ympärillä">pirrâ</t>
+            <t pos="Adv" l_par="ympärillä">pirrâ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -7822,7 +7822,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-N">nuorttân</t>
+            <t pos="Adv">nuorttân</t>
          </tg>
       </mg>
    </e>
@@ -8022,7 +8022,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">njeigâ</t>
+            <t pos="Adv">njeigâ</t>
          </tg>
       </mg>
    </e>
@@ -8102,7 +8102,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po">aldasijn</t>
+            <t pos="Adv">aldasijn</t>
          </tg>
       </mg>
    </e>
@@ -8758,7 +8758,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Po-Pron">siste</t>
+            <t pos="Adv">siste</t>
             <t pos="Po">ääigi</t>
             <t pos="Adv">nuvâdijn</t>
          </tg>
@@ -8817,7 +8817,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="Adv">melgâd</t>
             <t pos="Adv">uáli</t>
-            <t pos="Adv-N">viehâ</t>
+            <t pos="Adv">viehâ</t>
          </tg>
       </mg>
    </e>
@@ -8893,9 +8893,8 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Pron">tast</t>
+            <t pos="Adv">tast</t>
             <t pos="Adv">talle</t>
-            <t pos="CC-CS">tastko</t>
          </tg>
       </mg>
    </e>
@@ -8918,8 +8917,8 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="Po">kulij</t>
-            <t pos="Adv-Po">kuuvl</t>
-            <t pos="Adv-N">kuávlun</t>
+            <t pos="Adv">kuuvl</t>
+            <t pos="Adv">kuávlun</t>
          </tg>
       </mg>
    </e>
@@ -8948,12 +8947,11 @@ For the full license text, see the link above.
    </e>
    <e id="15562">
       <lg>
-         <l pos="Adv">tähden</l>
+         <l pos="Po">tähden</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Po-Pron" t_tld="~ tiet ~ tet">tiet</t>
-            <t pos="Adv-Po">keežild</t>
+            <t pos="Po">keežild</t>
             <t pos="Po">keččin</t>
          </tg>
       </mg>
@@ -9064,7 +9062,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-N" l_par="melko">viehâ</t>
+            <t pos="Adv" l_par="melko">viehâ</t>
             <xg>
                <x>Tilanne on jokseenkin hyvä.</x>
                <xt>Tile lii viehâ pyeri.</xt>
@@ -9087,7 +9085,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="Adv-Pron">puoh</t>
+            <t pos="Adv">puoh</t>
          </tg>
       </mg>
       <mg id="2">
@@ -10215,4 +10213,104 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
+   <e>
+     <lg>
+       <l pos="Adv">alapuolella</l>
+     </lg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="alapuolella, -lta">vuoluubeln</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+     <lg>
+       <l pos="Adv">alapuolelle</l>
+     </lg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="alapuolelle">vuoluubel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+     <lg>
+       <l pos="Adv">alapuolella</l>
+     </lg>
+      <mg id="4">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="tuulen alapuoli, alapuolella, -lta">miäđáábeln</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+     <lg>
+       <l pos="Adv">alapuolella</l>
+     </lg>
+      <mg id="5">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="tuulen alapuolelle">miäđáábel</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+     <lg>
+      <l pos="Adv">itään</l>
+     </lg>
+     <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="itään">nuortâs</t>
+         </tg>
+     </mg>
+   </e>
+   <e>
+     <lg>
+       <l pos="Adv">idästä</l>
+     </lg>
+      <mg id="4">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="idässä, -stä">nuorttân</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+   <lg>
+     <l pos="Adv">jälkipuolella</l>
+   </lg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Adv">maajaabeln</t>
+         </tg>
+      </mg>
+    </e>
+   <e>
+   <lg>
+     <l pos="Adv">jälkipuolelta</l>
+   </lg>
+      <mg id="2">
+         <tg xml:lang="smn">
+            <t pos="Adv">maajaabeln</t>
+         </tg>
+      </mg>
+    </e>
+   <e>
+   <lg>
+     <l pos="Adv">jälkipuolelle</l>
+   </lg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="N" l_par="jälkipuolelle" t_tld="~maaŋaabel">maajaabel</t>
+         </tg>
+      </mg>
+    </e>
+      <e>
+	<lg>
+	  <l pos="Adv">suomeksi</l>
+	</lg>
+      <mg id="3">
+         <tg xml:lang="smn">
+            <t pos="Adv" l_par="suomeksi">suomâs</t>
+         </tg>
+      </mg>
+    </e>
 </r>

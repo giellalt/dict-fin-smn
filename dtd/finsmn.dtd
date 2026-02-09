@@ -29,10 +29,12 @@
       pos ( A | Adv | CC | CS | Pcle | Po | Pron |
             Interj | N | Num | Phrase | V  ) #REQUIRED
       attr CDATA #IMPLIED
+      sci  CDATA #IMPLIED
       type ( Prop ) #IMPLIED
       r1_par CDATA #IMPLIED
       r2_par CDATA #IMPLIED
 >
+<!ATTLIST l t_type ( Phrase ) #IMPLIED  > <!-- fix -->
 <!ATTLIST l comma CDATA #IMPLIED >
 <!ATTLIST l syn CDATA #IMPLIED >
 <!ATTLIST l sem_type ( Plc ) #IMPLIED >
@@ -42,14 +44,10 @@
 
 <!-- algu = lemma IDs in the algu database -->
 <!ELEMENT algu EMPTY >
-<!ATTLIST algu
-      lekseemi_id CDATA #REQUIRED >
-<!ATTLIST algu
-      sanue_id CDATA #REQUIRED >
+<!ATTLIST algu lekseemi_id CDATA #REQUIRED >
+<!ATTLIST algu sanue_id CDATA #REQUIRED >
 
-<!--      name CDATA #REQUIRED -->
 
->
 
 <!ELEMENT mg (semantics?, l_ref?, dg?, tg+, xg* ) >
 <!ATTLIST mg
@@ -73,7 +71,7 @@
 <!ELEMENT it (#PCDATA) >
 
 
-<!ELEMENT tg (semantics?, re?,  ( ((t+, stem*, l_ref?) ))+, xg*, syng?) >
+<!ELEMENT tg (semantics?,  ( ((re?, t+, stem*, l_ref?) ))+, xg*, syng?) >
 <!ATTLIST tg
       xml:lang ( smn ) #REQUIRED
       check CDATA #IMPLIED
@@ -86,14 +84,10 @@
 >
 
 <!ELEMENT t (#PCDATA) >
-<!ATTLIST t t_type ( Pers | expl ) #IMPLIED  >
-<!ATTLIST t pos ( A | N  | V  |
-            Adv | Pr | Po | 
-            Pron | Interj | CC | CS | Num |
-            Pcle | Phrase | CMP | X  | 
-            Adv-N | N-Pron | Adv-CC | Adv-Pron | Adv-CS | CC-CS | A-N |
-	    Adv-Po | Adv-Po-Pron | A-Adv-Pron | A-Adv-N |
-	    Adv-N-Po |N-Po | Po-Pron | A-Pron | Foc_gis | Foc_han ) #IMPLIED >
+<!ATTLIST t t_type ( Pers | expl | Phrase ) #IMPLIED  >
+<!ATTLIST t pos ( A | Adv | CC | CS | Interj | 
+            N  | Num | Pcle | Pr | Pron | Po | 
+            V | X ) #IMPLIED >
 <!ATTLIST t type ( expl
                   | grammarexpl |Prop | Indef | G3 | NomAg | Coll | Recipr | Pers
                   | grammar | Refl | Dem | Poss | Logo | Rel | Interr | TV | IV ) #IMPLIED >

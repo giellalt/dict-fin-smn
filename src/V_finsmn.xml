@@ -28021,14 +28021,6 @@ For the full license text, see the link above.
             <t pos="V" wf="njolgeest">njolgestiđ</t>
          </tg>
       </mg>
-      <mg id="2">
-         <tg xml:lang="smn">
-            <re>hyvä hölkkääjä porosta</re>
-            <t attr="# njolges" pos="A-N" wf="njolgáá">njolges</t>
-            <t attr="# -s" pos="A">njolgáá</t>
-            <t pos="N" syn_dash="-eergi">njolge-ergi</t>
-         </tg>
-      </mg>
    </e>
    <e id="2872">
       <lg>
@@ -33311,12 +33303,6 @@ For the full license text, see the link above.
             <t pos="V" wf="jarom">jarroođ</t>
          </tg>
       </mg>
-      <mg id="7">
-         <tg xml:lang="smn">
-            <re>helposti kuivaksi kovettuva</re>
-            <t attr="# -s" pos="A-N">karree</t>
-         </tg>
-      </mg>
    </e>
    <e id="5991">
       <lg>
@@ -34188,12 +34174,6 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <re>kutoa umpeen verkon reikiä kuromalla</re>
             <t pos="V" wf="miäđám">meeđđiđ</t>
-         </tg>
-      </mg>
-      <mg id="5">
-         <tg xml:lang="smn">
-            <re>kudottavana oleva kuviopaula tms.</re>
-            <t pos="A-N" syn_dash="-vuáláá">čyeldimvuálááš</t>
          </tg>
       </mg>
       <mg id="6">
@@ -46300,7 +46280,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
       <mg id="2">
-         <tg>
+         <tg xml:lang="smn">
             <re>saada lupa tehdä jtak: uážžuđ + infinitiivi</re>
             <t pos="V" wf="finniim finnee">uážžuđ</t>
             <xg>
@@ -46320,7 +46300,6 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="smn">
             <re>saada + substantiivi lupa</re>
-            <re>saada lupa</re>
             <t pos="V">uážžuđ</t>
             <t pos="V">finniđ</t>
             <xg>
@@ -48839,7 +48818,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="???">
+         <tg xml:lang="smn">
             <re>Olla kipeä: selkä</re>
             <t>leđe raše </t>
             <xg>
@@ -48890,7 +48869,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="???">
+         <tg xml:lang="smn">
             <t pos="V">s</t>
          </tg>
       </mg>
@@ -48910,7 +48889,7 @@ For the full license text, see the link above.
          <l pos="V">särkeä 2</l>
       </lg>
       <mg>
-         <tg xml:lang="???">
+         <tg xml:lang="smn">
             <re>JHajottaa jtak, särkeä rahaa pienemmäksi</re>
             <t pos="V">cuovkkiđ</t>
             <xg>
@@ -48942,7 +48921,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="???">
+         <tg xml:lang="smn">
             <t pos="V">falskiđ</t>
          </tg>
       </mg>
@@ -53909,16 +53888,6 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l t_type="Phrase">tulla araksi</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smn">
-            <t pos="V">arguđ</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">suositella</l>
       </lg>
       <mg>
@@ -54488,16 +54457,6 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="smn">
             <t pos="V">suárvuđ</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l t_type="Phrase">olla varaa</l>
-      </lg>
-      <mg>
-         <tg xml:lang="smn">
-            <t pos="V">suitteđ</t>
          </tg>
       </mg>
    </e>

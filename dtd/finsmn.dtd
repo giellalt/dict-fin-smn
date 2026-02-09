@@ -23,17 +23,13 @@
       src CDATA #IMPLIED
       id CDATA #IMPLIED
 >
-<!ELEMENT lg (l+, l_ref*, analysis*, mini_paradigm*, algu?, orig?) >
-<!ELEMENT analysis (#PCDATA)* >
-<!ELEMENT orig (#PCDATA) >
-<!ELEMENT mini_paradigm (analysis+) >
+<!ELEMENT lg (l+, l_ref*, algu?) >
 <!ELEMENT l (#PCDATA) >
 <!ATTLIST l
       pos ( A | Adv | CC | CS | Pcle | Po | Pron |
             Interj | N | Num | Phrase | V  ) #REQUIRED
       attr CDATA #IMPLIED
       type ( Prop ) #IMPLIED
-      tt_auto CDATA #IMPLIED
       r1_par CDATA #IMPLIED
       r2_par CDATA #IMPLIED
 >
@@ -53,9 +49,6 @@
 
 <!--      name CDATA #REQUIRED -->
 
-<!ELEMENT sem EMPTY >
-<!ATTLIST sem
-      class CDATA #IMPLIED
 >
 
 <!ELEMENT mg (semantics?, l_ref?, dg?, tg+, xg* ) >
@@ -65,7 +58,6 @@
 >
 <!ATTLIST mg id CDATA #IMPLIED >
 <!ATTLIST mg src CDATA #IMPLIED >
-<!ATTLIST mg x ( fad ) #IMPLIED >
 
 
 <!-- definition  -->
@@ -81,7 +73,7 @@
 <!ELEMENT it (#PCDATA) >
 
 
-<!ELEMENT tg (semantics?, re?,  ( ((t+, stem*, l_ref?) | tf | te ))+, xg*, syng?) >
+<!ELEMENT tg (semantics?, re?,  ( ((t+, stem*, l_ref?) ))+, xg*, syng?) >
 <!ATTLIST tg
       xml:lang ( smn ) #REQUIRED
       check CDATA #IMPLIED
@@ -92,29 +84,21 @@
 <!ATTLIST re
     xml:lang ( fin | lat) #IMPLIED
 >
-<!ATTLIST re x ( fad ) #IMPLIED >
-<!ATTLIST re comment CDATA #IMPLIED >
 
 <!ELEMENT t (#PCDATA) >
-<!ATTLIST t freq CDATA #IMPLIED >
 <!ATTLIST t t_type ( Pers | expl ) #IMPLIED  >
 <!ATTLIST t pos ( A | N  | V  |
             Adv | Pr | Po | 
             Pron | Interj | CC | CS | Num |
             Pcle | Phrase | CMP | X  | 
             Adv-N | N-Pron | Adv-CC | Adv-Pron | Adv-CS | CC-CS | A-N |
-	    Adv-Po | A-Adv | Adv-Po-Pron | A-Adv-Pron | A-Adv-N |
+	    Adv-Po | Adv-Po-Pron | A-Adv-Pron | A-Adv-N |
 	    Adv-N-Po |N-Po | Po-Pron | A-Pron | Foc_gis | Foc_han ) #IMPLIED >
-<!ATTLIST t reg CDATA #IMPLIED >
-<!ATTLIST t tt_auto CDATA #IMPLIED >
 <!ATTLIST t type ( expl
                   | grammarexpl |Prop | Indef | G3 | NomAg | Coll | Recipr | Pers
                   | grammar | Refl | Dem | Poss | Logo | Rel | Interr | TV | IV ) #IMPLIED >
-<!ATTLIST t lang ( swe | nob ) #IMPLIED >
-<!ATTLIST t xml:lang ( smn ) #IMPLIED >
 <!ATTLIST t src CDATA #IMPLIED >
 <!ATTLIST t l_par CDATA #IMPLIED >
-<!ATTLIST t re CDATA #IMPLIED >
 <!ATTLIST t wf CDATA #IMPLIED >
 <!ATTLIST t t_tld CDATA #IMPLIED >
 <!ATTLIST t syn_dash CDATA #IMPLIED >
@@ -122,37 +106,15 @@
 <!ATTLIST t r_par CDATA #IMPLIED >
 <!ATTLIST t mwe CDATA #IMPLIED >
 <!ATTLIST t syn CDATA #IMPLIED >
-<!ATTLIST t sem_type ( Obj | Plc | Org | Mal ) #IMPLIED >
 <!ATTLIST t hid CDATA #IMPLIED >
-<!ATTLIST t href CDATA #IMPLIED >
 <!ATTLIST t xxx CDATA #IMPLIED >
 
-<!-- perhaps not first for attlist oa, if reverse-leksa shall be taken from nobsma -->
-
-<!ELEMENT l_ref (#PCDATA) >
-
-<!-- translation_comment = for Oahpa use -->
-
-<!ELEMENT tf (#PCDATA) > <!-- Translation phrase -->
-<!ATTLIST tf pos ( phrase ) #IMPLIED >
-<!ATTLIST tf lang ( smn ) #IMPLIED >
-<!ATTLIST tf xml:lang ( smn ) #IMPLIED >
-
-
-<!ELEMENT te (#PCDATA) > <!-- Translation explanation -->
-<!ATTLIST te lang ( smn ) #IMPLIED >
-<!ATTLIST te xml:lang ( smn ) #IMPLIED >
-<!ATTLIST te pos ( phrase ) #IMPLIED >
 
 <!ELEMENT xg ((x, xt+)+)>
-<!ATTLIST xg re CDATA #IMPLIED >
 <!ELEMENT x (#PCDATA)>
 <!ATTLIST x src CDATA #IMPLIED >
 <!ELEMENT xt (#PCDATA)>
 <!ATTLIST xt src CDATA #IMPLIED >
-
-<!ELEMENT syng (syn+)>
-<!ELEMENT syn (#PCDATA)>
 
 <!ELEMENT xhtml:script EMPTY >
 <!ATTLIST xhtml:script type CDATA #FIXED "text/javascript" >

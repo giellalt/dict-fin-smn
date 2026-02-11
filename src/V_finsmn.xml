@@ -48876,6 +48876,16 @@ For the full license text, see the link above.
       </mg>
       <mg>
          <tg xml:lang="smn">
+            <re>rahasta: vaihtaa pienempiin seteliin</re>
+            <t pos="V">cuovkkiđ</t>
+            <xg>
+               <x>Voitko särkeä sataeurosen?</x>
+               <xt>Puávtáh-uv cuovkkiđ čyetieurosii?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
             <re>Hajottaa, frekv.</re>
             <t l_par="pidemmän aikaa" pos="V" wf="cuávhum">cuávkkuđ</t>
             <xg>

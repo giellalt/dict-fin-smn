@@ -48801,7 +48801,7 @@ For the full license text, see the link above.
    </e>
    <e id="14040 14041">
       <lg>
-         <l pos="V" r1_par="kivistää, rikkoa">särkeä 1</l>
+         <l pos="V" r1_par="kivistää, rikkoa">särkeä</l>
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
@@ -48819,8 +48819,8 @@ For the full license text, see the link above.
       </mg>
       <mg>
          <tg xml:lang="smn">
-            <re>Olla kipeä: selkä</re>
-            <t>leđe raše </t>
+            <re>Olla kipeä: selkä, käsi, jalka</re>
+            <t pos="V">leđe raše</t>
             <xg>
                <x>Minulla särkee selkää.</x>
                <xt>Must lii čielgi raše.</xt>
@@ -48832,7 +48832,7 @@ For the full license text, see the link above.
             <re>Aristaa jtak, esim. jalkaa, päätä</re>
             <t pos="V" wf="anam">anneeđ</t>
             <xg>
-               <x>Sillä härällä särkee jalkaa. </x>
+               <x>Sillä härällä särkee jalkaa.</x>
                <xt>Tot ergi juolgijn ana.</xt>
             </xg>
          </tg>
@@ -48851,46 +48851,20 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <re>Paleltuneesta raajasta</re>
             <t pos="V" wf="tuuvhest">tuvhestiđ</t>
-         </tg>
-      </mg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t l_par="m. rahaa pienemmäksi" pos="V" wf="cuovkkiim cyevkkee">s</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn">
-            <re>Hajottaa, frekv.</re>
-            <t l_par="pidemmän aikaa" pos="V" wf="cuávhum">cuávkkuđ</t>
             <xg>
-               <x>Hirvet kiima-aikana särkivät puuaitaa niin kuin halusivat.</x>
-               <xt>Soorvah roovvâd ääigi cuovkkuu muorâääiđi maht halidii.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="smn">
-            <t pos="V">s</t>
-         </tg>
-      </mg>
-      <mg id="3">
-         <tg xml:lang="smn">
-            <re>yrittää vaihtaa t. särkeä rahaa pienemmäksi</re>
-            <t pos="V">cuovkkiittâllâđ</t>
-            <xg>
-               <x>Hän yritti särkeä satasta (sadan markan seteliä).</x>
-               <xt>Sun cuovkkiittâlâi čyetimárkkásii.</xt>
+               <x>Käsiä särkee (niitä lämmiteltäessä).</x>
+               <xt>Kieđah tuvhesteh.</xt>
             </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">särkeä 2</l>
+         <l pos="V">särkeä</l>
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <re>JHajottaa jtak, särkeä rahaa pienemmäksi</re>
+            <re>Hajottaa jtak, särkeä rahaa pienemmäksi</re>
             <t pos="V">cuovkkiđ</t>
             <xg>
                <x>Poliisit aikoivat särkeä oven</x>
@@ -48899,6 +48873,16 @@ For the full license text, see the link above.
             <xg>
                <x>Voitko särkeä sataeurosen?</x>
                <xt>Puávtáh-uv cuovkkiđ čyetieurosii?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>Hajottaa, frekv.</re>
+            <t l_par="pidemmän aikaa" pos="V" wf="cuávhum">cuávkkuđ</t>
+            <xg>
+               <x>Hirvet kiima-aikana särkivät puuaitaa niin kuin halusivat.</x>
+               <xt>Soorvah roovvâd ääigi cuovkkuu muorâääiđi maht halijdii.</xt>
             </xg>
          </tg>
       </mg>

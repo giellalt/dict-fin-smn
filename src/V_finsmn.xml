@@ -43062,11 +43062,6 @@ For the full license text, see the link above.
       <lg>
          <l pos="V">poikia</l>
       </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="V" wf="čivgá">čivgâđ</t>
-         </tg>
-      </mg>
       <mg id="2">
          <tg xml:lang="smn">
             <re>sorkkaeläimistä</re>
@@ -43081,12 +43076,10 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <re>alkaa poikia sorkkaeläimistä</re>
             <t pos="V" wf="kyedistuVá">kyedistuđ</t>
-         </tg>
-      </mg>
-      <mg id="4">
-         <tg xml:lang="smn">
-            <re>saada paljon pentuja erit. sudesta</re>
-            <t pos="V" wf="čivgá">čivgâđ</t>
+            <xg>
+               <x>Lehmä alkoi poikia viime yönä.</x>
+               <xt>Kussâ kyedistui moonnâm iijâ.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -48869,11 +48862,15 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <re>Hajottaa jotakin</re>
+            <re>Hajottaa jtak, särkeä rahaa pienemmäksi</re>
             <t pos="V">cuovkkiđ</t>
             <xg>
                <x>Poliisit aikoivat särkeä oven</x>
                <xt>Pooliseh aiguu cuovkkiđ uuvsâ.</xt>
+            </xg>
+            <xg>
+               <x>Voitko särkeä sataeurosen?</x>
+               <xt>Puávtáh-uv cuovkkiđ čyetieurosii?</xt>
             </xg>
          </tg>
       </mg>
@@ -48887,10 +48884,6 @@ For the full license text, see the link above.
             </xg>
          </tg>
       </mg>
-      <ig>
-         <i>Voitko särkeä sataeurosen?</i>
-         <it>Puávtáh-uv cuovkkiđ čyetieurosii?</it>
-      </ig>
    </e>
    <e id="14045">
       <lg>

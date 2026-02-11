@@ -374,6 +374,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>Pidemmällä ajanjaksolla, frekv.</re>
             <t pos="V" wf="jaamâd">jamâdiđ</t>
             <xg>
                <x>Joka päivä kuoli monia poroja.</x>
@@ -43070,6 +43071,10 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <re>sorkkaeläimistä</re>
             <t pos="V" wf="kuádám">kyeddiđ</t>
+            <xg>
+               <x>Lehmä poiki eilen.</x>
+               <xt>Kussâ kuodij jieht.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="3">

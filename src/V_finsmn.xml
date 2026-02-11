@@ -48869,15 +48869,11 @@ For the full license text, see the link above.
       </lg>
       <mg>
          <tg xml:lang="smn">
-            <re>Hajottaa jtak, särkeä rahaa pienemmäksi</re>
+            <re>Hajottaa jotakin</re>
             <t pos="V">cuovkkiđ</t>
             <xg>
                <x>Poliisit aikoivat särkeä oven</x>
                <xt>Pooliseh aiguu cuovkkiđ uuvsâ.</xt>
-            </xg>
-            <xg>
-               <x>Voitko särkeä sataeurosen?</x>
-               <xt>Puávtáh-uv cuovkkiđ čyetieurosii?</xt>
             </xg>
          </tg>
       </mg>
@@ -48891,6 +48887,10 @@ For the full license text, see the link above.
             </xg>
          </tg>
       </mg>
+      <ig>
+         <i>Voitko särkeä sataeurosen?</i>
+         <it>Puávtáh-uv cuovkkiđ čyetieurosii?</it>
+      </ig>
    </e>
    <e id="14045">
       <lg>

@@ -21915,8 +21915,44 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>ihmisestä</re>
             <t pos="V" wf="šoddâd">šoddâdiđ</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>ihmisestä, harvinainen: puhekielinen ja pejoratiivinen</re>
             <t pos="V">parnâđ</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>porovaatimesta</re>
+            <t pos="V">vuossiđ</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>synnyttää useampia poikasia, esim. susi, karhu, jänis, kettu, koira, kissa, hiiri</re>
+            <t pos="V">čivgâđ</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>lehmästä, poikia</re>
+            <t pos="V">kyeddiđ</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>siasta, porsia</re>
+            <t pos="V">šohâniđ</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>lampaasta, karitsoida</re>
+            <t pos="V">läbistiđ</t>
          </tg>
       </mg>
    </e>

@@ -8039,13 +8039,13 @@ For the full license text, see the link above.
       </mg>
       <mg id="1">
          <tg xml:lang="smn">
-            <re>jssak</re>
+            <re>jssak paikassa</re>
             <t pos="V" wf="iälám iäLá">eelliđ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <re>usein</re>
+            <re>käydä usein jssak</re>
             <t pos="V" wf="eellâl">elâliđ</t>
             <t pos="V" wf="juuttâl">jutâliđ</t>
          </tg>
@@ -8851,6 +8851,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>syđdä lusikalla</re>
             <t pos="V" wf="koozâm">kozzâđ</t>
          </tg>
       </mg>
@@ -10349,11 +10350,6 @@ For the full license text, see the link above.
       <lg>
          <l pos="V" r1_par="teatt.">näytellä teatterissa</l>
       </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t pos="V" wf="čaittâl">čaittâliđ</t>
-         </tg>
-      </mg>
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" wf="čaittâl">čaittâliđ</t>
@@ -12990,37 +12986,50 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>mahdollisesti tapahtua</re>
             <t pos="V" wf="sáátám">sättiđ</t>
+            <xg>
+               <x>Ne petivaatteet saattavat kastua ulkona.</x>
+               <xt>Toh uáđáduvah sättih njuoskâđ olgon.</xt>
+            </xg>
+            <xg>
+               <x>Siinä saattaa käydä huonosti.</x>
+               <xt>Tast sáttá keevvâđ hyeneeht.</xt>
+            </xg>
+            <xg>
+               <x>Se kyllä saattaa olla kallis.</x>
+               <xt>Tot kal sáttá leđe tiivrâs.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>saatella: kulkea yhtä matkaa</re>
+            <t pos="V">sättiđ</t>
+            <xg>
+               <x>Laurukainen lähti saattamaan tsuudeja pimeällä.</x>
+               <xt>Lavrukkâš vuolgij sättiđ čuuđijd sevŋâdin.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="1">
          <tg xml:lang="smn">
-            <re>johdattaen t. ohjaten</re>
+            <re>viedä jhk johdattaen t. ohjaten</re>
             <t pos="V" wf="laiđiim läiđee">laiđiđ</t>
+            <xg>
+               <x>Minun täytyy saattaa äiti sisälle terveyskeskukseen.</x>
+               <xt>Mun ferttiim laiđiđ eeni siisâ tiervâsvuotâkuávdážân.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <re>matkalle, m. viimeiselle matkalle l. hautaan</re>
+            <re>saattaa viimeiselle matkalle</re>
             <t pos="V" wf="miäđušt">miäđuštiđ</t>
-         </tg>
-      </mg>
-      <mg id="3">
-         <tg xml:lang="smn">
-            <re>kastettavaksi</re>
-            <t pos="V" wf="käästit">kästittiđ</t>
-         </tg>
-      </mg>
-      <mg id="4">
-         <tg xml:lang="smn">
-            <re>hoitaa, kasvattaa kävelykuntoiseksi</re>
-            <t pos="V" wf="vázálditám">vázáldittiđ</t>
-         </tg>
-      </mg>
-      <mg id="5">
-         <tg xml:lang="smn">
-            <re>raskaaksi</re>
-            <t pos="V" wf="kassood">kasodiđ</t>
+            <xg>
+               <x>Me saatoimme ukin hänen viimeiselle matkalleen.</x>
+               <xt>Mij miäđuštijm äijih suu majemuu máátkán.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

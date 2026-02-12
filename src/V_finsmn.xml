@@ -377,7 +377,7 @@ For the full license text, see the link above.
             <re>Pidemmällä ajanjaksolla, frekv.</re>
             <t pos="V" wf="jaamâd">jamâdiđ</t>
             <xg>
-               <x>Joka päivä kuoli monia poroja.</x>
+               <x>Joka päivä kuoli poroja.</x>
                <xt>Jyehi peeivi jamâdii poccuuh.</xt>
             </xg>
          </tg>
@@ -1045,8 +1045,8 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="V" wf="viädám viäddá">veddiđ</t>
             <xg>
-               <x>Tämä on esimerkki</x>
-               <xt>Dat lea ovdmearka.</xt>
+               <x>Keväällä sidottiin vaatimia, vennettiin, vasotettiin ja merkittiin vasoja.</x>
+               <xt>Kiđđuv čonâdii áálduid, veddii, kyedittii já merkkuu vuosijd.</xt>
             </xg>
          </tg>
       </mg>
@@ -46442,6 +46442,16 @@ For the full license text, see the link above.
             <xg>
                <x>Kyllä sieltä aina muutaman kalan saa.</x>
                <xt>Kal tobbeen ain mottoom kuálááš rippáát.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="???">
+            <re>saada pentuja, esim. kissasta</re>
+            <t pos="V">čivgâđ</t>
+            <xg>
+               <x>Kissa sai eilen pentuja.</x>
+               <xt>Kissá čiivgâi jieht.</xt>
             </xg>
          </tg>
       </mg>

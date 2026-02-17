@@ -1614,6 +1614,18 @@ For the full license text, see the link above.
             <t pos="V" wf="skiärru">skiärruđ</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>alkaa kasvaa mäntyä</re>
+            <t pos="V">peciluđ</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>alkaa kasvaa koivua</re>
+            <t pos="V">suáhiluđ</t>
+         </tg>
+      </mg>
    </e>
    <e id="17433">
       <lg>
@@ -2216,7 +2228,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" syn_dash="-vááldám">tuáhánväldiđ</t>
+            <t pos="V" syn_dash="-vááldám">tuáháväldiđ</t>
             <t pos="V" wf="tuáVuštâm">tuávuštiđ</t>
          </tg>
       </mg>
@@ -2323,21 +2335,36 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <re>konkr. ja abst.</re>
+            <re>konkr. ja abst.; koskea jtak asiaa (kuoskâđ + ill.</re>
             <t pos="V" wf="kuoskâm">kuoskâđ</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn">
-            <re>jtk asiaa</re>
-            <t pos="V" wf="puáđám">puáttiđ</t>
+            <xg>
+               <x>Älä koske siihen, se on kuuma!</x>
+               <xt>Ele kuoskâ toos, tot lii kume!</xt>
+            </xg>
+            <xg>
+               <x>Mitä se asia koskee?</x>
+               <xt>Moos tot äšši kuáská?</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <re>koskea, tehdä kipeää</re>
+            <re>koskea jtakuta jssak asiassa</re>
             <t pos="V" wf="čuácá">čuoccâđ</t>
-            <t pos="V" wf="poovčâst">povčâstiđ</t>
+            <xg>
+               <x>Se asia koskee sinuakin.</x>
+               <xt>Tot äšši čuácá tunjin-uv. </xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>tehdä kipeää</re>
+            <t pos="V">povčâstiđ</t>
+            <xg>
+               <x>Siihen koskee kovasti.</x>
+               <xt>Tot poovčâst hirmâdávt.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="4">
@@ -2355,12 +2382,20 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" wf="kuMo">kummoođ</t>
+            <xg>
+               <x>Sauna kuumeni liikaa.</x>
+               <xt>Sävni kumoi meendu čuuvtij.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
             <re>liikaa</re>
             <t pos="V">pakkâniđ</t>
+            <xg>
+               <x>Sydän kuumenee rakkaudesta.</x>
+               <xt>Váimu pakkân rähisvuođâst.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2387,7 +2422,19 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" wf="laavdâm lávdá">lavdâđ</t>
+            <xg>
+               <x>Lainasana on levinnyt kaikkiin Suomen saamen kieliin.</x>
+               <xt>Lovnâsääni lii lavdâm puoh Suomâ sämikieláid.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="???">
             <t pos="V">lebbâniđ</t>
+            <xg>
+               <x>Koko asia levisi käsiin.</x>
+               <xt>Ubâ äšši lebbânij kieđáid.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
@@ -2404,27 +2451,63 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <re>esim. uusi eläinlaji jhk</re>
+            <re>esim. uusi eläin- t. kasvilaji</re>
             <t pos="V" wf="leevvân">levâniđ</t>
+            <xg>
+               <x>Pihlaja on levinnyt pihalle.</x>
+               <xt>Pihlájâš lii levânâm šiiljon.</xt>
+            </xg>
+            <xg>
+               <x>Onko punkki jo levinnyt näin pohjoiseen? </x>
+               <xt>Lii-uv puŋkki jo levânâm näävt tavas?</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
             <re>laajeta alueesta tms.</re>
             <t pos="V" wf="vijđán">vijđániđ</t>
+            <xg>
+               <x>Saamelaisalue ei varmaankaan enää leviä.</x>
+               <xt>Sämikuávlu ij vaarâ innig vijđán.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="6">
          <tg xml:lang="smn">
-            <re>vahingossa jhk esim. säkin sisällöstä</re>
+            <re>vahingossa jhk</re>
             <t pos="V">pozzásiđ</t>
+            <xg>
+               <x>Jauhosäkki levisi lattialle.</x>
+               <xt>Jávvusekkâ pozzásij lättei.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>taudista tarttumalla</re>
+            <t>njuámmuđ</t>
+            <xg>
+               <x>Influenssa leviää nyt koko maassa.</x>
+               <xt>Influenssa njuámu tääl ubâ enâmist.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="7">
          <tg xml:lang="smn">
-            <re>esim. takapuolesta</re>
+            <re>tulla leveämmäksi</re>
             <t pos="V" wf="kobdom">kobdođ</t>
             <t pos="V">kobdániđ</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>esim. juoruista</re>
+            <t pos="V">jotteeđ</t>
+            <xg>
+               <x>Täällä kyllä juorut leviävät.</x>
+               <xt>Tääbbin kal markkânsaavah joteh.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2434,14 +2517,18 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <re>karva, erit. porosta</re>
+            <re>karvaa, erit. porosta</re>
             <t pos="V" wf="pođgám">pođgeđ</t>
             <t pos="V">porgádiđ</t>
+            <xg>
+               <x>Poro luo aina karvaa syksyllä.</x>
+               <xt>Puásui pođgá ain čohčuv. </xt>
+            </xg>
          </tg>
       </mg>
-      <mg id="2">
+      <mg id="2" xml:lang="smn">
          <tg xml:lang="smn">
-            <re>karva, muusta kuin porosta</re>
+            <re>karvaa, muusta kuin porosta</re>
             <t pos="V" wf="sitá">siittâđ</t>
          </tg>
       </mg>
@@ -2449,6 +2536,10 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <re>uskonn.</re>
             <t pos="V">sivnediđ</t>
+            <xg>
+               <x>Jumala loi ihmisen omaksi kuvakseen.</x>
+               <xt>Immeel sivnedij ulmuu jieijâs kovveen.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="4">
@@ -2459,8 +2550,18 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <re>silmiä neuletyöhön, kudottavaan verkkoon tms.</re>
+            <re>silmiä kudottavaan verkkoon</re>
             <t pos="V" wf="koordâm karda">kordâđ</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>silmiä kudelmaan</re>
+            <t pos="V">suoppiđ</t>
+            <xg>
+               <x>Äiti loi 12 silmukkaa puikolle.</x>
+               <xt>Enni suoppij 12 čalmed sáágán.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="6">
@@ -2473,6 +2574,10 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <re>luoda nahkansa</re>
             <t pos="V" wf="näähkis">kočâttiđ</t>
+            <xg>
+               <x>Milloin käärme luo nahkansa? </x>
+               <xt>Kuás kyevdi koočât näähkis?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -23797,7 +23902,7 @@ For the full license text, see the link above.
             </xg>
          </tg>
          <xg>
-            <x> Anna minun tehdä se!</x>
+            <x>Anna minun tehdä se!</x>
             <xt>Tipte muu tom porgâđ!</xt>
          </xg>
       </mg>
@@ -46994,8 +47099,8 @@ For the full license text, see the link above.
             <t pos="V">heeviđ</t>
             <t pos="V">teivâđ</t>
             <xg>
-               <x>Minä satuin kulkemaan tästä ohi, kun näin lapsen ulkona. </x>
-               <xt>Mun sáttojim jotteeđ täst lappâd ko oinim párnáá olgon. </xt>
+               <x>Minä satuin kulkemaan tästä ohi, kun näin lapsen ulkona.</x>
+               <xt>Mun sáttojim jotteeđ täst lappâd ko oinim párnáá olgon.</xt>
             </xg>
             <xg>
                <x>Satuin tulemaan siihen aikaan.</x>

@@ -2353,7 +2353,7 @@ For the full license text, see the link above.
             <t pos="V" wf="čuácá">čuoccâđ</t>
             <xg>
                <x>Se asia koskee sinuakin.</x>
-               <xt>Tot äšši čuácá tunjin-uv. </xt>
+               <xt>Tot äšši čuácá tunjin-uv.</xt>
             </xg>
          </tg>
       </mg>
@@ -2429,7 +2429,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="???">
+         <tg xml:lang="smn">
             <t pos="V">lebbâniđ</t>
             <xg>
                <x>Koko asia levisi käsiin.</x>
@@ -2458,7 +2458,7 @@ For the full license text, see the link above.
                <xt>Pihlájâš lii levânâm šiiljon.</xt>
             </xg>
             <xg>
-               <x>Onko punkki jo levinnyt näin pohjoiseen? </x>
+               <x>Onko punkki jo levinnyt näin pohjoiseen?</x>
                <xt>Lii-uv puŋkki jo levânâm näävt tavas?</xt>
             </xg>
          </tg>
@@ -2522,7 +2522,7 @@ For the full license text, see the link above.
             <t pos="V">porgádiđ</t>
             <xg>
                <x>Poro luo aina karvaa syksyllä.</x>
-               <xt>Puásui pođgá ain čohčuv. </xt>
+               <xt>Puásui pođgá ain čohčuv.</xt>
             </xg>
          </tg>
       </mg>
@@ -2575,7 +2575,7 @@ For the full license text, see the link above.
             <re>luoda nahkansa</re>
             <t pos="V" wf="näähkis">kočâttiđ</t>
             <xg>
-               <x>Milloin käärme luo nahkansa? </x>
+               <x>Milloin käärme luo nahkansa?</x>
                <xt>Kuás kyevdi koočât näähkis?</xt>
             </xg>
          </tg>
@@ -34268,16 +34268,17 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <re>vetää nenästä</re>
-            <t pos="V" wf="njuuneest">keessiđ</t>
+            <t pos="V" t_type="Phrase" wf="njuuneest">keessiđ njuuneest</t>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
             <re>ottaa kieroudella t. kavaluudella</re>
             <t pos="V" t_tld="~ käViluššâđ käVilušâm" wf="käVilâšâm">kävilâššâđ</t>
+            <t pos="V">käviluššâđ</t>
          </tg>
       </mg>
-      <mg id="5">
+      <mg id="5" xml:lang="smn">
          <tg xml:lang="smn">
             <re>tulla huijatuksi</re>
             <t pos="V" wf="manâttât">manâttâttâđ</t>
@@ -34289,8 +34290,8 @@ For the full license text, see the link above.
             <t pos="V" wf="cisâstuum cisâstuVá">cisâstuđ</t>
             <t pos="V" wf="kužâstuum kužâstuVá">kužâstuđ</t>
             <xg>
-               <x>Onko sinulla kusihätä?</x>
-               <xt>Kužâstuuh-uv tun?</xt>
+               <x>Minulla on vessahätä.</x>
+               <xt>Mun kužâstuvvim.</xt>
             </xg>
          </tg>
       </mg>
@@ -34362,18 +34363,16 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <re>koristeellista kuviopaulaa</re>
             <t pos="V" wf="čuáldám">čyeldiđ</t>
+            <xg>
+               <x>Hän alkoi kutoa kuviopaulaa.</x>
+               <xt>Sun čyeldiškuođij vuodduu.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
             <re>kutoa umpeen verkon reikiä kuromalla</re>
             <t pos="V" wf="miäđám">meeđđiđ</t>
-         </tg>
-      </mg>
-      <mg id="6">
-         <tg xml:lang="smn">
-            <re>paulakudonnainen, kudottu kuvioton paula, pirtanauha</re>
-            <t pos="N" wf="njuškottuv">njuškottâh</t>
          </tg>
       </mg>
       <mg id="7">
@@ -34403,12 +34402,25 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <re>käskeä t. kutsua jksk</re>
             <t pos="V" wf="kočom">koččođ</t>
+            <xg>
+               <x>Hän kutsui </x>
+               <xt/>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
             <re>jksik t. nimellä</re>
             <t pos="V" wf="koččood">kočodiđ</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">povdiđ</t>
+            <xg>
+               <x>Hän kutsui minut syntymäpäiväjuhliinsa.</x>
+               <xt>Sun povdij muu jieijâs šoddâmpeivjuhlijd. </xt>
+            </xg>
          </tg>
       </mg>
       <mg id="3">
@@ -34436,20 +34448,55 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>äänestä</re>
             <t pos="V" wf="kulluum kulloo">kulluđ</t>
             <xg>
                <x>Pihalta kuuluu koiran haukunta.</x>
                <xt>Šiljoost kulloo pennuu umâstem.</xt>
             </xg>
+            <xg>
+               <x>Kuuluuko tämä nyt hyvin?</x>
+               <xt>Kulloo-uvks taat tääl pyereest? </xt>
+            </xg>
+            <xg>
+               <x>.</x>
+               <xt>.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>kuulumisista</re>
+            <t pos="V">kulluđ</t>
+            <xg>
+               <x>Mitä sinulle kuuluu?</x>
+               <xt>Mii tunjin kulloo? </xt>
+            </xg>
+            <xg>
+               <x>Kiitos kysymästä, ihan hyvää kuuluu.</x>
+               <xt>Takkâ koijâdmist, aaibâs pyeri kulloo. </xt>
+            </xg>
+            <xg>
+               <x>xxx</x>
+               <xt>yy</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <re>kuulua jhk</re>
+            <re xml:lang="fin">kuulua jllek, jhk</re>
             <t hid="Hom2" pos="V" wf="kuulâm kuLá">kuullâđ</t>
+            <xg>
+               <x>Se perintö kyllä kuuluu hänelle.</x>
+               <xt>Tot ärbi kale kulá sunjin.</xt>
+            </xg>
             <xg>
                <x>Mänty kuuluu Saamenmaan tavallisimpiin puihin.</x>
                <xt>Peeci kulá táválumosáid muoráid Säämist.</xt>
+            </xg>
+            <xg>
+               <x>Se asia ei kuulu hänelle.</x>
+               <xt>Tot äšši ij sunjin kuulâ. </xt>
             </xg>
          </tg>
       </mg>
@@ -46639,7 +46686,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="???">
+         <tg xml:lang="smn">
             <re>saada pentuja, esim. kissasta</re>
             <t pos="V">čivgâđ</t>
             <xg>

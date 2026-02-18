@@ -34403,7 +34403,7 @@ For the full license text, see the link above.
             <re>käskeä t. kutsua jksk</re>
             <t pos="V" wf="kočom">koččođ</t>
             <xg>
-               <x>Hän kutsui </x>
+               <x>Hän kutsui</x>
                <xt/>
             </xg>
          </tg>
@@ -34419,7 +34419,7 @@ For the full license text, see the link above.
             <t pos="V">povdiđ</t>
             <xg>
                <x>Hän kutsui minut syntymäpäiväjuhliinsa.</x>
-               <xt>Sun povdij muu jieijâs šoddâmpeivjuhlijd. </xt>
+               <xt>Sun povdij muu jieijâs šoddâmpeivjuhlijd.</xt>
             </xg>
          </tg>
       </mg>
@@ -34456,7 +34456,7 @@ For the full license text, see the link above.
             </xg>
             <xg>
                <x>Kuuluuko tämä nyt hyvin?</x>
-               <xt>Kulloo-uvks taat tääl pyereest? </xt>
+               <xt>Kulloo-uvks taat tääl pyereest?</xt>
             </xg>
             <xg>
                <x>.</x>
@@ -34470,11 +34470,11 @@ For the full license text, see the link above.
             <t pos="V">kulluđ</t>
             <xg>
                <x>Mitä sinulle kuuluu?</x>
-               <xt>Mii tunjin kulloo? </xt>
+               <xt>Mii tunjin kulloo?</xt>
             </xg>
             <xg>
                <x>Kiitos kysymästä, ihan hyvää kuuluu.</x>
-               <xt>Takkâ koijâdmist, aaibâs pyeri kulloo. </xt>
+               <xt>Takkâ koijâdmist, aaibâs pyeri kulloo.</xt>
             </xg>
             <xg>
                <x>xxx</x>
@@ -34496,7 +34496,7 @@ For the full license text, see the link above.
             </xg>
             <xg>
                <x>Se asia ei kuulu hänelle.</x>
-               <xt>Tot äšši ij sunjin kuulâ. </xt>
+               <xt>Tot äšši ij sunjin kuulâ.</xt>
             </xg>
          </tg>
       </mg>
@@ -52468,6 +52468,16 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <re>esim. sähköä t. nojata jtak vasten</re>
             <t pos="V" wf="kiäldám">keldiđ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">varoa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t pos="V">váruttiđ</t>
          </tg>
       </mg>
    </e>

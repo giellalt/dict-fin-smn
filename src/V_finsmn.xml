@@ -39664,40 +39664,32 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <re>kutsua jksk</re>
+            <re>kutsua jllak nimellä</re>
             <t pos="V" wf="kočom">koččođ</t>
-            <t pos="V" wf="nabdam">nabdeđ</t>
+            <xg>
+               <x>Äiti nimitti minua pikku piiaksi.</x>
+               <xt>Enni kočoi muu pijgážin.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
             <re>olla nimeltään</re>
             <t pos="V" wf="kuččuum koččoo">kuččuđ</t>
+            <xg>
+               <x>Karhua nimitetään myös otsoksi.</x>
+               <xt>Kuobžâ koččoo meid njobžân.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <re>esim. virkaan</re>
+            <re>virkaan</re>
             <t pos="V" wf="noomât">nomâttiđ</t>
-         </tg>
-      </mg>
-      <mg id="4">
-         <tg xml:lang="smn">
-            <re>jkta sukulaiseksi</re>
-            <t pos="V" wf="hiäimust">hiäimustiđ</t>
-         </tg>
-      </mg>
-      <mg id="5">
-         <tg xml:lang="smn">
-            <re>jkta varkaaksi</re>
-            <t pos="V" t_tld="~suállágittiđ suáLágitám">suálágittiđ</t>
-            <t pos="V" wf="suollâgitám">suollâgittiđ</t>
-         </tg>
-      </mg>
-      <mg id="6">
-         <tg xml:lang="smn">
-            <re>tulla nimitetyksi, kutsutuksi jksk</re>
-            <t pos="V" wf="nobduum nabdoo">nobduđ</t>
+            <xg>
+               <x>Tasavallan presidentti nimittää arkkipiispan ja muut piispat.</x>
+               <xt>Täsivääldi president noomât arkkâpispe já eres piispijd.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -39799,8 +39791,8 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <t pos="V" wf="hepânâšâm">hepânâššâđ</t>
             <xg>
-               <x>minua nolottaa</x>
-               <xt>mun hepânâšâm</xt>
+               <x>Minua nolottaa.</x>
+               <xt>Mun hepânâšâm.</xt>
             </xg>
          </tg>
       </mg>
@@ -39811,8 +39803,30 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>nostaa korkealle</re>
             <t pos="V" wf="luptiim loptee">luptiđ</t>
-            <t pos="V" wf="paajeed">pajediđ</t>
+            <xg>
+               <x>Almai luptij kandii já tollij suu loptosist.</x>
+               <xt>Mies nosti pojan ja piteli häntä korkealla.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>nostaa perunoita, jäkälää, rahaa, vuokraa tms.</re>
+            <t pos="V">pajediđ</t>
+            <xg>
+               <x>Oletko jo nostanut perunat?</x>
+               <xt>Lah-uv tun jo pajedâm potásijd?</xt>
+            </xg>
+            <xg>
+               <x>Minun täytyy nostaa rahaa.</x>
+               <xt>Mun ferttiim pajediđ ruuđâ.</xt>
+            </xg>
+            <xg>
+               <x>Vuokria täytyy nostaa.</x>
+               <xt>Lááiguid ferttee pajediđ.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
@@ -39825,6 +39839,7 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <re>vähän t. nopeasti</re>
             <t pos="V">pajedistiđ</t>
+            <t pos="V">luptiistiđ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -39929,7 +39944,36 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>nousta istuma-asennosta t. makuulta, taikinasta, asiasta, lämpötilasta, kuumeesta, auringosta</re>
             <t pos="V" wf="paijaan">pajaniđ</t>
+            <xg>
+               <x>Nousin seisomaan.</x>
+               <xt>Mun pajanim čuožâd. </xt>
+            </xg>
+            <xg>
+               <x>Anna taikinan nousta puoli tuntia.</x>
+               <xt>Tipte tääigi pajaniđ tijmepele.</xt>
+            </xg>
+            <xg>
+               <x>Panelissa ajankohtaiseksi asiaksi nousi ILO 169 -sopimus.</x>
+               <xt>Panelist äigikyevdilis äššin pajanij ILO 169 -sopâmuš.</xt>
+            </xg>
+            <xg>
+               <x>Maapallon keskilämpötila on noussut noin 0,74 astettea100 vuoden aikana. </x>
+               <xt>Eennâmpáálu koskâmiärálâš liegâsvuotâ lii pajanâm nyevt 0,74 cekkid 100 ive ääigi. </xt>
+            </xg>
+            <xg>
+               <x>Kansa nousee kansaa vastaan.</x>
+               <xt>Aalmug paijaan aalmug vuástá. </xt>
+            </xg>
+            <xg>
+               <x>Aurinko ei nouse lainkaan kaamosaikana.</x>
+               <xt>Piäiváš ij paijaan ollágin skammâääigi. </xt>
+            </xg>
+            <xg>
+               <x>Minulla nousi kuume.</x>
+               <xt>Must pajanij kumestâs.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
@@ -39940,14 +39984,38 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <re>erit. korkeammalle</re>
+            <re>erit. korkeammalle, myös abstr.</re>
             <t pos="V" wf="allaan">alaniđ</t>
+            <xg>
+               <x>Kinokset nousivat kivien tasolle.</x>
+               <xt>Vaskâmeh alanii keđgij táásá.</xt>
+            </xg>
+            <xg>
+               <x>Oli suuri kunnia nousta Finnairin kultajäseneksi.</x>
+               <xt>Lâi stuorrâ kunnee alaniđ Finnair kollejesânin.</xt>
+            </xg>
+            <xg>
+               <x>Hän nousi korpraaliksi.</x>
+               <xt>Sun alanij korpraalin.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <re>erit. pystyyn</re>
+            <re>erit. pystyyn: karvoista, hiuksista, jstak rakennuksesta</re>
             <t pos="V" wf="ceggân">ceggâniđ</t>
+            <xg>
+               <x>Koiralla karvat nousivat pystyyn.</x>
+               <xt>Pennust soksâmeh ceggânii. </xt>
+            </xg>
+            <xg>
+               <x>Minulla nousivat hiukset pystyyn.</x>
+               <xt>Must vuoptah ceggânii. </xt>
+            </xg>
+            <xg>
+               <x>Sajos nousi pystyyn Inarissa vuonna 2012.</x>
+               <xt>Sajos ceggânij Anarist ive 2012.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="5">

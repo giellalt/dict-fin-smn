@@ -39959,7 +39959,7 @@ For the full license text, see the link above.
                <xt>Panelist äigikyevdilis äššin pajanij ILO 169 -sopâmuš.</xt>
             </xg>
             <xg>
-               <x>Maapallon keskilämpötila on noussut noin 0,74 astettea100 vuoden aikana. </x>
+               <x>Maapallon keskilämpötila on noussut noin 0,74 astetta 100 vuoden aikana. </x>
                <xt>Eennâmpáálu koskâmiärálâš liegâsvuotâ lii pajanâm nyevt 0,74 cekkid 100 ive ääigi. </xt>
             </xg>
             <xg>
@@ -40002,7 +40002,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <re>erit. pystyyn: karvoista, hiuksista, jstak rakennuksesta</re>
+            <re>pystyyn: karvoista, hiuksista, rakennuksesta</re>
             <t pos="V" wf="ceggân">ceggâniđ</t>
             <xg>
                <x>Koiralla karvat nousivat pystyyn.</x>
@@ -40020,8 +40020,12 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <re>pystyyn hiuksista</re>
+            <re>pystyyn: vain karvoista t. hiuksista</re>
             <t pos="V" wf="poorfâg">porfâgiđ</t>
+            <xg>
+               <x>Koira alkoi haukkua, sillä nousivat karvat pystyyn.</x>
+               <xt>Peenuv uumáástškuođij já porfâgij.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="6">
@@ -40036,26 +40040,26 @@ For the full license text, see the link above.
       </mg>
       <mg id="7">
          <tg xml:lang="smn">
-            <re>ylös makuulta</re>
+            <re>ylös makuulta t. istumasta</re>
             <t pos="V">pulttâsiđ</t>
-         </tg>
-      </mg>
-      <mg id="8">
-         <tg xml:lang="smn">
-            <re>hinnasta</re>
-            <t pos="V">tivrođ</t>
-         </tg>
-      </mg>
-      <mg id="9">
-         <tg xml:lang="smn">
-            <re>taikinasta</re>
-            <t pos="V" wf="paijaan">pajaniđ</t>
+            <xg>
+               <x>Reedrik nousi sängystä ja hieroi niskojaan.</x>
+               <xt>Reedrik pulttâsij sajestis já ruvvij niskijdis. </xt>
+            </xg>
+            <xg>
+               <x>Mummo nousi ahkiosta.</x>
+               <xt>Ákku pulttâsij kerrisist.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="10">
          <tg xml:lang="smn">
             <re>vedestä tulva-aikaan t. meressä</re>
             <t pos="V" wf="asam aca">acceeđ</t>
+            <xg>
+               <x>Nyt vesi nousee.</x>
+               <xt>Tääl ollee aca.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="11">
@@ -40064,39 +40068,20 @@ For the full license text, see the link above.
             <t pos="V" wf="čuolduum čuáldoo">čuolduđ</t>
          </tg>
       </mg>
-      <mg id="12">
-         <tg xml:lang="smn">
-            <re>kermakuori maidon pinnalle</re>
-            <t pos="V" wf="kovolduVá">kovolduđ</t>
-         </tg>
-      </mg>
       <mg id="13">
          <tg xml:lang="smn">
-            <re>ilmaan</re>
+            <re>ilmaan t. ylös</re>
             <t pos="V">luptâniđ</t>
-         </tg>
-      </mg>
-      <mg id="14">
-         <tg xml:lang="smn">
             <t pos="V">luđŋâniđ</t>
-         </tg>
-      </mg>
-      <mg id="15">
-         <tg xml:lang="smn">
-            <re>kangella vääntämällä</re>
-            <t pos="V">kaggâsiđ</t>
-         </tg>
-      </mg>
-      <mg id="16">
-         <tg xml:lang="smn">
-            <re>esim. veneeseen vedestä</re>
-            <t pos="V">almâsiđ</t>
-         </tg>
-      </mg>
-      <mg id="17">
-         <tg xml:lang="smn">
-            <re>yrittää nousta jaloilleen vastasyntyneestä sorkkaeläimestä</re>
-            <t pos="V" wf="rubom">rubbođ</t>
+            <t>luŋŋâniđ</t>
+            <xg>
+               <x>Uros nousee ilmaan siipiään värisyttäen.</x>
+               <xt>Ores luptân ááimun suájáidis tuárgistitmáin.</xt>
+            </xg>
+            <xg>
+               <x>Irronneet pohjakasvit nousevat vedenpintaan.</x>
+               <xt>Luovânâm ponnešadoh luptâneh čäsuáiván.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -40180,7 +40165,6 @@ For the full license text, see the link above.
             <re>mennä nukkumaan</re>
             <t pos="V" wf="uáđđáám">uáđđáđ</t>
             <t pos="V" wf="uáđđáástâlâm">uáđđáástâllâđ</t>
-            <t pos="V" wf="nuuhâm nokká">nukkâđ</t>
          </tg>
       </mg>
       <mg id="4">
@@ -40859,12 +40843,7 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" wf="máttááttâlâm">máttááttâllâđ</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn">
-            <re>kävelemään lapsesta</re>
-            <t pos="V" wf="haterâšâm">haterâššâđ</t>
+            <t pos="V">opâttâllâđ</t>
          </tg>
       </mg>
    </e>
@@ -41265,13 +41244,13 @@ For the full license text, see the link above.
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <re>olla paikattavissa verkosta</re>
+            <re>olla paikattavissa, verkosta</re>
             <t pos="V" wf="čiivtât">čivtâttiđ</t>
          </tg>
       </mg>
       <mg id="7">
          <tg xml:lang="smn">
-            <re>tulla paikatuksi verkosta</re>
+            <re>tulla paikatuksi, verkosta</re>
             <t pos="V" wf="čihtoo">čihtuđ</t>
          </tg>
       </mg>
@@ -41282,8 +41261,16 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <re>konkr.</re>
+            <re>konkr., myös asiasta</re>
             <t pos="V" wf="tiädám">teddiđ</t>
+            <xg>
+               <x>Iso uroshylje painaa yli sata kiloa.</x>
+               <xt>Stuorrâ oresnuárju tiäddá paijeel čyeti kiillud.</xt>
+            </xg>
+            <xg>
+               <x>Se asia painaa minua.</x>
+               <xt>Tot äšši tiäddá muu.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
@@ -41295,10 +41282,13 @@ For the full license text, see the link above.
       <mg id="3">
          <tg xml:lang="smn">
             <re>painotuotteita</re>
+            <t pos="V">teddiliđ</t>
             <t pos="V" wf="renttiim renttee">renttiđ</t>
             <t pos="V" wf="riänttáám">riänttáđ</t>
-            <t pos="V">teddiliđ</t>
-            <t pos="V" wf="pááinám">päiniđ</t>
+            <xg>
+               <x>Me painoimme uusia lehtisiä.</x>
+               <xt>Mij teddilijm uđđâ lostijd.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -41355,30 +41345,34 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V" wf="hiäibum">hiäibuđ</t>
+            <xg>
+               <x>Hän paini staalon kanssa.</x>
+               <xt>Sun hiäibui stááloin.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
             <re>erit. sylipainia</re>
             <t pos="V">fäggidiđ</t>
+            <xg>
+               <x>Hän meni hakemaan kameraa, ja minä jäin painimaan ison kalan kanssa.</x>
+               <xt>Sun vuolgij kamera viežžâđ, já mun paaccim fäggidiđ stuorrâ kuolijn.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <re>tappelumielessä</re>
+            <re>syn. hiäibuđ t. hankalassa tilanteessa</re>
             <t pos="V">moggediđ</t>
-         </tg>
-      </mg>
-      <mg id="4">
-         <tg xml:lang="smn">
-            <re>panna painiksi</re>
-            <t pos="V" wf="hiäibust">hiäibustiđ</t>
-         </tg>
-      </mg>
-      <mg id="5">
-         <tg xml:lang="smn">
-            <re>panna painimaan</re>
-            <t pos="V" wf="hiäibut">hiäibuttiđ</t>
+            <xg>
+               <x>He alkoivat painia. </x>
+               <xt>Suoi riemáin moggediđ.</xt>
+            </xg>
+            <xg>
+               <x>Hän paini saarnan lukemisen kanssa.</x>
+               <xt>Sun moggedij säärni luhâmáin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -41496,82 +41490,42 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <re>esim. ruokaa</re>
+            <re>ruokaa</re>
             <t pos="V" wf="pasam paSa">passeeđ</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn">
-            <re>nopeasti</re>
-            <t pos="V" wf="passeel">paseliđ</t>
+            <xg>
+               <x>Olen paistanut kalaa.</x>
+               <xt>Mun lam passaam kuolijd.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
             <re>pannussa</re>
             <t pos="V" wf="piđám">piđđeeđ</t>
+            <xg>
+               <x>Kyllä poron rasva on hyvää, kun sen paistaa pannussa.</x>
+               <xt>Kal poccuu oolâs lii pyeri ko tom piđá.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
             <re>rasvassa</re>
-            <t pos="V">steikkiistiđ</t>
+            <t pos="V">steikkiđ</t>
+            <xg>
+               <x>Äiti paistoi lihaa.</x>
+               <xt>Enni steikkij piärguid.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="5">
          <tg xml:lang="smn">
-            <re>esim. auringosta ja kuusta</re>
+            <re>auringosta ja kuusta</re>
             <t pos="V" wf="páštá">päštiđ</t>
-         </tg>
-      </mg>
-      <mg id="6">
-         <tg xml:lang="smn">
-            <re>loistaa</re>
-            <t pos="V" wf="šiärráám">šiärráđ</t>
-         </tg>
-      </mg>
-      <mg id="7">
-         <tg xml:lang="smn">
-            <re>erit. auringosta</re>
-            <t pos="V" wf="čuovât">čuovâttiđ</t>
-         </tg>
-      </mg>
-      <mg id="8">
-         <tg xml:lang="smn">
-            <re>valkoisena</re>
-            <t pos="V" wf="viälgájeh">viälgáđ</t>
-         </tg>
-      </mg>
-      <mg id="9">
-         <tg xml:lang="smn">
-            <re>valkeana</re>
-            <t pos="V" wf="čiäskájeh">čiäskáđ</t>
-         </tg>
-      </mg>
-      <mg id="10">
-         <tg xml:lang="smn">
-            <re>ruskeana</re>
-            <t pos="V" wf="ruškájeh">ruškáđ</t>
-         </tg>
-      </mg>
-      <mg id="11">
-         <tg xml:lang="smn">
-            <re>keltaisena</re>
-            <t pos="V" t_tld="~ viskáđ viskájeh" wf="fiskájeh">fiskáđ</t>
-         </tg>
-      </mg>
-      <mg id="12">
-         <tg xml:lang="smn">
-            <re>sinisenä</re>
-            <t pos="V" wf="čuávjájeh">čuávjáđ</t>
-         </tg>
-      </mg>
-      <mg id="13">
-         <tg xml:lang="smn">
-            <re>nahan läpi luista laihalla ihmisellä</re>
-            <t pos="V" wf="párccáám">párccáđ</t>
-            <re>sopia paistamiseen</re>
-            <t pos="V" wf="passeet">pasettiđ</t>
+            <xg>
+               <x>Aurinko paistoi, kun hiihdin jäällä.</x>
+               <xt>Peivi paaštij ko mun čuoigim jieŋâ alne.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -41628,8 +41582,16 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <re>tulesta</re>
+            <re>tulesta t. tulen polttamasta</re>
             <t pos="V" wf="puálám puáLá">pyelliđ</t>
+            <xg>
+               <x>Vanha tupa paloi 1930-luvulla</x>
+               <xt>Puáris tupe puolij 1930-lovvoost.</xt>
+            </xg>
+            <xg>
+               <x>Kynttilä paloi pöydällä.</x>
+               <xt>Kiintâl puolij peevdi alne.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="1">
@@ -41637,69 +41599,34 @@ For the full license text, see the link above.
             <re>pohjaan, kärventyä</re>
             <t pos="V" wf="puálám puáLá">pyelliđ</t>
             <t pos="V" wf="skeerčâg">skerčâgiđ</t>
+            <xg>
+               <x>Minulla paloivat perunat pohjaan.</x>
+               <xt>Must potáseh puollii.</xt>
+            </xg>
+            <xg>
+               <x>Minulla leivät paloivat.</x>
+               <xt>Must leeibih skerčâgii. </xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
             <re>pohjaan hieman</re>
             <t pos="V" wf="pyeleest">pyelestiđ</t>
+            <xg>
+               <x>Tämä puuro paloi vähän pohjaan.</x>
+               <xt>Taat suohâd váhá pyelestij.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
             <re>nahasta</re>
             <t pos="V" wf="killááš">kilášiđ</t>
-         </tg>
-      </mg>
-      <mg id="4">
-         <tg xml:lang="smn">
-            <re>tulla tulesta singonneiden kipunoiden polttamaksi</re>
-            <t pos="V" wf="pekkuum">pekkuđ</t>
-         </tg>
-      </mg>
-      <mg id="5">
-         <tg xml:lang="smn">
-            <re>päästää jk palamaan mustaksi t. hiileksi siten että syntyy palaneen käryä</re>
-            <t pos="V" wf="skerčâgitám">skerčâgittiđ</t>
-            <t pos="V" wf="skerčádittiđ skerčáiditám">skerčádittiđ</t>
-         </tg>
-      </mg>
-      <mg id="6">
-         <tg xml:lang="smn">
-            <re>haista palaneelta t. kärventyneeltä</re>
-            <t pos="V" t_tld="~puovnjiidiđ puovnjâg">puovnjâgiđ</t>
-            <t pos="V" wf="haavdârd">havdârdiđ</t>
-            <t pos="V" wf="skeerčijd">skerčijdiđ</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn">
-            <re>hitaasti</re>
-            <t pos="V">puolâččiđ</t>
-         </tg>
-      </mg>
-      <mg id="3">
-         <tg xml:lang="smn">
-            <re>nopeasti</re>
-            <t pos="V" wf="happaat">hapattiđ</t>
-         </tg>
-      </mg>
-      <mg id="4">
-         <tg xml:lang="smn">
-            <re>kohisten</re>
-            <t pos="V" wf="keemijd">kemijdiđ</t>
-         </tg>
-      </mg>
-      <mg id="5">
-         <tg xml:lang="smn">
-            <re>hehkua</re>
-            <t pos="V">kuárdiđ</t>
-         </tg>
-      </mg>
-      <mg id="6">
-         <tg xml:lang="smn">
-            <re>tuhkaksi</re>
-            <t pos="V" wf="kunnâluVá">kunnâluđ</t>
+            <xg>
+               <x>Nahka paloi keväthangilla.</x>
+               <xt>Liške kilášij kiđđâcuoŋŋuu alne.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -41889,11 +41816,17 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>esim. jumalista</re>
             <t pos="V">palvâliđ</t>
+            <xg>
+               <x>Ennen vanhaan saamelaiset palvoivat luonnonjumalia.</x>
+               <xt>Tove sämmiliih palvâlii luánduimelijd.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
+            <re>kumartaa, kumarrella</re>
             <t pos="V">komerdiđ</t>
             <xg>
                <x>Jo aikojen alusta saakka ihmiset ovat palvoneet Kuuta.</x>
@@ -41903,6 +41836,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
+            <re>idoleista</re>
             <t mwe="y" pos="V">anneeđ idolin</t>
          </tg>
       </mg>
@@ -42288,11 +42222,21 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>peitellä, kattaa kulut, p. kota louteella</re>
             <t pos="V" wf="luávdám">luávdiđ</t>
+            <xg>
+               <x>Hän yritti peittää vatsansa siivillään.</x>
+               <xt>Sun iiskâi luávdiđ čuávjis suájáidiskuin.</xt>
+            </xg>
+            <xg>
+               <x>Ympäristöministeriö peittää Saamelaiskäräjien edustajan kulut.</x>
+               <xt>Pirâsministeriö luávdá Sämitige ovdâsteijee koloid.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>olla suojana</re>
             <t pos="V" wf="luávdám">peittiđ</t>
             <xg>
                <x>Limakerros peittää tasaisesti koko kalan.</x>
@@ -42310,12 +42254,6 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <re>alleen, piiloon</re>
             <t pos="V" wf="čieVâm čiähá">čiehâđ</t>
-         </tg>
-      </mg>
-      <mg id="4">
-         <tg xml:lang="smn">
-            <re>kota louteella</re>
-            <t pos="V" wf="luávdám">luávdiđ</t>
          </tg>
       </mg>
       <mg id="5">
@@ -42703,9 +42641,15 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>huijata</re>
             <t pos="V" wf="filliim fillee">filliđ</t>
             <t pos="V" wf="falskiim fälskee">falskiđ</t>
-            <t pos="V" wf="piätám piättá">pettiđ</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>huijata, pettää fyysisesti jkta</re>
+            <t pos="V">pettiđ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -42722,7 +42666,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="4">
          <tg xml:lang="smn">
-            <re>tulla petetyksi</re>
+            <re>tulla huijatuksi</re>
             <t pos="V" wf="filliittât">filliittâttâđ</t>
             <t pos="V" wf="petittât">petittâttâđ</t>
             <t pos="V" wf="pettuum">pettuđ</t>
@@ -42808,20 +42752,12 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <re>esim. rikollinen</re>
-            <t pos="V" wf="tolliittâm">tolliittiđ</t>
-            <t pos="V" wf="kiddâ">väldiđ</t>
+            <t pos="V" t_type="Phrase" wf="kiddâ">väldiđ kiddâ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <re>pitää kiinni, paikoillaan</re>
-            <t pos="V" wf="copciim">copciđ</t>
-            <t pos="V" wf="tolliim tuállee">tolliđ</t>
-         </tg>
-      </mg>
-      <mg id="3">
-         <tg xml:lang="smn">
-            <re>ennakkoveroa tms.</re>
+            <re>pitää kiinni, paikoillaan, ennakkoveroa t. maksuja</re>
             <t pos="V" wf="tolliim tuállee">tolliđ</t>
          </tg>
       </mg>
@@ -42882,8 +42818,14 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <re>useista ihmisistä</re>
+            <re>silloin tällöin</re>
             <t pos="V">puáskudiđ</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>pieraista</re>
+            <t pos="V">puoskiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -43106,7 +43048,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <re>panna halvalla</re>
+            <re>panna halvalla, pitää huonona</re>
             <t pos="V" wf="huánum _FT_ huánum">huánnuđ</t>
          </tg>
       </mg>
@@ -43247,7 +43189,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <re>äkkiä</re>
+            <re>äkkiä jllak terävällä</re>
             <t pos="V" wf="čuoggist">čuoggiistiđ</t>
          </tg>
       </mg>
@@ -43535,13 +43477,19 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>loikkia, esim. jäniksestä</re>
             <t pos="V" wf="cancom">canccođ</t>
-            <t pos="V" wf="njuškom">njuškođ</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>hyppiä</re>
+            <t pos="V">njuškođ</t>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <re>alkaa</re>
+            <re>alkaa pomppia</re>
             <t pos="V">canccoliđ</t>
          </tg>
       </mg>
@@ -43561,6 +43509,10 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <re>puusta toiseen erit. oravasta</re>
             <t pos="V" wf="puittá">puitteđ</t>
+            <xg>
+               <x>Orava pomppi oksalta toiselle.</x>
+               <xt>Uárree puuitij uávsist nuubán.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -45117,7 +45069,6 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <re>keväällä, ahavoitua</re>
             <t pos="V" wf="áVáduum áVáduVá">áváduđ</t>
-            <t pos="V" wf="paštuum páštoo">paštuđ</t>
          </tg>
       </mg>
    </e>
@@ -45389,7 +45340,6 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <re>itsensä, saada jstak naarmu</re>
             <t pos="V" wf="saargâst">sargâstiđ</t>
-            <t pos="V" wf="vooskâst">voskâstiđ</t>
          </tg>
       </mg>
       <mg id="3">
@@ -45405,7 +45355,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <re>kynsiä esim. kissa</re>
+            <re>kynsiä kissasta</re>
             <t pos="V" wf="kazom">kazzođ</t>
          </tg>
       </mg>
@@ -45417,7 +45367,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <re>rapsuttaa</re>
+            <re>raaputtaa, esim. kutisevaa ihoa</re>
             <t pos="V" wf="ruohâm ruákká">ruokkâđ</t>
             <t pos="V" wf="ruovâm">ruoppâđ</t>
          </tg>
@@ -45595,6 +45545,12 @@ For the full license text, see the link above.
             <t pos="V" wf="vuoidâm">vuoidâđ</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>öljytä</re>
+            <t pos="V">oljiđ</t>
+         </tg>
+      </mg>
    </e>
    <e id="11807">
       <lg>
@@ -45624,6 +45580,12 @@ For the full license text, see the link above.
             <t pos="V" wf="čovdâšuVá">čovdâšuđ</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>ratketa, esim. saumasta t. kankaasta</re>
+            <t pos="V">rottâsiđ</t>
+         </tg>
+      </mg>
    </e>
    <e id="11808">
       <lg>
@@ -45639,6 +45601,12 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <re>ongelmia</re>
             <t pos="V" wf="čuávdám čoovdij">čuávdiđ</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re xml:lang="fin">ratkoa, esim. ristikoita</re>
+            <t pos="V">čovdâččiđ</t>
          </tg>
       </mg>
    </e>

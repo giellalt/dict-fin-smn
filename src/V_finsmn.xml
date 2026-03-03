@@ -439,6 +439,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>erityisesti kärpästä</re>
             <t pos="V" wf="jussiim jussee">jussiđ</t>
          </tg>
       </mg>
@@ -4108,11 +4109,13 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>hintaa</re>
             <t pos="V" wf="häälbid">hälbidiđ</t>
          </tg>
       </mg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>pitää huonona</re>
             <t pos="V" t_tld="~huánnuđ huánum" wf="huánum">huánnuđ</t>
          </tg>
       </mg>
@@ -4123,6 +4126,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>hinnasta</re>
             <t pos="V">hálbuđ</t>
          </tg>
       </mg>
@@ -4164,6 +4168,10 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t pos="V">irrááttiđ</t>
+            <xg>
+               <x>Hänellä silmät harittavat.</x>
+               <xt>Sust čalmeh irráátteh.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5504,7 +5512,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t mwe="y" pos="V">celkkiđ luovâsin</t>
+            <t mwe="y" pos="V">celkkiđ luovâs</t>
          </tg>
       </mg>
    </e>
@@ -8134,8 +8142,12 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <re>esim. juoma t. sattua,tapahtua</re>
+            <re>esim. juoma, käydä jotenkin</re>
             <t pos="V" wf="kiäVá">keevvâđ</t>
+            <xg>
+               <x>Sima on käynyt jo kaksi päivää.</x>
+               <xt>Sima lii keevvâm jo kyehti peeivi.</xt>
+            </xg>
             <xg>
                <x>Nyt on käynyt niin,että minä...</x>
                <xt>Tääl lii keevvâm nuuvt, et mun...</xt>
@@ -11251,10 +11263,15 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>lijkkuđ + ill.</re>
             <t pos="V" wf="lijkkuum">lijkkuđ</t>
             <xg>
                <x>Minä pidän uimisesta.</x>
                <xt>Mun lijkkuum vuojâdâtmân.</xt>
+            </xg>
+            <xg>
+               <x>Minä pidän hänestä.</x>
+               <xt>Mun lijkkuum sunjin.</xt>
             </xg>
          </tg>
       </mg>
@@ -11263,8 +11280,8 @@ For the full license text, see the link above.
             <re>ulkopuolinen pakko</re>
             <t pos="V" wf="ferttiim">ferttiđ</t>
             <xg>
-               <x>Minun pitää mennä.</x>
-               <xt>Mun ferttiim vyelgiđ.</xt>
+               <x>Minun pitää nyt mennä.</x>
+               <xt>Mun ferttiim tääl vyelgiđ.</xt>
             </xg>
          </tg>
       </mg>
@@ -11272,6 +11289,10 @@ For the full license text, see the link above.
          <tg xml:lang="smn">
             <re>sisäinen pakko</re>
             <t pos="V" wf="koolgâm kalga">kolgâđ</t>
+            <xg>
+               <x>Mitähän nyt täytyisi tehdä? </x>
+               <xt>Maidgis tääl kolgâččij porgâđ?</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="3">
@@ -11282,7 +11303,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <re>konkr. esim. kädessä</re>
+            <re>konkr.: pitää kiinni jstak, esim. kädessä</re>
             <t pos="V" wf="toolâm tuáLá">tolliđ</t>
             <xg>
                <x>Minä pidän kirvestä kädessä.</x>
@@ -11299,8 +11320,12 @@ For the full license text, see the link above.
             <re>jnak, jnkinlaisena</re>
             <t pos="V" r_par="+ ess.">anneeđ</t>
             <xg>
-               <x>Minä pidän sinua hyvänä.</x>
-               <xt>Mun anam tuu pyerrin.</xt>
+               <x>Minä pidän sitä hyvänä.</x>
+               <xt>Mun anam tom pyerrin.</xt>
+            </xg>
+            <xg>
+               <x>Hän piti itseään jonkinlaisena herrana.</x>
+               <xt>Sun oonij jieijâs mottoomlágán hiärrán.</xt>
             </xg>
          </tg>
       </mg>
@@ -11678,7 +11703,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="V" wf="puuteristám">puuteristiđ</t>
+            <t pos="V" wf="puuteristám">puuteristiđ </t>
          </tg>
       </mg>
    </e>
@@ -11688,27 +11713,22 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <re>jhk</re>
-            <t pos="V">tarvaniđ</t>
+            <re>olla ilman jtak</re>
+            <t pos="V" wf="vááilum">váiluđ</t>
+            <xg>
+               <x>Ei meiltä puutu mitään.</x>
+               <xt>Ij mist vááilu mihheen.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="1">
          <tg xml:lang="smn">
-            <re>olla ilman</re>
-            <t pos="V" wf="vááilum">váiluđ</t>
-         </tg>
-      </mg>
-      <mg id="2">
-         <tg xml:lang="smn">
-            <re>olla puutetta jstak</re>
-            <t pos="V" wf="vááNu">váánnuđ</t>
-         </tg>
-      </mg>
-      <mg id="3">
-         <tg xml:lang="smn">
-            <re>huveta, tyhjetä esim. ruokavarastoista</re>
-            <t pos="V" t_tld="~ váJugâššâđ váJugâšâm váJugâš ~ váJágâššâđ váJágâšâm váJágâš"
-            wf="vaJâgâšâm vaJâgâš">vajâgâššâđ</t>
+            <re>jhk asiaan</re>
+            <t pos="V" t_type="Phrase">väldiđ pele</t>
+            <xg>
+               <x>Työnantajalla on velvollisuus puuttua työpaikalla tapahtuvaan häirintään.</x>
+               <xt>Pargoadeleijest lii kenigâsvuotâ väldiđ pele pargosaajeest tábáhtuvvee hettiimáid.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -39948,7 +39968,7 @@ For the full license text, see the link above.
             <t pos="V" wf="paijaan">pajaniđ</t>
             <xg>
                <x>Nousin seisomaan.</x>
-               <xt>Mun pajanim čuožâd. </xt>
+               <xt>Mun pajanim čuožâd.</xt>
             </xg>
             <xg>
                <x>Anna taikinan nousta puoli tuntia.</x>
@@ -39959,16 +39979,16 @@ For the full license text, see the link above.
                <xt>Panelist äigikyevdilis äššin pajanij ILO 169 -sopâmuš.</xt>
             </xg>
             <xg>
-               <x>Maapallon keskilämpötila on noussut noin 0,74 astetta 100 vuoden aikana. </x>
-               <xt>Eennâmpáálu koskâmiärálâš liegâsvuotâ lii pajanâm nyevt 0,74 cekkid 100 ive ääigi. </xt>
+               <x>Maapallon keskilämpötila on noussut noin 0,74 astetta 100 vuoden aikana.</x>
+               <xt>Eennâmpáálu koskâmiärálâš liegâsvuotâ lii pajanâm nyevt 0,74 cekkid 100 ive ääigi.</xt>
             </xg>
             <xg>
                <x>Kansa nousee kansaa vastaan.</x>
-               <xt>Aalmug paijaan aalmug vuástá. </xt>
+               <xt>Aalmug paijaan aalmug vuástá.</xt>
             </xg>
             <xg>
                <x>Aurinko ei nouse lainkaan kaamosaikana.</x>
-               <xt>Piäiváš ij paijaan ollágin skammâääigi. </xt>
+               <xt>Piäiváš ij paijaan ollágin skammâääigi.</xt>
             </xg>
             <xg>
                <x>Minulla nousi kuume.</x>
@@ -40006,11 +40026,11 @@ For the full license text, see the link above.
             <t pos="V" wf="ceggân">ceggâniđ</t>
             <xg>
                <x>Koiralla karvat nousivat pystyyn.</x>
-               <xt>Pennust soksâmeh ceggânii. </xt>
+               <xt>Pennust soksâmeh ceggânii.</xt>
             </xg>
             <xg>
                <x>Minulla nousivat hiukset pystyyn.</x>
-               <xt>Must vuoptah ceggânii. </xt>
+               <xt>Must vuoptah ceggânii.</xt>
             </xg>
             <xg>
                <x>Sajos nousi pystyyn Inarissa vuonna 2012.</x>
@@ -40044,7 +40064,7 @@ For the full license text, see the link above.
             <t pos="V">pulttâsiđ</t>
             <xg>
                <x>Reedrik nousi sängystä ja hieroi niskojaan.</x>
-               <xt>Reedrik pulttâsij sajestis já ruvvij niskijdis. </xt>
+               <xt>Reedrik pulttâsij sajestis já ruvvij niskijdis.</xt>
             </xg>
             <xg>
                <x>Mummo nousi ahkiosta.</x>
@@ -41366,7 +41386,7 @@ For the full license text, see the link above.
             <re>syn. hiäibuđ t. hankalassa tilanteessa</re>
             <t pos="V">moggediđ</t>
             <xg>
-               <x>He alkoivat painia. </x>
+               <x>He alkoivat painia.</x>
                <xt>Suoi riemáin moggediđ.</xt>
             </xg>
             <xg>
@@ -41605,7 +41625,7 @@ For the full license text, see the link above.
             </xg>
             <xg>
                <x>Minulla leivät paloivat.</x>
-               <xt>Must leeibih skerčâgii. </xt>
+               <xt>Must leeibih skerčâgii.</xt>
             </xg>
          </tg>
       </mg>

@@ -1,3 +1,14 @@
-theme: jekyll-theme-minimal
+remote_theme: giellalt/jekyll-theme-giellalt@main
 title: Dictionary for Finnish ⇒ Inari Saami
 description: An electronic dictionary from Finnish to Inari Saami
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jemoji
+
+defaults:
+  - scope: { path: "" }
+    values:
+      layout: minimal

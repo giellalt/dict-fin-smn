@@ -65,7 +65,7 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="smn">
             <re>yksinomaan</re>
-            <t>putes</t>
+            <t pos="A">putes</t>
             <xg>
                <x>Se on pelkkää rokkia.</x>
                <xt>Tot lii putes rock.</xt>
@@ -2520,18 +2520,18 @@ For the full license text, see the link above.
       <mg id="1">
          <tg xml:lang="smn">
             <t attr="avgâdis _AT_ avgâdâs" pos="A">avgâd</t>
-	    <xg>
-	      <x>tulla aukeaksi</x>
-	      <xt>jalgodiđ</xt>
-	    </xg>
+            <xg>
+               <x>tulla aukeaksi</x>
+               <xt>jalgodiđ</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
-	<tg xml:lang="smn">
+         <tg xml:lang="smn">
             <t l_par="tasainen" pos="A">jolgâd</t>
          </tg>
       </mg>
-  </e>
+   </e>
    <e id="845">
       <lg>
          <l pos="A">avara</l>
@@ -2852,8 +2852,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t attr="luáđhus _AT_ luátku-" l_par="löysä, kuohkea, upottava esim. lumi" pos="A"
-            wf="luátkus">luáđhus</t>
+            <t attr="luáđhus _AT_ luátku-" l_par="löysä, kuohkea, upottava esim. lumi" pos="A" wf="luátkus">luáđhus</t>
          </tg>
       </mg>
    </e>
@@ -16557,8 +16556,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t attr="fanttâ" l_par="varma, osaava" pos="A" t_tld="~ vaantâs vanttâs # vanttâ"
-            wf="fanttâs">faantâs</t>
+            <t attr="fanttâ" l_par="varma, osaava" pos="A" t_tld="~ vaantâs vanttâs # vanttâ" wf="fanttâs">faantâs</t>
             <t l_par="kokenut" pos="A">hárjánâm</t>
          </tg>
       </mg>
@@ -22305,8 +22303,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t attr="fanttâ" l_par="harjaantunut" pos="A" t_tld="~ vaantâs vanttâs # vanttâ"
-            wf="fanttâs">faantâs</t>
+            <t attr="fanttâ" l_par="harjaantunut" pos="A" t_tld="~ vaantâs vanttâs # vanttâ" wf="fanttâs">faantâs</t>
             <t pos="A">távástum</t>
          </tg>
       </mg>

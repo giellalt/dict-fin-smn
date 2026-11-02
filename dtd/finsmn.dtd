@@ -23,7 +23,8 @@
       src CDATA #IMPLIED
       id CDATA #IMPLIED
 >
-<!ELEMENT lg (l+, l_ref*, algu?) >
+<!--ELEMENT lg (l+, l_ref*, algu?) -->
+<!ELEMENT lg (l+, algu?) >
 <!ELEMENT l (#PCDATA) >
 <!ATTLIST l
       pos ( A | Adv | CC | CS | Pcle | Po | Pron |
@@ -71,13 +72,14 @@
 <!ELEMENT it (#PCDATA) >
 
 
-<!ELEMENT tg (semantics?,  ( ((re?, t+, stem*, l_ref?) ))+, xg*, syng?) >
+<!--<!ELEMENT tg (semantics?,  ( ((re?, t+, stem*, l_ref?) ))+, xg*, syng?) > -->
+<!ELEMENT tg (( ((re?, t+, l_ref?) ))+, xg*) >
 <!ATTLIST tg
-      xml:lang ( smn ) #REQUIRED
+       xml:lang ( smn ) #FIXED "smn"
       check CDATA #IMPLIED
       tw_id CDATA #IMPLIED
+      >
 
->
 <!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
 <!ATTLIST re
     xml:lang ( fin | lat) #IMPLIED

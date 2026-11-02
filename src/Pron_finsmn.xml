@@ -32,7 +32,7 @@ For the full license text, see the link above.
          <l pos="Pron">usea</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="maaŋgâ">maŋgâ</t>
          </tg>
       </mg>
@@ -42,7 +42,7 @@ For the full license text, see the link above.
          <l pos="Pron">millainen</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron">maggaar</t>
          </tg>
       </mg>
@@ -52,12 +52,12 @@ For the full license text, see the link above.
          <l pos="Pron">muu</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="iärrás _FT_ iärrâs">eres</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="muuta">muh</t>
             <t pos="Pron">muide</t>
          </tg>
@@ -68,52 +68,52 @@ For the full license text, see the link above.
          <l pos="Pron">itse</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" t_tld="~ jieš jieJah">jieš</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="itseni">jieččân</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="itsesi">jieččâd</t>
          </tg>
       </mg>
       <mg id="4">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="itsensä">jieijâs</t>
          </tg>
       </mg>
       <mg id="5">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="itselläni, itseltäni">alnaan</t>
          </tg>
       </mg>
       <mg id="6">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="itselläsi, itseltäsi">alnaad</t>
          </tg>
       </mg>
       <mg id="7">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="itsellänsä, itseltänsä">alnees</t>
          </tg>
       </mg>
       <mg id="8">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="itselleni">olssân</t>
          </tg>
       </mg>
       <mg id="9">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="itsellesi">olssâd</t>
          </tg>
       </mg>
       <mg id="10">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="itselleen">olssis</t>
          </tg>
       </mg>
@@ -123,7 +123,7 @@ For the full license text, see the link above.
          <l pos="Pron">johon</l>
       </lg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron">moos</t>
          </tg>
       </mg>
@@ -133,7 +133,7 @@ For the full license text, see the link above.
          <l pos="Pron">johonkin</l>
       </lg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron">moosnii</t>
          </tg>
       </mg>
@@ -143,7 +143,7 @@ For the full license text, see the link above.
          <l pos="Pron">itsekukin</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="jieškiän-uv">jieškii-uv</t>
             <t pos="Pron" wf="jieškiän-uv">jieškote-uv</t>
             <t pos="Pron">jieškotteev</t>
@@ -155,7 +155,7 @@ For the full license text, see the link above.
          <l pos="Pron" r1_par="part.">koko</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="attr. only" t_tld="~ ubbâ">ubâ</t>
             <t pos="Pron" l_par="attr. only" t_tld="~ ubâ">ubbâ</t>
             <t pos="Pron" l_par="attr. only">heeilâ</t>
@@ -167,7 +167,7 @@ For the full license text, see the link above.
          <l pos="Pron">hän</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="suu">sun</t>
          </tg>
       </mg>
@@ -177,7 +177,7 @@ For the full license text, see the link above.
          <l pos="Pron">jokin</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="monnii">miinii</t>
          </tg>
       </mg>
@@ -187,7 +187,7 @@ For the full license text, see the link above.
          <l pos="Pron">jompikumpi</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="kuábbáánii">kuábbášnii</t>
          </tg>
       </mg>
@@ -197,7 +197,7 @@ For the full license text, see the link above.
          <l pos="Pron">jossa</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="maantieteellinen sijainti tärkeä">kost</t>
             <xg>
                <x>Minä synnyin Ivalossa,jossa asuin monta vuotta.</x>
@@ -206,7 +206,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="muu kuin maantieteellinen sijainti tärkeä">mast</t>
             <xg>
                <x>Tässähän se on tämä niemi, jossa minulla on verkko.</x>
@@ -220,7 +220,7 @@ For the full license text, see the link above.
          <l pos="Pron">jotain</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="subjekt" wf="maidnii">miinii</t>
             <t pos="Pron" l_par="objekt">maidnii</t>
          </tg>
@@ -231,7 +231,7 @@ For the full license text, see the link above.
          <l pos="Pron">kukaan</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" t_tld="~kihheen kiännân" wf="kiännán">kihheen</t>
          </tg>
       </mg>
@@ -241,7 +241,7 @@ For the full license text, see the link above.
          <l pos="Pron">kumpikaan</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="kuábbáágin">kuábbáškin</t>
          </tg>
       </mg>
@@ -251,7 +251,7 @@ For the full license text, see the link above.
          <l pos="Pron">kumpikin</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="kuábbáá-uv">kuábbáš-uv</t>
          </tg>
       </mg>
@@ -261,7 +261,7 @@ For the full license text, see the link above.
          <l pos="Pron">minä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="muu">mun</t>
          </tg>
       </mg>
@@ -271,7 +271,7 @@ For the full license text, see the link above.
          <l pos="Pron">monesko</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron">kallaad</t>
          </tg>
       </mg>
@@ -281,7 +281,7 @@ For the full license text, see the link above.
          <l pos="Pron">montako</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="kale">kalle</t>
          </tg>
       </mg>
@@ -291,12 +291,12 @@ For the full license text, see the link above.
          <l pos="Pron" r1_par="kaksikko, monikko">te</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="kaksikko" wf="tunnuu">tuoi</t>
          </tg>
       </mg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="monikko" wf="tii">tij</t>
          </tg>
       </mg>
@@ -306,17 +306,17 @@ For the full license text, see the link above.
          <l pos="Pron">toisiaan</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="he">nubijdis</t>
          </tg>
       </mg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="me">nubijdân</t>
          </tg>
       </mg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="te">nubijdâd</t>
          </tg>
       </mg>
@@ -326,7 +326,7 @@ For the full license text, see the link above.
          <l pos="Pron" r1_par="mon.">useimmat</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron">iänááš</t>
          </tg>
       </mg>
@@ -336,7 +336,7 @@ For the full license text, see the link above.
          <l pos="Pron" r1_par="matem." r2_par="mon.">yhdet</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" r_par="mon.">ovttiih</t>
          </tg>
       </mg>
@@ -346,7 +346,7 @@ For the full license text, see the link above.
          <l pos="Pron">yksi</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="oovtâ">ohtâ</t>
          </tg>
       </mg>
@@ -356,7 +356,7 @@ For the full license text, see the link above.
          <l pos="Pron">jokunen</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron">mottoom</t>
             <t pos="N" wf="suámmás">suámis</t>
          </tg>
@@ -367,7 +367,7 @@ For the full license text, see the link above.
          <l pos="Pron">mutkin</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" t_tld="~macij">maacij</t>
             <t pos="Adv" t_tld="~macâi">maacâi</t>
          </tg>
@@ -378,17 +378,17 @@ For the full license text, see the link above.
          <l pos="Pron">eri</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="ei sama" wf="iärrás _FT_ iärrâs">eres</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" l_par="erillinen, erikseen oleva">sierâ</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="A" l_par="erillinen, erityinen">sierânâs</t>
          </tg>
       </mg>
@@ -398,12 +398,12 @@ For the full license text, see the link above.
          <l pos="Pron">eräs</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron">mottoom</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="tiedetään kuka on kyseessä, muttei haluta mainita nimellä" wf="oovtâ">ohtâ</t>
          </tg>
       </mg>
@@ -413,12 +413,12 @@ For the full license text, see the link above.
          <l pos="Pron">he</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="kaks." wf="sunnuu">suoi</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="mon." wf="sii">sij</t>
          </tg>
       </mg>
@@ -428,78 +428,78 @@ For the full license text, see the link above.
          <l pos="Pron">joka</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="kiän">kii</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="mon">mii</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="kiän">kote</t>
          </tg>
       </mg>
       <mg id="4">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="toinen kahdesta" wf="kuábbáá">kuábbáš</t>
          </tg>
       </mg>
       <mg id="5">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="jonne">kuus</t>
          </tg>
       </mg>
       <mg id="6">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="jonnekin">kuusnii</t>
          </tg>
       </mg>
       <mg id="7">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="jossa, josta">kost</t>
          </tg>
       </mg>
       <mg id="8">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="jossakin, jostakin">kostnii</t>
          </tg>
       </mg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron">jyehi</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="joka kolmas" mwe="y">jyehi kuálmád</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="joka vuosi" mwe="y">jyehi ive</t>
          </tg>
       </mg>
       <mg id="4">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="joka ainoa" mwe="y">jyehi ohtâ</t>
             <t pos="Pron" mwe="y">jyehi áinoo</t>
          </tg>
       </mg>
       <mg id="5">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="jokahetkinen">jyehitovvááš</t>
          </tg>
       </mg>
       <mg id="6">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="joka asiassa">jyehivuođâst</t>
          </tg>
       </mg>
       <mg id="7">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="A" l_par="avulias joka asiassa" mwe="y">išálâš jyehivuođâst</t>
          </tg>
       </mg>
@@ -509,13 +509,13 @@ For the full license text, see the link above.
          <l pos="Pron">jokainen</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron">jyehi</t>
             <t pos="Pron" wf="juáhháá">juáháš</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="jokaisella">juáhhást</t>
          </tg>
       </mg>
@@ -525,27 +525,27 @@ For the full license text, see the link above.
          <l pos="Pron">joku</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="ihminen" wf="kiän">kii</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="epäm." wf="kiännii">kiinii</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" l_par="eräs epäm." wf="suámmás">suámis</t>
          </tg>
       </mg>
       <mg id="4">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="eräs tietty nimeltä mainitsematon" wf="oovtâ">ohtâ</t>
          </tg>
       </mg>
       <mg id="5">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="esine">miinii</t>
          </tg>
       </mg>
@@ -555,23 +555,23 @@ For the full license text, see the link above.
          <l pos="Pron">kaikki</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron">puoh</t>
             <t pos="Pron">viisut</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="ihmisistä" r_par="mon.">puohah</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="kaikki tyynni">puohrekkân</t>
          </tg>
       </mg>
       <mg id="4">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="kaikkiaan" t_tld="~puohânissii">puohnissii</t>
          </tg>
       </mg>
@@ -581,29 +581,29 @@ For the full license text, see the link above.
          <l pos="Pron">kuka</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="kiän">kii</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="joukosta" wf="kotemuu">kotemuš</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="kuka tahansa, kuka vain" t_tld="~seti-">säti-</t>
             <t pos="Pron" mwe="y">kii peri</t>
             <t pos="Pron" l_par="puhekielessä" mwe="y">kii váá</t>
          </tg>
       </mg>
       <mg id="4">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="kenellä, -ltä">kiäst</t>
          </tg>
       </mg>
       <mg id="5">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="kenelläkään, keneltäkään">kiästen</t>
          </tg>
       </mg>
@@ -613,17 +613,17 @@ For the full license text, see the link above.
          <l pos="Pron">kumpi</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="kuábbáá">kuábbáš</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="kumpi suunta, kumpaan suuntaan">kuábás</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="kumpi vain" mwe="y">kuábbáš peri</t>
             <t pos="Pron" l_par="kumpi vain (puhekielessä" mwe="y">kuábbáš váá</t>
          </tg>
@@ -634,17 +634,17 @@ For the full license text, see the link above.
          <l pos="Pron">kuta</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron">mađe</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="kuta - sitä" syn_dash="- tađe _MWE2_">mađe - tađe</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="kuta enemmän sitä parempi" mwe="y">mađe eenâb tađe pyereeb</t>
          </tg>
       </mg>
@@ -654,12 +654,12 @@ For the full license text, see the link above.
          <l pos="Pron">me</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="kaksikko" wf="munnuu">muoi</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="monikko" wf="mii">mij</t>
          </tg>
       </mg>
@@ -669,59 +669,59 @@ For the full license text, see the link above.
          <l pos="Pron">mikä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="subjekt" wf="mon">mii</t>
             <t pos="Pron" l_par="objekt">maid</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="joukosta" wf="kotemuu">kotemuš</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="mikään" wf="monnân">mihheen</t>
          </tg>
       </mg>
       <mg id="4">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="mitä - sitä" syn_dash="- tađe _MWE2_">mađe - tađe</t>
             <t pos="Pron" l_par="mitä helpompi sitä parempi" wf="y">mađe älkkeb tađe pyereeb</t>
          </tg>
       </mg>
       <mg id="5">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="mikä tahansa" t_tld="~seti-">säti-</t>
             <xg>
                <x>mikä tahansa ruoka</x>
                <xt>sätipurrâmuš</xt>
             </xg>
          </tg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" mwe="y">mii peri</t>
          </tg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" mwe="y">mii váá</t>
          </tg>
       </mg>
       <mg id="6">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="minkä verran" t_tld="~mommit">monmit</t>
          </tg>
       </mg>
       <mg id="7">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Interj" l_par="mitä, kysymyssana kun ei kuullut kunnolla">aa-a</t>
          </tg>
       </mg>
       <mg id="8">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="mitä kautta">kogo</t>
          </tg>
       </mg>
       <mg id="9">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="mitään kautta">koggoon</t>
          </tg>
       </mg>
@@ -731,12 +731,12 @@ For the full license text, see the link above.
          <l pos="Pron" r1_par="mon.">molemmat</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" r_par="mon.">kuohtuuh</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="molemmat yhdessä">kyehtin</t>
          </tg>
       </mg>
@@ -746,27 +746,27 @@ For the full license text, see the link above.
          <l pos="Pron">moni</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="maaŋgâ">maŋgâ</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="moni ihminen, monet" wf="maŋgâs">maaŋgâs</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="moni-">maaŋgâ-</t>
          </tg>
       </mg>
       <mg id="4">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="monet, enimmät">ennâgâs</t>
          </tg>
       </mg>
       <mg id="5">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" l_par="moniko ihminen, kys.sana" wf="kallaas">kales</t>
          </tg>
       </mg>
@@ -776,12 +776,12 @@ For the full license text, see the link above.
          <l pos="Pron">muuan</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="tuntematon">mottoom</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="tunnettu, jonka nimeä ei haluta paljastaa" wf="oovtâ">ohtâ</t>
          </tg>
       </mg>
@@ -791,12 +791,12 @@ For the full license text, see the link above.
          <l pos="Pron">muutama</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="muádi">muáddi</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" l_par="ihminen" wf="muáddás _FT_ muáddâs">muádis</t>
          </tg>
       </mg>
@@ -806,28 +806,28 @@ For the full license text, see the link above.
          <l pos="Pron">sama</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="siämmáá">siämmáš</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="samaa, yhtä, myös">siämmáá</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="samalla">siämmást</t>
          </tg>
       </mg>
       <mg id="4">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="samalla tavoin, samoin kuten jk toinen">oovtnáál</t>
             <t pos="Adv">siämmáánáál</t>
          </tg>
       </mg>
       <mg id="5">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="samassa paikassa">tastan</t>
          </tg>
       </mg>
@@ -837,39 +837,39 @@ For the full license text, see the link above.
          <l pos="Pron">se</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="ton">tot</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="puhuteltavaa lähellä oleva" wf="tien">tiet</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="se siinä puhuteltavan lähellä">tietot</t>
          </tg>
       </mg>
       <mg id="8">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="sen kun">ta</t>
             <t pos="Pron">muidego</t>
          </tg>
       </mg>
       <mg id="9">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="sitä kautta">togopeht</t>
             <t pos="Adv">togo</t>
          </tg>
       </mg>
       <mg id="10">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="sitä kautta puhuteltavan läheltä">tiegu</t>
          </tg>
       </mg>
       <mg id="11">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="sitä vastoin">peeicâ</t>
          </tg>
       </mg>
@@ -879,12 +879,12 @@ For the full license text, see the link above.
          <l pos="Pron">sinä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="tuu">tun</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="runokielessä" wf="tuvvâ">tunnâ</t>
          </tg>
       </mg>
@@ -894,39 +894,39 @@ For the full license text, see the link above.
          <l pos="Pron">tuo</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" wf="tuon">tuot</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="tuossa">tuo</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="tuossa juuri">tuođee</t>
          </tg>
       </mg>
       <mg id="4">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="tuossa kohden">tuogu</t>
          </tg>
       </mg>
       <mg id="5">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="tuota kautta">tuogu</t>
          </tg>
       </mg>
       <mg id="6">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="tuolla">tovben</t>
             <t pos="Adv">tyebbin</t>
             <t pos="Adv">tuo</t>
          </tg>
       </mg>
       <mg id="7">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="tuolla kauempana" t_tld="~tovl">toovl</t>
             <t pos="Adv">tovgo</t>
          </tg>
@@ -937,48 +937,48 @@ For the full license text, see the link above.
          <l pos="Pron">tämä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" t_tld="~táát">taat</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="tämä tässä">taađaat</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Pron" l_par="tämän verran">tämmit</t>
          </tg>
       </mg>
       <mg id="4">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="tässä, tästä paikasta" t_tld="~tástân">tástán</t>
          </tg>
       </mg>
       <mg id="5">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="tätä kautta,tästä kohden">táágu</t>
          </tg>
       </mg>
       <mg id="6">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="A" l_par="tähän asti, saakka">táássáš</t>
          </tg>
       </mg>
       <mg id="7">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" l_par="tähän paikkaan">táássán</t>
          </tg>
       </mg>
       <mg id="8">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="tämän verran" t_tld="~ tämmittáá">taammittáá</t>
             <t pos="Adv">tämmit</t>
          </tg>
       </mg>
       <mg id="9">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="tänä vuonna">taaijuv</t>
          </tg>
       </mg>

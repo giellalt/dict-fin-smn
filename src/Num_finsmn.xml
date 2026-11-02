@@ -32,7 +32,7 @@ For the full license text, see the link above.
          <l pos="Num">kahdeksankymmentä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" wf="käävcilov">kähcilov</t>
          </tg>
       </mg>
@@ -42,7 +42,7 @@ For the full license text, see the link above.
          <l pos="Num">kaksikymmentä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" wf="kyevtlov">kyehtlov</t>
          </tg>
       </mg>
@@ -52,7 +52,7 @@ For the full license text, see the link above.
          <l pos="Num">kaksitoista</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" t_tld="~kyehtnubáloh -nubálov">kyehtinubáloh</t>
          </tg>
       </mg>
@@ -62,7 +62,7 @@ For the full license text, see the link above.
          <l pos="Num">kolmas</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="A" t_tld="~kuálmâd">kuálmád</t>
          </tg>
       </mg>
@@ -72,7 +72,7 @@ For the full license text, see the link above.
          <l pos="Num">kolmekymmentä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" wf="kuulmâlov">kulmâlov</t>
          </tg>
       </mg>
@@ -82,7 +82,7 @@ For the full license text, see the link above.
          <l pos="Num">kolmetoista</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" syn_dash="-nubálov">kulmânubáloh</t>
          </tg>
       </mg>
@@ -92,7 +92,7 @@ For the full license text, see the link above.
          <l pos="Num">kuusikymmentä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" wf="kuđâlov">kutlov</t>
          </tg>
       </mg>
@@ -102,7 +102,7 @@ For the full license text, see the link above.
          <l pos="Num">neljäkymmentä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" wf="neeljilov">neljilov</t>
          </tg>
       </mg>
@@ -112,7 +112,7 @@ For the full license text, see the link above.
          <l pos="Num">neljätoista</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" syn_dash="-nubálov">neljinubáloh</t>
          </tg>
       </mg>
@@ -122,7 +122,7 @@ For the full license text, see the link above.
          <l pos="Num">parikymmentä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" t_tld="~ muádlov">muáddilov</t>
          </tg>
       </mg>
@@ -132,7 +132,7 @@ For the full license text, see the link above.
          <l pos="Num">seitsemänkymmentä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num">čiččâmlov</t>
          </tg>
       </mg>
@@ -142,7 +142,7 @@ For the full license text, see the link above.
          <l pos="Num">seitsemänsataa</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num">čiččâmčyeđe</t>
          </tg>
       </mg>
@@ -152,7 +152,7 @@ For the full license text, see the link above.
          <l pos="Num">seitsemäntoista</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" syn_dash="-nubálov">čiččâmnubáloh</t>
          </tg>
       </mg>
@@ -162,7 +162,7 @@ For the full license text, see the link above.
          <l pos="Num">toistakymmentä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" wf="nubálov">nubáloh</t>
          </tg>
       </mg>
@@ -172,7 +172,7 @@ For the full license text, see the link above.
          <l pos="Num">viisikymmentä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" wf="viđâlov">vitlov</t>
          </tg>
       </mg>
@@ -182,7 +182,7 @@ For the full license text, see the link above.
          <l pos="Num">viisisataa</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num">vittâčyeđe</t>
          </tg>
       </mg>
@@ -192,7 +192,7 @@ For the full license text, see the link above.
          <l pos="Num">viisitoista</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" syn_dash="-nubálov">vitnubáloh</t>
          </tg>
       </mg>
@@ -202,7 +202,7 @@ For the full license text, see the link above.
          <l pos="Num">yhdeksänkymmentä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" wf="oovcelov">ohcelov</t>
          </tg>
       </mg>
@@ -212,7 +212,7 @@ For the full license text, see the link above.
          <l pos="Num">yhdeksäntoista</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" syn_dash="-nubálov">oovcenubáloh</t>
          </tg>
       </mg>
@@ -222,7 +222,7 @@ For the full license text, see the link above.
          <l pos="Num">yksitoista</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" syn_dash="-nubálov">ohtnubáloh</t>
          </tg>
       </mg>
@@ -232,17 +232,17 @@ For the full license text, see the link above.
          <l pos="Num">kahdeksan</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num">käävci</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" l_par="ihmistä" wf="káhcás _FT_ káhtsâs">käävcis</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="kahdeksan kertaa">kahcii</t>
          </tg>
       </mg>
@@ -252,17 +252,17 @@ For the full license text, see the link above.
          <l pos="Num">kaksi</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" wf="kyevti">kyehti</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" l_par="ihmistä" wf="kuáhtá _FT_ kuáhtás">kyevtis</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="kahdesti, kaksi kertaa">kuohtii</t>
          </tg>
       </mg>
@@ -272,22 +272,22 @@ For the full license text, see the link above.
          <l pos="Num">kolme</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" wf="kuulmâ">kulmâ</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="A" l_par="kolmen ihmisen joukko" wf="kulmâs">kuulmâs</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" l_par="kolmittain muusta kuin ihmisistä">kuulmâi-kuulmâi</t>
          </tg>
       </mg>
       <mg id="4">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="kolme kertaa, kolmesti">kulmii</t>
          </tg>
       </mg>
@@ -297,22 +297,22 @@ For the full license text, see the link above.
          <l pos="Num">kymmenen</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" wf="love">love</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" l_par="numero, kymppi" wf="lovváá">lovvááš</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="A" l_par="ihmistä" wf="lohháás">loves</t>
          </tg>
       </mg>
       <mg id="4">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="kymmenen kertaa, kymmenesti">luhhii</t>
          </tg>
       </mg>
@@ -322,17 +322,17 @@ For the full license text, see the link above.
          <l pos="Num">neljä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" wf="neelji">nelji</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" l_par="ihmistä, neljän ihmisen joukko" wf="niäljás">neeljis</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="neljä kertaa, neljästi">neljii</t>
          </tg>
       </mg>
@@ -342,17 +342,17 @@ For the full license text, see the link above.
          <l pos="Num">seitsemän</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num">čiččâm</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="A" l_par="ihmistä, seitsemän ihmisen joukko">čiččâmâs</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="seitsemän kertaa, seitsemästi">čiččii</t>
          </tg>
       </mg>
@@ -362,17 +362,17 @@ For the full license text, see the link above.
          <l pos="Num">viisi</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num" wf="viiđâ">vittâ</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="A" l_par="ihmistä" wf="vittâs">viiđâs</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="viidesti, viisi kertaa">vittii</t>
          </tg>
       </mg>
@@ -382,17 +382,17 @@ For the full license text, see the link above.
          <l pos="Num">yhdeksän</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Num">oovce</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="A" l_par="yhdeksän ihmistä">oovces</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="Adv" l_par="yhdeksän kertaa">ohcii</t>
          </tg>
       </mg>

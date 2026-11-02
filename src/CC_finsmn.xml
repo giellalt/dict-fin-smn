@@ -32,12 +32,12 @@ For the full license text, see the link above.
          <l pos="CC">niin</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="CC">naa</t>
          </tg>
       </mg>
       <mg id="3">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="CS">tegu</t>
          </tg>
       </mg>
@@ -47,7 +47,7 @@ For the full license text, see the link above.
          <l pos="CC">vaan</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="CC">pic</t>
             <t pos="Adv">váá</t>
             <t pos="CC" t_tld="~mutâ">mut</t>
@@ -59,7 +59,7 @@ For the full license text, see the link above.
          <l pos="CC">tai</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="CC" t_tld="~ađai">adai</t>
             <t pos="CC">tâi</t>
             <t pos="CC" t_tld="~teikkâ">teikâ</t>
@@ -71,7 +71,7 @@ For the full license text, see the link above.
          <l pos="CC">vai</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="CC">vâi</t>
             <t pos="CC">vuoi</t>
          </tg>
@@ -82,7 +82,7 @@ For the full license text, see the link above.
          <l pos="CC">sekä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="CC">sehe</t>
          </tg>
       </mg>
@@ -92,7 +92,7 @@ For the full license text, see the link above.
          <l pos="CC" comma=", elikkä">eli</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="CC">ađai</t>
             <t pos="CC">adai</t>
             <t pos="CC">taihe</t>
@@ -104,7 +104,7 @@ For the full license text, see the link above.
          <l pos="CC">mutta</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="CC" t_tld="~mutâ">mut</t>
             <t pos="CC" t_tld="~mut">mutâ</t>
             <t pos="CC">pic</t>
@@ -116,12 +116,12 @@ For the full license text, see the link above.
          <l pos="CC">eikä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="CC" t_tld="~ege">ige</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="CC" l_par="eivätkä">iäge</t>
          </tg>
       </mg>
@@ -131,12 +131,12 @@ For the full license text, see the link above.
          <l pos="CC">ja</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="CC" t_tld="~ja">já</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="CC" l_par="ja niin">jeđe</t>
          </tg>
       </mg>
@@ -146,7 +146,7 @@ For the full license text, see the link above.
          <l pos="CC">kaipa</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="CC">mai</t>
          </tg>
       </mg>

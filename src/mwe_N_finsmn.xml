@@ -32,7 +32,7 @@ For the full license text, see the link above.
          <l pos="N" r1_par="N">sulkeutunut ihminen</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" wf="skuŋkkâs">skuuŋkâs</t>
             <t pos="N" wf="skuuŋkâ">skuŋkkâ</t>
          </tg>
@@ -43,7 +43,7 @@ For the full license text, see the link above.
          <l pos="N">emin vartalo</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" syn_dash="-noovdâ">eminovdâ</t>
          </tg>
       </mg>
@@ -53,7 +53,7 @@ For the full license text, see the link above.
          <l pos="N">jokamiehen oikeus</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" syn_dash="-vuoigâdvuođâ" mwe="y">jyehiulmuu vuoigâdvuotâ</t>
             <t pos="N" syn_dash="-vuoigâdvuođâ" mwe="y">juáhháá vuoigâdvuotâ</t>
          </tg>
@@ -64,7 +64,7 @@ For the full license text, see the link above.
          <l pos="N">kannettava tietokone</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">mätkitiättur</t>
             <t pos="N">asketiättur</t>
             <t pos="N">kyeddimtiättur</t>
@@ -77,7 +77,7 @@ For the full license text, see the link above.
          <l pos="N">lauhkea vyöhyke</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" syn_dash="-stiellâs">liähmustielâs</t>
             <t pos="N" syn_dash="-stiellâs">lihmesstielâs</t>
          </tg>
@@ -88,7 +88,7 @@ For the full license text, see the link above.
          <l pos="N" r1_par="vain">sen kun</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">ta</t>
             <t pos="N">muidego</t>
          </tg>
@@ -99,12 +99,12 @@ For the full license text, see the link above.
          <l pos="N">auringon sappi</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" syn_dash="-kistuu">piäiváákiistâ</t>
          </tg>
       </mg>
       <mg id="2">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="V" l_par="näkyä auringon sapesta">kistâkkistiđ</t>
          </tg>
       </mg>
@@ -114,7 +114,7 @@ For the full license text, see the link above.
          <l pos="N">irrallaan olo</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" wf="luovâsvuođâ">luovâsvuotâ</t>
          </tg>
       </mg>
@@ -124,7 +124,7 @@ For the full license text, see the link above.
          <l pos="N">kenttämittarin toukka</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" syn_dash="-mááđu _FT_ -máđo">lyememáátu</t>
          </tg>
       </mg>
@@ -134,7 +134,7 @@ For the full license text, see the link above.
          <l pos="N">kulkutusverkon ohjain</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" wf="čuuskâ">čuskâ</t>
          </tg>
       </mg>
@@ -144,7 +144,7 @@ For the full license text, see the link above.
          <l pos="N">lämmin vyöhyke</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" syn_dash="-stiellâs">lieggâstielâs</t>
          </tg>
       </mg>
@@ -154,7 +154,7 @@ For the full license text, see the link above.
          <l pos="N" r1_par="silmässä t. kuvann.">sokea piste</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" syn_dash="-tiälhu">sevŋistiälkku</t>
          </tg>
       </mg>
@@ -164,7 +164,7 @@ For the full license text, see the link above.
          <l pos="N">taivaan valtakunta</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" syn_dash="-kode" mwe="y">alme väldikodde</t>
          </tg>
       </mg>
@@ -174,7 +174,7 @@ For the full license text, see the link above.
          <l pos="N">uskottu mies</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N" syn_dash="-almaa">uskumalmai</t>
          </tg>
       </mg>
@@ -184,7 +184,7 @@ For the full license text, see the link above.
          <l pos="N">adoptio, sisäinen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">adoptio,siskáldâs</t>
          </tg>
       </mg>
@@ -194,7 +194,7 @@ For the full license text, see the link above.
          <l pos="N">adoptio, ulkoinen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">adoptio, olgoldâs</t>
          </tg>
       </mg>
@@ -204,7 +204,7 @@ For the full license text, see the link above.
          <l pos="N">drag king</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">drag-kunâgâs</t>
          </tg>
       </mg>
@@ -214,7 +214,7 @@ For the full license text, see the link above.
          <l pos="N">drag queen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">drag-roonnig</t>
          </tg>
       </mg>
@@ -224,7 +224,7 @@ For the full license text, see the link above.
          <l pos="N">gender queer</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">gender queer</t>
          </tg>
       </mg>
@@ -234,7 +234,7 @@ For the full license text, see the link above.
          <l pos="N">rekisteröity parisuhde</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">registeristum kyeimikoskâvuotâ</t>
          </tg>
       </mg>
@@ -244,7 +244,7 @@ For the full license text, see the link above.
          <l pos="N">seksuaalinen suuntautuminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">seksual sundâšume</t>
          </tg>
       </mg>
@@ -254,7 +254,7 @@ For the full license text, see the link above.
          <l pos="N">sosiaalinen esteettömyys</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">sosial iästuttesvuotâ</t>
          </tg>
       </mg>
@@ -264,7 +264,7 @@ For the full license text, see the link above.
          <l pos="N">sukupuolen moninaisuus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">suhâpele maaŋgâmuđusâšvuotâ</t>
          </tg>
       </mg>
@@ -274,7 +274,7 @@ For the full license text, see the link above.
          <l pos="N">sukupuolten moninaisuus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">suhâpelij maaŋgâmuđusâšvuotâ</t>
          </tg>
       </mg>
@@ -284,7 +284,7 @@ For the full license text, see the link above.
          <l pos="N">sukupuolen epätyypillisyys</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">suhâpele epitiijpâlâšvuotâ</t>
          </tg>
       </mg>
@@ -294,7 +294,7 @@ For the full license text, see the link above.
          <l pos="N">sukupuolen ilmaisu</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">suhâpele olgospyehtim</t>
          </tg>
       </mg>
@@ -304,7 +304,7 @@ For the full license text, see the link above.
          <l pos="N">sukupuolen korjaus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">suhâpele tivvoom</t>
          </tg>
       </mg>
@@ -314,7 +314,7 @@ For the full license text, see the link above.
          <l pos="N">tasa-arvoinen avioliittolaki</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">täsiárvusâš näimilittolaahâ</t>
          </tg>
       </mg>

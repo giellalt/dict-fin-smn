@@ -32,7 +32,7 @@ For the full license text, see the link above.
          <l pos="CC" syn="joko - tahi">joko - tai</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="CC">juo-uv - teikkâ</t>
          </tg>
       </mg>
@@ -42,7 +42,7 @@ For the full license text, see the link above.
          <l pos="CC">sekä - että</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t pos="CC" mwe="y">sehe - já</t>
             <t pos="CC" mwe="y">sehe - ete</t>
          </tg>

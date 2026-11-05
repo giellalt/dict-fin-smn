@@ -33190,7 +33190,7 @@ For the full license text, see the link above.
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <re>Matematiikassa</re>
             <t pos="N">mokke</t>
          </tg>
@@ -125470,7 +125470,7 @@ For the full license text, see the link above.
          <l pos="N">selkä</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <re>ruumiinosa, identtinen: čielgi; selkäpuoli esim. vaatteessa</re>
             <t l_par="ulkopuolelta päin" pos="N" wf="seelgi">selgi</t>
             <xg>
@@ -125509,7 +125509,7 @@ For the full license text, see the link above.
          <l pos="N">selkämys</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t>selgim</t>
          </tg>
       </mg>

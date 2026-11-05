@@ -158,16 +158,6 @@ For the full license text, see the link above.
          </tg>
       </mg>
    </e>
-   <e id="3611">
-      <lg>
-         <l pos="V" r1_par="kaksijalkaisista">juoksaista</l>
-      </lg>
-      <mg id="1">
-         <tg>
-            <t pos="V">kaččâliđ</t>
-         </tg>
-      </mg>
-   </e>
    <e id="3634">
       <lg>
          <l pos="V">juomustaa</l>
@@ -11290,7 +11280,7 @@ For the full license text, see the link above.
             <re>sisäinen pakko</re>
             <t pos="V" wf="koolgâm kalga">kolgâđ</t>
             <xg>
-               <x>Mitähän nyt täytyisi tehdä? </x>
+               <x>Mitähän nyt täytyisi tehdä?</x>
                <xt>Maidgis tääl kolgâččij porgâđ?</xt>
             </xg>
          </tg>
@@ -11703,7 +11693,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg>
-            <t pos="V" wf="puuteristám">puuteristiđ </t>
+            <t pos="V" wf="puuteristám">puuteristiđ</t>
          </tg>
       </mg>
    </e>
@@ -24780,12 +24770,6 @@ For the full license text, see the link above.
          <tg>
             <re>jatkuvasti t. toistuvasti</re>
             <t pos="V" wf="usâdât">usâdâttâđ</t>
-         </tg>
-      </mg>
-      <mg id="3">
-         <tg>
-            <re>panna jk etsimään jtk</re>
-            <t pos="V" wf="uusât">usâttiđ</t>
          </tg>
       </mg>
    </e>

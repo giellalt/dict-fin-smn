@@ -33181,7 +33181,18 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>Urheiluradoilla</re>
             <t pos="N" t_tld="~riggee">rieggee</t>
+            <xg>
+               <x/>
+               <xt/>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="smn">
+            <re>Matematiikassa</re>
+            <t pos="N">mokke</t>
          </tg>
       </mg>
    </e>
@@ -58562,7 +58573,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t pos="N" syn_dash="-vuođâ">nalliisvuotâ</t>
+            <t pos="N" syn_dash="-vuođâ">nalliivuotâ</t>
          </tg>
       </mg>
    </e>
@@ -125460,17 +125471,36 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>ruumiinosa, identtinen: čielgi; selkäpuoli esim. vaatteessa</re>
             <t l_par="ulkopuolelta päin" pos="N" wf="seelgi">selgi</t>
+            <xg>
+               <x>selkäpuoli (esim. vaatteessa)</x>
+               <xt>selgi tai selgipeeli</xt>
+            </xg>
+            <xg>
+               <x>Minulla selkä väsyi.</x>
+               <xt>Must selgi vaaibâi.</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
+            <re>ruumiinosa, maanselkä</re>
             <t l_par="sisäpuolelta t. lihana" pos="N" t_tld="~ čielgi čielgi">čielgi</t>
+            <xg>
+               <x>Minulla on selkä kipeä.</x>
+               <xt>Must lii čielgi raše.</xt>
+            </xg>
+            <xg>
+               <x>maanselkä</x>
+               <xt>eennâmčielgi</xt>
+            </xg>
          </tg>
       </mg>
       <mg id="3">
          <tg xml:lang="smn">
-            <t l_par="vaaranselkä" pos="N" t_tld="~ čielgi čielgi">čielgi</t>
+            <re>järven selkä</re>
+            <t l_par="vaaranselkä" pos="N" t_tld="~ čielgi čielgi">jorŋâ</t>
          </tg>
       </mg>
    </e>
@@ -125478,8 +125508,14 @@ For the full license text, see the link above.
       <lg>
          <l pos="N">selkämys</l>
       </lg>
+      <mg>
+         <tg xml:lang="smn">
+            <t>selgim</t>
+         </tg>
+      </mg>
       <mg id="1">
          <tg xml:lang="smn">
+            <re>kädessä</re>
             <t l_par="käden" pos="N">kietâselgim</t>
          </tg>
       </mg>
@@ -125500,7 +125536,7 @@ For the full license text, see the link above.
       </mg>
       <mg id="2">
          <tg xml:lang="smn">
-            <t l_par="antaa selkäsauna" pos="V" wf="siälgád">siälgádiđ</t>
+            <t l_par="antaa selkäsauna" pos="V" wf="siälgád">siälgádem</t>
          </tg>
       </mg>
    </e>
@@ -128072,7 +128108,7 @@ For the full license text, see the link above.
       </lg>
       <mg id="1">
          <tg xml:lang="smn">
-            <t l_par="tilasta" pos="N" syn_dash="-vuođâ">saijaasvuotâ</t>
+            <t l_par="tilasta" pos="N" syn_dash="-vuođâ">saijaavuotâ</t>
          </tg>
       </mg>
       <mg id="2">
@@ -139093,7 +139129,7 @@ For the full license text, see the link above.
          <l pos="N">nuotanvetokausi</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">koldempaje</t>
          </tg>
       </mg>
@@ -139103,7 +139139,7 @@ For the full license text, see the link above.
          <l pos="N">nurjapuoli</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">jorgoppeeli</t>
          </tg>
       </mg>
@@ -139113,7 +139149,7 @@ For the full license text, see the link above.
          <l pos="N">nuukuus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">käccivuotâ</t>
          </tg>
       </mg>
@@ -139123,7 +139159,7 @@ For the full license text, see the link above.
          <l pos="N">nylkylaite</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">njuovvâmruustig</t>
          </tg>
       </mg>
@@ -139133,7 +139169,7 @@ For the full license text, see the link above.
          <l pos="N">odotettava</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">nabdettettee</t>
          </tg>
       </mg>
@@ -139143,7 +139179,7 @@ For the full license text, see the link above.
          <l pos="N">odottaminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">vyerdim</t>
          </tg>
       </mg>
@@ -139153,7 +139189,7 @@ For the full license text, see the link above.
          <l pos="N">oikaisuvaatimus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">njuolgimvátámuš</t>
          </tg>
       </mg>
@@ -139163,7 +139199,7 @@ For the full license text, see the link above.
          <l pos="N">oikeusministeriö</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">riehtiministeriö</t>
          </tg>
       </mg>
@@ -139173,7 +139209,7 @@ For the full license text, see the link above.
          <l pos="N">olohuone</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">orroomviste</t>
          </tg>
       </mg>
@@ -139183,7 +139219,7 @@ For the full license text, see the link above.
          <l pos="N">omistaminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">omâstem</t>
          </tg>
       </mg>
@@ -139193,7 +139229,7 @@ For the full license text, see the link above.
          <l pos="N">ompeluneula</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">lijneäimi</t>
          </tg>
       </mg>
@@ -139203,7 +139239,7 @@ For the full license text, see the link above.
          <l pos="N">opastaminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">uápistem</t>
          </tg>
       </mg>
@@ -139213,7 +139249,7 @@ For the full license text, see the link above.
          <l pos="N">operaatio</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">operaatio</t>
          </tg>
       </mg>
@@ -139223,7 +139259,7 @@ For the full license text, see the link above.
          <l pos="N">opetuskeskus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">máttááttâskuávdáš</t>
          </tg>
       </mg>
@@ -139233,7 +139269,7 @@ For the full license text, see the link above.
          <l pos="N">opetusministeriö</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">máttááttâsministeriö</t>
          </tg>
       </mg>
@@ -139243,7 +139279,7 @@ For the full license text, see the link above.
          <l pos="N">opiskelijavaihtoa</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">uáppeelonottem</t>
          </tg>
       </mg>
@@ -139253,7 +139289,7 @@ For the full license text, see the link above.
          <l pos="N">oppilaitos</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">oppâlájádâs</t>
          </tg>
       </mg>
@@ -139263,7 +139299,7 @@ For the full license text, see the link above.
          <l pos="N">oppimateriaalitoimisto</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">oppâmateriaaltoimâttâh</t>
          </tg>
       </mg>
@@ -139273,7 +139309,7 @@ For the full license text, see the link above.
          <l pos="N">osaamattomuus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">čyerbivuotâ</t>
          </tg>
       </mg>
@@ -139283,7 +139319,7 @@ For the full license text, see the link above.
          <l pos="N">osallistuminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">uásálistem</t>
          </tg>
       </mg>
@@ -139293,7 +139329,7 @@ For the full license text, see the link above.
          <l pos="N">osapuolikokous</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">uásipeličuákkim</t>
          </tg>
       </mg>
@@ -139303,7 +139339,7 @@ For the full license text, see the link above.
          <l pos="N">päälletikkaus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">tuolbâsävŋi</t>
          </tg>
       </mg>
@@ -139313,7 +139349,7 @@ For the full license text, see the link above.
          <l pos="N">pääsiäisjuhla</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">pessijâštuáluh</t>
          </tg>
       </mg>
@@ -139323,7 +139359,7 @@ For the full license text, see the link above.
          <l pos="N">päätarkoitus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">váldu-ulme</t>
          </tg>
       </mg>
@@ -139333,7 +139369,7 @@ For the full license text, see the link above.
          <l pos="N">päätösvalta</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">meridemväldi</t>
          </tg>
       </mg>
@@ -139343,7 +139379,7 @@ For the full license text, see the link above.
          <l pos="N">paatuminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">paattum</t>
          </tg>
       </mg>
@@ -139353,7 +139389,7 @@ For the full license text, see the link above.
          <l pos="N">paimentaja</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">kuáđutteijee</t>
          </tg>
       </mg>
@@ -139363,7 +139399,7 @@ For the full license text, see the link above.
          <l pos="N">painovoima</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">tiädduvyeimi</t>
          </tg>
       </mg>
@@ -139373,7 +139409,7 @@ For the full license text, see the link above.
          <l pos="N">päiväkorento</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">njävli</t>
          </tg>
       </mg>
@@ -139383,7 +139419,7 @@ For the full license text, see the link above.
          <l pos="N">päivänvalo</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">peeivičuovâ</t>
          </tg>
       </mg>
@@ -139393,7 +139429,7 @@ For the full license text, see the link above.
          <l pos="N">pakkasaste</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">puolâšcekki</t>
          </tg>
       </mg>
@@ -139403,7 +139439,7 @@ For the full license text, see the link above.
          <l pos="N">palkintolautakunta</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">palhâšumelävdikodde</t>
          </tg>
       </mg>
@@ -139413,7 +139449,7 @@ For the full license text, see the link above.
          <l pos="N">palveleminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">palvâlem</t>
          </tg>
       </mg>
@@ -139423,7 +139459,7 @@ For the full license text, see the link above.
          <l pos="N">paneeli</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">paaneel</t>
          </tg>
       </mg>
@@ -139433,7 +139469,7 @@ For the full license text, see the link above.
          <l pos="N">pannukakku</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">pánnukákku</t>
          </tg>
       </mg>
@@ -139443,7 +139479,7 @@ For the full license text, see the link above.
          <l pos="N">parisko</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">kyevtis</t>
          </tg>
       </mg>
@@ -139453,7 +139489,7 @@ For the full license text, see the link above.
          <l pos="N">partapoimilehti</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">soovsâmaadâlostâ</t>
          </tg>
       </mg>
@@ -139463,7 +139499,7 @@ For the full license text, see the link above.
          <l pos="N">peikonpoika</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">stáálupáárnáš</t>
          </tg>
       </mg>
@@ -139473,7 +139509,7 @@ For the full license text, see the link above.
          <l pos="N">pensaanjuuri</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">miestâmaadâ</t>
          </tg>
       </mg>
@@ -139483,7 +139519,7 @@ For the full license text, see the link above.
          <l pos="N">perusopetus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">vuáđumáttááttâs</t>
          </tg>
       </mg>
@@ -139493,7 +139529,7 @@ For the full license text, see the link above.
          <l pos="N">perustaminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">vuáđudem</t>
          </tg>
       </mg>
@@ -139503,7 +139539,7 @@ For the full license text, see the link above.
          <l pos="N">pesye</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">mááná</t>
          </tg>
       </mg>
@@ -139513,7 +139549,7 @@ For the full license text, see the link above.
          <l pos="N">piheys</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">käccivuotâ</t>
          </tg>
       </mg>
@@ -139523,7 +139559,7 @@ For the full license text, see the link above.
          <l pos="N">pistekoe</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">čuoggiistemiskos</t>
          </tg>
       </mg>
@@ -139533,7 +139569,7 @@ For the full license text, see the link above.
          <l pos="N">pitovaate</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">anopiivtâs</t>
          </tg>
       </mg>
@@ -139543,7 +139579,7 @@ For the full license text, see the link above.
          <l pos="N">pödynpuhuja</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">šlarvâ</t>
          </tg>
       </mg>
@@ -139553,7 +139589,7 @@ For the full license text, see the link above.
          <l pos="N">poikineen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">oolgiš</t>
          </tg>
       </mg>
@@ -139563,7 +139599,7 @@ For the full license text, see the link above.
          <l pos="N">poismuutto</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">meddâlvarrim</t>
          </tg>
       </mg>
@@ -139573,7 +139609,7 @@ For the full license text, see the link above.
          <l pos="N">pöljä</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">káigá</t>
          </tg>
       </mg>
@@ -139583,7 +139619,7 @@ For the full license text, see the link above.
          <l pos="N">poltto</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">puáldim</t>
          </tg>
       </mg>
@@ -139593,7 +139629,7 @@ For the full license text, see the link above.
          <l pos="N">polttohonka</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">puáldimsuárvi</t>
          </tg>
       </mg>
@@ -139603,7 +139639,7 @@ For the full license text, see the link above.
          <l pos="N">pöpi</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">káigá</t>
          </tg>
       </mg>
@@ -139613,7 +139649,7 @@ For the full license text, see the link above.
          <l pos="N">porotalousalue</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">puásuituálukuávlu</t>
          </tg>
       </mg>
@@ -139623,7 +139659,7 @@ For the full license text, see the link above.
          <l pos="N">porotyö</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">puásuipargo</t>
          </tg>
       </mg>
@@ -139633,7 +139669,7 @@ For the full license text, see the link above.
          <l pos="N">pörrö(-)</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">parfe</t>
          </tg>
       </mg>
@@ -139643,7 +139679,7 @@ For the full license text, see the link above.
          <l pos="N">postiennakkomaksu</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">postâovdâmáksu</t>
          </tg>
       </mg>
@@ -139653,7 +139689,7 @@ For the full license text, see the link above.
          <l pos="N">projektityöntekijä</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">proojeektpargee</t>
          </tg>
       </mg>
@@ -139663,7 +139699,7 @@ For the full license text, see the link above.
          <l pos="N">psykoloog</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">psykolog</t>
          </tg>
       </mg>
@@ -139673,7 +139709,7 @@ For the full license text, see the link above.
          <l pos="N">pudotus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">koččâm</t>
          </tg>
       </mg>
@@ -139683,7 +139719,7 @@ For the full license text, see the link above.
          <l pos="N">puhdistaminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">putestem</t>
          </tg>
       </mg>
@@ -139693,7 +139729,7 @@ For the full license text, see the link above.
          <l pos="N">puheenjohtaja</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">saavâjođetteijee</t>
          </tg>
       </mg>
@@ -139703,7 +139739,7 @@ For the full license text, see the link above.
          <l pos="N">puheenvuoro</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">sahâvuáru</t>
          </tg>
       </mg>
@@ -139713,7 +139749,7 @@ For the full license text, see the link above.
          <l pos="N">puhelinnumero</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">puhelinnummeer</t>
          </tg>
       </mg>
@@ -139723,7 +139759,7 @@ For the full license text, see the link above.
          <l pos="N">punaviinimarja</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">jiereeh</t>
          </tg>
       </mg>
@@ -139733,7 +139769,7 @@ For the full license text, see the link above.
          <l pos="N">puolipäivää</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">peivilakke</t>
          </tg>
       </mg>
@@ -139743,7 +139779,7 @@ For the full license text, see the link above.
          <l pos="N">purkakoivet</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">porgekamâseh</t>
          </tg>
       </mg>
@@ -139753,7 +139789,7 @@ For the full license text, see the link above.
          <l pos="N">puuaine</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">muorâaamnâs</t>
          </tg>
       </mg>
@@ -139763,7 +139799,7 @@ For the full license text, see the link above.
          <l pos="N">puvunrääsy</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">mááccuhsote</t>
          </tg>
       </mg>
@@ -139773,7 +139809,7 @@ For the full license text, see the link above.
          <l pos="N">rahanpuute</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">ruttâvänivuotâ</t>
          </tg>
       </mg>
@@ -139783,7 +139819,7 @@ For the full license text, see the link above.
          <l pos="N">rahasaatava</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">ruttâuážžum</t>
          </tg>
       </mg>
@@ -139793,7 +139829,7 @@ For the full license text, see the link above.
          <l pos="N">rajoittaminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">käržidem</t>
          </tg>
       </mg>
@@ -139803,7 +139839,7 @@ For the full license text, see the link above.
          <l pos="N">rakentaminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">huksim</t>
          </tg>
       </mg>
@@ -139813,7 +139849,7 @@ For the full license text, see the link above.
          <l pos="N">rantavesi</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">riddočääci</t>
          </tg>
       </mg>
@@ -139823,7 +139859,7 @@ For the full license text, see the link above.
          <l pos="N">rapautuminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">muálunem</t>
          </tg>
       </mg>
@@ -139833,7 +139869,7 @@ For the full license text, see the link above.
          <l pos="N">räppänäreikä</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">reeppinräigi</t>
          </tg>
       </mg>
@@ -139843,7 +139879,7 @@ For the full license text, see the link above.
          <l pos="N">räppäri</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">ráppájeijee</t>
          </tg>
       </mg>
@@ -139853,7 +139889,7 @@ For the full license text, see the link above.
          <l pos="N">rauhassa</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">muásá</t>
          </tg>
       </mg>
@@ -139863,7 +139899,7 @@ For the full license text, see the link above.
          <l pos="N">rei'itin</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">räigee</t>
          </tg>
       </mg>
@@ -139873,7 +139909,7 @@ For the full license text, see the link above.
          <l pos="N">resurssikeskus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">reesuurskuávdáš</t>
          </tg>
       </mg>
@@ -139883,7 +139919,7 @@ For the full license text, see the link above.
          <l pos="N">retkenjohtaja</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">uápis</t>
          </tg>
       </mg>
@@ -139893,7 +139929,7 @@ For the full license text, see the link above.
          <l pos="N">revitalisoiminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">revitalistem</t>
          </tg>
       </mg>
@@ -139903,7 +139939,7 @@ For the full license text, see the link above.
          <l pos="N">riistäminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">nistem</t>
          </tg>
       </mg>
@@ -139913,7 +139949,7 @@ For the full license text, see the link above.
          <l pos="N">risakas</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">loccâkuobâr</t>
          </tg>
       </mg>
@@ -139923,7 +139959,7 @@ For the full license text, see the link above.
          <l pos="N">rou'unta</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">ruovgâs</t>
          </tg>
       </mg>
@@ -139933,7 +139969,7 @@ For the full license text, see the link above.
          <l pos="N">rukkanen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">kiistâ</t>
          </tg>
       </mg>
@@ -139943,7 +139979,7 @@ For the full license text, see the link above.
          <l pos="N">ruuhka-Suomi</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">pokkâ-Suomâ</t>
          </tg>
       </mg>
@@ -139953,7 +139989,7 @@ For the full license text, see the link above.
          <l pos="N">ryhmäperhepäiväkoti</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">juávkkupeerâpeivikiäčču</t>
          </tg>
       </mg>
@@ -139963,7 +139999,7 @@ For the full license text, see the link above.
          <l pos="N">rypytyslanka</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">tuorrâmárppu</t>
          </tg>
       </mg>
@@ -139973,7 +140009,7 @@ For the full license text, see the link above.
          <l pos="N">säädyttömyys</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">nyeskivuotâ</t>
          </tg>
       </mg>
@@ -139983,7 +140019,7 @@ For the full license text, see the link above.
          <l pos="N">saamelaisjärjestö</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">sämiservi</t>
          </tg>
       </mg>
@@ -139993,7 +140029,7 @@ For the full license text, see the link above.
          <l pos="N">saamelaiskulttuuri</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">sämikulttuur</t>
          </tg>
       </mg>
@@ -140003,7 +140039,7 @@ For the full license text, see the link above.
          <l pos="N">saamelaismuseo</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">sämimuseo</t>
          </tg>
       </mg>
@@ -140013,7 +140049,7 @@ For the full license text, see the link above.
          <l pos="N">saamelaisopetus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">sämimáttááttâs</t>
          </tg>
       </mg>
@@ -140023,7 +140059,7 @@ For the full license text, see the link above.
          <l pos="N">saamelaissopimus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">sämisopâmuš</t>
          </tg>
       </mg>
@@ -140033,7 +140069,7 @@ For the full license text, see the link above.
          <l pos="N">saamelaisvaatteet</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">sämikáárvuh</t>
          </tg>
       </mg>
@@ -140043,7 +140079,7 @@ For the full license text, see the link above.
          <l pos="N">saamenkansa</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">sämiaalmug</t>
          </tg>
       </mg>
@@ -140053,7 +140089,7 @@ For the full license text, see the link above.
          <l pos="N">säärystinkulu</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">kamâspiddoruottâ</t>
          </tg>
       </mg>
@@ -140063,7 +140099,7 @@ For the full license text, see the link above.
          <l pos="N">sähkövispilä</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">šleđgâvispâl</t>
          </tg>
       </mg>
@@ -140073,7 +140109,7 @@ For the full license text, see the link above.
          <l pos="N">sanalista</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">sänilisto</t>
          </tg>
       </mg>
@@ -140083,7 +140119,7 @@ For the full license text, see the link above.
          <l pos="N">sängynpeite</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">seŋgâloovdâ</t>
          </tg>
       </mg>
@@ -140093,7 +140129,7 @@ For the full license text, see the link above.
          <l pos="N">sanireki</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">saanah</t>
          </tg>
       </mg>
@@ -140103,7 +140139,7 @@ For the full license text, see the link above.
          <l pos="N">sanottava</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">etâmâš</t>
          </tg>
       </mg>
@@ -140113,7 +140149,7 @@ For the full license text, see the link above.
          <l pos="N">sekuntti</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">seekunt</t>
          </tg>
       </mg>
@@ -140123,7 +140159,7 @@ For the full license text, see the link above.
          <l pos="N">siittiösolu</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">šovâttemsellâ</t>
          </tg>
       </mg>
@@ -140133,7 +140169,7 @@ For the full license text, see the link above.
          <l pos="N">siksakkisauma</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">njunesuárrámsävŋi</t>
          </tg>
       </mg>
@@ -140143,7 +140179,7 @@ For the full license text, see the link above.
          <l pos="N">sisäänpääsy</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">siisâpeessâm</t>
          </tg>
       </mg>
@@ -140153,7 +140189,7 @@ For the full license text, see the link above.
          <l pos="N">sisääntulo</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">siisâpuáttim</t>
          </tg>
       </mg>
@@ -140163,7 +140199,7 @@ For the full license text, see the link above.
          <l pos="N">siskoineen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">oobbiš</t>
          </tg>
       </mg>
@@ -140173,7 +140209,7 @@ For the full license text, see the link above.
          <l pos="N">sokeatäplä</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">sevŋistiälkku</t>
          </tg>
       </mg>
@@ -140183,7 +140219,7 @@ For the full license text, see the link above.
          <l pos="N">soveltaminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">heiviittem</t>
          </tg>
       </mg>
@@ -140193,7 +140229,7 @@ For the full license text, see the link above.
          <l pos="N">stipendi</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">stipend</t>
          </tg>
       </mg>
@@ -140203,7 +140239,7 @@ For the full license text, see the link above.
          <l pos="N">strategia</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">strategia</t>
          </tg>
       </mg>
@@ -140213,7 +140249,7 @@ For the full license text, see the link above.
          <l pos="N">sulkaa</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">suklaa</t>
          </tg>
       </mg>
@@ -140223,7 +140259,7 @@ For the full license text, see the link above.
          <l pos="N">sulkeminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">toppâm</t>
          </tg>
       </mg>
@@ -140233,7 +140269,7 @@ For the full license text, see the link above.
          <l pos="N">suopunginheitto</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">njuárustem</t>
          </tg>
       </mg>
@@ -140243,7 +140279,7 @@ For the full license text, see the link above.
          <l pos="N">suurennus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">styeredem</t>
          </tg>
       </mg>
@@ -140253,7 +140289,7 @@ For the full license text, see the link above.
          <l pos="N">syntymäpäivä</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">šoddâmpeivi</t>
          </tg>
       </mg>
@@ -140263,7 +140299,7 @@ For the full license text, see the link above.
          <l pos="N">syöminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">puurrâm</t>
          </tg>
       </mg>
@@ -140273,7 +140309,7 @@ For the full license text, see the link above.
          <l pos="N">tallellaolo</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">áimu</t>
          </tg>
       </mg>
@@ -140283,7 +140319,7 @@ For the full license text, see the link above.
          <l pos="N">tarkastamien</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">tärhistem</t>
          </tg>
       </mg>
@@ -140293,7 +140329,7 @@ For the full license text, see the link above.
          <l pos="N">täydennyskoulutus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">tievâsmittemškovliittâs</t>
          </tg>
       </mg>
@@ -140303,7 +140339,7 @@ For the full license text, see the link above.
          <l pos="N">telemetria</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">telemetria</t>
          </tg>
       </mg>
@@ -140313,7 +140349,7 @@ For the full license text, see the link above.
          <l pos="N">tervasuti</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">pikkâsappe</t>
          </tg>
       </mg>
@@ -140323,7 +140359,7 @@ For the full license text, see the link above.
          <l pos="N">terveyspalvelu</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">tiervâsvuođâpalvâlus</t>
          </tg>
       </mg>
@@ -140333,7 +140369,7 @@ For the full license text, see the link above.
          <l pos="N">testamentti</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">testament</t>
          </tg>
       </mg>
@@ -140343,7 +140379,7 @@ For the full license text, see the link above.
          <l pos="N">tiedekunta</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">tieđâkodde</t>
          </tg>
       </mg>
@@ -140353,7 +140389,7 @@ For the full license text, see the link above.
          <l pos="N">tiedonjakaminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">tiätujyehim</t>
          </tg>
       </mg>
@@ -140363,7 +140399,7 @@ For the full license text, see the link above.
          <l pos="N">tikapuu</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">raailâs</t>
          </tg>
       </mg>
@@ -140373,7 +140409,7 @@ For the full license text, see the link above.
          <l pos="N">tilintarkistaja</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">tilitärhisteijee</t>
          </tg>
       </mg>
@@ -140383,7 +140419,7 @@ For the full license text, see the link above.
          <l pos="N">tilintarkistus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">tilitärhistem</t>
          </tg>
       </mg>
@@ -140393,7 +140429,7 @@ For the full license text, see the link above.
          <l pos="N">toimiohjelma</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">toimâohjelm</t>
          </tg>
       </mg>
@@ -140403,7 +140439,7 @@ For the full license text, see the link above.
          <l pos="N">toveruus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">kyeimivuotâ</t>
          </tg>
       </mg>
@@ -140413,7 +140449,7 @@ For the full license text, see the link above.
          <l pos="N">tuhoaja</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">tuššâdeijee</t>
          </tg>
       </mg>
@@ -140423,7 +140459,7 @@ For the full license text, see the link above.
          <l pos="N">tukilanka</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">teddimsuonâ</t>
          </tg>
       </mg>
@@ -140433,7 +140469,7 @@ For the full license text, see the link above.
          <l pos="N">tunturihilppi</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">tuodârhilppâ</t>
          </tg>
       </mg>
@@ -140443,7 +140479,7 @@ For the full license text, see the link above.
          <l pos="N">tutkimuskeskus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">tutkâmkuávdáš</t>
          </tg>
       </mg>
@@ -140453,7 +140489,7 @@ For the full license text, see the link above.
          <l pos="N">tylsistyttävyys</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">tulkkâdijjeevuotâ</t>
          </tg>
       </mg>
@@ -140463,7 +140499,7 @@ For the full license text, see the link above.
          <l pos="N">työehtosopimus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">pargoiähtusopâmuš</t>
          </tg>
       </mg>
@@ -140473,7 +140509,7 @@ For the full license text, see the link above.
          <l pos="N">työkirja</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">pargokirje</t>
          </tg>
       </mg>
@@ -140483,7 +140519,7 @@ For the full license text, see the link above.
          <l pos="N">työtoveri</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">pargoskippáár</t>
          </tg>
       </mg>
@@ -140493,7 +140529,7 @@ For the full license text, see the link above.
          <l pos="N">työvaate</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">tyejipiivtâs</t>
          </tg>
       </mg>
@@ -140503,7 +140539,7 @@ For the full license text, see the link above.
          <l pos="N">ulkoistaminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">olgoštem</t>
          </tg>
       </mg>
@@ -140513,7 +140549,7 @@ For the full license text, see the link above.
          <l pos="N">ulkomuseo</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">olgomuseo</t>
          </tg>
       </mg>
@@ -140523,7 +140559,7 @@ For the full license text, see the link above.
          <l pos="N">unioni</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">union</t>
          </tg>
       </mg>
@@ -140533,7 +140569,7 @@ For the full license text, see the link above.
          <l pos="N">universum</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">universum</t>
          </tg>
       </mg>
@@ -140543,7 +140579,7 @@ For the full license text, see the link above.
          <l pos="N">uudellenkäyttö</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">uđđâsistano</t>
          </tg>
       </mg>
@@ -140553,7 +140589,7 @@ For the full license text, see the link above.
          <l pos="N">vaalikausi</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">vaaljâpaje</t>
          </tg>
       </mg>
@@ -140563,7 +140599,7 @@ For the full license text, see the link above.
          <l pos="N">vaaliliitto</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">vaaljâlitto</t>
          </tg>
       </mg>
@@ -140573,7 +140609,7 @@ For the full license text, see the link above.
          <l pos="N">vaaliluettelo</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">vaaljâluvâttâllâm</t>
          </tg>
       </mg>
@@ -140583,7 +140619,7 @@ For the full license text, see the link above.
          <l pos="N">vaaranhuippu</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">väričokke</t>
          </tg>
       </mg>
@@ -140593,7 +140629,7 @@ For the full license text, see the link above.
          <l pos="N">vaaranrinne</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">värivieltti</t>
          </tg>
       </mg>
@@ -140603,7 +140639,7 @@ For the full license text, see the link above.
          <l pos="N">vaativuustaso</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">vátávâšvuođâtääsi</t>
          </tg>
       </mg>
@@ -140613,7 +140649,7 @@ For the full license text, see the link above.
          <l pos="N">väentiheys</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">olmoošsahisvuotâ</t>
          </tg>
       </mg>
@@ -140623,7 +140659,7 @@ For the full license text, see the link above.
          <l pos="N">vahvistaminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">nanodem</t>
          </tg>
       </mg>
@@ -140633,7 +140669,7 @@ For the full license text, see the link above.
          <l pos="N">vaihtovaate</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">muulsâpiivtâs</t>
          </tg>
       </mg>
@@ -140643,7 +140679,7 @@ For the full license text, see the link above.
          <l pos="N">vaikuttaminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">vaikuttem</t>
          </tg>
       </mg>
@@ -140653,7 +140689,7 @@ For the full license text, see the link above.
          <l pos="N">vaikuttamismahdollisuus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">vaikuttemmáhđulâšvuotâ</t>
          </tg>
       </mg>
@@ -140663,7 +140699,7 @@ For the full license text, see the link above.
          <l pos="N">vaikutusvalta</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">vaikuttâsväldi</t>
          </tg>
       </mg>
@@ -140673,7 +140709,7 @@ For the full license text, see the link above.
          <l pos="N">väliraha</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">pajalâš</t>
          </tg>
       </mg>
@@ -140683,7 +140719,7 @@ For the full license text, see the link above.
          <l pos="N">valitettava</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">vaidâlittee</t>
          </tg>
       </mg>
@@ -140693,7 +140729,7 @@ For the full license text, see the link above.
          <l pos="N">valkuaisaine</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">protein</t>
          </tg>
       </mg>
@@ -140703,7 +140739,7 @@ For the full license text, see the link above.
          <l pos="N">vanhempi</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">vanhim</t>
          </tg>
       </mg>
@@ -140713,7 +140749,7 @@ For the full license text, see the link above.
          <l pos="N">varaaminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">väridem</t>
          </tg>
       </mg>
@@ -140723,7 +140759,7 @@ For the full license text, see the link above.
          <l pos="N">varajäsen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">värijeessân</t>
          </tg>
       </mg>
@@ -140733,7 +140769,7 @@ For the full license text, see the link above.
          <l pos="N">varapuheenjohtaja</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">värisaavâjođetteijee</t>
          </tg>
       </mg>
@@ -140743,7 +140779,7 @@ For the full license text, see the link above.
          <l pos="N">vasannahkalakki</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">vyesičevđikappeer</t>
          </tg>
       </mg>
@@ -140753,7 +140789,7 @@ For the full license text, see the link above.
          <l pos="N">vedenhaltija</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">čäcihäldee</t>
          </tg>
       </mg>
@@ -140763,7 +140799,7 @@ For the full license text, see the link above.
          <l pos="N">vedenpinta</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">čässuáivi</t>
          </tg>
       </mg>
@@ -140773,7 +140809,7 @@ For the full license text, see the link above.
          <l pos="N">veljyt</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">viiljâš</t>
          </tg>
       </mg>
@@ -140783,7 +140819,7 @@ For the full license text, see the link above.
          <l pos="N">verkalakki</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">leđđeekappeer</t>
          </tg>
       </mg>
@@ -140793,7 +140829,7 @@ For the full license text, see the link above.
          <l pos="N">verkonkokureissu</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">kuohâmmokke</t>
          </tg>
       </mg>
@@ -140803,7 +140839,7 @@ For the full license text, see the link above.
          <l pos="N">vesilintu</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">čäcilodde</t>
          </tg>
       </mg>
@@ -140813,7 +140849,7 @@ For the full license text, see the link above.
          <l pos="N">vesipallo</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">čäcipállu</t>
          </tg>
       </mg>
@@ -140823,7 +140859,7 @@ For the full license text, see the link above.
          <l pos="N">vierashuone</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">kyessiviste</t>
          </tg>
       </mg>
@@ -140833,7 +140869,7 @@ For the full license text, see the link above.
          <l pos="N">viestikilpailu</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">viestâkišto</t>
          </tg>
       </mg>
@@ -140843,7 +140879,7 @@ For the full license text, see the link above.
          <l pos="N">viitonen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">viiđiš</t>
          </tg>
       </mg>
@@ -140853,7 +140889,7 @@ For the full license text, see the link above.
          <l pos="N">vilkin</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">čässih</t>
          </tg>
       </mg>
@@ -140863,7 +140899,7 @@ For the full license text, see the link above.
          <l pos="N">villaliina</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">ullolijne</t>
          </tg>
       </mg>
@@ -140873,7 +140909,7 @@ For the full license text, see the link above.
          <l pos="N">virsikirja</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">salmâkirje</t>
          </tg>
       </mg>
@@ -140883,7 +140919,7 @@ For the full license text, see the link above.
          <l pos="N">visio</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">visio</t>
          </tg>
       </mg>
@@ -140893,7 +140929,7 @@ For the full license text, see the link above.
          <l pos="N">voisilmä</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">vuojâčalme</t>
          </tg>
       </mg>
@@ -140903,7 +140939,7 @@ For the full license text, see the link above.
          <l pos="N">vuohenkaritsa</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">kaiccâlääbis</t>
          </tg>
       </mg>
@@ -140913,7 +140949,7 @@ For the full license text, see the link above.
          <l pos="N">vuokra-auto</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">láiguauto</t>
          </tg>
       </mg>
@@ -140923,7 +140959,7 @@ For the full license text, see the link above.
          <l pos="N">vuositiedote</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">ihetiäđáttâs</t>
          </tg>
       </mg>
@@ -140933,7 +140969,7 @@ For the full license text, see the link above.
          <l pos="N">vuotsolainen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">vuáččulâš</t>
          </tg>
       </mg>
@@ -140943,7 +140979,7 @@ For the full license text, see the link above.
          <l pos="N">WC-pönttö</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">hiivsiglitte</t>
          </tg>
       </mg>
@@ -140953,7 +140989,7 @@ For the full license text, see the link above.
          <l pos="N">yhtäläisyys</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">ohtâlâšvuotâ</t>
          </tg>
       </mg>
@@ -140963,7 +140999,7 @@ For the full license text, see the link above.
          <l pos="N">yhteenkuuluvaisuus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">oohtânkulluuvâšvuotâ</t>
          </tg>
       </mg>
@@ -140973,7 +141009,7 @@ For the full license text, see the link above.
          <l pos="N">yhteistyä</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">ohtsâšpargo</t>
          </tg>
       </mg>
@@ -140983,7 +141019,7 @@ For the full license text, see the link above.
          <l pos="N">yhteistyöelin</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">oovtâstpargo-orgaan</t>
          </tg>
       </mg>
@@ -140993,7 +141029,7 @@ For the full license text, see the link above.
          <l pos="N">yhteystieto</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">ohtâvuođâtiätu</t>
          </tg>
       </mg>
@@ -141003,7 +141039,7 @@ For the full license text, see the link above.
          <l pos="N">yksityskohta</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">deetaalj</t>
          </tg>
       </mg>
@@ -141013,7 +141049,7 @@ For the full license text, see the link above.
          <l pos="N">yläkoulu</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">paješkovlâ</t>
          </tg>
       </mg>
@@ -141023,7 +141059,7 @@ For the full license text, see the link above.
          <l pos="N">yleissopimus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">almossopâmuš</t>
          </tg>
       </mg>
@@ -141033,7 +141069,7 @@ For the full license text, see the link above.
          <l pos="N">ymmärtäjä</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">iberdeijee</t>
          </tg>
       </mg>
@@ -141043,7 +141079,7 @@ For the full license text, see the link above.
          <l pos="N">ystävys</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">veerdiš</t>
          </tg>
       </mg>
@@ -141053,7 +141089,7 @@ For the full license text, see the link above.
          <l pos="N">zeniitti</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">zeeniit</t>
          </tg>
       </mg>
@@ -141063,7 +141099,7 @@ For the full license text, see the link above.
          <l pos="N">molekyyli</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">molekyyl</t>
          </tg>
       </mg>
@@ -141073,7 +141109,7 @@ For the full license text, see the link above.
          <l pos="N">protoni</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">proton</t>
          </tg>
       </mg>
@@ -141083,7 +141119,7 @@ For the full license text, see the link above.
          <l pos="N">isotooppi</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">isotoop</t>
          </tg>
       </mg>
@@ -141093,7 +141129,7 @@ For the full license text, see the link above.
          <l pos="N">vesimolekyyli</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">čäcimolekyyl</t>
          </tg>
       </mg>
@@ -141103,7 +141139,7 @@ For the full license text, see the link above.
          <l pos="N">työskentely</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">porgâm</t>
          </tg>
       </mg>
@@ -141113,7 +141149,7 @@ For the full license text, see the link above.
          <l pos="N">massaluku</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">massaloho</t>
          </tg>
       </mg>
@@ -141123,7 +141159,7 @@ For the full license text, see the link above.
          <l pos="N">perusopetus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">vuáđumáttááttâs</t>
          </tg>
       </mg>
@@ -141133,7 +141169,7 @@ For the full license text, see the link above.
          <l pos="N">elektroni</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">elektroon</t>
          </tg>
       </mg>
@@ -141143,7 +141179,7 @@ For the full license text, see the link above.
          <l pos="N">kiehumispiste</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">tuldimčyegis</t>
          </tg>
       </mg>
@@ -141153,7 +141189,7 @@ For the full license text, see the link above.
          <l pos="N">vuosiluokka</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">iheluokka</t>
          </tg>
       </mg>
@@ -141163,7 +141199,7 @@ For the full license text, see the link above.
          <l pos="N">oksidi</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">oksid</t>
          </tg>
       </mg>
@@ -141173,7 +141209,7 @@ For the full license text, see the link above.
          <l pos="N">dioksidi</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">dioksid</t>
          </tg>
       </mg>
@@ -141183,7 +141219,7 @@ For the full license text, see the link above.
          <l pos="N">teknologia</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">teknologia</t>
          </tg>
       </mg>
@@ -141193,7 +141229,7 @@ For the full license text, see the link above.
          <l pos="N">ajattelu</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">jurdâččem</t>
          </tg>
       </mg>
@@ -141203,7 +141239,7 @@ For the full license text, see the link above.
          <l pos="N">puolimetalli</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">pelimetall</t>
          </tg>
       </mg>
@@ -141213,7 +141249,7 @@ For the full license text, see the link above.
          <l pos="N">opetussuunnitelma</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">máttááttâsvuávám</t>
          </tg>
       </mg>
@@ -141223,7 +141259,7 @@ For the full license text, see the link above.
          <l pos="N">etanoli</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">etanol</t>
          </tg>
       </mg>
@@ -141233,7 +141269,7 @@ For the full license text, see the link above.
          <l pos="N">yläkoulu</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">paješkovlâ</t>
          </tg>
       </mg>
@@ -141243,7 +141279,7 @@ For the full license text, see the link above.
          <l pos="N">vetysidos</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">vetyčoonâš</t>
          </tg>
       </mg>
@@ -141253,7 +141289,7 @@ For the full license text, see the link above.
          <l pos="N">varoitusmerkki</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">varuttâsmerkkâ</t>
          </tg>
       </mg>
@@ -141263,7 +141299,7 @@ For the full license text, see the link above.
          <l pos="N">natrium</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">natrium</t>
          </tg>
       </mg>
@@ -141273,7 +141309,7 @@ For the full license text, see the link above.
          <l pos="N">naisuus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">nissoonvuotâ</t>
          </tg>
       </mg>
@@ -141283,7 +141319,7 @@ For the full license text, see the link above.
          <l pos="N">liukoisuus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">kásáneijeevuotâ</t>
          </tg>
       </mg>
@@ -141293,7 +141329,7 @@ For the full license text, see the link above.
          <l pos="N">laitteisto</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">piergâseh</t>
          </tg>
       </mg>
@@ -141303,7 +141339,7 @@ For the full license text, see the link above.
          <l pos="N">hiiliatomi</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">čiđđâaatoom</t>
          </tg>
       </mg>
@@ -141313,7 +141349,7 @@ For the full license text, see the link above.
          <l pos="N">dipoli</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">diipool</t>
          </tg>
       </mg>
@@ -141323,7 +141359,7 @@ For the full license text, see the link above.
          <l pos="N">vetyatomi</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">vetyaatoom</t>
          </tg>
       </mg>
@@ -141333,7 +141369,7 @@ For the full license text, see the link above.
          <l pos="N">vesimittari</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">čäcimittár</t>
          </tg>
       </mg>
@@ -141343,7 +141379,7 @@ For the full license text, see the link above.
          <l pos="N">merkkikieli</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">merkkâkielâ</t>
          </tg>
       </mg>
@@ -141353,7 +141389,7 @@ For the full license text, see the link above.
          <l pos="N">kolvi</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">kolvi</t>
          </tg>
       </mg>
@@ -141363,7 +141399,7 @@ For the full license text, see the link above.
          <l pos="N">hyödyntäminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">ävkinannem</t>
          </tg>
       </mg>
@@ -141373,7 +141409,7 @@ For the full license text, see the link above.
          <l pos="N">ymmärtäminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">iberdem</t>
          </tg>
       </mg>
@@ -141383,7 +141419,7 @@ For the full license text, see the link above.
          <l pos="N">tritium</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">tritium</t>
          </tg>
       </mg>
@@ -141393,7 +141429,7 @@ For the full license text, see the link above.
          <l pos="N">toteuttaminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">olášuttem</t>
          </tg>
       </mg>
@@ -141403,7 +141439,7 @@ For the full license text, see the link above.
          <l pos="N">taus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">tuáváás</t>
          </tg>
       </mg>
@@ -141413,7 +141449,7 @@ For the full license text, see the link above.
          <l pos="N">skooppi</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">skooppi</t>
          </tg>
       </mg>
@@ -141423,7 +141459,7 @@ For the full license text, see the link above.
          <l pos="N">saavuttaminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">juksâm</t>
          </tg>
       </mg>
@@ -141433,7 +141469,7 @@ For the full license text, see the link above.
          <l pos="N">puhtaus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">putesvuotâ</t>
          </tg>
       </mg>
@@ -141443,7 +141479,7 @@ For the full license text, see the link above.
          <l pos="N">pohtiminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">hundâruššâm</t>
          </tg>
       </mg>
@@ -141453,7 +141489,7 @@ For the full license text, see the link above.
          <l pos="N">paloturvallisuus</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">puálutorvolâšvuotâ</t>
          </tg>
       </mg>
@@ -141463,7 +141499,7 @@ For the full license text, see the link above.
          <l pos="N">pääpaino</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">váldutiáddu</t>
          </tg>
       </mg>
@@ -141473,7 +141509,7 @@ For the full license text, see the link above.
          <l pos="N">mikroskooppi</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">mikroskooppi</t>
          </tg>
       </mg>
@@ -141483,7 +141519,7 @@ For the full license text, see the link above.
          <l pos="N">mielenkiinto</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">perustume</t>
          </tg>
       </mg>
@@ -141493,7 +141529,7 @@ For the full license text, see the link above.
          <l pos="N">metalliseos</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">meetaalsevuttâs</t>
          </tg>
       </mg>
@@ -141503,7 +141539,7 @@ For the full license text, see the link above.
          <l pos="N">luonnontiede</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">luándutieđâ</t>
          </tg>
       </mg>
@@ -141513,7 +141549,7 @@ For the full license text, see the link above.
          <l pos="N">litium</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">litium</t>
          </tg>
       </mg>
@@ -141523,7 +141559,7 @@ For the full license text, see the link above.
          <l pos="N">lähiympäristö</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">aldapiirâs</t>
          </tg>
       </mg>
@@ -141533,7 +141569,7 @@ For the full license text, see the link above.
          <l pos="N">koonti</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">čokkim</t>
          </tg>
       </mg>
@@ -141543,7 +141579,7 @@ For the full license text, see the link above.
          <l pos="N">käsittely</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">kieđâvuššâm</t>
          </tg>
       </mg>
@@ -141553,7 +141589,7 @@ For the full license text, see the link above.
          <l pos="N">jalanjälki</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">luoddâ</t>
          </tg>
       </mg>
@@ -141563,7 +141599,7 @@ For the full license text, see the link above.
          <l pos="N">jakautuminen</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">juáháášem</t>
          </tg>
       </mg>
@@ -141573,7 +141609,7 @@ For the full license text, see the link above.
          <l pos="N">harjoitustehtävä</l>
       </lg>
       <mg>
-         <tg xml:lang="smn">
+         <tg>
             <t pos="N">hárjuttáspargopittá</t>
          </tg>
       </mg>
@@ -141583,7 +141619,7 @@ For the full license text, see the link above.
          <l pos="N">väärti</l>
       </lg>
       <mg id="1">
-         <tg xml:lang="smn">
+         <tg>
             <t l_par="ystävä, tuttava" pos="N">veerdi</t>
          </tg>
       </mg>

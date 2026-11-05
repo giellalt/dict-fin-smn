@@ -65,7 +65,7 @@ For the full license text, see the link above.
       <mg>
          <tg xml:lang="smn">
             <re>yksinomaan</re>
-            <t>putes</t>
+            <t pos="A">putes</t>
             <xg>
                <x>Se on pelkkää rokkia.</x>
                <xt>Tot lii putes rock.</xt>
@@ -2510,25 +2510,6 @@ For the full license text, see the link above.
       <mg id="2">
          <tg xml:lang="smn">
             <t l_par="aito" pos="A" wf="puuigâ">puigâ</t>
-         </tg>
-      </mg>
-   </e>
-   <e id="791">
-      <lg>
-         <l pos="A">aukea</l>
-      </lg>
-      <mg id="1">
-         <tg xml:lang="smn">
-            <t attr="avgâdis _AT_ avgâdâs" pos="A">avgâd</t>
-            <xg>
-               <x>tulla aukeaksi</x>
-               <xt>jalgodiđ</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="smn">
-            <t l_par="tasainen" pos="A">jolgâd</t>
          </tg>
       </mg>
    </e>
@@ -28546,7 +28527,7 @@ For the full license text, see the link above.
    </e>
    <e>
       <lg>
-         <l pos="A">armollinen</l>
+         <l pos="A">armollinen</l> 
       </lg>
       <mg>
          <tg xml:lang="smn">
